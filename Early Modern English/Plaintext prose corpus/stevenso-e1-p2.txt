@@ -1,0 +1,803 @@
+<P_40>
+
+<heading>
+
+The iii. Acte.  STEVENSO-E1-P2,40.3
+
+The iiii. Sceane.  STEVENSO-E1-P2,40.4
+
+<$$heading>
+
+<font> Tyb.  Hodge.  Gammer.  Cocke.  <$$font> STEVENSO-E1-P2,40.6
+
+<font> Tyb <$$font> Se ga~mer, ga~mer, gib our cat, STEVENSO-E1-P2,40.7
+
+$ch a~ {TEXT:cha~} afraid what she ayleth STEVENSO-E1-P2,40.8
+
+She standes me gasping behind the doore, as though her winde her faileth
+: STEVENSO-E1-P2,40.9
+
+Now let ich doubt what gib shuld mean, y=t= now she doth so dote.
+STEVENSO-E1-P2,40.10
+
+<font> Hodge <$$font> Hold hether, STEVENSO-E1-P2,40.11
+
+$ich $uld {TEXT:ichould} twenty pound, your neele is in her throte
+STEVENSO-E1-P2,40.12
+
+Grope her ich say, STEVENSO-E1-P2,40.13
+
+me thinkes ich feele it, STEVENSO-E1-P2,40.14
+
+does not pricke your hand?  STEVENSO-E1-P2,40.15
+
+<font> Ga~mer <$$font> Ich can feele nothing.  STEVENSO-E1-P2,40.16
+
+<font> Hodge <$$font> No, ich know $thar $'s {TEXT:thars} not within
+this land A muryner Cat then Gyb is, betweist the tems and Tyne,
+STEVENSO-E1-P2,40.17
+
+$Sh $ase {TEXT:Shase} as much wyt in her head almost as $ch $aue
+{TEXT:chaue} in mine.  STEVENSO-E1-P2,40.18
+
+<font> Tyb <$$font> Faith $sh $ase {TEXT:shase} eaten some thing, that
+wil not easely downe STEVENSO-E1-P2,40.19
+
+Whether she gat it at home, or abrode in the towne I can not tell.
+STEVENSO-E1-P2,40.20
+
+<font> Ga~mer <$$font> Alas ich feare it be some croked pyn,
+STEVENSO-E1-P2,40.21
+
+And then farewell gyb, STEVENSO-E1-P2,40.22
+
+she is vndone, and lost al saue the skyn.  STEVENSO-E1-P2,40.23
+
+<font> Hodge <$$font> $'T $ys {TEXT:Tys} your neele woman, I say:
+STEVENSO-E1-P2,40.24
+
+gogs soule geue me a knyfe And $ch $il {TEXT:chil} haue it out of her
+mawe, STEVENSO-E1-P2,40.25
+
+or els $ch $al {TEXT:chal} lose my lyfe.  STEVENSO-E1-P2,40.26
+
+<font> Ga~mer <$$font> What nay hodg, fy kil not our cat,
+STEVENSO-E1-P2,40.27
+
+$'t $is {TEXT:tis} al the cats we ha now.  STEVENSO-E1-P2,40.28
+
+<font> Hodge <$$font> By the masse dame Chat hays me so moued, iche care
+not what I kyll, ma god a vowe: STEVENSO-E1-P2,40.29
+
+<P_41>
+
+Go to then Tyb to this geare, holde vp her tayle and take her, $Ch $il
+{TEXT:Chil} see what deuill is in her guts STEVENSO-E1-P2,41.31
+
+$ch $il {TEXT:chil} take y=e= paines to rake her.  STEVENSO-E1-P2,41.32
+
+<font> Ga~mer <$$font> Rake a Cat Hodge, STEVENSO-E1-P2,41.33
+
+what woldst thou do?  STEVENSO-E1-P2,41.34
+
+<font> Hodge <$$font> What thinckst that $ch $am {TEXT:cham} not able?
+STEVENSO-E1-P2,41.35
+
+Did not Tom Tankard rake his Curtal toore day standing in the stable.
+STEVENSO-E1-P2,41.36
+
+<font> Ga~mer <$$font> Soft be content, STEVENSO-E1-P2,41.37
+
+$let $'s {TEXT:lets} here what newes Cocke bringeth from maist Rat.
+STEVENSO-E1-P2,41.38
+
+<font> Cocke <$$font> Gammer $ch $aue {TEXT:chaue} ben ther as you bad,
+STEVENSO-E1-P2,41.39
+
+you wot wel about what STEVENSO-E1-P2,41.40
+
+$'T $will {TEXT:Twill} not be long before he come, ich durst sweare of
+a booke STEVENSO-E1-P2,41.41
+
+He byds you see ye be at home, and there for him to looke.
+STEVENSO-E1-P2,41.42
+
+<font> Ga~mer <$$font> Where didst thou find him boy STEVENSO-E1-P2,41.43
+
+was he not wher I told thee?  STEVENSO-E1-P2,41.44
+
+<font> Cocke <$$font> Yes, yes euen at hob filchers house, by him y=t=
+bought and sold me STEVENSO-E1-P2,41.45
+
+A cup of ale had in his hand, STEVENSO-E1-P2,41.46
+
+and a crab lay in the fyer, STEVENSO-E1-P2,41.47
+
+$Ch $ad {TEXT:Chad} much a do to go and come, al was so ful of myer:
+STEVENSO-E1-P2,41.48
+
+And Gammer one thing I can tel, STEVENSO-E1-P2,41.49
+
+Hob filchers naule was loste STEVENSO-E1-P2,41.50
+
+And Doctor Rat found it againe, hard beside the door poste,
+STEVENSO-E1-P2,41.51
+
+I $ch $ould {TEXT:chould} a penny can say something, your neele againe
+to fet.  STEVENSO-E1-P2,41.52
+
+<font> Ga~mer <$$font> $Ch $am {TEXT:Cham} glad to heare so much Cocke,
+STEVENSO-E1-P2,41.53
+
+then trust he wil not let, To helpe vs herein best he can
+STEVENSO-E1-P2,41.54
+
+therfore tyl time he come Let vs go in, STEVENSO-E1-P2,41.55
+
+if there be ought to get thou shalt haue some.  STEVENSO-E1-P2,41.56
+
+<P_42>
+
+<heading>
+
+<font> The iiii. Acte.  STEVENSO-E1-P2,42.59
+
+The i. Sceane.  <$$font> STEVENSO-E1-P2,42.60
+
+<$$heading>
+
+<font> Doctor Rat.  Gammer Gurton.  <$$font> STEVENSO-E1-P2,42.62
+
+<font> D. Rat <$$font> A man were better twenty times be a bandog &
+barke, Then here among such a sort, be parish priest or clarke Where he
+shal neuer be at rest, one pissing while a day But he must trudge about
+the towne, this way, and that way, Here to a drab, there to a theefe,
+his shoes to teare and rent STEVENSO-E1-P2,42.63
+
+And that which is worst of al, at euery knaues commaundeme~t
+STEVENSO-E1-P2,42.64
+
+I had not sit the space, to drinke two pots of ale But Gammer gurtons
+sory boy, was straite way at my taile, STEVENSO-E1-P2,42.65
+
+And she was sicke, STEVENSO-E1-P2,42.66
+
+and I must come, to do I wot not what, STEVENSO-E1-P2,42.67
+
+If once her fingers end but ake, trudge, STEVENSO-E1-P2,42.68
+
+call for Doctor Rat STEVENSO-E1-P2,42.69
+
+And when I come not at their call, I only therby loose,
+STEVENSO-E1-P2,42.70
+
+For I am sure to lacke therfore, a tythe pyg or a goose:
+STEVENSO-E1-P2,42.71
+
+I warra~t you whe~ truth is knowen, & told they haue their tale The
+matter where about I come, is not worth a half peny worth of ale,
+STEVENSO-E1-P2,42.72
+
+Yet must I talke so sage and smothe, as though I were a glosier
+STEVENSO-E1-P2,42.73
+
+Els or the yere come at an end, I $shall $be {TEXT:shalbe} sure the loser.
+STEVENSO-E1-P2,42.74
+
+<P_43>
+
+What worke ye ga~mer gurto~?  STEVENSO-E1-P2,43.76
+
+hoow here is your fre~d M. Rat.  STEVENSO-E1-P2,43.77
+
+<font> Ga~mer <$$font> A good M. Doctor $ch $a {TEXT:cha} trobled,
+$ch $a {TEXT:cha} trobled you, STEVENSO-E1-P2,43.78
+
+$ch $wot {TEXT:chwot} wel that <font> D. Rat <$$font>
+STEVENSO-E1-P2,43.79
+
+How do ye woman: STEVENSO-E1-P2,43.80
+
+be ye lustie, STEVENSO-E1-P2,43.81
+
+or be ye not wel at ease: STEVENSO-E1-P2,43.82
+
+<font> Ga~mer <$$font> By gys master $ch $am {TEXT:cham} not sick,
+STEVENSO-E1-P2,43.83
+
+but yet $ch $aue {TEXT:chaue} a disease.  STEVENSO-E1-P2,43.84
+
+$Ch $ad {TEXT:Chad} a foule turne now of late, STEVENSO-E1-P2,43.85
+
+$ch $ill {TEXT:chill} tell it you by gigs.  STEVENSO-E1-P2,43.86
+
+<font> D. Rat <$$font> Hath your browne cow cast hir calfe,
+or your sandy sow her pigs STEVENSO-E1-P2,43.87
+
+<font> Ga~mer <$$font> No, STEVENSO-E1-P2,43.88
+
+but $ch $ad {TEXT:chad} ben as good they had, as this ich wot weel.
+STEVENSO-E1-P2,43.89
+
+<font> D. Rat <$$font> What is the matter?  STEVENSO-E1-P2,43.90
+
+<font> Ga~mer <$$font> Alas, alas, $ch $a {TEXT:cha} lost my good neele,
+STEVENSO-E1-P2,43.91
+
+My neele I say, STEVENSO-E1-P2,43.92
+
+and wot ye what: STEVENSO-E1-P2,43.93
+
+a drab came by STEVENSO-E1-P2,43.94
+
+and spied it STEVENSO-E1-P2,43.95
+
+And when I asked hir for the same, the filth flatly denied it.
+STEVENSO-E1-P2,43.96
+
+<font> D. Rat <$$font> What was she that: STEVENSO-E1-P2,43.97
+
+<font> Ga~mer <$$font> A dame ich warrant you: STEVENSO-E1-P2,43.98
+
+she began to scold and brawle STEVENSO-E1-P2,43.99
+
+Alas, alas, come hether Hodge: STEVENSO-E1-P2,43.100
+
+this wretche can tell you all.  STEVENSO-E1-P2,43.101
+
+<heading>
+
+<font> The iiii. Acte.  STEVENSO-E1-P2,43.103
+
+The ii. Sceane.  <$$font> STEVENSO-E1-P2,43.104
+
+<$$heading>
+
+<font> Hodge.  Doctor Rat.  Gammer.  Diccon.  Chat.  <$$font>
+STEVENSO-E1-P2,43.106
+
+<font> Hodge <$$font> God morow gaffer Vicar.  STEVENSO-E1-P2,43.107
+
+<font> D. Rat <$$font> Come on fellow let vs heare.
+STEVENSO-E1-P2,43.108
+
+Thy dame hath sayd to me, thou knowest of all this geare,
+STEVENSO-E1-P2,43.109
+
+$Let $'s {TEXT:Lets} see what thou canst saie.  STEVENSO-E1-P2,43.110
+
+<P_44>
+
+<font> Hodge <$$font> $By $m {TEXT:Bym} fay sir that ye shall,
+STEVENSO-E1-P2,44.112
+
+What matter so euer here was done, ich can tell your maship all
+STEVENSO-E1-P2,44.113
+
+My Gammer gurton heare see now, sat her downe at this doore, see now:
+STEVENSO-E1-P2,44.114
+
+And as she began to stirre her, see now, her neele fell in the floore,
+see now, STEVENSO-E1-P2,44.115
+
+And while her staffe she tooke, see now, at Gyb her Cat to flynge,
+see now, Her neele was lost in the floore, see STEVENSO-E1-P2,44.116
+
+now is not this a wondrous thing, see now?  STEVENSO-E1-P2,44.117
+
+Then came the queane Dame Chat, see now to aske for hir blacke cup,
+see now: STEVENSO-E1-P2,44.118
+
+And euen here at this gate, see now: she tooke that neele vp, see now.
+STEVENSO-E1-P2,44.119
+
+My Gammer then she yeede, see now hir neele againe to bring, see now
+STEVENSO-E1-P2,44.120
+
+And was caught by the head see now STEVENSO-E1-P2,44.121
+
+is not this a wondrous thing, see now STEVENSO-E1-P2,44.122
+
+She tare my Gammers cote see now STEVENSO-E1-P2,44.123
+
+and scratched hir by the face, see now STEVENSO-E1-P2,44.124
+
+$Ch $ad {TEXT:Chad} thought $sh $ad {TEXT:shad} stopt hir throte, see
+now STEVENSO-E1-P2,44.125
+
+is not this a wondrous case, see now?  STEVENSO-E1-P2,44.126
+
+When ich saw this, ich was wrothe see now STEVENSO-E1-P2,44.127
+
+and start betwene them twaine, see now STEVENSO-E1-P2,44.128
+
+Els ich durst take a booke othe, see now my Gammer had bene slaine,
+see now.  STEVENSO-E1-P2,44.129
+
+<font> Ga~mer <$$font> This is euen the whole matter, as Hodge has
+plainly tolde STEVENSO-E1-P2,44.130
+
+And $ch $ould {TEXT:chould} faine be quiet for my part
+STEVENSO-E1-P2,44.131
+
+that $ch $ould {TEXT:chould} STEVENSO-E1-P2,44.132
+
+But helpe vs good master, STEVENSO-E1-P2,44.133
+
+beseech ye that ye doo STEVENSO-E1-P2,44.134
+
+Els shal we both be beaten and lose our neele too STEVENSO-E1-P2,44.135
+
+<font> D. Rat <$$font> What wold ye haue me to doo?
+STEVENSO-E1-P2,44.136
+
+tel me that I were gone STEVENSO-E1-P2,44.137
+
+I will do the best that I can, to set you both at one
+STEVENSO-E1-P2,44.138
+
+<P_45>
+
+But be ye sure dame Chat hath this your neele founde:
+STEVENSO-E1-P2,45.140
+
+<font> Ga~mer <$$font> Here comes the man that see hir take it vp of
+the ground, STEVENSO-E1-P2,45.141
+
+Aske him your selfe master Rat if ye beleue not me: STEVENSO-E1-P2,45.142
+
+And helpe me to my neele, for gods sake and saint charitie.
+STEVENSO-E1-P2,45.143
+
+<font> D. Rat <$$font> Come nere diccon STEVENSO-E1-P2,45.144
+
+and let vs heare, what thou can expresse.  STEVENSO-E1-P2,45.145
+
+Wilt y=u= be sworne y=u= seest dame chat, this womans neele haue?
+STEVENSO-E1-P2,45.146
+
+<font> Diccon <$$font> Nay by S. Benit wil I not,
+STEVENSO-E1-P2,45.147
+
+then might ye thinke me raue.  STEVENSO-E1-P2,45.148
+
+<font> Ga~mer <$$font> Why didst not y=u= tel me so euen here
+STEVENSO-E1-P2,45.149
+
+canst y=e= for shame deny it STEVENSO-E1-P2,45.150
+
+<font> Diccon <$$font> I mary gammer: STEVENSO-E1-P2,45.151
+
+but I said I wold not abide by it, STEVENSO-E1-P2,45.152
+
+<font> D. Rat <$$font> Will you say a thing, and not sticke to
+it to trie it?  STEVENSO-E1-P2,45.153
+
+<font> Diccon <$$font> Stick to it quoth you master rat,
+STEVENSO-E1-P2,45.154
+
+mary sir I defy it STEVENSO-E1-P2,45.155
+
+Nay there is many an honest man, when he such blastes hath blowne
+In his freindes eares, he woulde be loth the same by him were knowne
+STEVENSO-E1-P2,45.156
+
+If such a toy be vsed oft among the honestie It may beseme a simple man,
+of your and my degree.  STEVENSO-E1-P2,45.157
+
+<font> D. Rat <$$font> Then we be neuer the nearer, for all that
+you can tell.  STEVENSO-E1-P2,45.158
+
+<font> Diccon <$$font> Yes mary sir, if ye will do by mine aduise and
+counsaile, STEVENSO-E1-P2,45.159
+
+If mother chat se al vs here, she knoweth how the matter goes
+STEVENSO-E1-P2,45.160
+
+Therefore I red you three go hence, and within keepe close,
+STEVENSO-E1-P2,45.161
+
+<P_46>
+
+And I will into dame chats house, and so the matter vse, That or you
+cold go twise to church, I warant you here news, STEVENSO-E1-P2,46.163
+
+She shal looke wel about hir, STEVENSO-E1-P2,46.164
+
+but I durst lay a pledge, STEVENSO-E1-P2,46.165
+
+Ye shal of gammers neele, haue shortly better knowledge.
+STEVENSO-E1-P2,46.166
+
+<font> Ga~mer <$$font> Now gentle Diccon do so, STEVENSO-E1-P2,46.167
+
+and good sir let vs trudge.  STEVENSO-E1-P2,46.168
+
+<font> D. Rat <$$font> By the masse I may not tarry so long to
+be your iudge.  STEVENSO-E1-P2,46.169
+
+<font> Diccon <$$font> $'T $ys {TEXT:Tys} but a litle while man,
+STEVENSO-E1-P2,46.170
+
+what take so much paine, STEVENSO-E1-P2,46.171
+
+If I here not newes of it I will come sooner againe.
+STEVENSO-E1-P2,46.172
+
+<font> Hodge <$$font> Tary so much, good master Doctor of your gentlenes.
+STEVENSO-E1-P2,46.173
+
+<font> D. Rat <$$font> Then let vs hie vs inward,
+STEVENSO-E1-P2,46.174
+
+and Diccon speede thy busines.  STEVENSO-E1-P2,46.175
+
+<font> Diccon <$$font> Now sirs do you no more, STEVENSO-E1-P2,46.176
+
+but kepe my counsaile iuste, And Doctor Rat shall thus catch, some good
+I trust, STEVENSO-E1-P2,46.177
+
+But mother Chat my gossop, talke first with all I must:
+STEVENSO-E1-P2,46.178
+
+For she must be chiefe captaine to lay the Rat in the dust.
+STEVENSO-E1-P2,46.179
+
+<font> Chat <$$font> God deuen my friend Diccon, STEVENSO-E1-P2,46.180
+
+whether walke ye this pace?  STEVENSO-E1-P2,46.181
+
+<font> Diccon <$$font> By my truth euen to you, to learne how the world
+goeth, STEVENSO-E1-P2,46.182
+
+Hard ye no more of the other matter, STEVENSO-E1-P2,46.183
+
+say me now by your troth STEVENSO-E1-P2,46.184
+
+<P_47>
+
+<font> Chat <$$font> O yes diccon, here the olde hoore, & hodge that
+great knaue.  STEVENSO-E1-P2,47.186
+
+But in faith I would thou hadst sene, STEVENSO-E1-P2,47.187
+
+o lord I drest them braue STEVENSO-E1-P2,47.188
+
+She bare me two or three souses behind in the nape of the necke Til I
+made hir olde wesen, to answere againe kecke: STEVENSO-E1-P2,47.189
+
+And hodge that dirty dastard, that at hir elbow standes, If one paire of
+legs had not bene worth two paire of hands He had had his bearde shauen,
+if my nayles wold haue serued STEVENSO-E1-P2,47.190
+
+And not without a cause, STEVENSO-E1-P2,47.191
+
+for the knaue it well deserued.  STEVENSO-E1-P2,47.192
+
+<font> Diccon <$$font> By the masse I can the thank wench, y=u= didst
+so wel acquite the STEVENSO-E1-P2,47.193
+
+<font> Chat <$$font> And $th $adst {TEXT:thadst} seene him Diccon,
+it wold haue made y=e= beshite the For laughter.  STEVENSO-E1-P2,47.194
+
+The horsen dolt at last caught vp a club, As though he would haue slaine
+the master deuil Belsabub, STEVENSO-E1-P2,47.195
+
+But I set him soone inwarde.  STEVENSO-E1-P2,47.196
+
+<font> Diccon <$$font> O Lorde there is the thing That Hodge is so
+offended, that makes him starte and flyng STEVENSO-E1-P2,47.197
+
+<font> Chat <$$font> Why?  STEVENSO-E1-P2,47.198
+
+makes the knaue any moyling, as ye haue sene or hard STEVENSO-E1-P2,47.199
+
+<font> Diccon <$$font> Euen now I sawe him last, like a mad man he farde,
+STEVENSO-E1-P2,47.200
+
+And sware by heauen and hell, he would a wreake his sorowe And leue
+you neuer a hen on liue, by viii. of the clock to morow,
+STEVENSO-E1-P2,47.201
+
+<P_48>
+
+Therfor marke what I say, STEVENSO-E1-P2,48.203
+
+and my wordes see that ye trust STEVENSO-E1-P2,48.204
+
+Your hens be as good as dead, if ye leaue them on the ruste.
+STEVENSO-E1-P2,48.205
+
+<font> Chat <$$font> The knaue dare as wel go hang himself, as go vpon
+my grou~d STEVENSO-E1-P2,48.206
+
+<font> Diccon <$$font> Wel yet take hede I say, STEVENSO-E1-P2,48.207
+
+I must tel you my tale round, STEVENSO-E1-P2,48.208
+
+Haue you not about your house, behind your furnace or leade: A hole
+where a crafty knaue, may crepe in for neade?  STEVENSO-E1-P2,48.209
+
+<font> Chat <$$font> Yes by the masse, a hole broke down, euen w=t=in
+these ii. dayes.  STEVENSO-E1-P2,48.210
+
+<font> Diccon <$$font> Hodge, he intendes this same night, to slip in
+there awayes.  STEVENSO-E1-P2,48.211
+
+<font> Chat <$$font> O christ that I were sure of it,
+STEVENSO-E1-P2,48.212
+
+in faith he shuld haue his mede.  STEVENSO-E1-P2,48.213
+
+<font> Diccon <$$font> Watch wel, STEVENSO-E1-P2,48.214
+
+for the knaue wil be there as sure as is your crede STEVENSO-E1-P2,48.215
+
+I wold spend my selfe a shilling: to haue him swinged well.
+STEVENSO-E1-P2,48.216
+
+<font> Chat <$$font> I am as glad as a woman can be, of this thing to
+hear tell STEVENSO-E1-P2,48.217
+
+By gogs bones when he co~meth, now that I know the matter He shal sure at
+the first skip, to leape in scalding water: With a worse turne besides,
+STEVENSO-E1-P2,48.218
+
+when he will, let him come.  STEVENSO-E1-P2,48.219
+
+<font> Diccon <$$font> I tell you as my sister, STEVENSO-E1-P2,48.220
+
+you know what meaneth mum, STEVENSO-E1-P2,48.221
+
+Now lacke I but my doctor, to play his part againe.  STEVENSO-E1-P2,48.222
+
+And lo where he commeth towarde, peraduenture to his paine.
+STEVENSO-E1-P2,48.223
+
+<P_49>
+
+<font> D. Rat <$$font> What good newes Diccon?
+STEVENSO-E1-P2,49.225
+
+fellow, is mother chat at home, STEVENSO-E1-P2,49.226
+
+<font> Diccon <$$font> She is syr, STEVENSO-E1-P2,49.227
+
+and she is not, but it pleases her to whome: STEVENSO-E1-P2,49.228
+
+Yet did I take her tardy, as subtle as she was.  STEVENSO-E1-P2,49.229
+
+<font> D. Rat <$$font> The thing that thou wentst for, hast thou
+brought it to passe?  STEVENSO-E1-P2,49.230
+
+<font> Diccon <$$font> I haue done that I haue done, be it worse, be
+it better.  STEVENSO-E1-P2,49.231
+
+And dame Chat at her wyts ende, I haue almost set her.
+STEVENSO-E1-P2,49.232
+
+<font> D. Rat <$$font> Why hast thou spied the neele quickly I
+pray thee tell.  STEVENSO-E1-P2,49.233
+
+<font> Diccon <$$font> I haue spyed it in faith, sir, I handled my selfe
+so well, STEVENSO-E1-P2,49.234
+
+And yet the crafty queane, had almost take my trumpe.
+STEVENSO-E1-P2,49.235
+
+But or all came to an ende, I set her in a dumpe: STEVENSO-E1-P2,49.236
+
+<font> D. Rat <$$font> How so I pray thee Diccon?
+STEVENSO-E1-P2,49.237
+
+<font> Diccon <$$font> Mary syr will ye heare?  STEVENSO-E1-P2,49.238
+
+She was clapt downe on the backside, by cocks mother dere
+STEVENSO-E1-P2,49.239
+
+And there she sat sewing a halter, or a bande, With no other thing saue
+gammers nedle in her hande, STEVENSO-E1-P2,49.240
+
+As soone as any knocke, if the filth be in doubte, She needes but once
+puffe, STEVENSO-E1-P2,49.241
+
+and the candle is out: STEVENSO-E1-P2,49.242
+
+Now I sir knowing of euery doore the pin, Came nycely,
+STEVENSO-E1-P2,49.243
+
+and said no worde, till time I was within, STEVENSO-E1-P2,49.244
+
+And there I sawe the neele, euen with these two eyes,
+STEVENSO-E1-P2,49.245
+
+Who euer say the contrary, I will sweare he lyes.  STEVENSO-E1-P2,49.246
+
+<font> D. Rat <$$font> O Diccon that I was not there, then in
+thy steade.  STEVENSO-E1-P2,49.247
+
+<font> Diccon <$$font> Well, if ye will be ordred, and do by my reade ,
+<P_50> I will bring you to a place, as the house standes, Where ye shall
+take the drab, with the neele in her handes STEVENSO-E1-P2,50.248
+
+<font> D. Rat <$$font> For Gods sake do so Diccon, and I will
+gage my gowne To geue thee a full pot, of the best ale in the towne,
+STEVENSO-E1-P2,50.249
+
+<font> Diccon <$$font> Follow me but a litle, STEVENSO-E1-P2,50.250
+
+and marke what I will say, STEVENSO-E1-P2,50.251
+
+Lay down your gowne beside you, STEVENSO-E1-P2,50.252
+
+go to, STEVENSO-E1-P2,50.253
+
+come on your way: STEVENSO-E1-P2,50.254
+
+Se ye not what is here?  STEVENSO-E1-P2,50.255
+
+a hole wherin ye may creepe Into the house, and sodenly vnwares among
+them leape, STEVENSO-E1-P2,50.256
+
+There shal ye finde the Bitchfox, and the neele together
+STEVENSO-E1-P2,50.257
+
+Do as I bid you man, STEVENSO-E1-P2,50.258
+
+come on your wayes hether.  STEVENSO-E1-P2,50.259
+
+<font> D. Rat <$$font> Art thou sure diccon, STEVENSO-E1-P2,50.260
+
+the swil tub standes not here aboute.  STEVENSO-E1-P2,50.261
+
+<font> Diccon <$$font> I was within my selfe man euen now,
+STEVENSO-E1-P2,50.262
+
+ther is no doubt, STEVENSO-E1-P2,50.263
+
+Go softly, STEVENSO-E1-P2,50.264
+
+make no noyse, STEVENSO-E1-P2,50.265
+
+giue me your foote sir John, STEVENSO-E1-P2,50.266
+
+Here will I waite vpon you, tyl you come out anone.  STEVENSO-E1-P2,50.267
+
+<font> D. Rat <$$font> Helpe Diccon, STEVENSO-E1-P2,50.268
+
+out alas, STEVENSO-E1-P2,50.269
+
+I shal be slaine among them.  STEVENSO-E1-P2,50.270
+
+<font> Diccon <$$font> If they giue you not the nedle, tel them that ye
+wil ha~g them STEVENSO-E1-P2,50.271
+
+Ware that, STEVENSO-E1-P2,50.272
+
+hoow my wenches, haue ye caught the Foxe, That vsed to make reuel,
+among your hennes and Cocks: STEVENSO-E1-P2,50.273
+
+Saue his life yet for his order, though he susteine some paine Gogs
+bread, STEVENSO-E1-P2,50.274
+
+I am afraide, they wil beate out his braine.  STEVENSO-E1-P2,50.275
+
+<P_51>
+
+<font> D. Rat <$$font> Wo worth the houre that I came heare.
+STEVENSO-E1-P2,51.277
+
+And wo worth him that wrought this geare, STEVENSO-E1-P2,51.278
+
+A sort of drabs and queanes haue me blest, STEVENSO-E1-P2,51.279
+
+Was euer creature halfe so euill drest?  STEVENSO-E1-P2,51.280
+
+Who euer it wrought, and first did inuent it, He shall I warrant him,
+erre long repent it, STEVENSO-E1-P2,51.281
+
+I will spend all I haue without my skinne STEVENSO-E1-P2,51.282
+
+But he shall be brought to the plight I am in, STEVENSO-E1-P2,51.283
+
+Master Bayly I trow, and he be worth his eares, Will snaffle these
+murderers and all that them beares, STEVENSO-E1-P2,51.284
+
+I will surely neither byte nor suppe Till I fetch him hether, this matter
+to take vp.  STEVENSO-E1-P2,51.285
+
+<heading>
+
+<font> The v. Acte.  STEVENSO-E1-P2,51.287
+
+The i. Sceane.  <$$font> STEVENSO-E1-P2,51.288
+
+<$$heading>
+
+<font> Master Bayly.  Doctor Rat.  <$$font> STEVENSO-E1-P2,51.290
+
+<font> Bailie <$$font> I can perceiue none other, I speke it from my
+hart But either ye ar in al the fault or els in y=e= greatest part
+STEVENSO-E1-P2,51.291
+
+<font> D. Rat <$$font> If it be counted his fault, besides all
+his greeues When a poore man is spoyled: and beaten among theeues?
+Then I confesse my fault herein, at this season, STEVENSO-E1-P2,51.292
+
+But I hope you wil not iudge so much against reason.
+STEVENSO-E1-P2,51.293
+
+<font> Baily <$$font> And me thinkes by your owne tale, of all
+that ye name, If any plaid the theefe you were the very same.
+STEVENSO-E1-P2,51.294
+
+The women they did nothing, as your words make probation
+STEVENSO-E1-P2,51.295
+
+But stoutly withstood your forcible inuasion, STEVENSO-E1-P2,51.296
+
+<P_52>
+
+If that a theefe at your window, to enter should begin, Wold you hold
+forth your hand, and helpe to pull him in: STEVENSO-E1-P2,52.298
+
+Or you wold {COM:sic} kepe him out: STEVENSO-E1-P2,52.299
+
+I pray you answere me, STEVENSO-E1-P2,52.300
+
+<font> D. Rat <$$font> Mary kepe him out, STEVENSO-E1-P2,52.301
+
+and a good cause why: STEVENSO-E1-P2,52.302
+
+But I am no theefe sir but an honest learned Clarke, STEVENSO-E1-P2,52.303
+
+<font> Baily <$$font> Yea, but who knoweth that, when he meets you in
+the darke STEVENSO-E1-P2,52.304
+
+I am sure your learning shines not out at your nose, STEVENSO-E1-P2,52.305
+
+Was it any maruaile, though the poore woman arose And start vp, being
+afraide of that was in hir purse STEVENSO-E1-P2,52.306
+
+Me thinke you may be glad that your lucke was no worse.
+STEVENSO-E1-P2,52.307
+
+<font> D. Rat <$$font> Is not this euill ynough, I pray you as you
+thinke, <font> Showing his broken head.  <$$font> STEVENSO-E1-P2,52.308
+
+<font> Baily <$$font> Yea but a man in the darke, if chaunces do wincke,
+As soone he smites his father, as any other man, Because for lacke of
+light, discerne him he ne can, STEVENSO-E1-P2,52.309
+
+Might it not haue ben your lucke, w=t= a spit to haue ben slaine:
+STEVENSO-E1-P2,52.310
+
+<font> D. Rat <$$font> I thinke I am litle better,
+STEVENSO-E1-P2,52.311
+
+my scalpe is clouen to the braine, STEVENSO-E1-P2,52.312
+
+If there be all the remedy, I know who beares the knockes.
+STEVENSO-E1-P2,52.313
+
+<font> Baily <$$font> By my troth and well worthy, besides to kisse
+the stockes To come in on the backe side, when ye might go about,
+<P_53> I know non such, vnles they long to haue their braines knockt
+out STEVENSO-E1-P2,53.314
+
+<font> D. Rat <$$font> Well, wil you be so good sir, as talke
+with dame Chat?  And know what she intended: STEVENSO-E1-P2,53.315
+
+I aske no more but that.  STEVENSO-E1-P2,53.316
+
+<font> Bayly <$$font> Let her be called fellow because of master doctor
+, STEVENSO-E1-P2,53.317
+
+I warrant in this case, she wil be hir owne Proctor, STEVENSO-E1-P2,53.318
+
+She will tel hir owne tale in metter or in prose, And byd you seeke your
+remedy, STEVENSO-E1-P2,53.319
+
+and so go STEVENSO-E1-P2,53.320
+
+wype your nose.  STEVENSO-E1-P2,53.321

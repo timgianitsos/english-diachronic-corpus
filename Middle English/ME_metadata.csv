@@ -1,0 +1,102 @@
+TEXT,TYPE,DATE,FILENAME,DIALECT/LOC,WORD COUNT
+Aelred of Rievaulx's De Institutione Inclusarum,RULE,c1400,cmaelr3-m23,Birmingham,17039
+Aelred of Rievaulx's De Institutione Inclusarum,RELIG_TREATISE,a1450,cmaelr4-m4,Buckinghamshire,11196
+Ancrene Riwle,RELIG_TREATISE,c1230,cmancriw-1-m1,Worcester,49225
+Ancrene Riwle,RELIG_TREATISE,c1230,cmancriw-2-m1,Worcester,15269
+A Treatise on the Astrolabe,HANDBOOK_ASTRO,a1450_c1391,cmastro-m3,London,6867
+Ayenbite of Inwyt,RELIG_TREATISE,1340,cmayenbi-m2,Canterbury,45945
+The Northern Prose Rule of St.ÊBenet,RULE,a1425,cmbenrul-m3,North?,18312
+Boethius,PHILOSOPHY,?a1425_c1380,cmboeth-m3,London,10682
+The Brut or the Chronicle of England,HISTORY,c1400,cmbrut3-m3,West Midlands,50377
+Capgrave's Chronicle,HISTORY,a1464,cmcapchr-m4,Lynn,52850
+Capgrave's Sermon,SERMON,c1452,cmcapser-m4,Lynn,1469
+The Cloud of Unknowing,RELIG_TREATISE,a1425_?a1400,cmcloud-m3,East Midlands,15723
+The Tale of Melibee,PHILOSOPHY/FICTION,c1390,cmctmeli-m3,London,17518
+The Parson's Tale,RELIG_TREATISE,c1390,cmctpars-m3,London,30626
+The Earliest Complete English Prose Psalter,BIBLE,c1350,cmearlps-m2,Essex,44454
+The Life of St.ÊEdmund,BIOGRAPHY_LIFE_OF_SAINT,c1450_1438,cmedmund-m4,East Midlands,3872
+The Mirror of St.ÊEdmund (Thornton Ms.),RELIG_TRREATISE,c1440_?1350,cmedthor-m34,North?,14046
+The Mirror of St.ÊEdmund (Vernon Ms.),RELIG_TREATISE,c1390,cmedvern-m3,Worcester,12920
+The Equatorie of the Planets,HANDBOOK_ASTRO,c1392,cmequato-m3,East Midlands,6307
+Richard Fitzjames' Sermo die Lune,SERMON,?1495,cmfitzja-m4,East Midlands,5806
+Dan Jon Gaytryge's Sermon,SERMON,c1440,cmgaytry-m34,North?,5276
+Gregory's Chronicle,HISTORY,c1475,cmgregor-m4,London,37057
+Hali Meidhad,RELIG_TREATISE,c1225_?c1200,cmhali-m1,Shropshire,8869
+Hilton's Eight Chapters on Perfection,RELIG_TREATISE,a1450_a1396,cmhilton-m34,East Midlands,4930
+A Late Middle English Treatise on Horses,HANDBOOK_MEDICINE,a1450,cmhorses-m3,Berkshire,6313
+In Die Innocencium,SERMON,1497,cminnoce-m4,East Midlands,4269
+St.ÊJuliana,BIOGRAPHY_LIFE_OF_SAINT,c1225_?c1200,cmjulia-m1,Shropshire,7180
+Julian of Norwich's Revelations of Divine Love,RELIG_TREATISE,c1450_c1400,cmjulnor-m34,East Midlands,5083
+St.ÊKatherine,BIOGRAPHY_LIFE_OF_SAINT,c1225_?c1200,cmkathe-m1,Shropshire,9032
+The Book of Margery Kempe,RELIG_TREATISE,c1450,cmkempe-m4,Lynn,64025
+Kentish Homilies,HOMILY,a1150_c1125,cmkentho-m1,Kent,4287
+Kentish Sermons,HOMILY,c1275,cmkentse-m2,Kent,3515
+The Lambeth Homilies,HOMILY,a1225,cmlamb1-m1,Shropshire,6462
+The Lambeth Homilies,HOMILY,a1225,cmlambx1-mx1,Shropshire,20653
+Malory's Morte Darthur,ROMANCE,a1470,cmmalory-m4,Warwickshire,60297
+Mandeville's Travels,TRAVELOGUE,?a1425_c1400,cmmandev-m3,East Midlands,51715
+St.ÊMargaret,BIOGRAPHY_LIFE_OF_SAINT,c1225_?c1200,cmmarga-m1,Shropshire,8523
+Mirk's Festial,SERMON,a1500_a1415,cmmirk-m34,Shropshire,57944
+The New Testament (Wycliffite),BIBLE,c1388,cmntest-m3,Buckinghamshire,11001
+The Ormulum,HOMILY_POETRY,?c1200,cmorm-m1,Lincolnshire,73576
+The Old Testament (Wycliffite),BIBLE,a1425_a1382,cmotest-m3,Buckinghamshire,9910
+The Peterborough Chronicle,HISTORY,c1150,cmpeterb-m1,Peterborough,7333
+John of Trevisa's Polychronicon,HISTORY,a1387,cmpolych-m3,South?,46326
+Purvey's General Prologue to the Bible,RELIG_TREATISE,c1388,cmpurvey-m3,South?,39836
+Caxton's History of Reynard the Fox,FICTION,1481,cmreynar-m4,East Midlands,8799
+The Commonplace Book of Robert Reynes,HANDBOOK_OTHER,1470-1500,cmreynes-m4,Norfolk,8913
+"Richard Rolle, Epistles",RELIG_TREATISE,a1450_?1348,cmrollep-m24,Yorkshire,17914
+"Richard Rolle, Prose Treatises from the Thornton Ms.",RELIG_TREATISE,c1440_a1349,cmrolltr-m24,Yorkshire,17708
+Middle English Sermons,SERMON,c1450_c1425,cmroyal-m34,Oxford,6349
+Sawles Warde,HOMILY,c1225_?c1200,cmsawles-m1,Shropshire,4304
+The Siege of Jerusalem,ROMANCE,c1500,cmsiege-m4,West Midlands,7757
+Liber de Diversis Medicinis,HANDBOOK_MEDICINE,c1440,cmthorn-mx4,North?,5720
+Trinity Homilies,HOMILY,a1225,cmtrinit-mx1,London,41571
+Vices and Virtues,RELIG_TREATISE,a1225_c1200,cmvices1-m1,East Midlands,28061
+The Book of Vices and Virtues,RELIG_TREATISE,c1450_c1400,cmvices4-m34,East Midlands,7184
+English Wycliffite Sermons,SERMON,c1400,cmwycser-m3,Northamptonshire,56168
+Body and Soul,poem,1125,BodySoul,Southern,2781
+Lord as Thou art one God,poem,1150,LordOneGod,Southern,2910
+Pater Noster,poem,1170,PatNost,Southeast,1906
+Poema Morale,poem,1175,PoemaMoral,East Midlands,4080
+The Proverbs of Alfred,poem,1180,ProvAlf,Southern,3095
+The Grave,poem,1150,TheGrave,Southern,200
+The Assumption of the Virgin,poem,1240,AssumpVirg,Southern,1540
+Bestiary,poem,1225,Bestiary,East Midlands,4259
+The Eleven Pains of Hell,poem,1250,ElevenPains,South?,1610
+The Harrowing of Hell,poem,1240,HarrowHell,?,1461
+A Lutel Soth Sermun,poem,1245,LittleSerm,?,438
+Love Ron,poem,1250,LoveRon,West Midlands,1274
+Meidan Maregrete,poem,1215,Maregrete,?,2915
+Maximian,poem,1240,Maximian,?,1338
+The Owl and the Nightingale,poem,1250,OwlNight,Southern,10941
+The Passion of Our Lord,poem,1245,PassionLord,West Midlands,6249
+Penitence for Wasted Life,poem,1250,Penitence,?,394
+A Prisoner's Prayer,poem,1230,PrisPrayer,London,212
+A Good Orison of Our Lady,poem,1205,Ureisun,East Midlands,1501
+Wise Admonitions,poem,1225,WiseAdmon,West Midlands,823
+Dame Sirith,poem,1270,DameSirith,East Midlands,2539
+The Fox and the Wolf,poem,1275,FoxWolf,Southern,1816
+Havelok the Dane,poem,1290,Havelok,Lincolnshire,17394
+The Song of the Husbandman,poem,1297,Husbandman,Southern,604
+Joseph and Jacob,poem,1265,Iacolose,Southern,4605
+Saint Eustace,poem,1265,StEustace,East Midlands,2320
+The Thrush and the Nightingale,poem,1270,ThruNight,West Midlands,1108
+A Metrical Treatise on Dreams,poem,1285,TreatDreams,?,1736
+Kyng Alysaunder,poem,1300,Alisaunder,London,45881
+Amis and Amiloun,poem,1315,AmisAmiloun,East Midlands,15325
+The Land of Cokaygne,poem,1300,Cokaygne,Southern,1081
+Adam Davy's Five Dreams,poem,1308,DavyDreams,Southeast,1155
+The Dispute between Mary and the Cross,poem,1350,DisMaryCross,West Midlands,3237
+The Execution of Simon Fraser,poem,1307,ExecFraser,?,1500
+The Legend of Frideswide,poem,1305,Frideswide,Southern,1884
+Nicodemus,poem,1340,Nicodemus,?,10397
+An Orison of the Five Joys,poem,1320,OrisFiveJoys,?,560
+The Simonie,poem,1325,SimonieXXX,East Midlands,4817
+The Life of Saint Marina,poem,1320,StMarina,?,1384
+The Bird with Four Feathers,poem,1400,BirdFoFe,London,1508
+How to Hear Mass,poem,1355,HowHearMass,Northern,4043
+11 Poems by Laurence Minot,poem,1352,Laurminot,East Midlands,6664
+The Letter of Cupid,poem,1402,LetterCupid,East Midlands,3522
+Sir Cleges,poem,1395,SirCleges,Northern,3384
+Wynnere and Wastoure,poem,1360,WinnerWaster,Northern,4743

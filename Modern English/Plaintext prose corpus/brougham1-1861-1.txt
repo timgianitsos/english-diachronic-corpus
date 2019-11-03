@@ -1,0 +1,3070 @@
+<P_3>
+
+<heading>
+
+Playing With Fire.  BROUGHAM1-1861-1,3.3
+
+Act I.  BROUGHAM1-1861-1,3.4
+
+<$$heading>
+
+Scene.  - <font> The Consulting Apartment at Dr. Savage's -
+BROUGHAM1-1861-1,3.6
+
+doors, <$$font> L. C., R., <font> and <$$font>
+L.; <font> window, <$$font> R. C.; <font> table,
+<$$font> R.; <font> sofa, <$$font> L. BROUGHAM1-1861-1,3.7
+
+<font> Enter <$$font> Pinchbeck, C. BROUGHAM1-1861-1,3.8
+
+Pinchbeck.  The Doctor not down yet.  BROUGHAM1-1861-1,3.9
+
+Now for my studies.  BROUGHAM1-1861-1,3.10
+
+A medical practitioner I am resolved to be, somehow or other,
+BROUGHAM1-1861-1,3.11
+
+it only wants a tolerable share of impudence, and a few of the regular
+phrases; BROUGHAM1-1861-1,3.12
+
+<font> half <$$font> the capital I know that I possess already -
+BROUGHAM1-1861-1,3.13
+
+the other half $I $'m {TEXT:I'm} picking up daily.  BROUGHAM1-1861-1,3.14
+
+Ah, here are a couple of stray prescriptions to add to my stock.
+BROUGHAM1-1861-1,3.15
+
+<paren> <font> picks up prescriptions, BROUGHAM1-1861-1,3.16
+
+and puts them in pocket-book <$$font> <$$paren> BROUGHAM1-1861-1,3.17
+
+I wonder how my other profession gets on.  BROUGHAM1-1861-1,3.18
+
+$Let $'s {TEXT:Let's} see if $there $'s {TEXT:there's} any chance of a
+nibble this morning.  BROUGHAM1-1861-1,3.19
+
+Hallo!  my advertisement not in?  BROUGHAM1-1861-1,3.20
+
+- yes, here it is.  BROUGHAM1-1861-1,3.21
+
+<paren> <font> reads <$$font> <$$paren>"Matrimonial.
+BROUGHAM1-1861-1,3.22
+
+- A professional gentleman, of good social position, knowing how many
+people are deterred by an unconquerable timidity from avowing their
+preferences, and, instigated by a spirit of humanity, has established a
+secret agency, through which the happy union of congenial temperaments
+can be effected in the most confidential manner.  BROUGHAM1-1861-1,3.23
+
+- Apply, &c."BROUGHAM1-1861-1,3.24
+
+My correspondence has not been voluminous as yet.  BROUGHAM1-1861-1,3.25
+
+Ah, $here $'s {TEXT:here's} another bite from a cautious kind of fish,
+who has been nibbling at the hook recently, BROUGHAM1-1861-1,3.26
+
+<paren> <font> reads <$$font> <$$paren>"Romeo will be at W.'s office,
+to-morrow, at twelve. "BROUGHAM1-1861-1,3.27
+
+Hurrah!  this looks like a capture, I think; BROUGHAM1-1861-1,3.28
+
+the Doctor always makes his calls at that time, BROUGHAM1-1861-1,3.29
+
+and the coast will be clear for my operations.  BROUGHAM1-1861-1,3.30
+
+Meanwhile, I must read up for my medical character.  BROUGHAM1-1861-1,3.31
+
+<paren> <font> takes book BROUGHAM1-1861-1,3.32
+
+and reads <$$font> <$$paren>"Diagnosis of diphtheria:
+BROUGHAM1-1861-1,3.33
+
+palate hard and dry, BROUGHAM1-1861-1,3.34
+
+throat parched"- BROUGHAM1-1861-1,3.35
+
+how very singular, BROUGHAM1-1861-1,3.36
+
+I feel these symptoms every day, just about this time -
+BROUGHAM1-1861-1,3.37
+
+"remedy: <P_4> a strong dilution"- BROUGHAM1-1861-1,4.38
+
+nothing like prevention; BROUGHAM1-1861-1,4.39
+
+I shall prescribe for myself, at once - strong dilution;
+BROUGHAM1-1861-1,4.40
+
+I $do $n't {TEXT:don't} know anything stronger than brandy.
+BROUGHAM1-1861-1,4.41
+
+<paren> <font> goes to cupboard, BROUGHAM1-1861-1,4.42
+
+and mixes some brandy and water <$$font> <$$paren> BROUGHAM1-1861-1,4.43
+
+<font> Enter <$$font> Perkins, <font> door, <$$font> L. C.
+BROUGHAM1-1861-1,4.44
+
+Perkins.  My gracious, what are you doing Mr. Pinchbeck?
+BROUGHAM1-1861-1,4.45
+
+Pinch. <paren> R. <$$paren> Picking up a little practical
+knowledge in physics, my dear - BROUGHAM1-1861-1,4.46
+
+manufacturing the brass for my professional door-plate by-and-bye.
+BROUGHAM1-1861-1,4.47
+
+<paren> <font> kisses her <$$font> <$$paren> BROUGHAM1-1861-1,4.48
+
+Perk. <paren> L. <$$paren> You $do $n't {TEXT:don't} seem
+to lack the raw material, Mr. Impudence.  BROUGHAM1-1861-1,4.49
+
+Pinch. Fortunately, no - BROUGHAM1-1861-1,4.50
+
+most essential ingredient in the professional mixture;
+BROUGHAM1-1861-1,4.51
+
+but how do we find ourselves this morning - BROUGHAM1-1861-1,4.52
+
+is our pulse regular, BROUGHAM1-1861-1,4.53
+
+have we had a quiet night?  BROUGHAM1-1861-1,4.54
+
+- let me see.  BROUGHAM1-1861-1,4.55
+
+<paren> <font> feels her pulse <$$font> <$$paren> BROUGHAM1-1861-1,4.56
+
+Where the deuce is it?  BROUGHAM1-1861-1,4.57
+
+Ah!  I have it now - low, torpid, BROUGHAM1-1861-1,4.58
+
+system wants invigorating.  BROUGHAM1-1861-1,4.59
+
+Allow me - BROUGHAM1-1861-1,4.60
+
+slight tonic.  BROUGHAM1-1861-1,4.61
+
+<paren> <font> mixing glass of brandy and water <$$font> <$$paren>
+BROUGHAM1-1861-1,4.62
+
+Perk. <paren> L. <$$paren> I $could $n't {TEXT:couldn't}
+touch it for the world.  BROUGHAM1-1861-1,4.63
+
+Pinch. Pooh, pooh - $must $n't {TEXT:mustn't} disobey your medical
+attendant - BROUGHAM1-1861-1,4.64
+
+case urgent - BROUGHAM1-1861-1,4.65
+
+do you good - BROUGHAM1-1861-1,4.66
+
+nauseous, I know, but necessary.  BROUGHAM1-1861-1,4.67
+
+Perk. <paren> <font> drinks <$$font> <$$paren>
+BROUGHAM1-1861-1,4.68
+
+I never could - BROUGHAM1-1861-1,4.69
+
+$that $'s {TEXT:that's} not so hard to take - BROUGHAM1-1861-1,4.70
+
+what a capital doctor you would make.  BROUGHAM1-1861-1,4.71
+
+Pinch. I believe you - BROUGHAM1-1861-1,4.72
+
+$I $'ve {TEXT:I've} watched them closely, dear - BROUGHAM1-1861-1,4.73
+
+good deal of humbug among the medicals!  BROUGHAM1-1861-1,4.74
+
+Most ailments you see are imaginary - BROUGHAM1-1861-1,4.75
+
+we have to humour <font> those <$$font> patients, study their characters ,
+not their complaints - BROUGHAM1-1861-1,4.76
+
+$that $'s {TEXT:that's} the principle - tickle them up with
+cordials, alcoholic balsams, and palatable medicated confections.
+BROUGHAM1-1861-1,4.77
+
+Perk. But if they should be really ill?  BROUGHAM1-1861-1,4.78
+
+Pinch. Then we have nothing to do but consult, and shift the
+responsibility.  BROUGHAM1-1861-1,4.79
+
+Perk. Why, I declare you seem to be quite fit to go into the
+doctory line yourself.  BROUGHAM1-1861-1,4.80
+
+Pinch. I should think so, indeed.  BROUGHAM1-1861-1,4.81
+
+You $do $n't {TEXT:don't} suppose that I have swept a doctor's
+office, and dusted his clothes and books a whole year for nothing.
+BROUGHAM1-1861-1,4.82
+
+Now, I have something else to say to you - BROUGHAM1-1861-1,4.83
+
+$I $'ve {TEXT:I've} got a wonderful nibble at <P_5> my matrimonial book.
+BROUGHAM1-1861-1,5.84
+
+You promised to assist me and go halves in the plunder,
+BROUGHAM1-1861-1,5.85
+
+so $you $'ll {TEXT:you'll} have to represent the eligible party to all
+the male gudgeons.  BROUGHAM1-1861-1,5.86
+
+I can manage the feminine department myself.  BROUGHAM1-1861-1,5.87
+
+Perk. $I $'ll {TEXT:I'll} do just what you say,
+BROUGHAM1-1861-1,5.88
+
+for I do believe you are clever enough to make both our fortunes.
+BROUGHAM1-1861-1,5.89
+
+Pinch. $That $'s {TEXT:That's} right; BROUGHAM1-1861-1,5.90
+
+now embrace me with respectful energy, BROUGHAM1-1861-1,5.91
+
+and go attend to your business, BROUGHAM1-1861-1,5.92
+
+<paren> <font> they embrace <$$font> <$$paren> <font>
+BROUGHAM1-1861-1,5.93
+
+Enter <$$font> Doctor Savage, <font> door <$$font>, L. C.
+BROUGHAM1-1861-1,5.94
+
+Dr. S. Hollo!  what are you about there?
+BROUGHAM1-1861-1,5.95
+
+Perkins <font> runs off.  <$$font> BROUGHAM1-1861-1,5.96
+
+Pinch. Singular and sudden attack, sir - BROUGHAM1-1861-1,5.97
+
+sort of what-you-call-em dance - BROUGHAM1-1861-1,5.98
+
+beg your pardon for taking the liberty, sir - BROUGHAM1-1861-1,5.99
+
+I was just looking at the book to see what it meant.
+BROUGHAM1-1861-1,5.100
+
+Dr. S. I think I might see a walking volume of
+rascality without straining my eye-sight much, Master Pinchbeck;
+BROUGHAM1-1861-1,5.101
+
+but $you $'re {TEXT:you're} a useful scamp enough, BROUGHAM1-1861-1,5.102
+
+and so, until you make it too apparent, I suppose I must continue
+partially blind.  BROUGHAM1-1861-1,5.103
+
+Pinch. Always glad of your good opinion, sir.
+BROUGHAM1-1861-1,5.104
+
+Dr. S. That will do - BROUGHAM1-1861-1,5.105
+
+be off.  BROUGHAM1-1861-1,5.106
+
+Pinch. Real professional tone - BROUGHAM1-1861-1,5.107
+
+I must practice that - BROUGHAM1-1861-1,5.108
+
+be off!  BROUGHAM1-1861-1,5.109
+
+<font> Exit, <$$font> L. C. BROUGHAM1-1861-1,5.110
+
+Dr. S. <paren> <font> looks at slate <$$font> <$$paren>
+No calls to make for an hour.  BROUGHAM1-1861-1,5.111
+
+I hope I shall be allowed to enjoy my newspaper; BROUGHAM1-1861-1,5.112
+
+if there is one thing worries me more than another, it is to
+be interrupted in the middle of an interesting paragraph -
+BROUGHAM1-1861-1,5.113
+
+anything new to-day.  BROUGHAM1-1861-1,5.114
+
+<paren> <font> bell rings <$$font> <$$paren> BROUGHAM1-1861-1,5.115
+
+Now, $is $n't {TEXT:isn't} that provoking.  BROUGHAM1-1861-1,5.116
+
+Pinchbeck - Robert - not at home - BROUGHAM1-1861-1,5.117
+
+not at home to anybody, mind!  BROUGHAM1-1861-1,5.118
+
+<font> Enter <$$font> Herbert, L. BROUGHAM1-1861-1,5.119
+
+Herb. All right, $I $'m {TEXT:I'm} <font> nobody <$$font> -
+BROUGHAM1-1861-1,5.120
+
+door open; BROUGHAM1-1861-1,5.121
+
+knew you $would $n't {TEXT:wouldn't} mind me - BROUGHAM1-1861-1,5.122
+
+$Julia $'s {TEXT:Julia's} gone up stairs to your wife.
+BROUGHAM1-1861-1,5.123
+
+Dr. S. My dear boy, of course, you are privileged always ,
+BROUGHAM1-1861-1,5.124
+
+but you must confess, that when a man who loves to devour his daily,
+is stopped at the very first mouthful - BROUGHAM1-1861-1,5.125
+
+Herb. Yes - I know - BROUGHAM1-1861-1,5.126
+
+irritating, very - BROUGHAM1-1861-1,5.127
+
+but it $can $n't {TEXT:can't} be helped now - BROUGHAM1-1861-1,5.128
+
+no loss, however - BROUGHAM1-1861-1,5.129
+
+$I $'ve {TEXT:I've} read it all - BROUGHAM1-1861-1,5.130
+
+nothing <P_6> in it - BROUGHAM1-1861-1,6.131
+
+never is - BROUGHAM1-1861-1,6.132
+
+stupid age we live in, my dear friend - BROUGHAM1-1861-1,6.133
+
+dull - money-grubbing, unromantic, unendurable!  BROUGHAM1-1861-1,6.134
+
+<paren> <font> crosses <$$font> R. to L. <$$paren>
+BROUGHAM1-1861-1,6.135
+
+Dr. S, Hollo!  BROUGHAM1-1861-1,6.136
+
+Herbert, $how $'s {TEXT:how's} this - BROUGHAM1-1861-1,6.137
+
+touch of the blues - eh?  BROUGHAM1-1861-1,6.138
+
+Herb. Touch!  BROUGHAM1-1861-1,6.139
+
+- an avalanche - overwhelming, destructive!  BROUGHAM1-1861-1,6.140
+
+Dr. S. Indigestion.  BROUGHAM1-1861-1,6.141
+
+Herb. Pshaw - feel my pulse.  BROUGHAM1-1861-1,6.142
+
+Dr. S. - Regular as clock-work.  BROUGHAM1-1861-1,6.143
+
+Herb. Indeed - anatomical mockery - sanguineous deception.
+BROUGHAM1-1861-1,6.144
+
+Look in my eye.  BROUGHAM1-1861-1,6.145
+
+Dr. S. I do - BROUGHAM1-1861-1,6.146
+
+clear, bright and placid as a summer lake.  BROUGHAM1-1861-1,6.147
+
+Herb. But with an under-current of despair.  BROUGHAM1-1861-1,6.148
+
+Dr. S. Good gracious!  BROUGHAM1-1861-1,6.149
+
+You alarm me.  BROUGHAM1-1861-1,6.150
+
+$What $'s {TEXT:What's} the matter?  BROUGHAM1-1861-1,6.151
+
+Herb. I $do $n't {TEXT:don't} know - BROUGHAM1-1861-1,6.152
+
+$that $'s {TEXT:that's} the misery.  BROUGHAM1-1861-1,6.153
+
+$I $'m {TEXT:I'm} a physiological cheat - an animated subterfuge.
+BROUGHAM1-1861-1,6.154
+
+This calm and passionless exterior covers a heart tortured by anxiety.
+BROUGHAM1-1861-1,6.155
+
+$I $'m {TEXT:I'm} a sort of Spartan boy, with a continually gnawing fox
+- a modern Prometheus, with an insatiable vulture still feeding here,
+BROUGHAM1-1861-1,6.156
+
+<paren> <font> goes to sofa, <$$font> L. <$$paren>
+BROUGHAM1-1861-1,6.157
+
+Dr. S. On <font> pate de fois gras <$$font> - your $liver
+$'s {TEXT:liver's} out of order.  BROUGHAM1-1861-1,6.158
+
+Herb. $Do $n't {TEXT:Don't} laugh; BROUGHAM1-1861-1,6.159
+
+<paren> <font> rises <$$font> <$$paren> BROUGHAM1-1861-1,6.160
+
+$there $'s {TEXT:there's} a good fellow.  BROUGHAM1-1861-1,6.161
+
+$I $'m {TEXT:I'm} serious - like Othello, perplexed in the extreme.
+BROUGHAM1-1861-1,6.162
+
+Dr. S. Not from the same cause, I hope.
+BROUGHAM1-1861-1,6.163
+
+Herb. No, no - I almost wish it were.  BROUGHAM1-1861-1,6.164
+
+Dr. S. The deuce, you do.  BROUGHAM1-1861-1,6.165
+
+Pray, explain yourself.  BROUGHAM1-1861-1,6.166
+
+Herb. I will, if I can.  BROUGHAM1-1861-1,6.167
+
+Hark!  $is $n't {TEXT:isn't} that Julia's voice?  BROUGHAM1-1861-1,6.168
+
+- no.  I $would $n't {TEXT:wouldn't} have her hear me for worlds.
+BROUGHAM1-1861-1,6.169
+
+Dr. S. A secret, eh?  BROUGHAM1-1861-1,6.170
+
+Herb. Yes - a most embarrassing one.  BROUGHAM1-1861-1,6.171
+
+Dr. S. Aha, I understand.  BROUGHAM1-1861-1,6.172
+
+Herb. No, you $do $n't {TEXT:don't}.  BROUGHAM1-1861-1,6.173
+
+Dr. S. Yes, I do.  BROUGHAM1-1861-1,6.174
+
+You married young.  BROUGHAM1-1861-1,6.175
+
+Herb. Well?  BROUGHAM1-1861-1,6.176
+
+Dr. S. Nearly six years ago.  BROUGHAM1-1861-1,6.177
+
+Herb. Well?  BROUGHAM1-1861-1,6.178
+
+Dr. S. And you have seen some one - BROUGHAM1-1861-1,6.179
+
+Herb. Stop!  BROUGHAM1-1861-1,6.180
+
+I $wo $n't {TEXT:won't} allow your tongue to utter such <P_7> a
+sacrilegious thought.  BROUGHAM1-1861-1,7.181
+
+You know nothing about it.  BROUGHAM1-1861-1,7.182
+
+I love my wife more truly, more devotedly than ever.
+BROUGHAM1-1861-1,7.183
+
+Dr. S. Oh, then, perhaps she - BROUGHAM1-1861-1,7.184
+
+Herb. No; I tell you - no - BROUGHAM1-1861-1,7.185
+
+$that $'s {TEXT:that's} not it at all.  BROUGHAM1-1861-1,7.186
+
+Dr. S. Well, what is it, for mercy's sake -
+BROUGHAM1-1861-1,7.187
+
+is she in bad health?  BROUGHAM1-1861-1,7.188
+
+Herb. On the contrary, fresh and fair and beautiful as Hebe.
+BROUGHAM1-1861-1,7.189
+
+Dr. S. And her spirits?  BROUGHAM1-1861-1,7.190
+
+Herb. <paren> L. <$$paren> Ah!  BROUGHAM1-1861-1,7.191
+
+Dr. S. <paren> R. <$$paren> Now $we $'re {TEXT:we're}
+coming at it.  BROUGHAM1-1861-1,7.192
+
+Herb. Are we!  BROUGHAM1-1861-1,7.193
+
+perhaps.  BROUGHAM1-1861-1,7.194
+
+William, I think I can count upon your friendship, BROUGHAM1-1861-1,7.195
+
+<paren> <font> goes up, BROUGHAM1-1861-1,7.196
+
+and brings down chair BROUGHAM1-1861-1,7.197
+
+and sits <$$font> <$$paren> BROUGHAM1-1861-1,7.198
+
+Dr. S. In any extremity.  BROUGHAM1-1861-1,7.199
+
+Herb. Then listen to me, BROUGHAM1-1861-1,7.200
+
+and let me have your advice.  BROUGHAM1-1861-1,7.201
+
+My wife is the victim of some concealed sorrow, the cause of which I
+$can $n't {TEXT:can't} divine.  BROUGHAM1-1861-1,7.202
+
+Since our marriage we have lived only for each other, as you know;
+BROUGHAM1-1861-1,7.203
+
+the years flew by in calm tranquillity, happy in our mutual confidence,
+happy in our entwined affection.  BROUGHAM1-1861-1,7.204
+
+Dr. S. But surely - BROUGHAM1-1861-1,7.205
+
+Herb. Wait; BROUGHAM1-1861-1,7.206
+
+not long since, only a few months ago, it smote upon my heart like a
+sudden stab that there was a something, I knew not what, wanting in our
+perfect understanding of each other.  BROUGHAM1-1861-1,7.207
+
+I could accuse myself of no concealment except of that one shadow of
+surmise; BROUGHAM1-1861-1,7.208
+
+hour by hour, however, my suspicions grew to certainty;
+BROUGHAM1-1861-1,7.209
+
+I could perceive that her gaiety was unreal, assumed, constrained,
+put on while we were together, only to be abandoned when she was alone.
+BROUGHAM1-1861-1,7.210
+
+Well, one day I had just quitted her, BROUGHAM1-1861-1,7.211
+
+and urged almost to desperation by the cruel doubts that oppressed me,
+I - I listened at her door, BROUGHAM1-1861-1,7.212
+
+I - I looked through her keyhole, BROUGHAM1-1861-1,7.213
+
+I did, William, BROUGHAM1-1861-1,7.214
+
+I did; BROUGHAM1-1861-1,7.215
+
+the hot blood sears my cheek for it, now, BROUGHAM1-1861-1,7.216
+
+but I <font> was <$$font> that abject, cowardly thing, that miserably
+mean eavesdropper.  BROUGHAM1-1861-1,7.217
+
+Once, only <font> once <$$font>, upon my honour - BROUGHAM1-1861-1,7.218
+
+honour?  BROUGHAM1-1861-1,7.219
+
+- <font> my <$$font> honour?  BROUGHAM1-1861-1,7.220
+
+Well, I was punished for it, amply, deservedly, when I saw the lie
+pass from her brow, and the truth, the terrible truth reveal itself;
+BROUGHAM1-1861-1,7.221
+
+she <font> had <$$font> deceived me, BROUGHAM1-1861-1,7.222
+
+the echo of the merry laugh with which she parted from me had scarcely
+<P_8> died away, before I saw her gaze with a sad, painful expression
+upon the door I had passed through, BROUGHAM1-1861-1,8.223
+
+and she wept - BROUGHAM1-1861-1,8.224
+
+wept, I tell you, man, a flood of silent, agonizing tears,
+BROUGHAM1-1861-1,8.225
+
+and I, who but a few moments before would have faced her lightest sorrow
+, at the peril of my life, my soul, felt a curse spring upward from my
+heart; BROUGHAM1-1861-1,8.226
+
+but my great love compelled it back, BROUGHAM1-1861-1,8.227
+
+and changed it to a grief.  BROUGHAM1-1861-1,8.228
+
+Oh, William, I could cry now like a child, like a child.
+BROUGHAM1-1861-1,8.229
+
+Dr. S. And from as small a cause, no doubt.
+BROUGHAM1-1861-1,8.230
+
+Herb. You $can $not {TEXT:cannot} question the sincerity of my
+suffering, BROUGHAM1-1861-1,8.231
+
+or do <font> you <$$font> wish to deceive me also with a feigned
+indifference; BROUGHAM1-1861-1,8.232
+
+in either case I - <paren> <font> rising <$$font> <$$paren>
+BROUGHAM1-1861-1,8.233
+
+Dr. S. Stop; BROUGHAM1-1861-1,8.234
+
+$do $n't {TEXT:don't} be hasty; BROUGHAM1-1861-1,8.235
+
+$I $'m {TEXT:I'm} afraid you have been so already, conjuring up a
+spectre which may seem very hideous, and be nothing but vapour after all;
+BROUGHAM1-1861-1,8.236
+
+let us look the phantom boldly in the face: BROUGHAM1-1861-1,8.237
+
+how long is it since you made this grim discovery?  BROUGHAM1-1861-1,8.238
+
+Herb. Three months and five days.  BROUGHAM1-1861-1,8.239
+
+Dr. S. $There $'s {TEXT:There's} nothing like being
+particular in dates, BROUGHAM1-1861-1,8.240
+
+I presume you $have $n't {TEXT:haven't} hinted to your wife -
+BROUGHAM1-1861-1,8.241
+
+Herb. Of course not; BROUGHAM1-1861-1,8.242
+
+do you think me insane?  BROUGHAM1-1861-1,8.243
+
+Dr. S. Not yet; BROUGHAM1-1861-1,8.244
+
+nor given any indication by change of feature, or coolness of manner,
+that might suggest a suspicion to her.  BROUGHAM1-1861-1,8.245
+
+Herb. No, at least, not designedly.  BROUGHAM1-1861-1,8.246
+
+Dr. S. But by accident?  BROUGHAM1-1861-1,8.247
+
+they breathe hard who wear masks always.  BROUGHAM1-1861-1,8.248
+
+Herb. I $can $n't {TEXT:can't} tell, BROUGHAM1-1861-1,8.249
+
+I believe not.  BROUGHAM1-1861-1,8.250
+
+Dr. S. At all events, she still plays the same part?
+BROUGHAM1-1861-1,8.251
+
+Herb. Yes, <font> plays <$$font> it, oh, how skilfully!
+BROUGHAM1-1861-1,8.252
+
+Dr. S. You $can $n't {TEXT:can't} think of any reason
+springing from yourself - any slight jealousy or misconception?
+BROUGHAM1-1861-1,8.253
+
+Herb. None whatever.  BROUGHAM1-1861-1,8.254
+
+Dr. S. $It $'s {TEXT:It's} reasonable to conclude
+then, that the cause, whatever it be, must rest with her alone?
+BROUGHAM1-1861-1,8.255
+
+Herb. It must, BROUGHAM1-1861-1,8.256
+
+- it must!  BROUGHAM1-1861-1,8.257
+
+Dr. S. Bah, bah!  hold your tongue, BROUGHAM1-1861-1,8.258
+
+and above all, be reasonable; BROUGHAM1-1861-1,8.259
+
+the cause of her uneasiness must be either real or imaginary -
+BROUGHAM1-1861-1,8.260
+
+if imaginary, it must be dispersed for her sake - BROUGHAM1-1861-1,8.261
+
+if real, it must be met manfully for your <font> own.  <$$font>
+BROUGHAM1-1861-1,8.262
+
+$You $'ve {TEXT:You've} been a great deal in each other's society?
+BROUGHAM1-1861-1,8.263
+
+<P_9>
+
+Herb. Necessarily - BROUGHAM1-1861-1,9.265
+
+we wished for none other.  BROUGHAM1-1861-1,9.266
+
+Dr. S. Perhaps not!  BROUGHAM1-1861-1,9.267
+
+Well, I confess $I $'m {TEXT:I'm} puzzled.  BROUGHAM1-1861-1,9.268
+
+Herb. I made an excuse for calling that you might watch her
+closely without exciting her suspicion, BROUGHAM1-1861-1,9.269
+
+there may be some lurking illness that your experienced eye would detect.
+BROUGHAM1-1861-1,9.270
+
+<paren> Mrs. Herbert <font> and <$$font> Mrs. Savage <font>
+laugh without <$$font> <$$paren> BROUGHAM1-1861-1,9.271
+
+Hark, she comes!  BROUGHAM1-1861-1,9.272
+
+<paren> <font> crosses to <$$font> R, <font> behind table <$$font> ,
+BROUGHAM1-1861-1,9.273
+
+Mrs. Herbert <font> laughs outside <$$font> <$$paren>
+BROUGHAM1-1861-1,9.274
+
+Ah, that laugh - how it chills me - BROUGHAM1-1861-1,9.275
+
+silence and discretion!  BROUGHAM1-1861-1,9.276
+
+Dr. S. Pooh, $I $'m {TEXT:I'm} a physician!
+BROUGHAM1-1861-1,9.277
+
+<font> Enter <$$font> Mrs. Savage <font> and <$$font> Mrs.
+Herbert, L. 2. E. BROUGHAM1-1861-1,9.278
+
+Mrs. S. <paren> <font> speaking as they enter,
+<$$font> L. <$$paren> $It $'s {TEXT:It's} not true, my dear,
+BROUGHAM1-1861-1,9.279
+
+for the newspapers say that the Empress wore them at the last ball,
+BROUGHAM1-1861-1,9.280
+
+and I suppose that settles the question.  BROUGHAM1-1861-1,9.281
+
+Mrs. H. <paren> <font> joyously, <$$font> L.
+C. <$$paren> Good morning, my dear Doctor, BROUGHAM1-1861-1,9.282
+
+I hope $you $'ll {TEXT:you'll} pardon me for not paying my respects
+sooner, BROUGHAM1-1861-1,9.283
+
+but when women meet you know they have a thousand things to talk about.
+BROUGHAM1-1861-1,9.284
+
+Dr. S. <paren> R. C. <$$paren> $Do $n't
+{TEXT:Don't} mention it, my dear madam, BROUGHAM1-1861-1,9.285
+
+$I $'m {TEXT:I'm} delighted to see you looking so well.
+BROUGHAM1-1861-1,9.286
+
+Herb. Pale, $is $n't {TEXT:isn't} she?  BROUGHAM1-1861-1,9.287
+
+Dr. S. No.  BROUGHAM1-1861-1,9.288
+
+Mrs. H. <paren> <font> to Herbert <$$font> <$$paren>
+Did I detain you love?  BROUGHAM1-1861-1,9.289
+
+Herb. <paren> R., <font> gaily <$$font> <$$paren> Not at
+all, darling - BROUGHAM1-1861-1,9.290
+
+had a glorious chat with my old friend William - BROUGHAM1-1861-1,9.291
+
+$is $n't {TEXT:isn't} that flush hectic?  BROUGHAM1-1861-1,9.292
+
+Dr. S. Hectic?  BROUGHAM1-1861-1,9.293
+
+Nonsense!  BROUGHAM1-1861-1,9.294
+
+Mrs. H. <paren> <font> to <$$font> Mrs. Savage
+<$$paren> $Do $n't {TEXT:Don't} you see a sad expression in his eye.
+BROUGHAM1-1861-1,9.295
+
+Mrs. S. <paren> L. <$$paren> Not a bit;
+BROUGHAM1-1861-1,9.296
+
+I suppose I must introduce myself.  BROUGHAM1-1861-1,9.297
+
+<paren> <font> crosses to him <$$font> <$$paren> BROUGHAM1-1861-1,9.298
+
+I believe I have the honour of addressing the celebrated Dr.
+Savage?  BROUGHAM1-1861-1,9.299
+
+Dr. S. Eh, $who $'s {TEXT:who's} that?
+BROUGHAM1-1861-1,9.300
+
+Mrs. S. $I $'m {TEXT:I'm} your wife, if you please, Doctor.
+BROUGHAM1-1861-1,9.301
+
+Dr. S. Oh, little woman, is that you?
+BROUGHAM1-1861-1,9.302
+
+Mrs. S. Yes it is - BROUGHAM1-1861-1,9.303
+
+and you take no more notice of me than if I were any other article of
+household furniture.  BROUGHAM1-1861-1,9.304
+
+Dr. S. Ah, you little humbug, you want to give your friends
+an idea that you are terribly neglected, $do $n't {TEXT:don't} you?
+BROUGHAM1-1861-1,9.305
+
+Mrs. S. Well, and am I not, when $I $'ve {TEXT:I've}
+hardly seen you for a week.  BROUGHAM1-1861-1,9.306
+
+<P_10>
+
+Herb. What?  {COM:Herb_&_Mrs._H_simultaneously}
+BROUGHAM1-1861-1,10.308
+
+Mrs. H. Is it possible?  {COM:Herb_&_Mrs._H_simultaneously}
+BROUGHAM1-1861-1,10.309
+
+Mrs. S. $It $'s {TEXT:It's} a melancholy fact;
+BROUGHAM1-1861-1,10.310
+
+what with calls out, consultations - very convenient excuses, and that
+odious club, ah, how $I $'d {TEXT:I'd} like to strangle it.  I $have
+$n't {TEXT:haven't} set eyes upon him only for a minute or two, for -
+for - oh, ever so long.  BROUGHAM1-1861-1,10.311
+
+<paren> <font> retires up stage BROUGHAM1-1861-1,10.312
+
+and sits on sofa <$$font> <$$paren> BROUGHAM1-1861-1,10.313
+
+Dr. S. But $did $n't {TEXT:didn't} I come at last to
+comfort you as the other tyrant said, you perverse little pet grumbling
+domestic dictator.  BROUGHAM1-1861-1,10.314
+
+<paren> Mrs. Herbert <font> laughs, sitting on sofa <$$font>
+<$$paren> BROUGHAM1-1861-1,10.315
+
+Herb. Ah, that perfidious laugh.  BROUGHAM1-1861-1,10.316
+
+Mrs. H. Very good, Doctor; BROUGHAM1-1861-1,10.317
+
+did you hear that, Herbert dear?  BROUGHAM1-1861-1,10.318
+
+Herb. Oh, yes, my love, capital!  BROUGHAM1-1861-1,10.319
+
+<paren> <font> laughs BROUGHAM1-1861-1,10.320
+
+and turns up stage <$$font> <$$paren> BROUGHAM1-1861-1,10.321
+
+The mask, the mask, how evident it is.  BROUGHAM1-1861-1,10.322
+
+Dr. S. I know better than to let you have too much of my
+company, my duck.  BROUGHAM1-1861-1,10.323
+
+Mrs. S. Indeed, sir, and why, may I ask?
+BROUGHAM1-1861-1,10.324
+
+Dr. S. Precautionally, my darling; BROUGHAM1-1861-1,10.325
+
+$I $'m {TEXT:I'm} out of spirits sometimes, BROUGHAM1-1861-1,10.326
+
+and dullness is contagious.  BROUGHAM1-1861-1,10.327
+
+Mrs. S. $I $'m {TEXT:I'm} much obliged to you for your
+consideration.  BROUGHAM1-1861-1,10.328
+
+Dr. S. Oh, $you $'re {TEXT:you're} very welcome.
+BROUGHAM1-1861-1,10.329
+
+Mrs. S. But I think it more professional than polite;
+BROUGHAM1-1861-1,10.330
+
+$do $n't {TEXT:don't} you agree with me, Mr. Waverly?
+BROUGHAM1-1861-1,10.331
+
+Herb. Yes, perfectly - BROUGHAM1-1861-1,10.332
+
+I beg your pardon, I $did $n't {TEXT:didn't} exactly catch the -
+BROUGHAM1-1861-1,10.333
+
+Mrs. H. Why, Herbert, dear, you seem out of spirits
+yourself to-day.  BROUGHAM1-1861-1,10.334
+
+Herb. Not at all, my darling, BROUGHAM1-1861-1,10.335
+
+what could induce you to suppose so?  BROUGHAM1-1861-1,10.336
+
+<paren> <font> to <$$font> Dr. Savage <$$paren> She has been
+crying.  BROUGHAM1-1861-1,10.337
+
+<paren> Mrs. Herbert <font> turns to <$$font> Mrs. Savage
+<$$paren> BROUGHAM1-1861-1,10.338
+
+Dr. S. I $would $n't {TEXT:wouldn't} be surprised,
+BROUGHAM1-1861-1,10.339
+
+women frequently cry about trifles - seldom about troubles.
+BROUGHAM1-1861-1,10.340
+
+Mrs. S. <paren> L. <$$paren> $It $'s {TEXT:It's}
+very evident, my dear, that their high mightinesses our respective
+lords and masters, have not finished their confidential chat.
+BROUGHAM1-1861-1,10.341
+
+Herb. I assure you $there $'s {TEXT:there's} no particular
+conference, BROUGHAM1-1861-1,10.342
+
+we have nothing to consult about, have we, William?
+BROUGHAM1-1861-1,10.343
+
+Dr. S. Nothing but the state of the weather.
+BROUGHAM1-1861-1,10.344
+
+Herb. <font> You <$$font> $do $n't {TEXT:don't} imagine that I
+have, Julia?  BROUGHAM1-1861-1,10.345
+
+Mrs. H. <paren> <font> laughing, <$$font>
+L. C. <$$paren> Why <font> should <$$font> I, dear,
+BROUGHAM1-1861-1,10.346
+
+to judge <P_11> by your merry laugh, you must be as free from care as
+I am.  BROUGHAM1-1861-1,11.347
+
+<paren> <font> goes, <$$font> L. <$$paren> BROUGHAM1-1861-1,11.348
+
+Mrs. S. Come, love, I want to shew you my new aviary.
+BROUGHAM1-1861-1,11.349
+
+$I $'m {TEXT:I'm} sorry to say, my husband's abominable neglect reduces
+me to the old maidenish resource of pets, poodles, and parrots -
+BROUGHAM1-1861-1,11.350
+
+did you hear what I said, sir?  BROUGHAM1-1861-1,11.351
+
+Dr. S. No.  BROUGHAM1-1861-1,11.352
+
+Mrs. S. $You $'re {TEXT:You're} a bear,
+BROUGHAM1-1861-1,11.353
+
+and I hate you!  BROUGHAM1-1861-1,11.354
+
+Dr. S. Thank you, BROUGHAM1-1861-1,11.355
+
+$I $'m {TEXT:I'm} very much obliged to you.  BROUGHAM1-1861-1,11.356
+
+Mrs. H. Oh, $do $n't {TEXT:don't} say that, dear, even
+in jest.  BROUGHAM1-1861-1,11.357
+
+Dr. S. You $would $n't {TEXT:wouldn't} have her say it in
+earnest, would you?  BROUGHAM1-1861-1,11.358
+
+Mrs. H. How amusing you are, doctor; BROUGHAM1-1861-1,11.359
+
+$wo $n't {TEXT:won't} you wait a little longer, Herbert?
+BROUGHAM1-1861-1,11.360
+
+Herb. Certainly, my love, as long as you please,
+BROUGHAM1-1861-1,11.361
+
+$I $'m {TEXT:I'm} not in a hurry, <paren> <font> crossing, <$$font>
+L. <$$paren> BROUGHAM1-1861-1,11.362
+
+Mrs. H. <font> Au revoir <$$font>, then.
+BROUGHAM1-1861-1,11.363
+
+<paren> Mrs. Savage <font> hits the <$$font> Doctor <font>
+sharply on the shoulder, BROUGHAM1-1861-1,11.364
+
+and as she goes off, turns round BROUGHAM1-1861-1,11.365
+
+and makes faces at him <$$font> <$$paren> <font> BROUGHAM1-1861-1,11.366
+
+Exeunt <$$font> Ladies, L. 2 E. BROUGHAM1-1861-1,11.367
+
+Herb. <paren> L. <$$paren> Well?  BROUGHAM1-1861-1,11.368
+
+Dr. S. <paren> L. <$$paren> Well!
+BROUGHAM1-1861-1,11.369
+
+Herb. What do you think?  BROUGHAM1-1861-1,11.370
+
+Dr. S. Think?  BROUGHAM1-1861-1,11.371
+
+$you $'ll {TEXT:you'll} pardon the force of the expression,
+BROUGHAM1-1861-1,11.372
+
+I think $you $'re {TEXT:you're} a pair of fools, not having taken the wise
+precaution to economise your domestic felicity, BROUGHAM1-1861-1,11.373
+
+the natural consequence has been a surfeit.  BROUGHAM1-1861-1,11.374
+
+Herb. What do you mean?  BROUGHAM1-1861-1,11.375
+
+Dr. S. Simply that your sky of happiness has been a little
+too serene - BROUGHAM1-1861-1,11.376
+
+"Shining on, shining on, by no shadow made tender, Till love falls asleep
+in its sameness of splendour. "BROUGHAM1-1861-1,11.377
+
+Herb. Are you in earnest?  BROUGHAM1-1861-1,11.378
+
+Dr. S. Profoundly!  BROUGHAM1-1861-1,11.379
+
+Herb. And the remedy?  BROUGHAM1-1861-1,11.380
+
+Dr. S. Establish a shadow.  BROUGHAM1-1861-1,11.381
+
+Herb. As if it had not been all cloud.  BROUGHAM1-1861-1,11.382
+
+Dr. S. I grant you plenty of cloud, but no storm.
+BROUGHAM1-1861-1,11.383
+
+Herb. Storm.  BROUGHAM1-1861-1,11.384
+
+Dr. S. Yes, storm, BROUGHAM1-1861-1,11.385
+
+the air never gets clear without one; BROUGHAM1-1861-1,11.386
+
+there have been enough of passing vapours, BROUGHAM1-1861-1,11.387
+
+now <P_12> we must let the thunders roll, the lightning play, the rains
+descend.  BROUGHAM1-1861-1,12.388
+
+Herb. You surely $would $n't {TEXT:wouldn't} advise a quarrel?
+BROUGHAM1-1861-1,12.389
+
+Dr. S. By no means.  BROUGHAM1-1861-1,12.390
+
+Herb. What then?  BROUGHAM1-1861-1,12.391
+
+do for pity's sake let me understand you at once.  BROUGHAM1-1861-1,12.392
+
+Dr. S. <paren> R. <$$paren> Desperate cases demand
+desperate remedies.  BROUGHAM1-1861-1,12.393
+
+We must stimulate the organic system, BROUGHAM1-1861-1,12.394
+
+the action of the heart is sluggish.  BROUGHAM1-1861-1,12.395
+
+You have every confidence in your wife's affection?
+BROUGHAM1-1861-1,12.396
+
+Herb. Unbounded!  BROUGHAM1-1861-1,12.397
+
+Dr. S. $Would $n't {TEXT:Wouldn't} be afraid to put it to
+any proof?  BROUGHAM1-1861-1,12.398
+
+Herb. Certainly not!  BROUGHAM1-1861-1,12.399
+
+Dr. S. Then $could $n't {TEXT:couldn't} you get some
+good-looking friend in whose honour and discretion you have reliance
+, to pay her just sufficient attention to excite an interest?
+BROUGHAM1-1861-1,12.400
+
+Herb. <paren> <font> very loudly <$$font> <$$paren> What?
+BROUGHAM1-1861-1,12.401
+
+Dr. S. An indignant one, of course, BROUGHAM1-1861-1,12.402
+
+anything to put an end to this torpidity of soul.  BROUGHAM1-1861-1,12.403
+
+Herb. <paren> <font> walks about <$$font> <$$paren> Phew!
+BROUGHAM1-1861-1,12.404
+
+you may well say a desperate remedy - BROUGHAM1-1861-1,12.405
+
+it has sent the blood galloping through my veins at a stinging pace.
+BROUGHAM1-1861-1,12.406
+
+<paren> <font> crosses to <$$font> R., <font> and back to <$$font>
+L. <$$paren> BROUGHAM1-1861-1,12.407
+
+Dr. S. Yes, I know, BROUGHAM1-1861-1,12.408
+
+it will do you good, too - vitalize your inertness, and fill you
+with wholesome anxieties in spite of yourself; wake up your slumbering
+energies, and pepper your flavourless existence with a little appetizing
+excitement.  BROUGHAM1-1861-1,12.409
+
+Herb. What folly!  BROUGHAM1-1861-1,12.410
+
+I dare not resort to such an unworthy experiment.  BROUGHAM1-1861-1,12.411
+
+Dr. S. Are you afraid?  BROUGHAM1-1861-1,12.412
+
+Herb. No, a thousand times, no.  BROUGHAM1-1861-1,12.413
+
+Dr. S. Then $where $'s {TEXT:where's} the danger?
+BROUGHAM1-1861-1,12.414
+
+Herb. The idea is so singular, BROUGHAM1-1861-1,12.415
+
+but if I were to consent to such an extraordinary proceeding, where am
+I to find the friend?  BROUGHAM1-1861-1,12.416
+
+Dr. S. Oh, plenty of them floating about, who have nothing
+else to do.  BROUGHAM1-1861-1,12.417
+
+Herb. Unless you were to undertake it yourself.
+BROUGHAM1-1861-1,12.418
+
+Dr. S. What are you talking about?  BROUGHAM1-1861-1,12.419
+
+- good gracious!  think of me, a plain, unpretending, jog-trot sort of
+person BROUGHAM1-1861-1,12.420
+
+<P_13>
+
+- why, I never made a complimentary speech to a woman in my life -
+BROUGHAM1-1861-1,13.422
+
+I $do $n't {TEXT:don't} know how - BROUGHAM1-1861-1,13.423
+
+$it $'s {TEXT:it's} preposterous.  BROUGHAM1-1861-1,13.424
+
+Herb. You recommended it yourself.  BROUGHAM1-1861-1,13.425
+
+Dr. S. Yes, but $it $'s {TEXT:it's} rather a novelty
+in medical practice to ask a doctor to swallow his own prescriptions.
+BROUGHAM1-1861-1,13.426
+
+Herb. Consider, that in you I have the completest trust -
+BROUGHAM1-1861-1,13.427
+
+besides, $you $'ll {TEXT:you'll} know exactly how far it will be prudent
+to go.  BROUGHAM1-1861-1,13.428
+
+Come, Come, I shall consider it unfriendly if you refuse.
+BROUGHAM1-1861-1,13.429
+
+Dr. S. Truly, a ridiculous position I have placed myself in.
+BROUGHAM1-1861-1,13.430
+
+$I $'ll {TEXT:I'll} tell you what $I $'ll {TEXT:I'll} do,
+BROUGHAM1-1861-1,13.431
+
+$I $'ll {TEXT:I'll} compromise the matter with you by trying to find
+out the cause of her disquiet, BROUGHAM1-1861-1,13.432
+
+and if I find myself floating towards flirtation, why, $I $'ll {TEXT:I'll}
+resign myself to the current.  BROUGHAM1-1861-1,13.433
+
+Herb. $That $'s {TEXT:That's} my good, kind friend.
+BROUGHAM1-1861-1,13.434
+
+<paren> Ladies <font> laugh outside <$$font> <$$paren>
+BROUGHAM1-1861-1,13.435
+
+Here they come, BROUGHAM1-1861-1,13.436
+
+now you can commence at once.  BROUGHAM1-1861-1,13.437
+
+Dr. S. What, while you are present?  BROUGHAM1-1861-1,13.438
+
+Herb. Pshaw, $that $'s {TEXT:that's} of no consequence.
+BROUGHAM1-1861-1,13.439
+
+Dr. S. Oh, I thought it was; BROUGHAM1-1861-1,13.440
+
+well, but my wife will be here too.  BROUGHAM1-1861-1,13.441
+
+Herb. Yes, $that $'s {TEXT:that's} awkward.
+BROUGHAM1-1861-1,13.442
+
+Dr. S. So I should think.  BROUGHAM1-1861-1,13.443
+
+Herb. Never mind, BROUGHAM1-1861-1,13.444
+
+$I $'ll {TEXT:I'll} pay my regards to her while you -
+BROUGHAM1-1861-1,13.445
+
+Dr. S. No, you $wo $n't {TEXT:won't} do anything of
+the kind.  BROUGHAM1-1861-1,13.446
+
+Herb. What, William, are <font> you <$$font> afraid?
+BROUGHAM1-1861-1,13.447
+
+Dr. S. No, certainly not - BROUGHAM1-1861-1,13.448
+
+confound it, I begin to feel as if I had walked open-eyed into a nice
+predicament.  BROUGHAM1-1861-1,13.449
+
+<font> Enter <$$font> Mrs. Savage <font> and <$$font> Mrs.
+Herbert, <font> door <$$font> L. BROUGHAM1-1861-1,13.450
+
+Mrs. S. $What $'s {TEXT:What's} the matter, dear?
+BROUGHAM1-1861-1,13.451
+
+Dr. S. Oh, nothing - BROUGHAM1-1861-1,13.452
+
+$I $'m {TEXT:I'm} afraid $I $'ve {TEXT:I've} given the wrong prescription
+to a patient, BROUGHAM1-1861-1,13.453
+
+that is all.  BROUGHAM1-1861-1,13.454
+
+Mrs. H. No danger, sir, I hope?  BROUGHAM1-1861-1,13.455
+
+<paren> <font> crosses to him <$$font> <$$paren> BROUGHAM1-1861-1,13.456
+
+Dr. S. Not at all - that is, at present -
+BROUGHAM1-1861-1,13.457
+
+upon my life, $she $'s {TEXT:she's} remarkably pretty,
+BROUGHAM1-1861-1,13.458
+
+I never noticed it before; BROUGHAM1-1861-1,13.459
+
+I $do $n't {TEXT:don't} think it would be very difficult to say a few
+tender words to her - BROUGHAM1-1861-1,13.460
+
+hem, Mrs. Waverly!  BROUGHAM1-1861-1,13.461
+
+<paren> <font> she turns suddenly <$$font> <$$paren>
+BROUGHAM1-1861-1,13.462
+
+Bless my soul, who would have thought $she $'d {TEXT:she'd} turn on a
+fellow like a drawing-room tigress - BROUGHAM1-1861-1,13.463
+
+beg your pardon, BROUGHAM1-1861-1,13.464
+
+but did you - BROUGHAM1-1861-1,13.465
+
+<P_14>
+
+Mrs. H. No, sir.  BROUGHAM1-1861-1,14.467
+
+Dr. S. I thought not - BROUGHAM1-1861-1,14.468
+
+did you ever read this interesting work - BROUGHAM1-1861-1,14.469
+
+I $do $n't {TEXT:don't} mean that - BROUGHAM1-1861-1,14.470
+
+if you would only grant me a private interview.  BROUGHAM1-1861-1,14.471
+
+Mrs. H. Sir!  BROUGHAM1-1861-1,14.472
+
+Dr. S. No, not private - BROUGHAM1-1861-1,14.473
+
+public, I mean - BROUGHAM1-1861-1,14.474
+
+oh lord!  I $do $n't {TEXT:don't} know what I mean;
+BROUGHAM1-1861-1,14.475
+
+see what it is to be unused to a thing - BROUGHAM1-1861-1,14.476
+
+$that $'s {TEXT:that's} as far as I can go at present.
+BROUGHAM1-1861-1,14.477
+
+<font> Enter <$$font> Pinchbeck, <font> With coat, door, <$$font>
+L. C. BROUGHAM1-1861-1,14.478
+
+Pinchbeck.  $Cab $'s {TEXT:Cab's} at the door, sir.
+BROUGHAM1-1861-1,14.479
+
+Dr. S. Oh, ah - yes, to be sure - dear me, I had almost
+forgotten my visits.  BROUGHAM1-1861-1,14.480
+
+<paren> <font> going <$$font> <$$paren> BROUGHAM1-1861-1,14.481
+
+Mrs. S. $You $'re {TEXT:You're} not going out in that coat?
+BROUGHAM1-1861-1,14.482
+
+Dr. S. Bless me, no - BROUGHAM1-1861-1,14.483
+
+excuse me - BROUGHAM1-1861-1,14.484
+
+a little absent this Morning.  BROUGHAM1-1861-1,14.485
+
+<paren> Pinchbeck <font> puts coat on <$$font> Doctor - <font>
+BROUGHAM1-1861-1,14.486
+
+business - BROUGHAM1-1861-1,14.487
+
+all laugh <$$font> - BROUGHAM1-1861-1,14.488
+
+Doctor <font> runs off - BROUGHAM1-1861-1,14.489
+
+Drop quick <$$font> <$$paren> BROUGHAM1-1861-1,14.490
+
+<heading>
+
+End of Act the First.  BROUGHAM1-1861-1,14.492
+
+Act II.  BROUGHAM1-1861-1,14.493
+
+<$$heading>
+
+Scene.  - <font> Drawing Room at Waverley's.  <$$font>
+BROUGHAM1-1861-1,14.495
+
+<font> Enter <$$font> Mary Anne, <font> followed by <$$font> Uncle
+Timothy, C. BROUGHAM1-1861-1,14.496
+
+Mary.  What name shall I say, sir?  BROUGHAM1-1861-1,14.497
+
+Uncle T. Oh, ah!  yes - nobody - anybody.  BROUGHAM1-1861-1,14.498
+
+Just say $he $'s {TEXT:he's} wanted, BROUGHAM1-1861-1,14.499
+
+$that $'s {TEXT:that's} all.  BROUGHAM1-1861-1,14.500
+
+Mary.  Hem!  BROUGHAM1-1861-1,14.501
+
+Gentleman from the rural districts.  BROUGHAM1-1861-1,14.502
+
+<font> Exit, <$$font> R. 2 E. BROUGHAM1-1861-1,14.503
+
+Uncle T. Now look at this house: BROUGHAM1-1861-1,14.504
+
+who $could $n't {TEXT:couldn't} tell at a glance that the beautifying
+influence of a wife made this home a very nest of comfort and happiness?
+BROUGHAM1-1861-1,14.505
+
+bless my soul what a deal of time I have wasted to be sure,
+BROUGHAM1-1861-1,14.506
+
+and yet, how $it $'s {TEXT:it's} generally arrived at I $have $n't
+{TEXT:haven't} the remotest idea; BROUGHAM1-1861-1,14.507
+
+phew, the very thought sets me in a flame!  BROUGHAM1-1861-1,14.508
+
+$I $'m {TEXT:I'm} on the road now, though; BROUGHAM1-1861-1,14.509
+
+$where $'s {TEXT:where's} the paper?  BROUGHAM1-1861-1,14.510
+
+ah, here - here is the fiat of my fate, the first step towards <P_15>
+connubiality made easy.  BROUGHAM1-1861-1,15.511
+
+"Romeo will be at Mr. W.'s office at twelve to-morrow.
+"BROUGHAM1-1861-1,15.512
+
+$I $'m {TEXT:I'm} Romeo, kindly assisted in the pursuit of some
+anonymous Juliet by this benevolent mouthpiece of the diffident.
+BROUGHAM1-1861-1,15.513
+
+<paren> <font> takes out letter BROUGHAM1-1861-1,15.514
+
+and reads <$$font> <$$paren>"Dr. Savage, No. 34 -
+BROUGHAM1-1861-1,15.515
+
+Eh, bless me, BROUGHAM1-1861-1,15.516
+
+$here $'s {TEXT:here's} Herbert!  BROUGHAM1-1861-1,15.517
+
+<paren> <font> thrusts letter into his pocket <$$font> <$$paren>
+BROUGHAM1-1861-1,15.518
+
+<font> Enter <$$font> Herbert, R. 2 E.
+BROUGHAM1-1861-1,15.519
+
+Herb. Why, Uncle Timothy, is it you?  BROUGHAM1-1861-1,15.520
+
+Uncle T. <paren> L. <$$paren> Yes, my boy, $it $'s
+{TEXT:it's} Uncle Timothy, come to town incog, like a Crown Prince.
+BROUGHAM1-1861-1,15.521
+
+Glad to see you.  BROUGHAM1-1861-1,15.522
+
+$How $'s {TEXT:How's} Julia?  BROUGHAM1-1861-1,15.523
+
+Herb. In excellent health, and charming as ever.
+BROUGHAM1-1861-1,15.524
+
+Uncle T. O, you lucky, happy dog.  BROUGHAM1-1861-1,15.525
+
+Herb. Yes, happy; very, very happy, <paren> <font> seriously
+<$$font> <$$paren> BROUGHAM1-1861-1,15.526
+
+Uncle T. Anybody can see that.  BROUGHAM1-1861-1,15.527
+
+Aha, $it $'s {TEXT:it's} the only true felicity, my boy,
+BROUGHAM1-1861-1,15.528
+
+I envy you, Herbert, BROUGHAM1-1861-1,15.529
+
+upon my life I do.  BROUGHAM1-1861-1,15.530
+
+$What $'s {TEXT:What's} the use of all the enjoyment the world can procure
+if you have to lock it up in your own chest?  BROUGHAM1-1861-1,15.531
+
+It $wo $n't {TEXT:won't} keep sweet unless it can get air, unless you can
+give it to somebody to take care of it for you, BROUGHAM1-1861-1,15.532
+
+and even then you must take it out occasionally, like very good clothes,
+for fear the moth should get into it; toss it to and fro, from one to
+the other - BROUGHAM1-1861-1,15.533
+
+I $do $n't {TEXT:don't} mean ridiculously, like overgrown children
+with a toy that might be lost or broken in the operation, but like a
+delicate gem whose lustre should only be renewed by your own hands.
+BROUGHAM1-1861-1,15.534
+
+Why $you $'ll {TEXT:you'll} forget you ever possessed it if you stowed
+it away in a drawer.  BROUGHAM1-1861-1,15.535
+
+Herbert, will you answer me one question ingenuously?
+BROUGHAM1-1861-1,15.536
+
+Herb. Yes, uncle, if I can.  BROUGHAM1-1861-1,15.537
+
+Uncle T. Do you think - now promise me that you $wo $n't
+{TEXT:won't} laugh - do you think I - look at me well - that $I $'m
+{TEXT:I'm}, hang it, I $can $n't {TEXT:can't} go on, that $I $'m
+{TEXT:I'm} - $I $'m {TEXT:I'm} too old to marry.  BROUGHAM1-1861-1,15.538
+
+Phew!  BROUGHAM1-1861-1,15.539
+
+Herb. Certainly not, sir, if - BROUGHAM1-1861-1,15.540
+
+Uncle T. Yes, yes, I know, if I could find anybody to marry me.
+BROUGHAM1-1861-1,15.541
+
+Herb. I was about to say, if your inclination led you in that
+direction.  BROUGHAM1-1861-1,15.542
+
+Uncle $T. {TEXT:missing_T.} It $is $n't {TEXT:isn't} likely I
+would, you know, unless it did.  BROUGHAM1-1861-1,15.543
+
+<P_16>
+
+Herb. May I ask you in return, sir, have you any such inclination?
+BROUGHAM1-1861-1,16.545
+
+Uncle $T. {TEXT:missing_T.} Well, yes - no - I mean it depends
+a good deal on circumstances.  BROUGHAM1-1861-1,16.546
+
+Herb. What circumstances?  BROUGHAM1-1861-1,16.547
+
+Uncle $T. {TEXT:missing_T.} Never you mind, sir!
+BROUGHAM1-1861-1,16.548
+
+Herb. The astonishment to me is, that you never thought of
+it before.  BROUGHAM1-1861-1,16.549
+
+Uncle $T. {TEXT:missing_T.} How do you know I never thought of it?
+BROUGHAM1-1861-1,16.550
+
+I <font> have <$$font>, my boy, dozens of times.  BROUGHAM1-1861-1,16.551
+
+Whenever I saw a truly happy couple, I was instantly inoculated with
+the infection, BROUGHAM1-1861-1,16.552
+
+and looked about me eagerly to find a desirable partner,
+BROUGHAM1-1861-1,16.553
+
+but before I could call up courage enough to ask the definite question,
+some accidental scene of domestic disquiet would be sure to send me back
+into my shell like a frightened snail.  BROUGHAM1-1861-1,16.554
+
+Herb. This visit of yours is somewhat unexpected, uncle.
+BROUGHAM1-1861-1,16.555
+
+Uncle $T. {TEXT:missing_T.} Yes, my boy, $I $'ll {TEXT:I'll}
+tell you how it happened - BROUGHAM1-1861-1,16.556
+
+Sister Patience and I were invited to a wedding about a month ago,
+BROUGHAM1-1861-1,16.557
+
+and the delight of the young people made me feel so like a
+malefactor that I resolved to put a speedy end to my bachelor days.
+BROUGHAM1-1861-1,16.558
+
+Now, our village is not an extensive place for matrimonial operations,
+BROUGHAM1-1861-1,16.559
+
+and Patience is as watchful as a lynx, BROUGHAM1-1861-1,16.560
+
+so I had to try a desperate manoeuvre, BROUGHAM1-1861-1,16.561
+
+and - well, $you $'ll {TEXT:you'll} see what, by-and-bye.  <paren> <font>
+about to take a letter out <$$font> <$$paren> BROUGHAM1-1861-1,16.562
+
+Herb. Is Aunt Patience with you?  BROUGHAM1-1861-1,16.563
+
+Uncle $T. {TEXT:missing_T.} <paren> <font> looking round <$$font>
+<$$paren> Bless me, no; BROUGHAM1-1861-1,16.564
+
+since she lost her husband, old Crabsticke, and came to live with
+me, I have received the full benefit of her domestic experience.
+BROUGHAM1-1861-1,16.565
+
+She used to worry the poor old fellow to the verge of lunacy,
+BROUGHAM1-1861-1,16.566
+
+and now $can $n't {TEXT:can't} get rid of the old habit,
+BROUGHAM1-1861-1,16.567
+
+and certainly does contrive to keep me in a blessed state of tribulation.
+BROUGHAM1-1861-1,16.568
+
+Think of that, my boy - to have all the aggravating irritabilities
+of a duplicated existence without any of its little comforts,
+BROUGHAM1-1861-1,16.569
+
+$is $n't {TEXT:isn't} it too bad.  BROUGHAM1-1861-1,16.570
+
+Why, $what $'s {TEXT:what's} the matter with you, Herbert,
+BROUGHAM1-1861-1,16.571
+
+$you $'re {TEXT:you're} looking pale?  BROUGHAM1-1861-1,16.572
+
+Herb. With me?  BROUGHAM1-1861-1,16.573
+
+- nothing, sir; BROUGHAM1-1861-1,16.574
+
+never felt better in all my life.  BROUGHAM1-1861-1,16.575
+
+Uncle $T. {TEXT:missing_T.} Anything amiss between you and Julia?
+BROUGHAM1-1861-1,16.576
+
+<P_17>
+
+Herb. Certainly not, sir.  BROUGHAM1-1861-1,17.578
+
+How could you imagine such a thing?  BROUGHAM1-1861-1,17.579
+
+Uncle $T. {TEXT:missing_T.}.  I $do $n't {TEXT:don't} know -
+BROUGHAM1-1861-1,17.580
+
+partly on my own account; BROUGHAM1-1861-1,17.581
+
+for, if my present resolution <font> could <$$font> be shaken, that,
+I think, would demolish it effectually.  BROUGHAM1-1861-1,17.582
+
+<font> Enter <$$font> Mrs. Herbert, L. 2 E.
+BROUGHAM1-1861-1,17.583
+
+Herb. <font> Apropos!  <$$font> here she comes to answer for
+herself.  BROUGHAM1-1861-1,17.584
+
+<paren> <font> aside <$$font> <$$paren> This state of dissimulation and
+suspense is maddening.  BROUGHAM1-1861-1,17.585
+
+Mrs. H. <paren> <font> on seeing <$$font> Herbert,
+<font> changes her manner <$$font> <$$paren> Herbert here still!
+BROUGHAM1-1861-1,17.586
+
+Why, I thought you had gone out, dear.  BROUGHAM1-1861-1,17.587
+
+Herb. No, my love; Uncle Timothy here, intercepted me.
+BROUGHAM1-1861-1,17.588
+
+Mrs. H. My dear uncle, $I $'m {TEXT:I'm} glad to see you!
+BROUGHAM1-1861-1,17.589
+
+Uncle $T. {TEXT:missing_T.} <paren> <font> crosses to her <$$font>
+<$$paren> BROUGHAM1-1861-1,17.590
+
+As I am, my little darling pet, to see you, believe me.
+BROUGHAM1-1861-1,17.591
+
+You $do $n't {TEXT:don't} know, my dear niece, what gratification
+it affords me to see a truly loving and devoted couple -
+BROUGHAM1-1861-1,17.592
+
+it convinces me what a procrastinating old idiot I have been all my life.
+BROUGHAM1-1861-1,17.593
+
+But I have made up my mind, at last - how - BROUGHAM1-1861-1,17.594
+
+well - no, now that I look at you again - BROUGHAM1-1861-1,17.595
+
+not well?  BROUGHAM1-1861-1,17.596
+
+- why, $what $'s {TEXT:what's} the matter with your eyes - so red and
+swollen?  BROUGHAM1-1861-1,17.597
+
+Julia, $you $'ve {TEXT:you've} been crying.  BROUGHAM1-1861-1,17.598
+
+Mrs. H. No, no; hush!  BROUGHAM1-1861-1,17.599
+
+Uncle $T. {TEXT:missing_T.} But I say yes, yes,
+BROUGHAM1-1861-1,17.600
+
+and I $wo $n't {TEXT:won't} hush, <paren> <font> looking at both <$$font>
+<$$paren> Hem!  BROUGHAM1-1861-1,17.601
+
+<paren> <font> crosses to <$$font> C. <$$paren>
+BROUGHAM1-1861-1,17.602
+
+Hang it, BROUGHAM1-1861-1,17.603
+
+I $must $n't {TEXT:mustn't} be too precipitate.  BROUGHAM1-1861-1,17.604
+
+$There $'s {TEXT:There's} something wrong between you two.
+BROUGHAM1-1861-1,17.605
+
+Mrs. H. My dear uncle, no, no.
+{COM:Mrs._H_&_Herb_simultaneously} BROUGHAM1-1861-1,17.606
+
+Herb. Not at all; BROUGHAM1-1861-1,17.607
+
+$you $'re {TEXT:you're} in error, sir.  {COM:Mrs._H_&_Herb_simultaneously}
+BROUGHAM1-1861-1,17.608
+
+Uncle $T. {TEXT:missing_T.} Oh.  you $can $n't {TEXT:can't}
+deceive me.  BROUGHAM1-1861-1,17.609
+
+$I $'ve {TEXT:I've} watched other people's matrimonial barometers too
+closely not to know the difference between changeable and set fair.
+BROUGHAM1-1861-1,17.610
+
+Herb. What an idea, uncle.  BROUGHAM1-1861-1,17.611
+
+<paren> <font> laughs <$$font> <$$paren> BROUGHAM1-1861-1,17.612
+
+Mrs. H. Singular mistake.  BROUGHAM1-1861-1,17.613
+
+<paren> <font> laughs <$$font> <$$paren> BROUGHAM1-1861-1,17.614
+
+Uncle T. Yes, yes, I see, BROUGHAM1-1861-1,17.615
+
+these are very contemptible imitations of hilarity.
+BROUGHAM1-1861-1,17.616
+
+I know exactly the state of affairs: as usual, BROUGHAM1-1861-1,17.617
+
+I have blundered in at the wrong time, BROUGHAM1-1861-1,17.618
+
+and find Master Hymen without his holiday dress - wedlock in <font>
+dishabille.  <$$font> BROUGHAM1-1861-1,17.619
+
+I was very right in supposing it to be an extremely hazardous investment
+, BROUGHAM1-1861-1,17.620
+
+and so $I $'ll {TEXT:I'll} have nothing to do with it.
+BROUGHAM1-1861-1,17.621
+
+<paren> <font> sits <$$font> <$$paren> BROUGHAM1-1861-1,17.622
+
+<P_18>
+
+Herb. <paren> <font> sits <$$font> <$$paren>
+BROUGHAM1-1861-1,18.624
+
+What, my dear uncle, would you rather, live a clockwork life, using
+your heart's machinery for no better purpose than to tick off the
+passing hours.  BROUGHAM1-1861-1,18.625
+
+Give me the extremes of joy and grief instead: and I $wo $n't {TEXT:won't}
+allow you to mock your kindly disposition so far as to speak harshly of
+a state whose very anxieties spring often from an excess of happiness.
+BROUGHAM1-1861-1,18.626
+
+Uncle T. I think I could contrive to do without the surplus.
+BROUGHAM1-1861-1,18.627
+
+Herb. But, sir, imagine the ample store of pleasures lost
+by those who journey through the world in single selfishness.
+BROUGHAM1-1861-1,18.628
+
+Uncle T. A man $can $n't {TEXT:can't} miss what he never had.
+BROUGHAM1-1861-1,18.629
+
+Herb. But men generally envy what they $can $n't {TEXT:can't}
+obtain; BROUGHAM1-1861-1,18.630
+
+who $would $n't {TEXT:wouldn't} seize upon a treasure that lay within
+his reach?  BROUGHAM1-1861-1,18.631
+
+Uncle T. Nobody if he had a right to it, and was assured of
+its reality.  Herb. Which can only be determined by the test.
+BROUGHAM1-1861-1,18.632
+
+Uncle T. And then if it should turn out counterfeit, it would be
+too late for anything but the pleasant consciousness of having cheated
+yourself - doomed, moreover to have the consequence of your rashness
+tied about your neck - a heap of spurious coin that you can neither
+change nor fling away.  BROUGHAM1-1861-1,18.633
+
+Herb. Ah, believe me sir, the real prize, though rare, if once
+obtained, is worth the risk.  BROUGHAM1-1861-1,18.634
+
+Uncle T. <paren> <font> coming to <$$font> Herbert <$$paren>
+Do you really think so, Herbert?  BROUGHAM1-1861-1,18.635
+
+Herb. I am sure of it.  BROUGHAM1-1861-1,18.636
+
+<paren> <font> goes up to chair, <$$font> R. <$$paren>
+BROUGHAM1-1861-1,18.637
+
+Uncle T. <paren> <font> to <$$font> Mrs. Herbert,
+<font> who comes down, <$$font> L. <$$paren> Come here, pet;
+BROUGHAM1-1861-1,18.638
+
+look in my face - BROUGHAM1-1861-1,18.639
+
+tell me honourably and truly - are you contented?  BROUGHAM1-1861-1,18.640
+
+Do you love Herbert as much as ever?  BROUGHAM1-1861-1,18.641
+
+Mrs. H. A thousand times better, sir,
+BROUGHAM1-1861-1,18.642
+
+but words are poor interpreters - BROUGHAM1-1861-1,18.643
+
+the deepest affection is ever the most silent.  BROUGHAM1-1861-1,18.644
+
+Uncle $T. {TEXT:missing_T.} I believe you, darling;
+BROUGHAM1-1861-1,18.645
+
+$there $'s {TEXT:there's} truth, conviction in that open glance.
+BROUGHAM1-1861-1,18.646
+
+<paren> Mrs. H. <font> turns and sits <$$font> L. -
+BROUGHAM1-1861-1,18.647
+
+Uncle <font> goes to <$$font> Herbert, <font> who is seated in chair,
+<$$font> R. <$$paren> BROUGHAM1-1861-1,18.648
+
+I think I <font> must <$$font>, after all.  BROUGHAM1-1861-1,18.649
+
+<paren> <font> to <$$font> Herbert <$$paren> Nephew, between
+ourselves now, is your love for your wife as strong as it used to be?
+BROUGHAM1-1861-1,18.650
+
+<P_19>
+
+Herb. So strong, my dear uncle, that my life's structure is
+sustained by that alone.  BROUGHAM1-1861-1,19.652
+
+Uncle $T. {TEXT:missing_T.} $He $'s {TEXT:He's} in earnest -
+BROUGHAM1-1861-1,19.653
+
+$they $'re {TEXT:they're} both in earnest.  BROUGHAM1-1861-1,19.654
+
+$I $'ll {TEXT:I'll} do it - BROUGHAM1-1861-1,19.655
+
+<font> my <$$font> life's structure must be sustained.
+BROUGHAM1-1861-1,19.656
+
+$I $'ve {TEXT:I've} flung away joy and comfort too long.
+BROUGHAM1-1861-1,19.657
+
+Herbert, $wo $n't {TEXT:won't} you lodge me for a day or two?
+BROUGHAM1-1861-1,19.658
+
+I have some very important business to transact.  BROUGHAM1-1861-1,19.659
+
+Herb. <paren> <font> rings bell <$$font> <$$paren>
+BROUGHAM1-1861-1,19.660
+
+Certainly, my dear uncle, as long as you please.  BROUGHAM1-1861-1,19.661
+
+Mrs. H. Nothing could give us greater pleasure.
+BROUGHAM1-1861-1,19.662
+
+<font> Enter <$$font> Mary Anne, R. 3 E.
+BROUGHAM1-1861-1,19.663
+
+Herb. Mary Anne, shew uncle into the best of the spare rooms.
+BROUGHAM1-1861-1,19.664
+
+Uncle T. Thank you - BROUGHAM1-1861-1,19.665
+
+thank you!  BROUGHAM1-1861-1,19.666
+
+Yes, $I $'m {TEXT:I'm} determined, BROUGHAM1-1861-1,19.667
+
+nothing can change me now.  BROUGHAM1-1861-1,19.668
+
+<font> Exit, <$$font> R. 3 E. BROUGHAM1-1861-1,19.669
+
+Herb. <paren> <font> after a slight pause <$$font> -
+BROUGHAM1-1861-1,19.670
+
+Mrs. Herbert <font> rises BROUGHAM1-1861-1,19.671
+
+and comes down, <$$font> L. - BROUGHAM1-1861-1,19.672
+
+Herbert, R. <$$paren> I wonder, love, what chimerical project
+our eccentric relative has now in view.  BROUGHAM1-1861-1,19.673
+
+Mrs. H. I $can $n't {TEXT:can't} imagine, dear.
+BROUGHAM1-1861-1,19.674
+
+Surely he $do $n't {TEXT:don't} {COM:sic} contemplate matrimony himself?
+BROUGHAM1-1861-1,19.675
+
+Herb. $I $'m {TEXT:I'm} almost inclined to think so.
+BROUGHAM1-1861-1,19.676
+
+Ah!  if I dared approach the subject of my painful thought.  <paren>
+<font> aside <$$font> <$$paren> BROUGHAM1-1861-1,19.677
+
+Mrs. H. If he would but confide in me.  <paren> <font>
+aside <$$font> <$$paren> BROUGHAM1-1861-1,19.678
+
+Herb. I shall at least give her an opportunity for explanation.
+<paren> <font> aside <$$font> <$$paren> BROUGHAM1-1861-1,19.679
+
+Julia, dear, come, BROUGHAM1-1861-1,19.680
+
+$it $'s {TEXT:it's} a long time since we had one of our confidential
+gossips together.  BROUGHAM1-1861-1,19.681
+
+<paren> <font> they sit on ottoman <$$font>, C. <$$paren>
+BROUGHAM1-1861-1,19.682
+
+Mrs. H. He is going to explain.  <paren> <font> aside
+<$$font> <$$paren> BROUGHAM1-1861-1,19.683
+
+Ah!  yes, Herbert, dear, BROUGHAM1-1861-1,19.684
+
+and I have missed them so much.  BROUGHAM1-1861-1,19.685
+
+<paren> <font> they sit <$$font> - BROUGHAM1-1861-1,19.686
+
+Mrs. Crabsticke <font> heard outside - BROUGHAM1-1861-1,19.687
+
+they start up <$$font> <$$paren> BROUGHAM1-1861-1,19.688
+
+Mrs. C. $Do $n't {TEXT:Don't} tell me any such nonsense
+as that.  BROUGHAM1-1861-1,19.689
+
+<font> Enter <$$font> Mrs. Crabsticke, C., <font> with
+umbrella and reticule, and <$$font> Servant.  BROUGHAM1-1861-1,19.690
+
+Mrs. C. How $d $'ye {TEXT:d'ye} do - BROUGHAM1-1861-1,19.691
+
+how $d $'ye {TEXT:d'ye} do?  BROUGHAM1-1861-1,19.692
+
+$Did $n't {TEXT:Didn't} expect me, I suppose?  BROUGHAM1-1861-1,19.693
+
+- exactly - BROUGHAM1-1861-1,19.694
+
+$did $n't {TEXT:didn't} expect to be here myself yesterday -
+BROUGHAM1-1861-1,19.695
+
+Thank you, BROUGHAM1-1861-1,19.696
+
+I <font> will <$$font> sit down.  BROUGHAM1-1861-1,19.697
+
+$Do $n't {TEXT:Don't} let me put you out of the way.
+BROUGHAM1-1861-1,19.698
+
+Young man, take care of that umbrella, BROUGHAM1-1861-1,19.699
+
+it is a family relic.  BROUGHAM1-1861-1,19.700
+
+Well, my dears, here I am, dropped down promiscuous-like out of the
+clouds, as a body <P_20> might say.  BROUGHAM1-1861-1,20.701
+
+Why?  BROUGHAM1-1861-1,20.702
+
+$I $'ll {TEXT:I'll} tell you why - BROUGHAM1-1861-1,20.703
+
+<font> $he $'s {TEXT:he's} <$$font> here, $is $n't {TEXT:isn't} he?
+BROUGHAM1-1861-1,20.704
+
+Yes, I thought so - BROUGHAM1-1861-1,20.705
+
+knew $he $'d {TEXT:he'd} come first.  BROUGHAM1-1861-1,20.706
+
+What a worrit he is!  BROUGHAM1-1861-1,20.707
+
+$it $'s {TEXT:it's} well he has me to look after him.
+BROUGHAM1-1861-1,20.708
+
+I mistrusted he had something on his mind, BROUGHAM1-1861-1,20.709
+
+and was resolved to find it out; BROUGHAM1-1861-1,20.710
+
+did I?  BROUGHAM1-1861-1,20.711
+
+why of course I did.  BROUGHAM1-1861-1,20.712
+
+And now I have travelled all this way by myself to fulfil a painful but
+imperative duty.  BROUGHAM1-1861-1,20.713
+
+I $wo $n't {TEXT:won't} even ask you to give me a room,
+BROUGHAM1-1861-1,20.714
+
+for I $must $n't {TEXT:mustn't} be seen, especially by him, the old
+simpleton.  BROUGHAM1-1861-1,20.715
+
+Herb. $What $'s {TEXT:What's} the matter, aunt?
+BROUGHAM1-1861-1,20.716
+
+what has he done?  BROUGHAM1-1861-1,20.717
+
+Mrs. C. Nothing <font> yet <$$font> I hope;
+BROUGHAM1-1861-1,20.718
+
+but $he $'s {TEXT:he's} about to commit an act of stupidity which would
+qualify him for a lunatic asylum!  BROUGHAM1-1861-1,20.719
+
+What?  BROUGHAM1-1861-1,20.720
+
+$I $'ll {TEXT:I'll} tell you what in a few words.  BROUGHAM1-1861-1,20.721
+
+I noticed latterly that he had established a correspondence with some
+unknown parties in the City, here - BROUGHAM1-1861-1,20.722
+
+suspected mischief, BROUGHAM1-1861-1,20.723
+
+and felt it was my duty to counteract it.  BROUGHAM1-1861-1,20.724
+
+Did I?  BROUGHAM1-1861-1,20.725
+
+of course I did!  BROUGHAM1-1861-1,20.726
+
+So I got the servant to give me his last letter, BROUGHAM1-1861-1,20.727
+
+here it is.  BROUGHAM1-1861-1,20.728
+
+<paren> <font> reads <$$font> <$$paren>"Dear Doctor, since you assure me
+that many happy matches"- the old fool -"have been arranged through your
+assistance,"- the lying knave -"I am strongly tempted to see if fortune
+will be equally kind to me. "- stupid dotard - BROUGHAM1-1861-1,20.729
+
+"If I can get away, for I am watched by a remorseless old catamaran,
+"- $that $'s {TEXT:that's} what he calls his own sister -"you shall know
+of it by looking at to-morrow's paper, BROUGHAM1-1861-1,20.730
+
+- signed, Romeo. "BROUGHAM1-1861-1,20.731
+
+What do you think of that?  BROUGHAM1-1861-1,20.732
+
+Romeo!  the dear fascinating youth!  BROUGHAM1-1861-1,20.733
+
+Oh, $could $n't {TEXT:couldn't} I box his ears for him!
+BROUGHAM1-1861-1,20.734
+
+and look at the paper, BROUGHAM1-1861-1,20.735
+
+here it is; BROUGHAM1-1861-1,20.736
+
+<paren> <font> takes paper from her pocket <$$font> <$$paren>
+BROUGHAM1-1861-1,20.737
+
+making an appointment for twelve o'clock to-morrow; $that $'s
+{TEXT:that's} nice conduct, I think.  BROUGHAM1-1861-1,20.738
+
+Mrs. H. To whom is the letter addressed?
+BROUGHAM1-1861-1,20.739
+
+Herb. <paren> <font> taking letter <$$font> <$$paren> No doubt
+to one of those miserable scamps who trade upon human credulity.
+BROUGHAM1-1861-1,20.740
+
+What!  do I see the name and address of one of our most intimate friends ,
+Dr. Savage?  BROUGHAM1-1861-1,20.741
+
+Oh, there must be some singular mistake here.  BROUGHAM1-1861-1,20.742
+
+Mrs. C. <paren> C. <$$paren> Not at all;
+BROUGHAM1-1861-1,20.743
+
+several letters have passed between them.  BROUGHAM1-1861-1,20.744
+
+Mrs. H. It will be easy to ascertain by questioning
+the Doctor.  BROUGHAM1-1861-1,20.745
+
+Herb. <paren> R. <$$paren> Nonsense, my love,
+BROUGHAM1-1861-1,20.746
+
+I $would $n't {TEXT:wouldn't} insult him by mentioning such a thing.
+BROUGHAM1-1861-1,20.747
+
+<P_21>
+
+Mrs. C. $Would $n't {TEXT:Wouldn't} you?
+BROUGHAM1-1861-1,21.749
+
+well, $I $'m {TEXT:I'm} not so squeamish; BROUGHAM1-1861-1,21.750
+
+I shall, you may depend upon it, and pretty smartly, too.
+BROUGHAM1-1861-1,21.751
+
+<font> Enter <$$font> James, C. BROUGHAM1-1861-1,21.752
+
+James.  Mr. Pinchbeck wishes to see you for a moment, sir.
+BROUGHAM1-1861-1,21.753
+
+Herb. Show him in.  BROUGHAM1-1861-1,21.754
+
+<font> Exit <$$font> James.  BROUGHAM1-1861-1,21.755
+
+<font> Enter <$$font> Pinchbeck, C. BROUGHAM1-1861-1,21.756
+
+Pinch. I beg your pardon, sir, for intruding so abruptly,
+BROUGHAM1-1861-1,21.757
+
+but the Doctor would be glad to see you for a few moments, if convenient.
+BROUGHAM1-1861-1,21.758
+
+Herb. Very well; $I $'ll {TEXT:I'll} go at once.
+BROUGHAM1-1861-1,21.759
+
+<font> Au revoir <$$font>, my dear, BROUGHAM1-1861-1,21.760
+
+good-bye, aunt; BROUGHAM1-1861-1,21.761
+
+I hope $you $'ll {TEXT:you'll} be successful in your delicate undertaking.
+BROUGHAM1-1861-1,21.762
+
+<font> Exit, <$$font> C. BROUGHAM1-1861-1,21.763
+
+Mrs. C. <paren> R. <$$paren> So you think, my dear,
+that this Dr. Savage's, or Savage <paren> Pinchbeck <font> about
+to go, <$$font> C., <font> stops on hearing name of Savage <$$font>
+<$$paren> is the agent I am in search of?  BROUGHAM1-1861-1,21.764
+
+Mrs. H. $I $'m {TEXT:I'm} quite certain he is not.
+BROUGHAM1-1861-1,21.765
+
+Pinch. Hah, $what $'s {TEXT:what's} this?  BROUGHAM1-1861-1,21.766
+
+one of my pigeons, I do believe!  BROUGHAM1-1861-1,21.767
+
+<paren> <font> makes signs to <$$font> Mrs. Crabtree <$$paren>
+BROUGHAM1-1861-1,21.768
+
+Mrs. $H. {TEXT:missing_H.} Good gracious, $what $'s
+{TEXT:what's} the matter with you, sir?  BROUGHAM1-1861-1,21.769
+
+Pinch. If you could manage to give me a private interview, I think
+you might hear of something to your advantage.  BROUGHAM1-1861-1,21.770
+
+Mrs. C. <paren> <font> shewing letter <$$font> <$$paren>
+Do you know this person?  BROUGHAM1-1861-1,21.771
+
+Pinch, <paren> <font> aside to her <$$font> <$$paren> Well, rather!
+BROUGHAM1-1861-1,21.772
+
+Mrs. C. <paren> <font> to <$$font> Mrs. Herbert
+<$$paren> Will you do me the favour my dear, to keep my brother
+from seeing me while I reflect upon the course I had better pursue.
+BROUGHAM1-1861-1,21.773
+
+Mrs. H. Certainly, my dear aunt, I shall gladly assist
+you in the endeavour to prevent him from taking so foolish a step.
+BROUGHAM1-1861-1,21.774
+
+<font> Crosses, BROUGHAM1-1861-1,21.775
+
+and exits, <$$font> R. 2 E. BROUGHAM1-1861-1,21.776
+
+Mrs. C. Now, sir!  BROUGHAM1-1861-1,21.777
+
+Pinch. <paren> R. <$$paren> Oh, my dear madam - my
+excellent, good, benevolent looking madam - I implore you to cast a
+pitying eye upon one whom a desperate fate has plunged into a position
+at once repugnant to his feelings, and distasteful to his principles.
+BROUGHAM1-1861-1,21.778
+
+Mrs. C. What on earth do you mean, sir?
+BROUGHAM1-1861-1,21.779
+
+Pinch. Hush!  keep my secret, and I shall crown your <P_22>
+expectations with delight and happiness, without even asking you for
+the entrance fee to place your name on my books.  BROUGHAM1-1861-1,22.780
+
+Mrs. C. What books?  BROUGHAM1-1861-1,22.781
+
+Pinch. My repertory of marriageable parties.
+BROUGHAM1-1861-1,22.782
+
+I know the delicate nature of your mission, my dear madam
+BROUGHAM1-1861-1,22.783
+
+confide fearlessly in my discretion, preserve my unhappy secret,
+and you may choose from a score of highly available candidates.
+BROUGHAM1-1861-1,22.784
+
+Mrs. C. Are you mad, sir?  BROUGHAM1-1861-1,22.785
+
+what is the man talking about?  BROUGHAM1-1861-1,22.786
+
+Pinch. Suffice it to say, madam, in me you behold the veritable
+Doctor Savage, Medical Practitioner, Matrimonial Agent, Leader of Blind
+Cupids, and Door Keeper to the Temple of Hymen.  BROUGHAM1-1861-1,22.787
+
+Mrs. C. Are you Dr. Savage?  BROUGHAM1-1861-1,22.788
+
+Pinch. One of them.  BROUGHAM1-1861-1,22.789
+
+$There $'s {TEXT:There's} another, a near relative -
+BROUGHAM1-1861-1,22.790
+
+he is rich, and prosperous; BROUGHAM1-1861-1,22.791
+
+I am poor and struggling - BROUGHAM1-1861-1,22.792
+
+<font> he <$$font> has blundered into position, through mere luck, while
+I have to cut my way through the world with the double-edged sword of
+cunning and invention.  BROUGHAM1-1861-1,22.793
+
+Mrs. C. Then, sir, your reputable relative $do
+$n't {TEXT:don't} know the estimable vocation you follow?
+BROUGHAM1-1861-1,22.794
+
+Pinch. $Does $n't {TEXT:Doesn't} dream of it -
+BROUGHAM1-1861-1,22.795
+
+but, as I said before, keep my secret, and $I $'ll {TEXT:I'll}
+undertake to arrange this matter to your entire satisfaction.
+BROUGHAM1-1861-1,22.796
+
+Mrs. C. Then you understand what I am here for?
+BROUGHAM1-1861-1,22.797
+
+Pinch. Thoroughly - BROUGHAM1-1861-1,22.798
+
+saw it at a glance - BROUGHAM1-1861-1,22.799
+
+no explanation necessary - BROUGHAM1-1861-1,22.800
+
+$I $'ll {TEXT:I'll} manage it for you.  BROUGHAM1-1861-1,22.801
+
+Mrs. C. $I $'m {TEXT:I'm} sure $you $'re {TEXT:you're}
+very kind.  BROUGHAM1-1861-1,22.802
+
+Pinch. $Do $n't {TEXT:Don't} mention it, my dear madam;
+BROUGHAM1-1861-1,22.803
+
+$it $'s {TEXT:it's} my duty, my business - indeed, in the present
+instance, my necessity; BROUGHAM1-1861-1,22.804
+
+for, as I have frankly told you how I am situated, it leaves me entirely
+in your power.  BROUGHAM1-1861-1,22.805
+
+Mrs. C. Do you imagine then, sir, that, with your
+assistance, I shall be able to take him back with me into the country?
+BROUGHAM1-1861-1,22.806
+
+Pinch. Oh, $you $'d {TEXT:you'd} like to take him back with you?
+BROUGHAM1-1861-1,22.807
+
+Mrs. C. Certainly.  BROUGHAM1-1861-1,22.808
+
+Pinch. When do you travel?  BROUGHAM1-1861-1,22.809
+
+Mrs. C. As soon as I can - BROUGHAM1-1861-1,22.810
+
+I have no time to lose.  BROUGHAM1-1861-1,22.811
+
+<P_23>
+
+Pinch. <paren> <font> aside <$$font> <$$paren> I should say not.
+BROUGHAM1-1861-1,23.813
+
+The notice is short, madam; BROUGHAM1-1861-1,23.814
+
+but we must accelerate our faculties.  BROUGHAM1-1861-1,23.815
+
+$You $'ll {TEXT:You'll} give me till to-morrow, to arrange preliminaries .
+BROUGHAM1-1861-1,23.816
+
+Mrs. C. What preliminaries?  BROUGHAM1-1861-1,23.817
+
+Is there any more to be done than to let us meet anywhere out of this -
+BROUGHAM1-1861-1,23.818
+
+$there $'s {TEXT:there's} no ceremony requisite?  BROUGHAM1-1861-1,23.819
+
+Pinch. No ceremony - BROUGHAM1-1861-1,23.820
+
+not immediately, I grant; BROUGHAM1-1861-1,23.821
+
+but, pray, recollect I can promise no more than to bring about an
+interview.  BROUGHAM1-1861-1,23.822
+
+Now, if the other party - $you $'ll {TEXT:you'll} excuse the insinuation -
+should be dissatisfied with your appearance?  BROUGHAM1-1861-1,23.823
+
+Mrs. C. $He $'ll {TEXT:He'll} have to swallow his
+dissatisfaction as well as he can; BROUGHAM1-1861-1,23.824
+
+let him but cast his eyes on me, $you $'ll {TEXT:you'll} see how quickly
+$he $'ll {TEXT:he'll} surrender.  BROUGHAM1-1861-1,23.825
+
+Pinch. <paren> <font> aside <$$font> <$$paren> Egad, the old lady
+has no mean opinion of her personal attractions.  BROUGHAM1-1861-1,23.826
+
+Consider the affair concluded, madam.  BROUGHAM1-1861-1,23.827
+
+Do me the favour to give me a call at my office to-morrow at eleven
+o'clock precisely; BROUGHAM1-1861-1,23.828
+
+we, professional slaves, who have our time parcelled out into mathematical
+slices, are compelled to insist upon punctuality.  BROUGHAM1-1861-1,23.829
+
+Mrs. C. I shall be there, sir, depend upon it.
+BROUGHAM1-1861-1,23.830
+
+<paren> <font> as they are bowing ceremoniously to each other <$$font>
+<$$paren> BROUGHAM1-1861-1,23.831
+
+<heading>
+
+End of the Act the Second.  BROUGHAM1-1861-1,23.833
+
+Act III.  BROUGHAM1-1861-1,23.834
+
+<$$heading>
+
+Scene.  - <font> Same as Act II.  BROUGHAM1-1861-1,23.836
+
+- Evening, lighted up, curtains closed.  <$$font> BROUGHAM1-1861-1,23.837
+
+Mrs. Herbert Waverly <font> and <$$font> Mrs. Doctor Savage
+<font> discovered.  <$$font> Mrs. Waverly <font> as though just
+parting with <$$font> Herbert.  BROUGHAM1-1861-1,23.838
+
+Mrs. H. Good-bye, dear.  BROUGHAM1-1861-1,23.839
+
+<paren> <font> they advance BROUGHAM1-1861-1,23.840
+
+and seat themselves <$$font> <$$paren> BROUGHAM1-1861-1,23.841
+
+Mrs. S. My dear Julia, what a darling good-tempered
+husband you are blessed with, always in such excellent spirits;
+BROUGHAM1-1861-1,23.842
+
+how happy you must be.  BROUGHAM1-1861-1,23.843
+
+Mrs. H. <paren> <font> sighing deeply <$$font> <$$paren>
+Ah, Fanny!  BROUGHAM1-1861-1,23.844
+
+Mrs. S. My goodness, how you sigh - BROUGHAM1-1861-1,23.845
+
+$what $'s {TEXT:what's} the matter?  BROUGHAM1-1861-1,23.846
+
+Mrs. H. Fanny, the truth is, $I $'m {TEXT:I'm} miserable.
+BROUGHAM1-1861-1,23.847
+
+<P_24>
+
+Mrs. S. Oh, my dear, so am I.  BROUGHAM1-1861-1,24.849
+
+Mrs. H. Is it possible!  BROUGHAM1-1861-1,24.850
+
+Mrs. S. How could it be otherwise; BROUGHAM1-1861-1,24.851
+
+just imagine the life I lead; BROUGHAM1-1861-1,24.852
+
+your husband has always a kind word and sweet smile on his lips,
+BROUGHAM1-1861-1,24.853
+
+but my brute hardly ever condescends to honour me with a grunt.
+BROUGHAM1-1861-1,24.854
+
+Mrs. H. But he loves you, Fanny.  BROUGHAM1-1861-1,24.855
+
+Mrs. S. Well, I suppose he does, in his bearish way
+BROUGHAM1-1861-1,24.856
+
+but $I $'m {TEXT:I'm} sure your husband doats upon you.
+BROUGHAM1-1861-1,24.857
+
+Mrs. H. What makes you so sure of that, Fanny?
+BROUGHAM1-1861-1,24.858
+
+Mrs. S. Because everybody can see he does.
+BROUGHAM1-1861-1,24.859
+
+Mrs. H. Everybody except me.  BROUGHAM1-1861-1,24.860
+
+Mrs. S. $I $'m {TEXT:I'm} afraid, my dear, that you are
+rather too exacting.  BROUGHAM1-1861-1,24.861
+
+Ah, you should have my savage to deal with.  BROUGHAM1-1861-1,24.862
+
+Mrs. H. He is in earnest, Fanny - honest and sincere -
+notwithstanding his roughness; BROUGHAM1-1861-1,24.863
+
+but the respect and affection which you and everybody see exhibited
+towards me are nothing but pretence and mockery.  BROUGHAM1-1861-1,24.864
+
+Mrs. S. You surprise me indeed; BROUGHAM1-1861-1,24.865
+
+why I looked upon you as perfect models of domestic felicity!
+BROUGHAM1-1861-1,24.866
+
+Mrs. H. So we were until I made a fearful discovery
+BROUGHAM1-1861-1,24.867
+
+<paren> <font> they sit down <$$font> <$$paren> BROUGHAM1-1861-1,24.868
+
+Mrs. S. You interest me, dear.  BROUGHAM1-1861-1,24.869
+
+What discovery?  BROUGHAM1-1861-1,24.870
+
+Mrs. H. That something or somebody had estranged him
+from me.  BROUGHAM1-1861-1,24.871
+
+Mrs. S. Ah!  I see; BROUGHAM1-1861-1,24.872
+
+$there $'s {TEXT:there's} a little jealousy in the matter.
+BROUGHAM1-1861-1,24.873
+
+Mrs. H. Oh, no, no, it $is $n't {TEXT:isn't} that;
+BROUGHAM1-1861-1,24.874
+
+my own self-respect prevents me from entertaining so vulgar a suspicion.
+BROUGHAM1-1861-1,24.875
+
+Mrs. S. My gracious!  what can it be else.
+BROUGHAM1-1861-1,24.876
+
+Mrs. H. I know not.  BROUGHAM1-1861-1,24.877
+
+I can scarcely define my sensations.  BROUGHAM1-1861-1,24.878
+
+A thousand petty circumstances have accumulated by degrees, until the
+conviction forced itself upon my unwilling mind that there <font> was
+<$$font> a change, BROUGHAM1-1861-1,24.879
+
+but from what cause it is impossible for me even to guess.
+BROUGHAM1-1861-1,24.880
+
+Mrs. S. Dear me, dear me.  BROUGHAM1-1861-1,24.881
+
+I $did $n't {TEXT:didn't} think there was anybody unhappy but myself -
+BROUGHAM1-1861-1,24.882
+
+$I $'m {TEXT:I'm} so sorry.  BROUGHAM1-1861-1,24.883
+
+<paren> <font> rise <$$font> <$$paren> BROUGHAM1-1861-1,24.884
+
+Mrs. H. It has somewhat relieved my overburthened heart
+to share its secrets with you, my kind friend - BROUGHAM1-1861-1,24.885
+
+for I believe I can confide implicitly in you.  BROUGHAM1-1861-1,24.886
+
+Advise with me, dear Fanny, what am I to do; BROUGHAM1-1861-1,24.887
+
+this uncertainty is more <P_25> than I can bear, BROUGHAM1-1861-1,25.888
+
+and to persist in such a life of mutual deception would be unworthy
+and humiliating.  BROUGHAM1-1861-1,25.889
+
+Mrs. S. I $do $n't {TEXT:don't} know really how to counsel
+you; BROUGHAM1-1861-1,25.890
+
+I never met with a case like yours, seeming to love each other so
+devotedly - BROUGHAM1-1861-1,25.891
+
+and yet, by-the-bye, <font> do <$$font> you love him?
+BROUGHAM1-1861-1,25.892
+
+Excuse the bluntness of the question.  BROUGHAM1-1861-1,25.893
+
+Mrs. H. Do you love <font> your <$$font> husband?
+BROUGHAM1-1861-1,25.894
+
+Mrs. S. Oh, $that $'s {TEXT:that's} a different thing;
+BROUGHAM1-1861-1,25.895
+
+we make no such pretence.  BROUGHAM1-1861-1,25.896
+
+My insensible brute $do $n't {TEXT:don't} seem to care whether I love
+him or not, BROUGHAM1-1861-1,25.897
+
+and so I never ask myself the question.  BROUGHAM1-1861-1,25.898
+
+Mrs. H. Ah!  if I could arrive at such indifference,
+BROUGHAM1-1861-1,25.899
+
+but it is Herbert alone who is blest with so apathetic a temperament.
+BROUGHAM1-1861-1,25.900
+
+Mrs. S. I $do $n't {TEXT:don't} believe it.
+BROUGHAM1-1861-1,25.901
+
+The fact is, my dear, you $have $n't {TEXT:haven't} managed him properly
+, BROUGHAM1-1861-1,25.902
+
+depend upon it; BROUGHAM1-1861-1,25.903
+
+these men are strange, cross-grained institutions.
+BROUGHAM1-1861-1,25.904
+
+If one of the born tyrants is perfectly certain that a conquered heart
+is his alone to domineer domestically over, $he $'s {TEXT:he's} apt to
+become either cranky or careless.  BROUGHAM1-1861-1,25.905
+
+Now, when my delectable lord and master inclines to either - which
+he does occasionally - I get up a little bit of a flirtation,
+BROUGHAM1-1861-1,25.906
+
+and $it $'s {TEXT:it's} astonishing what a good effect it has.
+BROUGHAM1-1861-1,25.907
+
+Mrs. H. Fanny!  why, I never dreamt of such a thing!
+BROUGHAM1-1861-1,25.908
+
+Mrs. S. Oh!  I know $it $'s {TEXT:it's} very terrible and
+Frenchy, and all that sort of thing; BROUGHAM1-1861-1,25.909
+
+but take my word for it, BROUGHAM1-1861-1,25.910
+
+if you would only try it once - just in an innocent sort of way, $you
+$'d {TEXT:you'd} see how soon $you $'ll {TEXT:you'll} bring his lordship
+to his senses.  BROUGHAM1-1861-1,25.911
+
+Mrs. H. $You $'re {TEXT:You're} not - you $can $n't
+{TEXT:can't} be in earnest, Fanny.  BROUGHAM1-1861-1,25.912
+
+Why, the mere suggestion makes me tremble with shame.
+BROUGHAM1-1861-1,25.913
+
+Mrs. S. How nice, and good, and primitive you are, dear.
+BROUGHAM1-1861-1,25.914
+
+If there were any harm, do you suppose I would advise it?
+BROUGHAM1-1861-1,25.915
+
+Mrs. H. I hope not, Fanny.  BROUGHAM1-1861-1,25.916
+
+<font> Enter <$$font> James, <font> with card, <$$font> C., <font>
+down <$$font> L. BROUGHAM1-1861-1,25.917
+
+Why, $It $'s {TEXT:It's} your husband, Fanny!  BROUGHAM1-1861-1,25.918
+
+Shew him up.  BROUGHAM1-1861-1,25.919
+
+<font> Exit <$$font> James, C. BROUGHAM1-1861-1,25.920
+
+Mrs. S. I have a capital idea; BROUGHAM1-1861-1,25.921
+
+suppose you practise a little with my porcupine.  BROUGHAM1-1861-1,25.922
+
+He $does $n't {TEXT:doesn't} know $I $'m {TEXT:I'm} here.
+BROUGHAM1-1861-1,25.923
+
+<P_26>
+
+$I $'ll {TEXT:I'll} give you leave.  BROUGHAM1-1861-1,26.925
+
+Ha, ha, ha!  BROUGHAM1-1861-1,26.926
+
+you $wo $n't {TEXT:won't} find him very inflammable.
+BROUGHAM1-1861-1,26.927
+
+I can listen to it all from the other room.  BROUGHAM1-1861-1,26.928
+
+Mrs. H. What folly!  BROUGHAM1-1861-1,26.929
+
+$he $'s {TEXT:he's} my husband's most intimate friend.
+BROUGHAM1-1861-1,26.930
+
+Mrs. S. Of course he is; BROUGHAM1-1861-1,26.931
+
+and must naturally feel an affectionate interest for his most intimate
+friend's wife.  BROUGHAM1-1861-1,26.932
+
+Here he comes.  BROUGHAM1-1861-1,26.933
+
+Let us retire and prepare for conquest.  BROUGHAM1-1861-1,26.934
+
+$Wo $n't {TEXT:Won't} it be fun?  BROUGHAM1-1861-1,26.935
+
+<font> Exeunt, <$$font> L. 2 E. BROUGHAM1-1861-1,26.936
+
+<font> Enter <$$font> Doctor Savage, C. BROUGHAM1-1861-1,26.937
+
+Dr. S. Good morning - BROUGHAM1-1861-1,26.938
+
+hem - not here!  BROUGHAM1-1861-1,26.939
+
+Well, so much the better.  BROUGHAM1-1861-1,26.940
+
+$I $'m {TEXT:I'm} not sorry; BROUGHAM1-1861-1,26.941
+
+give me time for reflection.  BROUGHAM1-1861-1,26.942
+
+A pretty business $I $'m {TEXT:I'm} upon - truly, a very nice employment
+for a middle-aged married medical practitioner, commissioned to do the
+fascinating, with <font> malice prepense <$$font>, to serve a friend;
+BROUGHAM1-1861-1,26.943
+
+I - who never could muster up many sweet sentences on my own account.
+BROUGHAM1-1861-1,26.944
+
+Hang me if I know how to begin!  BROUGHAM1-1861-1,26.945
+
+- phew!  I wish I $had $n't {TEXT:hadn't} undertaken it.
+BROUGHAM1-1861-1,26.946
+
+I $did $n't {TEXT:didn't} arrive at the absolute extent of my impertinence
+until I came to put it in practice; BROUGHAM1-1861-1,26.947
+
+$it $'s {TEXT:it's} not an easy thing to do when a man's heart;
+if he be possessed of that anatomical superfluity, is interested;
+BROUGHAM1-1861-1,26.948
+
+but to administer a dose of admiration with professional <font> sa`ng
+{COM:sic} froid <$$font> is something $unparalelled {TEXT:unparelled}
+in practice.  BROUGHAM1-1861-1,26.949
+
+$I $'d {TEXT:I'd} better go back to Herbert - confess my cowardice
+BROUGHAM1-1861-1,26.950
+
+and - yet, BROUGHAM1-1861-1,26.951
+
+no, $I $'ll {TEXT:I'll} do a deed of heroism worthy of the classic age ;
+BROUGHAM1-1861-1,26.952
+
+$I $'ll {TEXT:I'll} devote myself to ensure the happiness of my friend,
+BROUGHAM1-1861-1,26.953
+
+by arousing her indignation I shall give her heart vitality.
+BROUGHAM1-1861-1,26.954
+
+<font> Enter <$$font> Mrs. Herbert Waverly <font> behind him -
+BROUGHAM1-1861-1,26.955
+
+crosses to <$$font> R. BROUGHAM1-1861-1,26.956
+
+$She $'ll {TEXT:She'll} denounce my villainy of course; and shelter
+herself behind the affection of her husband; BROUGHAM1-1861-1,26.957
+
+all will be explained by-and-bye, BROUGHAM1-1861-1,26.958
+
+and - BROUGHAM1-1861-1,26.959
+
+Mrs. H. Good evening, Doctor.  BROUGHAM1-1861-1,26.960
+
+Dr. S. Now, $is $n't {TEXT:isn't} that provoking?
+BROUGHAM1-1861-1,26.961
+
+Just as I had made up my mind, in she comes like a beautiful phantom,
+BROUGHAM1-1861-1,26.962
+
+and frightens all my ideas out of my head.  BROUGHAM1-1861-1,26.963
+
+Mrs. S. <paren> <font> at <$$font> L. <font>
+door, aside <$$font> <$$paren> $Do $n't {TEXT:Don't} be alarmed:
+BROUGHAM1-1861-1,26.964
+
+$I $'ll {TEXT:I'll} be near you.  BROUGHAM1-1861-1,26.965
+
+<P_27>
+
+Mrs. H. How remarkably well you are looking, Doctor!
+BROUGHAM1-1861-1,27.967
+
+Dr. S. Yes, I thank you - BROUGHAM1-1861-1,27.968
+
+I mean, do you think so?  BROUGHAM1-1861-1,27.969
+
+Yes, in pretty good health and spirits.  BROUGHAM1-1861-1,27.970
+
+Hem!  now for my nefarious purpose: BROUGHAM1-1861-1,27.971
+
+how the deuce shall I begin?  BROUGHAM1-1861-1,27.972
+
+Ah!  Mrs. Waverly.  BROUGHAM1-1861-1,27.973
+
+Mrs. H. What a sweet expression you have in your eyes this
+evening, Doctor.  <paren> <font> looking towards <$$font> Mrs.
+Savage BROUGHAM1-1861-1,27.974
+
+<$$paren> Mrs. S. <paren> <font> aside <$$font> <$$paren>
+Good; BROUGHAM1-1861-1,27.975
+
+that style will do to begin with.  BROUGHAM1-1861-1,27.976
+
+Look at him blushing.  BROUGHAM1-1861-1,27.977
+
+Dr. S. I $do $n't {TEXT:don't} think I exactly caught
+your words.  BROUGHAM1-1861-1,27.978
+
+Mrs. H. I was admiring the sweet expression of your eyes.
+BROUGHAM1-1861-1,27.979
+
+Dr. S. Were you?  BROUGHAM1-1861-1,27.980
+
+Yes, $you $'re {TEXT:you're} very good.  BROUGHAM1-1861-1,27.981
+
+<paren> <font> aside <$$font> <$$paren> What does the woman mean?
+BROUGHAM1-1861-1,27.982
+
+Mrs. H. $They $'re {TEXT:They're} blue, are they not?
+BROUGHAM1-1861-1,27.983
+
+I do so love blue eyes!  BROUGHAM1-1861-1,27.984
+
+Dr. S. $They $'re {TEXT:They're} not blue, ma'am;
+BROUGHAM1-1861-1,27.985
+
+$they $'re {TEXT:they're} gray - cat-gray.  BROUGHAM1-1861-1,27.986
+
+Mrs. H. Yes, blue gray: BROUGHAM1-1861-1,27.987
+
+softness and brilliancy combined.  BROUGHAM1-1861-1,27.988
+
+Dr. S. Hem!  $you $'re {TEXT:you're} pleased to be
+complimentary, madam - slightly at the expense of veracity, to be sure ;
+BROUGHAM1-1861-1,27.989
+
+but, never mind that - BROUGHAM1-1861-1,27.990
+
+how does my nose strike you?  BROUGHAM1-1861-1,27.991
+
+Mrs. H. $It $'s {TEXT:It's} a heroic nose!
+BROUGHAM1-1861-1,27.992
+
+Dr. S. Thank you.  BROUGHAM1-1861-1,27.993
+
+I see $you $'re {TEXT:you're} inclined to amuse yourself at my cost.
+BROUGHAM1-1861-1,27.994
+
+This strange turn of conversation has so confused me that I scarcely
+know where I am or what $I $'m {TEXT:I'm} about.  BROUGHAM1-1861-1,27.995
+
+Mrs. H. <paren> <font> suddenly <$$font> <$$paren> Doctor?
+BROUGHAM1-1861-1,27.996
+
+Dr. S. Madam.  BROUGHAM1-1861-1,27.997
+
+Mrs. H. Will you do me the favour to be seated?
+BROUGHAM1-1861-1,27.998
+
+Dr. S. Certainly, my dear madam.  BROUGHAM1-1861-1,27.999
+
+<paren> <font> aside <$$font> <$$paren> What is she going to do now?
+<paren> <font> as he goes to chair <$$font> BROUGHAM1-1861-1,27.1000
+
+<$$paren> Mrs. H. <paren> <font> to <$$font> Mrs.
+Savage <$$paren> Is that right?  BROUGHAM1-1861-1,27.1001
+
+Mrs. S. Nothing can be better; BROUGHAM1-1861-1,27.1002
+
+$do $n't {TEXT:don't} spare him.  BROUGHAM1-1861-1,27.1003
+
+Mrs. H. <paren> <font> they sit <$$font> <$$paren> Ah!
+my dear doctor, I ask you to call up all your pity, all your charity ,
+invoke all the generous sensibilities which should interpose between
+man's strength and woman's weakness.  BROUGHAM1-1861-1,27.1004
+
+Dr. S. With pleasure, madam.  BROUGHAM1-1861-1,27.1005
+
+What on earth is she driving at?  BROUGHAM1-1861-1,27.1006
+
+<P_28>
+
+Mrs. H. <paren> <font> sighing deeply <$$font> <$$paren>
+Will you be kind enough to close the door?  BROUGHAM1-1861-1,28.1008
+
+Dr. S. Yes, ma'am.  BROUGHAM1-1861-1,28.1009
+
+<paren> <font> aside <$$font> <$$paren> $There $'s {TEXT:There's}
+a vague fear creeping over me of I $do $n't {TEXT:don't} know what.
+BROUGHAM1-1861-1,28.1010
+
+<paren> <font> goes <$$font> <$$paren> BROUGHAM1-1861-1,28.1011
+
+Mrs. H. Doctor, can you keep a secret?
+BROUGHAM1-1861-1,28.1012
+
+Dr. S. Why yes, madam, I think I can.
+BROUGHAM1-1861-1,28.1013
+
+Mrs. H. Ah!  but you know not the humiliating avowal I
+have to make?  BROUGHAM1-1861-1,28.1014
+
+Dr. S. No, madam, not yet, BROUGHAM1-1861-1,28.1015
+
+but I shall know it, I presume - BROUGHAM1-1861-1,28.1016
+
+some wondrously important trifle, $I $'ve {TEXT:I've} no doubt;
+BROUGHAM1-1861-1,28.1017
+
+you women have an unhappy facility for inflating small troubles,
+especially if you $do $n't {TEXT:don't} happen to be afflicted with
+great ones.  BROUGHAM1-1861-1,28.1018
+
+Mrs. H. <paren> <font> rises <$$font> <$$paren> And you men,
+doctor, have a much more unhappy facility for misconstruing anxieties you
+have neither the sense to understand nor the sensibility to appreciate.
+BROUGHAM1-1861-1,28.1019
+
+<paren> Mrs. Savage <font> signals to be careful <$$font> <$$paren>
+BROUGHAM1-1861-1,28.1020
+
+Dr. S. Extremely obliged to you, madam, for the insinuation.
+BROUGHAM1-1861-1,28.1021
+
+Mrs. H. Why should women be judged by the same standard
+as yourselves; BROUGHAM1-1861-1,28.1022
+
+the active work of life which would bring with it equal health
+of mind, you deny them participation in, be they capable or not,
+BROUGHAM1-1861-1,28.1023
+
+and when thought wearied for want of occupation, or filled with fears
+which are perhaps too flattering, their very apprehension is made the
+subject of a jest, treated as ill humour, or passed over with mortifying
+indifference.  BROUGHAM1-1861-1,28.1024
+
+<paren> <font> going round <$$font> <$$paren> BROUGHAM1-1861-1,28.1025
+
+Dr. S. <paren> <font> aside <$$font> <$$paren> Hush!  my
+dear friend - good gracious, that will never do.  BROUGHAM1-1861-1,28.1026
+
+Mrs. H. <paren> <font> aside <$$font> <$$paren> I declare
+I quite forgot.  BROUGHAM1-1861-1,28.1027
+
+Dr. S. A nice little storm $I $'ve {TEXT:I've} raised here
+- BROUGHAM1-1861-1,28.1028
+
+$she $'s {TEXT:she's} in a delicious mood for my nefarious purpose.
+BROUGHAM1-1861-1,28.1029
+
+I think $I $'ll {TEXT:I'll} postpone the villainous design until a more
+favourable opportunity.  BROUGHAM1-1861-1,28.1030
+
+Good day, Mrs. Waverly!  <paren> <font> going <$$font> <$$paren>
+BROUGHAM1-1861-1,28.1031
+
+Mrs. H. Doctor!  pray sit down again!
+BROUGHAM1-1861-1,28.1032
+
+Dr. S. Certainly, madam - BROUGHAM1-1861-1,28.1033
+
+rather an intermittent kind of person.  BROUGHAM1-1861-1,28.1034
+
+Mrs. H. Pardon my extravagance - BROUGHAM1-1861-1,28.1035
+
+$I $'m {TEXT:I'm} quite sure that the parrot cry indulged in against
+women by the thoughtless or the unworthy, finds no response within your
+noble heart.  BROUGHAM1-1861-1,28.1036
+
+<P_29>
+
+Dr. S. My noble heart, ma'am, as $you $'re {TEXT:you're}
+pleased to call it, $has $n't {TEXT:hasn't} had time to give so important
+a matter due consideration; BROUGHAM1-1861-1,29.1038
+
+all I have to say upon the subject at present is, that the lines of
+duty and usefulness appear to be sufficiently defined in both sexes,
+BROUGHAM1-1861-1,29.1039
+
+and I most energetically object to the individual of either, who
+departs in the remotest degree from the naturally prescribed boundary.
+BROUGHAM1-1861-1,29.1040
+
+Mrs. $H. {TEXT:S.} Truth, wisdom and philosophy combined,
+who could fail to be convinced while listening to those silvery accents?
+BROUGHAM1-1861-1,29.1041
+
+Dr. S. <paren> <font> aside <$$font> <$$paren> Silvery
+humbug!  BROUGHAM1-1861-1,29.1042
+
+This woman is either laughing at me or fast verging towards lunacy.
+BROUGHAM1-1861-1,29.1043
+
+Mrs. H. Ah!  Doctor!  BROUGHAM1-1861-1,29.1044
+
+Dr. S. $What $'s {TEXT:What's} the matter now, ma'am?
+BROUGHAM1-1861-1,29.1045
+
+Mrs. H. <paren> <font> romantically <$$font> <$$paren>
+$There $'s {TEXT:There's} a shadow - a cold, dark desolating shadow on
+the sunlight of my life.  BROUGHAM1-1861-1,29.1046
+
+Dr. S. Then $I $'d {TEXT:I'd} advise you not to walk on
+the shady side.  BROUGHAM1-1861-1,29.1047
+
+Mrs. H. But how am I to avoid my fate?
+BROUGHAM1-1861-1,29.1048
+
+Dr. S. Cross over to the other.  BROUGHAM1-1861-1,29.1049
+
+Mrs. H. Alas I $can $not {TEXT:cannot}!
+BROUGHAM1-1861-1,29.1050
+
+A dangerous but irresistible influence compels me to linger in the gloom.
+BROUGHAM1-1861-1,29.1051
+
+Dr. S. Shake it off, ma'am - BROUGHAM1-1861-1,29.1052
+
+you can if you like.  BROUGHAM1-1861-1,29.1053
+
+Mrs. H. It is impossible!  BROUGHAM1-1861-1,29.1054
+
+as well might you tell your fever-stricken patients to cast away the
+sickness that subdues them.  BROUGHAM1-1861-1,29.1055
+
+Doctor, I just now asked you to call up all your pity and your sympathy
+, BROUGHAM1-1861-1,29.1056
+
+let me implore you to do so now; BROUGHAM1-1861-1,29.1057
+
+I am about to put your friendship - your generosity to the severest test
+- BROUGHAM1-1861-1,29.1058
+
+listen to me mercifully, BROUGHAM1-1861-1,29.1059
+
+but $do $n't {TEXT:don't} look at me while I speak.
+BROUGHAM1-1861-1,29.1060
+
+<paren> <font> puts her hand to his cheek <$$font> <$$paren>
+BROUGHAM1-1861-1,29.1061
+
+Dr. S. Yes, ma'am.  BROUGHAM1-1861-1,29.1062
+
+<paren> <font> aside <$$font> <$$paren> $What $'s {TEXT:What's} coming
+now I wonder.  BROUGHAM1-1861-1,29.1063
+
+Mrs. H. I know as well as you do, Doctor, the duties and
+proprieties which should distinguish either sex - that to men is given
+the power of revealing the dearest tenderest thoughts without reproach,
+which women should preserve unspoken - BROUGHAM1-1861-1,29.1064
+
+think then of my agony of soul - BROUGHAM1-1861-1,29.1065
+
+imagine the intensity of a reckless passion which enforces me to
+quench all thought - defy all consequences while I avow that -
+BROUGHAM1-1861-1,29.1066
+
+<P_30>
+
+Dr. S. $You $'ve {TEXT:You've} said enough, madam,
+BROUGHAM1-1861-1,30.1068
+
+I understand you but too well, BROUGHAM1-1861-1,30.1069
+
+and would spare you further confession.  BROUGHAM1-1861-1,30.1070
+
+<paren> <font> aside <$$font> <$$paren> Phew!  what a thunderbolt!
+BROUGHAM1-1861-1,30.1071
+
+Mrs. H. No, no; I must disburthen my over-loaded heart
+entirely.  BROUGHAM1-1861-1,30.1072
+
+Dr. S. $I $'d {TEXT:I'd} rather you $would $n't
+{TEXT:wouldn't}.  BROUGHAM1-1861-1,30.1073
+
+<paren> <font> aside <$$font> <$$paren> Oh, my poor friend!
+BROUGHAM1-1861-1,30.1074
+
+Mrs. S. But I insist - BROUGHAM1-1861-1,30.1075
+
+it will relieve me.  BROUGHAM1-1861-1,30.1076
+
+Dr. S. <paren> <font> seating himself <$$font> <$$paren>
+Well, if it will relieve you, go on, madam.  BROUGHAM1-1861-1,30.1077
+
+Mrs. H. Shall I - BROUGHAM1-1861-1,30.1078
+
+must I tell <font> you <$$font> to whom my heart has fallen a willing
+victim?  BROUGHAM1-1861-1,30.1079
+
+Dr. S. I $do $n't {TEXT:don't} want to know who the
+scoundrel is.  BROUGHAM1-1861-1,30.1080
+
+Mrs. S. Ah, $it $'s {TEXT:it's} no fault of his -
+BROUGHAM1-1861-1,30.1081
+
+$he $'s {TEXT:he's} ignorant of the matter altogether.
+BROUGHAM1-1861-1,30.1082
+
+Dr. S. Indeed, then there may be time to avert a terrible
+calamity.  BROUGHAM1-1861-1,30.1083
+
+Who is the villain - BROUGHAM1-1861-1,30.1084
+
+I mean the person - the - BROUGHAM1-1861-1,30.1085
+
+Mrs. H. $Can $n't {TEXT:Can't} you guess - ah, Doctor.
+<paren> <font> tenderly - falling in his arms - BROUGHAM1-1861-1,30.1086
+
+he throws her off - BROUGHAM1-1861-1,30.1087
+
+starting up <$$font> <$$paren> Dr. S. Good heavens, madam
+, you $do $n't {TEXT:don't} - you $can $n't {TEXT:can't} - mean me?
+BROUGHAM1-1861-1,30.1088
+
+<paren> Mrs. Herbert <font> weeps <$$font> -
+BROUGHAM1-1861-1,30.1089
+
+Doctor Savage <font> rises suddenly <$$font> <$$paren>
+BROUGHAM1-1861-1,30.1090
+
+Mrs. S. <paren> <font> aside <$$font> <$$paren> Beautiful,
+my dear; BROUGHAM1-1861-1,30.1091
+
+$could $n't {TEXT:couldn't} be nicer - BROUGHAM1-1861-1,30.1092
+
+oh, what fun.  <paren> BROUGHAM1-1861-1,30.1093
+
+<font> door <$$font>, L. 2 E. <$$paren>
+BROUGHAM1-1861-1,30.1094
+
+Dr. S. $You $'ll {TEXT:You'll} excuse me, madam -
+BROUGHAM1-1861-1,30.1095
+
+$I $'m {TEXT:I'm} not of the most diffident disposition in the world;
+BROUGHAM1-1861-1,30.1096
+
+but, really, the suddenness of this announcement has plunged me into a
+state of feverish embarassment {COM:sic}.  BROUGHAM1-1861-1,30.1097
+
+I $did $n't {TEXT:didn't} imagine - I $was $n't {TEXT:wasn't} aware -
+I $had $n't {TEXT:hadn't} the remotest idea that I possessed a single
+element of attraction - BROUGHAM1-1861-1,30.1098
+
+- $it $'s {TEXT:it's} a - in fact - an emergency I never thought of
+providing against.  BROUGHAM1-1861-1,30.1099
+
+Who could have dreamt of such a state of affairs.  <paren> <font> aside
+<$$font> <$$paren> BROUGHAM1-1861-1,30.1100
+
+Stay - BROUGHAM1-1861-1,30.1101
+
+$is $n't {TEXT:isn't} it better to - BROUGHAM1-1861-1,30.1102
+
+the remedy is in my own hands.  BROUGHAM1-1861-1,30.1103
+
+For my friend's sake, I must suppress the horror that her perfidy inspires
+me with, and, by continuing my original intention, see how far she could
+be culpable.  BROUGHAM1-1861-1,30.1104
+
+$It $'s {TEXT:It's} a traitorous, treacherous proceeding;
+BROUGHAM1-1861-1,30.1105
+
+but, for Herbert's sake, I must go through with it.
+BROUGHAM1-1861-1,30.1106
+
+Mrs. H. <paren> <font> rising <$$font> <$$paren> Well,
+Doctor, you despise me, of course - BROUGHAM1-1861-1,30.1107
+
+then, tell me so at once, BROUGHAM1-1861-1,30.1108
+
+and leave me to my despair.  BROUGHAM1-1861-1,30.1109
+
+<P_31>
+
+Dr. S. Oh!  Mrs. Waverley, you may have some
+reasonable show of vindication, in your sex's proverbial weakness;
+BROUGHAM1-1861-1,31.1111
+
+but, how can I defend myself from reporach, when I confess that,
+overpowered by a similar infatuation, your words have found but too
+ready an echo within my disloyal heart?  BROUGHAM1-1861-1,31.1112
+
+<paren> <font> aside <$$font> <$$paren> $That $'s {TEXT:That's} not so
+bad to begin with.  BROUGHAM1-1861-1,31.1113
+
+Mrs. H. Doctor!  BROUGHAM1-1861-1,31.1114
+
+Mrs. S. $What $'s {TEXT:What's} that?
+BROUGHAM1-1861-1,31.1115
+
+Oh!  the false villain; BROUGHAM1-1861-1,31.1116
+
+let him proceed, BROUGHAM1-1861-1,31.1117
+
+and $let $'s {TEXT:let's} see how far $he $'ll {TEXT:he'll} go.
+BROUGHAM1-1861-1,31.1118
+
+Dr. S. <paren> <font> aside <$$font> <$$paren> I $do $n't
+{TEXT:don't} know whether $that $'s {TEXT:that's} the right sort of
+thing or not; BROUGHAM1-1861-1,31.1119
+
+but $it $'s {TEXT:it's} as near as I can get to it.
+BROUGHAM1-1861-1,31.1120
+
+<paren> <font> aloud <$$font> <$$paren> Yes, yes, dear madam,
+emboldened by your sorrowfully sweet confession, I now declare that
+your sentiments are reciprocated ardently, devotedly, desperately.
+BROUGHAM1-1861-1,31.1121
+
+<paren> <font> aside <$$font> <$$paren> $There $'s {TEXT:There's}
+nothing like going it strong while $you $'re {TEXT:you're} about it.
+BROUGHAM1-1861-1,31.1122
+
+Mrs. H. <paren> <font> Starting up <$$font> <$$paren> Oh,
+this is infamous - BROUGHAM1-1861-1,31.1123
+
+see what you have exposed me to.  <paren> <font> aside to <$$font>
+Mrs. Savage <$$paren> BROUGHAM1-1861-1,31.1124
+
+Mrs. S. But, think of me - BROUGHAM1-1861-1,31.1125
+
+patience, for my sake.  BROUGHAM1-1861-1,31.1126
+
+Oh!  the hypocritical profligate.  BROUGHAM1-1861-1,31.1127
+
+Dr. S. And therefore if your love be as strong as mine,
+and you would fain break the bonds that keep us from each other, let us
+fly at once.  BROUGHAM1-1861-1,31.1128
+
+Mrs. H. Fly, sir; BROUGHAM1-1861-1,31.1129
+
+where?  BROUGHAM1-1861-1,31.1130
+
+Dr. S. Anywhere - everywhere - BROUGHAM1-1861-1,31.1131
+
+the farther off the better.  BROUGHAM1-1861-1,31.1132
+
+Mrs. H. But your wife, sir; - she who is so entirely
+devoted to you!  BROUGHAM1-1861-1,31.1133
+
+Dr. S. Oh!  ah!  yes; I $did $n't {TEXT:didn't} think of
+her; BROUGHAM1-1861-1,31.1134
+
+but never mind, BROUGHAM1-1861-1,31.1135
+
+$she $'ll {TEXT:she'll} be glad enough to get rid of me.
+BROUGHAM1-1861-1,31.1136
+
+Mrs. H. Perhaps she may.  BROUGHAM1-1861-1,31.1137
+
+How soon would you be prepared to go?  BROUGHAM1-1861-1,31.1138
+
+Dr. S. Well, $that $'s {TEXT:that's} matter-of-fact enough
+- BROUGHAM1-1861-1,31.1139
+
+I wonder if she really would fly!  BROUGHAM1-1861-1,31.1140
+
+$I $'ll {TEXT:I'll} see - BROUGHAM1-1861-1,31.1141
+
+suppose we say to-morrow.  BROUGHAM1-1861-1,31.1142
+
+Mrs. H. Very well, sir, I shall meet you here.
+BROUGHAM1-1861-1,31.1143
+
+<font> Exit <$$font>, L. 2 E. BROUGHAM1-1861-1,31.1144
+
+Dr. S. She will fly - good gracious!
+BROUGHAM1-1861-1,31.1145
+
+oh!  I must put a sudden stop to this desgraceful affair.
+BROUGHAM1-1861-1,31.1146
+
+Madam, allow me to decline - BROUGHAM1-1861-1,31.1147
+
+<paren> <font> turns <$$font> <$$paren> oh!  $she $'s {TEXT:she's} gone.
+BROUGHAM1-1861-1,31.1148
+
+Oh!  my poor deeply injured friend, what a task have I to perform -
+BROUGHAM1-1861-1,31.1149
+
+but it must be done at once, whatever the result.
+BROUGHAM1-1861-1,31.1150
+
+Why did I undertake it, BROUGHAM1-1861-1,31.1151
+
+and what on earth am I to say to Herbert?  that <P_32> his wife has an
+insane passion for another, and that other - BROUGHAM1-1861-1,32.1152
+
+but $I $'d {TEXT:I'd} better keep that to myself, BROUGHAM1-1861-1,32.1153
+
+why should I tell him anyting at all about it?  BROUGHAM1-1861-1,32.1154
+
+I must - BROUGHAM1-1861-1,32.1155
+
+I must - BROUGHAM1-1861-1,32.1156
+
+honor - friendship - propriety demand it.  BROUGHAM1-1861-1,32.1157
+
+Oh!  woman - woman - what an inscrutable riddle thou art!
+BROUGHAM1-1861-1,32.1158
+
+<font> Exit <$$font>, C. BROUGHAM1-1861-1,32.1159
+
+<font> Enter <$$font> Mrs. Herbert <font> and <$$font> Mrs.
+Savage, L. <font> door <$$font> BROUGHAM1-1861-1,32.1160
+
+Mrs. H. My poor dear Fanny.  BROUGHAM1-1861-1,32.1161
+
+Mrs. S. Oh!  $do $n't {TEXT:don't} come near me -
+BROUGHAM1-1861-1,32.1162
+
+I hate you.  BROUGHAM1-1861-1,32.1163
+
+<paren> <font> crosses to <$$font> L. <$$paren>
+BROUGHAM1-1861-1,32.1164
+
+Oh!  my darling dear good soul, $is $n't {TEXT:isn't} this shocking.
+BROUGHAM1-1861-1,32.1165
+
+Oh!  if I only had a brother, or even a cousin - BROUGHAM1-1861-1,32.1166
+
+but $I $'ll {TEXT:I'll} never see him again!  BROUGHAM1-1861-1,32.1167
+
+- never, BROUGHAM1-1861-1,32.1168
+
+never!  BROUGHAM1-1861-1,32.1169
+
+Mrs. H. I confess, dear, I am both pained and surprised.
+BROUGHAM1-1861-1,32.1170
+
+You must be satisfied that by no look or word of mine have I given him
+the slightest encouragement.  BROUGHAM1-1861-1,32.1171
+
+Mrs. S. But he might have kept his guilty passion buried in
+his own false heart if you $had $n't {TEXT:hadn't} been so unnecessarily
+affectionate.  BROUGHAM1-1861-1,32.1172
+
+Mrs. H. Was it not at your own desire?
+BROUGHAM1-1861-1,32.1173
+
+Mrs. S. Yes, yes, I was to blame, BROUGHAM1-1861-1,32.1174
+
+and now $I $'m {TEXT:I'm} miserable, BROUGHAM1-1861-1,32.1175
+
+for, in spite of what I said to you, I do love him.
+BROUGHAM1-1861-1,32.1176
+
+Oh!  I was most ungrateful.  BROUGHAM1-1861-1,32.1177
+
+I $did $n't {TEXT:didn't} know the extent of my happiness until I find
+it stripped from me so suddenly, BROUGHAM1-1861-1,32.1178
+
+but $wo $n't {TEXT:won't} I punish him for it.  BROUGHAM1-1861-1,32.1179
+
+Herb. <paren> <font> without <$$font> <$$paren> Just gone, you say?
+BROUGHAM1-1861-1,32.1180
+
+Mrs. S. Ah, $here $'s {TEXT:here's} your husband,
+BROUGHAM1-1861-1,32.1181
+
+$I $'ll {TEXT:I'll} let him know what a traitor he has nursed in his
+bosom.  BROUGHAM1-1861-1,32.1182
+
+Mrs. H. Be careful, Fanny, BROUGHAM1-1861-1,32.1183
+
+remember what consequences may ensue.  BROUGHAM1-1861-1,32.1184
+
+Mrs. S. I $do $n't {TEXT:don't} care for consequences now.
+BROUGHAM1-1861-1,32.1185
+
+<font> Exit <$$font> Mrs. Herbert, R. 2.  E.
+BROUGHAM1-1861-1,32.1186

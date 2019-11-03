@@ -1,0 +1,3030 @@
+<P_19>
+
+<heading>
+
+John Bull.  COLMAN-1805-1,19.3
+
+Act II.  COLMAN-1805-1,19.4
+
+Scene I.  COLMAN-1805-1,19.5
+
+<$$heading>
+
+<font> A Library in the House of Sir <$$font> Simon Rochdale;
+COLMAN-1805-1,19.7
+
+<font> Books scatter'd on a Writing-table.  <$$font> COLMAN-1805-1,19.8
+
+<font> Enter <$$font> Tom Shuffleton, <font> and a Servant.  <$$font>
+COLMAN-1805-1,19.9
+
+<font> Shuff. <$$font> Nobody up yet?  COLMAN-1805-1,19.10
+
+I thought so.  COLMAN-1805-1,19.11
+
+<font> Enter <$$font> Servant.  COLMAN-1805-1,19.12
+
+Ah, John, is it you?  COLMAN-1805-1,19.13
+
+How $d'$ye {TEXT:d'ye} do, John?  COLMAN-1805-1,19.14
+
+<font> John.  <$$font> Thank your honour, I - COLMAN-1805-1,19.15
+
+<font> Shuff. <$$font> Yes, you look so.  COLMAN-1805-1,19.16
+
+Sir Simon Rochdale in bed?  COLMAN-1805-1,19.17
+
+Mr. Rochdale not risen?  COLMAN-1805-1,19.18
+
+Well!  no matter: COLMAN-1805-1,19.19
+
+I have travell'd all night, though, to be with them.  COLMAN-1805-1,19.20
+
+How are they?  COLMAN-1805-1,19.21
+
+<font> John.  <$$font> Sir, they are both - COLMAN-1805-1,19.22
+
+<font> Shuff. <$$font> $I $'m {TEXT:I'm} glad to hear it.
+COLMAN-1805-1,19.23
+
+Pay the post-boy for me.  COLMAN-1805-1,19.24
+
+<font> John.  <$$font> Yes, sir.  COLMAN-1805-1,19.25
+
+I beg pardon, sir; COLMAN-1805-1,19.26
+
+but when your honour last left us - COLMAN-1805-1,19.27
+
+<font> Shuff. <$$font> Owed you three pound five.
+COLMAN-1805-1,19.28
+
+I remember: COLMAN-1805-1,19.29
+
+have you down in my memorandums - COLMAN-1805-1,19.30
+
+Honourable Tom Shuffleton debtor to - COLMAN-1805-1,19.31
+
+- $What $'s {TEXT:What's} your name?  COLMAN-1805-1,19.32
+
+<font> John.  <$$font> My Christian name, sir, is - <font> Shuff.
+<$$font> Muggins - COLMAN-1805-1,19.33
+
+I recollect.  COLMAN-1805-1,19.34
+
+Pay the post-boy, Muggins.  COLMAN-1805-1,19.35
+
+And, hark ye, take particular care of the chaise: COLMAN-1805-1,19.36
+
+I borrow'd it of my friend, Bobby Fungus, who sprang up a peer, in the
+last bundle <P_20> of Barons: COLMAN-1805-1,20.37
+
+if a single knob is knock'd out of his new coronets, $he $'ll {TEXT:he'll}
+make me a sharper speech than ever $he $'ll {TEXT:he'll} produce in
+Parliament.  COLMAN-1805-1,20.38
+
+And, John!  - COLMAN-1805-1,20.39
+
+<font> John.  <$$font> Sir.  COLMAN-1805-1,20.40
+
+<font> Shuff. <$$font> What was I going to say?
+COLMAN-1805-1,20.41
+
+<font> John.  <$$font> Indeed, sir, I $can $n't {TEXT:can't} tell.
+COLMAN-1805-1,20.42
+
+<font> Shuff. <$$font> No more can I.  COLMAN-1805-1,20.43
+
+$'T $is {TEXT:'Tis} the fashion to be absent - COLMAN-1805-1,20.44
+
+$that $'s {TEXT:that's} why I forgot your little bill.
+COLMAN-1805-1,20.45
+
+There, run along.  COLMAN-1805-1,20.46
+
+<bracket> <font> Exit <$$font> John.  {TEXT:missing_close_bracket}
+COLMAN-1805-1,20.47
+
+$I $'ve {TEXT:I've} the whirl of Bobby's chaise in my head still.
+COLMAN-1805-1,20.48
+
+Cursed fatiguing, posting all night, through Cornish roads, to obey the
+summons of friendship!  COLMAN-1805-1,20.49
+
+Convenient, in some respects, for all that.  COLMAN-1805-1,20.50
+
+If all loungers of slender revenues, like mine, could command a
+constant succession of invitations, from men of estates, in the
+country, how amazingly it would tend to the thinning of Bond-street!
+COLMAN-1805-1,20.51
+
+<paren> <font> throws himself into a chair, near the writing-table.
+<$$font> <$$paren> COLMAN-1805-1,20.52
+
+Let me see - what has Sir Simon been reading?  COLMAN-1805-1,20.53
+
+-"Burn's Justice"- COLMAN-1805-1,20.54
+
+true; the old $man $'s {TEXT:man's} reckon'd the ablest magistrate in
+the county: COLMAN-1805-1,20.55
+
+he $has $n't {TEXT:hasn't} cut open the leaves, I see.
+COLMAN-1805-1,20.56
+
+"Chesterfield's Letters"- COLMAN-1805-1,20.57
+
+pooh!  his system of education is extinct: COLMAN-1805-1,20.58
+
+Belcher and the Butcher have superseded it.  COLMAN-1805-1,20.59
+
+"Clarendon's History of -. "COLMAN-1805-1,20.60
+
+<font> Enter Sir <$$font> Simon Rochdale.  COLMAN-1805-1,20.61
+
+<font> Sir Simon.  <$$font> Ah, my dear Tom Shuffleton!
+COLMAN-1805-1,20.62
+
+<font> Shuff. <$$font> Baronet!  how are you?  COLMAN-1805-1,20.63
+
+<font> Sir Simon.  <$$font> Such expedition is kind, now!
+COLMAN-1805-1,20.64
+
+You got my letter at Bath, COLMAN-1805-1,20.65
+
+and - <font> Shuff. <$$font> Saw it was pressing:
+COLMAN-1805-1,20.66
+
+- here I am.  COLMAN-1805-1,20.67
+
+Cut all my engagements for you, COLMAN-1805-1,20.68
+
+and came off like a shot.  COLMAN-1805-1,20.69
+
+<font> Sir Simon <$$font> Thank you: COLMAN-1805-1,20.70
+
+thank you, heartily!  COLMAN-1805-1,20.71
+
+<font> Shuff. <$$font> Left every thing at sixes and sevens.
+COLMAN-1805-1,20.72
+
+<font> Sir Simon.  <$$font> Gad, $I $'m {TEXT:I'm} sorry if -
+COLMAN-1805-1,20.73
+
+<P_21>
+
+<font> Shuff. <$$font> $Do $n't {TEXT:Don't} apologize;
+COLMAN-1805-1,21.75
+
+- nobody does, now.  COLMAN-1805-1,21.76
+
+Left all my bills, in the place, unpaid.  COLMAN-1805-1,21.77
+
+<font> Sir Simon.  <$$font> Bless me!  COLMAN-1805-1,21.78
+
+$I $'ve {TEXT:I've} made it monstrous inconvenient!  COLMAN-1805-1,21.79
+
+<font> Shuff. <$$font> Not a bit - COLMAN-1805-1,21.80
+
+I give you my honour, COLMAN-1805-1,21.81
+
+I $did $n't {TEXT:didn't} find it inconvenient, at all.
+COLMAN-1805-1,21.82
+
+How is Frank Rochdale?  COLMAN-1805-1,21.83
+
+<font> Sir Simon.  <$$font> Why, my son $is $n't {TEXT:isn't} up yet;
+COLMAN-1805-1,21.84
+
+and, before $he $'s {TEXT:he's} stirring, do let me talk to you, my dear
+Tom Shuffleton!  COLMAN-1805-1,21.85
+
+I have something near my heart, that - COLMAN-1805-1,21.86
+
+<font> Shuff. <$$font> $Do $n't {TEXT:Don't} talk about your heart,
+Baronet; COLMAN-1805-1,21.87
+
+- $feeling $'s {TEXT:feeling's} quite out of fashion.  COLMAN-1805-1,21.88
+
+<font> Sir Simon.  <$$font> Well, then, $I $'m {TEXT:I'm} interested in
+- COLMAN-1805-1,21.89
+
+<font> Shuff. <$$font> Aye, stick to that.  COLMAN-1805-1,21.90
+
+We make a joke of the heart, now-a-days; COLMAN-1805-1,21.91
+
+but when a man mentions his interest, we know $he $'s {TEXT:he's}
+in earnest.  COLMAN-1805-1,21.92
+
+<font> Sir Simon.  <$$font> Zounds!  COLMAN-1805-1,21.93
+
+I <font> am <$$font> in earnest.  COLMAN-1805-1,21.94
+
+Let me speak, COLMAN-1805-1,21.95
+
+and call my motives what you will.  COLMAN-1805-1,21.96
+
+<font> Shuff. <$$font> Speak - COLMAN-1805-1,21.97
+
+but $do $n't {TEXT:don't} be in a passion.  COLMAN-1805-1,21.98
+
+We are always cool at the clubs: COLMAN-1805-1,21.99
+
+the constant habit of ruining one another, teaches us temper.
+COLMAN-1805-1,21.100
+
+Explain.  COLMAN-1805-1,21.101
+
+<font> Sir Simon.  <$$font> Well, I will.  COLMAN-1805-1,21.102
+
+You know, my dear Tom, how much I admire your proficiency in the <font>
+New School <$$font> of breeding; COLMAN-1805-1,21.103
+
+- you are, what I call, one of the highest finish'd fellows, of the <font>
+present day.  <$$font> COLMAN-1805-1,21.104
+
+<font> Shuff. <$$font> Psha!  Baronet; you flatter.
+COLMAN-1805-1,21.105
+
+<font> Sir Simon.  <$$font> No, I $do $n't {TEXT:don't};
+COLMAN-1805-1,21.106
+
+only in extolling the merits of the newest-fashion'd manners and morals ,
+I am sometimes puzzled, by the plain gentlemen, who listen to me, here
+in the country, most consumedly.  COLMAN-1805-1,21.107
+
+<font> Shuff. <$$font> I $do $n't {TEXT:don't} doubt it.
+COLMAN-1805-1,21.108
+
+<font> Sir Simon.  <$$font> Why, $'t $was {TEXT:'twas} but t'other
+morning, I was haranguing old Sir Noah Starchington, in my library,
+and explaining to him the shining qualities <P_22> of a dasher, of the
+year eighteen hundred and three; COLMAN-1805-1,22.109
+
+and what do you think he did?  COLMAN-1805-1,22.110
+
+<font> Shuff. <$$font> Fell asleep.  COLMAN-1805-1,22.111
+
+<font> Sir Simon.  <$$font> No; COLMAN-1805-1,22.112
+
+he pull'd down an English dictionary; when <paren> if $you $'ll
+{TEXT:you'll} believe me!  <$$paren> he found my definition of stylish
+living, under the word"insolvency;"COLMAN-1805-1,22.113
+
+a fighting crop turn'd out a"dock'd bull-dog;"and modern gallantry,
+"adultery and seduction. "COLMAN-1805-1,22.114
+
+<font> Shuff. <$$font> Noah Starchington is a damn'd old twaddler.
+COLMAN-1805-1,22.115
+
+- But the fact is, Baronet, we improve.  COLMAN-1805-1,22.116
+
+We have voted many qualities to be virtues, now, that they never thought
+of calling virtues formerly.  COLMAN-1805-1,22.117
+
+The rising generation wants a new dictionary, damnably.
+COLMAN-1805-1,22.118
+
+<font> Sir Simon.  <$$font> Deplorably indeed.  COLMAN-1805-1,22.119
+
+You $can $n't {TEXT:can't} think, my dear Tom, what a scurvy figure
+you, and the dashing fellows of your kidney, make in the old ones.
+COLMAN-1805-1,22.120
+
+- But you have great influence over my son, Frank; COLMAN-1805-1,22.121
+
+and I want you to exert it.  COLMAN-1805-1,22.122
+
+You are his intimate - COLMAN-1805-1,22.123
+
+you come here, COLMAN-1805-1,22.124
+
+and pass two or three months at a time, you know.  COLMAN-1805-1,22.125
+
+<font> Shuff. <$$font> Yes - this is a pleasant house.
+COLMAN-1805-1,22.126
+
+<font> Sir Simon.  <$$font> You ride his horses, as if they were your own.
+COLMAN-1805-1,22.127
+
+<font> Shuff. <$$font> Yes - he keeps a good stable.
+COLMAN-1805-1,22.128
+
+<font> Sir Simon.  <$$font> You drink our claret with him, till his
+head aches.  COLMAN-1805-1,22.129
+
+<font> Shuff. <$$font> Yours is a famous claret, Baronet.
+COLMAN-1805-1,22.130
+
+<font> Sir Simon.  <$$font> You worm out his secrets; COLMAN-1805-1,22.131
+
+you win his money; COLMAN-1805-1,22.132
+
+you -.  In short, you are - <font> Shuff. <$$font> His friend,
+according to the next new dictionary.  COLMAN-1805-1,22.133
+
+$That $'s {TEXT:That's} what you mean, Sir Simon.  COLMAN-1805-1,22.134
+
+<font> Sir Simon.  <$$font> Exactly.  COLMAN-1805-1,22.135
+
+- But, let me explain.  COLMAN-1805-1,22.136
+
+Frank, if he $does $n't {TEXT:doesn't} play the fool, and spoil all,
+is going to be married.  COLMAN-1805-1,22.137
+
+<font> Shuff. <$$font> To how much?  COLMAN-1805-1,22.138
+
+<P_23>
+
+<font> Sir Simon.  <$$font> Damn it, COLMAN-1805-1,23.140
+
+now, how like a modern man of the world that is!  COLMAN-1805-1,23.141
+
+Formerly, they would have ask'd to <font> who <$$font>.
+COLMAN-1805-1,23.142
+
+<font> Shuff. <$$font> We never do, now; COLMAN-1805-1,23.143
+
+- $fortune $'s {TEXT:fortune's} every thing.  COLMAN-1805-1,23.144
+
+We say"a good match,"at the west end of the town, as they say" a good
+man,"in the city; COLMAN-1805-1,23.145
+
+- the phrase refers merely to money.  COLMAN-1805-1,23.146
+
+Is she rich?  COLMAN-1805-1,23.147
+
+<font> Sir Simon.  <$$font> Four thousand a year.  COLMAN-1805-1,23.148
+
+<font> Shuff. <$$font> What a devilish desirable woman!
+COLMAN-1805-1,23.149
+
+$Frank $'s {TEXT:Frank's} a happy dog!  COLMAN-1805-1,23.150
+
+<font> Sir Simon.  <$$font> $He $'s {TEXT:He's} a miserable puppy.
+COLMAN-1805-1,23.151
+
+He has no more notion, my dear Tom, of a modern"good match," than Eve
+had of pin-money.  COLMAN-1805-1,23.152
+
+<font> Shuff. <$$font> What are his objections to it?
+COLMAN-1805-1,23.153
+
+<font> Sir Simon.  <$$font> I have smoked'im; COLMAN-1805-1,23.154
+
+but he $does $n't {TEXT:doesn't} know that; COLMAN-1805-1,23.155
+
+- a filly, sly amour, in another quarter.  COLMAN-1805-1,23.156
+
+<font> Shuff. <$$font> An amour!  COLMAN-1805-1,23.157
+
+$That $'s {TEXT:That's} a very unfashionable reason for declining
+matrimony.  COLMAN-1805-1,23.158
+
+<font> Sir Simon.  <$$font> You know his romantick flights.
+COLMAN-1805-1,23.159
+
+The blockhead, I believe, is so attach'd, I $shou'd $n't {TEXT:shou'dn't}
+wonder if he flew off at a tangent, and married the girl that has
+bewitch'd him.  COLMAN-1805-1,23.160
+
+<font> Shuff. <$$font> Who is she?  COLMAN-1805-1,23.161
+
+<font> Sir Simon.  <$$font> She - hem!  - she lives with her father,
+in Penzance.  COLMAN-1805-1,23.162
+
+<font> Shuff. <$$font> And who is <font> he <$$font>?
+COLMAN-1805-1,23.163
+
+<font> Sir Simon.  <$$font> He - upon my soul, I am ashamed to tell you.
+COLMAN-1805-1,23.164
+
+<font> Shuff. <$$font> $Do $n't {TEXT:Don't} be asham'd;
+COLMAN-1805-1,23.165
+
+we never blush at any thing, in the New School.  COLMAN-1805-1,23.166
+
+<font> Sir Simon.  <$$font> Damn me, my dear Tom, if he $is $n't
+{TEXT:isn't} a brazier.  COLMAN-1805-1,23.167
+
+<font> Shuff. <$$font> The devil!  COLMAN-1805-1,23.168
+
+<font> Sir Simon.  <$$font> A dealer in kitchen candlesticks, coal
+skuttles, coppers, and cauldrons.  COLMAN-1805-1,23.169
+
+<font> Shuff. <$$font> And is the girl pretty?
+COLMAN-1805-1,23.170
+
+<P_24>
+
+<font> Sir Simon.  <$$font> So they tell me; - a plump little devil,
+as round as a tea kettle.  COLMAN-1805-1,24.172
+
+<font> Shuff. <$$font> $I $'ll {TEXT:I'll} be after the brazier's
+daughter, to-morrow.  COLMAN-1805-1,24.173
+
+<font> Sir Simon.  <$$font> But you have weight with him.
+COLMAN-1805-1,24.174
+
+Talk to him, my dear Tom - COLMAN-1805-1,24.175
+
+reason with him; COLMAN-1805-1,24.176
+
+try your powers, Tom, COLMAN-1805-1,24.177
+
+do!  COLMAN-1805-1,24.178
+
+<font> Shuff. <$$font> I $do $n't {TEXT:don't} much like plotting
+with the father against the son - COLMAN-1805-1,24.179
+
+$that $'s {TEXT:that's} reversing the New School, Baronet.
+COLMAN-1805-1,24.180
+
+<font> Sir Simon.  <$$font> But it will serve Frank: COLMAN-1805-1,24.181
+
+it will serve <font> me <$$font>, who wish to serve <font> you.
+COLMAN-1805-1,24.182
+
+<font> And to prove that I do wish it, I have been keeping something
+in embryo for you, my dear Tom Shuffleton, against your arrival.
+COLMAN-1805-1,24.183
+
+<font> Shuff. <$$font> For me?  COLMAN-1805-1,24.184
+
+<font> Sir Simon.  <$$font> When you were last leaving us, if you
+recollect, you mention'd, in a kind of a way, a - a sort of intention
+of a loan, of an odd five hundred pounds.  COLMAN-1805-1,24.185
+
+<font> Shuff. <$$font> Did I?  COLMAN-1805-1,24.186
+
+I believe I might.  COLMAN-1805-1,24.187
+
+- When I intend to raise money, I always give my friends the preference.
+COLMAN-1805-1,24.188
+
+<font> Sir Simon.  <$$font> I told you I was out of cash, then,
+I remember.  COLMAN-1805-1,24.189
+
+<font> Shuff. <$$font> Yes; $that $'s {TEXT:that's} just what I
+told you, I remember.  COLMAN-1805-1,24.190
+
+<font> Sir Simon.  <$$font> I have the sum floating by me, now,
+COLMAN-1805-1,24.191
+
+and much at your service <paren> <font> presenting it <$$font> <$$paren>.
+COLMAN-1805-1,24.192
+
+<font> Shuff. <$$font> Why, as $it $'s {TEXT:it's} lying idle,
+Baronet, I - I - $do $n't {TEXT:don't} much care if I employ it <paren>
+<font> taking it <$$font> <$$paren>.  COLMAN-1805-1,24.193
+
+<font> Sir Simon.  <$$font> Use your interest with Frank, now.
+COLMAN-1805-1,24.194
+
+<font> Shuff. <$$font> Rely on me.  COLMAN-1805-1,24.195
+
+- Shall I give you my note?  COLMAN-1805-1,24.196
+
+<font> Sir Simon.  <$$font> No, my dear Tom; $that $'s {TEXT:that's}
+an unnecessary trouble.  COLMAN-1805-1,24.197
+
+<font> Shuff. <$$font> Why, $that $'s {TEXT:that's} true - with
+one who knows me so well as you.  COLMAN-1805-1,24.198
+
+<P_25>
+
+<font> Sir Simon.  <$$font> Your verbal promise to pay, is quite as good.
+COLMAN-1805-1,25.200
+
+<font> Shuff. <$$font> $I $'ll {TEXT:I'll} see if $Frank $'s
+{TEXT:Frank's} stirring.  <paren> <font> going <$$font> <$$paren>.
+COLMAN-1805-1,25.201
+
+<font> Sir Simon.  <$$font> And I must talk to my steward.
+COLMAN-1805-1,25.202
+
+<font> Shuff. <$$font> Baronet!  <paren> <font> going.  <$$font>
+<$$paren> COLMAN-1805-1,25.203
+
+<font> Sir Simon <$$font> <paren> <font> returning <$$font> <$$paren>.
+Eh?  COLMAN-1805-1,25.204
+
+<font> Shuff. <$$font> Pray, do you employ the phrase," verbal
+promise to pay,"according to the reading of old dictionaries , or as $it
+$'s {TEXT:it's} the fashion to use it at present.  COLMAN-1805-1,25.205
+
+<font> Sir Simon.  <$$font> Oh, damn it, COLMAN-1805-1,25.206
+
+chuse your own reading, and $I $'m {TEXT:I'm} content.
+COLMAN-1805-1,25.207
+
+<bracket> <font> Exeunt, severally <$$font>.  COLMAN-1805-1,25.208
+
+<heading>
+
+Scene II.  COLMAN-1805-1,25.210
+
+<$$heading>
+
+<font> A Dressing-room.  <$$font> COLMAN-1805-1,25.212
+
+Frank Rochdale, <font> writing <$$font>; COLMAN-1805-1,25.213
+
+Valet, <font> attending.  <$$font> COLMAN-1805-1,25.214
+
+<font> Frank <$$font> <paren> <font> throwing down the pen.  <$$font>
+<$$paren> It $do $n't {TEXT:don't} signify - COLMAN-1805-1,25.215
+
+I $can $not {TEXT:cannot} write.  COLMAN-1805-1,25.216
+
+I blot, and tear; and tear, and blot; and - COLMAN-1805-1,25.217
+
+.  Come here, Williams.  COLMAN-1805-1,25.218
+
+Do let me hear you, once more.  COLMAN-1805-1,25.219
+
+Why the devil $do $n't {TEXT:don't} you come here.  COLMAN-1805-1,25.220
+
+<font> Valet.  <$$font> I <font> am <$$font> here, sir.
+COLMAN-1805-1,25.221
+
+<font> Frank.  <$$font> Well, well; my good fellow, tell me.
+COLMAN-1805-1,25.222
+
+You found means to deliver her the letter, yesterday?
+COLMAN-1805-1,25.223
+
+<font> Valet.  <$$font> Yes, sir.  COLMAN-1805-1,25.224
+
+<font> Frank.  <$$font> And, she read it - COLMAN-1805-1,25.225
+
+and - did you say, she - - she was <font> very <$$font> much affected,
+when she read it?  COLMAN-1805-1,25.226
+
+<font> Valet.  <$$font> I told you last night, sir; - she look'd quite
+death-struck, as I may say.  COLMAN-1805-1,25.227
+
+<font> Frank <$$font> <paren> <font> much affected <$$font> <$$paren>.
+Did - - did she weep, Williams?  COLMAN-1805-1,25.228
+
+<font> Valet.  <$$font> No, sir; COLMAN-1805-1,25.229
+
+but I did afterwards - COLMAN-1805-1,25.230
+
+I $do $n't {TEXT:don't} <P_26> know what ail'd me; COLMAN-1805-1,26.231
+
+but, when I got out of the house into the street, $I $'ll
+{TEXT:I'll} be hang'd if I $did $n't {TEXT:didn't} cry like a child.
+COLMAN-1805-1,26.232
+
+<font> Frank.  <$$font> You are an honest fellow, Williams.
+COLMAN-1805-1,26.233
+
+<paren> <font> A knock at the door of the room.  <$$font> <$$paren>
+COLMAN-1805-1,26.234
+
+See who is at the door.  COLMAN-1805-1,26.235
+
+<paren> Williams <font> opens the door, COLMAN-1805-1,26.236
+
+and <$$font> John <font> enters.  <$$font> <$$paren> COLMAN-1805-1,26.237
+
+<font> Valet.  <$$font> Well, $what $'s {TEXT:what's} the matter?
+COLMAN-1805-1,26.238
+
+<font> Servant.  <$$font> $There $'s {TEXT:There's} a man, in the
+porter's lodge, says he $wo $n't {TEXT:won't} go away without speaking
+to Mr. Francis.  COLMAN-1805-1,26.239
+
+<font> Frank.  <$$font> See who it is, Williams.  COLMAN-1805-1,26.240
+
+Send him to me, if necessary; COLMAN-1805-1,26.241
+
+but $do $n't {TEXT:don't} let me be teized, without occasion.
+COLMAN-1805-1,26.242
+
+<font> Williams.  <$$font> $I $'ll {TEXT:I'll} take care, sir.
+COLMAN-1805-1,26.243
+
+<bracket> <font> Exeunt <$$font> Williams <font> and <$$font> John.
+COLMAN-1805-1,26.244
+
+<font> Frank.  <$$font> Must I marry this woman, whom my father has
+chosen for me; whom I expect here to-morrow?  COLMAN-1805-1,26.245
+
+And must I, then, be told $'t $is {TEXT:'tis} criminal to love my
+poor, deserted Mary, because our hearts are illicitly attach'd?
+COLMAN-1805-1,26.246
+
+Illicit for the heart?  fine phraseology!  COLMAN-1805-1,26.247
+
+Nature disowns the restriction; COLMAN-1805-1,26.248
+
+I $can $not {TEXT:cannot} smother her dictates with the polity
+of governments, and fall in, or out of love, as the law directs.
+COLMAN-1805-1,26.249
+
+<font> Enter <$$font> Dennis Brulgruddery.  COLMAN-1805-1,26.250
+
+Well, friend, who do you come from?  COLMAN-1805-1,26.251
+
+<font> Dennis.  <$$font> I come from the Red Cow, sir.
+COLMAN-1805-1,26.252
+
+<font> Frank.  <$$font> The Red Cow!  COLMAN-1805-1,26.253
+
+<font> Dennis.  <$$font> Yes, Sir!  - upon Muckslush Heath - hard by
+your honour's father's house, here.  COLMAN-1805-1,26.254
+
+$I $'d {TEXT:I'd} be proud of your custom, sir, and all the good-looking
+family's.  COLMAN-1805-1,26.255
+
+<font> Frank.  <$$font> <paren> <font> impatiently <$$font> <$$paren>
+Well, well, your business?  COLMAN-1805-1,26.256
+
+<font> Dennis.  <$$font> $That $'s {TEXT:That's} what the porter ax'd me.
+COLMAN-1805-1,26.257
+
+"Tell <P_27> me your business, honest man,"says he - COLMAN-1805-1,27.258
+
+"$I $'ll {TEXT:I'll} see you damn'd first, Sir,"says I: -
+COLMAN-1805-1,27.259
+
+"$I $'ll {TEXT:I'll} tell it your betters; COLMAN-1805-1,27.260
+
+- and $that $'s {TEXT:that's} Mr. Francis Rochdale, Esquire.
+"COLMAN-1805-1,27.261
+
+<font> Frank.  <$$font> Zounds!  then, why $do $n't {TEXT:don't} you
+tell it?  COLMAN-1805-1,27.262
+
+I am Mr. Francis Rochdale.  COLMAN-1805-1,27.263
+
+Who the devil sent you here?  COLMAN-1805-1,27.264
+
+<font> Dennis.  <$$font> Troth, sir, it was good-nature whisper'd me to
+come to your honour: COLMAN-1805-1,27.265
+
+but I believe $I $'ve {TEXT:I've} disremember'd her directions;
+COLMAN-1805-1,27.266
+
+for, damn the bit do you seem acquainted with her.  COLMAN-1805-1,27.267
+
+<font> Frank.  <$$font> Well, my good friend, I $do $n't {TEXT:don't}
+mean to be violent; COLMAN-1805-1,27.268
+
+only be so good as to explain your business.  COLMAN-1805-1,27.269
+
+<font> Dennis.  <$$font> Oh, with all the pleasure in life.
+COLMAN-1805-1,27.270
+
+- Give me good words, and $I $'m {TEXT:I'm} as asey {COM:sic} as an ould
+glove: COLMAN-1805-1,27.271
+
+but bite my nose off with mustard, and have at you with pepper,
+COLMAN-1805-1,27.272
+
+$that $'s {TEXT:that's} my way.  COLMAN-1805-1,27.273
+
+- $There $'s {TEXT:There's} a little crature {COM:sic} at my house:
+COLMAN-1805-1,27.274
+
+- $she $'s {TEXT:she's} crying her eyes out; COLMAN-1805-1,27.275
+
+- and she $wo $n't {TEXT:wont} get such another pair at the Red Cow;
+COLMAN-1805-1,27.276
+
+for $I $'ve {TEXT:I've} left nobody with her but Mrs. Brulgruddery
+.  COLMAN-1805-1,27.277
+
+<font> Frank.  <$$font> With <font> her!  <$$font> COLMAN-1805-1,27.278
+
+with who?  COLMAN-1805-1,27.279
+
+Who are you talking of?  COLMAN-1805-1,27.280
+
+<font> Dennis.  <$$font> $I $'d {TEXT:I'd} like to know her name myself,
+sir; COLMAN-1805-1,27.281
+
+- but I have heard half of it; COLMAN-1805-1,27.282
+
+- and $that $'s {TEXT:that's} Mary.  COLMAN-1805-1,27.283
+
+<font> Frank.  <$$font> Mary!  - Can it be she?  - Wandering on a heath!
+seeking refuge in a wretched hovel!  COLMAN-1805-1,27.284
+
+<font> Dennis.  <$$font> A hovel!  COLMAN-1805-1,27.285
+
+O fie for shame of yourself, to misbecall a genteel tavern!
+COLMAN-1805-1,27.286
+
+$I $'d {TEXT:I'd} have you to know my parlour is $clean-sanded
+{TEXT:clean_sanded} once a week.  COLMAN-1805-1,27.287
+
+<font> Frank.  <$$font> Tell me, directly - what brought her to your
+house?  COLMAN-1805-1,27.288
+
+<font> Dennis.  <$$font> By my soul, it was Adam's own carriage; a
+ten-toed machine that haymakers keep in Ireland.  COLMAN-1805-1,27.289
+
+<P_28>
+
+<font> Frank.  <$$font> Damn it, fellow, $do $n't {TEXT:don't} trifle ,
+COLMAN-1805-1,28.291
+
+but tell your story; and, if you can, intelligibly.  COLMAN-1805-1,28.292
+
+<font> Dennis.  <$$font> $Do $n't {TEXT:Don't} be bothering my
+brains, then, or $you $'ll {TEXT:you'll} get it as clear as mud.
+COLMAN-1805-1,28.293
+
+Sure the young crature {COM:sic} $can $n't {TEXT:can't} fly away from
+the Red Cow, while $I $'m {TEXT:I'm} explaining to you the rights on't.
+COLMAN-1805-1,28.294
+
+- $Did $n't {TEXT:Didn't} she promise the gentleman to stay till he
+came back?  COLMAN-1805-1,28.295
+
+<font> Frank.  <$$font> Promised a gentleman!  COLMAN-1805-1,28.296
+
+- Who?  - who is the gentleman?  COLMAN-1805-1,28.297
+
+<font> Dennis.  <$$font> Arrah, now, where did you larn {COM:sic} manners?
+COLMAN-1805-1,28.298
+
+Wou'd you ax a customer his birth, parentage and education?
+COLMAN-1805-1,28.299
+
+"Heaven bless you, sir, COLMAN-1805-1,28.300
+
+$you $'ll {TEXT:you'll} come back again,"says she - COLMAN-1805-1,28.301
+
+"$That $'s {TEXT:That's} what I will, before you can say, parsnips,
+my darling,"says he.  COLMAN-1805-1,28.302
+
+<font> Frank.  <$$font> Damnation!  what does this mean?
+COLMAN-1805-1,28.303
+
+explain your errand, clearly, you scoundrel, or - COLMAN-1805-1,28.304
+
+<font> Dennis.  <$$font> Scoundrel!  COLMAN-1805-1,28.305
+
+- $Do $n't {TEXT:Don't} be after affronting a house-keeper.
+COLMAN-1805-1,28.306
+
+$Have $n't {TEXT:Haven't} I a sign at my door, three pigs, a wife,
+and a man sarvant {COM:sic}?  COLMAN-1805-1,28.307
+
+<font> Frank.  <$$font> Well, go on.  COLMAN-1805-1,28.308
+
+<font> Dennis.  <$$font> Damn the word more will I tell you.
+COLMAN-1805-1,28.309
+
+<font> Frank <$$font> Why, you infernal - COLMAN-1805-1,28.310
+
+<font> Dennis.  <$$font> Oh, be asy {COM:sic}!  COLMAN-1805-1,28.311
+
+- see what you get, now, by affronting Mr. Dennis
+Brulgruddery, <paren> <font> searching his pockets <$$font> <$$paren>
+COLMAN-1805-1,28.312
+
+$I $'d {TEXT:I'd} have talk'd for an hour if you had kept a civil tongue
+in your head; COLMAN-1805-1,28.313
+
+- but, now, you may read the letter.  <paren> <font> Giving it.  <$$font>
+<$$paren> COLMAN-1805-1,28.314
+
+<font> Frank.  <$$font> A letter!  COLMAN-1805-1,28.315
+
+- stupid booby!  - why $did $n't {TEXT:didn't} you give it to me at first?
+COLMAN-1805-1,28.316
+
+- Yes, it is her hand.  COLMAN-1805-1,28.317
+
+<paren> <font> Opens the letter.  <$$font> <$$paren> COLMAN-1805-1,28.318
+
+<font> Dennis.  <$$font> Stupid!  COLMAN-1805-1,28.319
+
+- If $you $'re {TEXT:you're} so fond of letters, you might larn {COM:sic}
+to behave yourself to the postman.  COLMAN-1805-1,28.320
+
+<font> Frank.  <$$font> <paren> <font> Reading, and agitated.  <$$font>
+<$$paren> -"Not going to upbraid you. "COLMAN-1805-1,28.321
+
+-"$Cou'd $n't {TEXT:Cou'dn't} rest at my father's"- COLMAN-1805-1,28.322
+
+<P_29>
+
+"trifling assistance"- COLMAN-1805-1,29.324
+
+Oh heaven!  does she, then, want assistance!  COLMAN-1805-1,29.325
+
+-"The gentleman, who has befriended me. "COLMAN-1805-1,29.326
+
+- damnation!  - the gentleman!  COLMAN-1805-1,29.327
+
+-"your unhappy Mary. "COLMAN-1805-1,29.328
+
+Scoundrel that I am!  COLMAN-1805-1,29.329
+
+what is she suffering!  COLMAN-1805-1,29.330
+
+but who, who is this gentleman?  COLMAN-1805-1,29.331
+
+- no matter.  COLMAN-1805-1,29.332
+
+- She is distress'd, heart breaking!  COLMAN-1805-1,29.333
+
+- and I, who have been the cause; - I, who - COLMAN-1805-1,29.334
+
+here - <paren> <font> running to the writing table, and opening a drawer
+<$$font> <$$paren> run, COLMAN-1805-1,29.335
+
+fly, COLMAN-1805-1,29.336
+
+despatch!  COLMAN-1805-1,29.337
+
+<font> Dennis.  <$$font> $He $'s {TEXT:He's} mad!  COLMAN-1805-1,29.338
+
+<font> Frank.  <$$font> Say I will be at your house, myself - remember,
+positively come, or send - in the course of the day.  COLMAN-1805-1,29.339
+
+- In the mean time, take this, COLMAN-1805-1,29.340
+
+and give it to the person who sent you.  <paren> <font> Giving
+a purse, which he has taken from the drawer.  <$$font> <$$paren>
+COLMAN-1805-1,29.341
+
+<font> Dennis.  <$$font> A purse?  faith, COLMAN-1805-1,29.342
+
+and $I $'ll {TEXT:I'll} take it.  COLMAN-1805-1,29.343
+
+- Do you know how much is in the inside?  COLMAN-1805-1,29.344
+
+<font> Frank.  <$$font> Psha!  no.  - No matter.  COLMAN-1805-1,29.345
+
+<font> Dennis.  <$$font> Troth, now, if $I $'d {TEXT:I'd} trusted a
+great big purse to a stranger, $they $'d {TEXT:they'd} have call'd it
+a bit of a bull: COLMAN-1805-1,29.346
+
+- but let you and I count it out between us, <paren> <font> pouring the
+money on the table <$$font> <$$paren> COLMAN-1805-1,29.347
+
+for, damn him, say I, who wou'd cheat a poor girl in distress, of the
+value of a rap.  COLMAN-1805-1,29.348
+
+One, two, three, &c. <paren> <font> counting <$$font> <$$paren>
+COLMAN-1805-1,29.349
+
+<font> Frank.  <$$font> Worthy, honest fellow!  COLMAN-1805-1,29.350
+
+<font> Dennis.  <$$font> Eleven - twelve - thirteen.  COLMAN-1805-1,29.351
+
+<font> Frank.  <$$font> $I $'ll {TEXT:I'll} be the making of your house,
+my good fellow.  COLMAN-1805-1,29.352
+
+<font> Dennis.  <$$font> Damn the Red Cow, sir, COLMAN-1805-1,29.353
+
+you put me out.  COLMAN-1805-1,29.354
+
+Seventeen - eighteen - nineteen.  COLMAN-1805-1,29.355
+
+- Nineteen fat-yellow boys, and a seven-shilling piece.
+COLMAN-1805-1,29.356
+
+Tell'em yourself, sir; COLMAN-1805-1,29.357
+
+then chalk'em up over the chimney-piece, else $you $'ll {TEXT:you'll}
+forget, you know.  COLMAN-1805-1,29.358
+
+<font> Frank.  <$$font> O, friend, when honesty, so palpably
+natural as yours, keeps the account, I care not for my arithmetick.
+COLMAN-1805-1,29.359
+
+- Fly, now!  COLMAN-1805-1,29.360
+
+- bid the servants <P_30> give you any refreshment you chuse, -
+COLMAN-1805-1,30.361
+
+then hasten to execute your commission.  COLMAN-1805-1,30.362
+
+<font> Dennis.  <$$font> Thank your honour!  COLMAN-1805-1,30.363
+
+good luck to you!  COLMAN-1805-1,30.364
+
+$I $'ll {TEXT:I'll} taste the beer: COLMAN-1805-1,30.365
+
+- but, by my soul, if the butler comes the Red Cow over me, $I $'ll
+{TEXT:I'll} tell him I know sweet from sour.  COLMAN-1805-1,30.366
+
+<bracket> <font> Exit Dennis.  <$$font> COLMAN-1805-1,30.367
+
+<font> Frank.  <$$font> Let me read her letter once more.
+COLMAN-1805-1,30.368
+
+- <paren> <font> Reads.  <$$font> <$$paren> COLMAN-1805-1,30.369
+
+"I am not going to upbraid you; COLMAN-1805-1,30.370
+
+- but after I got your letter, I could not rest at my father's, where
+I knew happiness and innocence.  COLMAN-1805-1,30.371
+
+I wish'd to have taken a last leave of you, and to beg a trifling
+assistance; COLMAN-1805-1,30.372
+
+- but the gentleman who has befriended me, in my wanderings, would not
+suffer me to do so: COLMAN-1805-1,30.373
+
+yet I could not help writing, to tell you I am quitting this neighbourhood
+for ever.  COLMAN-1805-1,30.374
+
+That you may never know a moment's sorrow will, always, be the prayer
+of Your unhappy Mary. "COLMAN-1805-1,30.375
+
+My mind is hell to me!  COLMAN-1805-1,30.376
+
+love, sorrow, remorse, and - yes, and jealousy, all distract me;
+COLMAN-1805-1,30.377
+
+- and no counsellor to advise with; COLMAN-1805-1,30.378
+
+no friend, to whom I may - COLMAN-1805-1,30.379
+
+<font> Enter <$$font> Tom Shuffleton.  COLMAN-1805-1,30.380
+
+<font> Frank <$$font> Tom Shuffleton!  you never arrived more <font>
+apropos <$$font>, in your life.  COLMAN-1805-1,30.381
+
+<font> Shuff. <$$font> $That $'s {TEXT:That's} what the women
+always say to me.  COLMAN-1805-1,30.382
+
+$I $'ve {TEXT:I've} rumbled, on the road, all night, Frank.
+COLMAN-1805-1,30.383
+
+My bones ache, COLMAN-1805-1,30.384
+
+my $head $'s {TEXT:head's} muzzy - COLMAN-1805-1,30.385
+
+and $we $'ll {TEXT:we'll} drink two bottles of claret, a piece, after
+dinner, to enliven us.  COLMAN-1805-1,30.386
+
+<font> Frank.  <$$font> You seem in spirits, Tom, I think, now.
+COLMAN-1805-1,30.387
+
+<font> Shuff. <$$font> Yes; - I have had a windfall - Five
+hundred pounds.  COLMAN-1805-1,30.388
+
+<P_31>
+
+<font> Frank.  <$$font> A legacy?  COLMAN-1805-1,31.390
+
+<font> Shuff. <$$font> No.  - The patient survives who was sick
+of his money.  COLMAN-1805-1,31.391
+
+$'T $is {TEXT:'Tis} a loan from a friend.  COLMAN-1805-1,31.392
+
+<font> Frank.  <$$font> $'T $would {TEXT:'Twould} be a pity, then, Tom ,
+if the patient experienced improper treatment.  COLMAN-1805-1,31.393
+
+<font> Shuff. <$$font> Why, $that $'s {TEXT:that's} true:
+COLMAN-1805-1,31.394
+
+- but his case is so rare, that it $is $n't {TEXT:isn't} well understood ,
+I believe.  COLMAN-1805-1,31.395
+
+Curse me, my dear Frank, if the disease of lending is epidemic.
+COLMAN-1805-1,31.396
+
+<font> Frank.  <$$font> But the disease of trying to borrow, my dear Tom,
+I am afraid, is.  COLMAN-1805-1,31.397
+
+<font> Shuff. <$$font> Very prevalent indeed, at the west end of
+the town.  COLMAN-1805-1,31.398
+
+<font> Frank.  <$$font> And, as dangerous, Tom, as the smallpox.
+COLMAN-1805-1,31.399
+
+They should inoculate for it.  COLMAN-1805-1,31.400
+
+<font> Shuff. <$$font> That $wou'd $n't {TEXT:wou'dn't} be a bad
+scheme; COLMAN-1805-1,31.401
+
+but I took it naturally.  COLMAN-1805-1,31.402
+
+Psha!  damn it, $do $n't {TEXT:don't} shake your head.
+COLMAN-1805-1,31.403
+
+$Mine $'s {TEXT:Mine's} but a mere <font> fac`on de parler: <$$font>
+COLMAN-1805-1,31.404
+
+just as we talk to one another, about our coats: - we never say; "$Who
+$'s {TEXT:Who's} your tailor? "COLMAN-1805-1,31.405
+
+We always ask,"Who suffers? "COLMAN-1805-1,31.406
+
+<font> Shuff. <$$font> Your father tells me you are going to be
+married; COLMAN-1805-1,31.407
+
+I give you joy.  COLMAN-1805-1,31.408
+
+<font> Frank.  <$$font> Joy!  COLMAN-1805-1,31.409
+
+I have known nothing but torment, and misery, since this cursed marriage
+has been in agitation.  COLMAN-1805-1,31.410
+
+<font> Shuff. <$$font> Umph!  Marriage was a weighty affair,
+formerly; COLMAN-1805-1,31.411
+
+- so was a family-coach; COLMAN-1805-1,31.412
+
+- but domestick duties, now, are like town-chariots; COLMAN-1805-1,31.413
+
+- they must be made light, to be fashionable.  COLMAN-1805-1,31.414
+
+<font> Frank.  <$$font> Oh, do not trifle.  COLMAN-1805-1,31.415
+
+By according to this match, in obedience to my father, I leave to all
+the pangs of remorse, and disappointed love, a helpless, humble girl ,
+COLMAN-1805-1,31.416
+
+and rend the fibres of a generous, but too credulous, heart,
+by cancelling, like a villain, the oaths with which I won it.
+COLMAN-1805-1,31.417
+
+<P_32>
+
+<font> Shuff. <$$font> I understand; COLMAN-1805-1,32.419
+
+- A snug thing in the country.  COLMAN-1805-1,32.420
+
+- Your wife, they tell me, will have four thousand a year.
+COLMAN-1805-1,32.421
+
+<font> Frank.  <$$font> What has that to do with sentiment?
+COLMAN-1805-1,32.422
+
+<font> Shuff. <$$font> I $do $n't {TEXT:don't} know what you may
+think; COLMAN-1805-1,32.423
+
+but, if a man said to me, plump,"Sir, I am very fond of four
+thousand a-year. "I should say, -"Sir, I applaud your sentiment very
+highly. "COLMAN-1805-1,32.424
+
+<font> Frank.  <$$font> But, how does he act, who offers his hand
+to one woman, at the very moment his heart is engaged to another.
+COLMAN-1805-1,32.425
+
+<font> Shuff. <$$font> He offers a great sacrifice.
+COLMAN-1805-1,32.426
+
+<font> Frank.  <$$font> And, where is the reparation to the unfortunate
+he has deserted?  COLMAN-1805-1,32.427
+
+<font> Shuff. <$$font> An annuity.  COLMAN-1805-1,32.428
+
+- A great many unfortunates sport a stylish carriage, up and
+down St. James's street, {COM:sic} upon such a provision.
+COLMAN-1805-1,32.429
+
+<font> Frank.  <$$font> An annuity, flowing from the fortune, I suppose,
+of the woman I marry!  COLMAN-1805-1,32.430
+
+is that delicate?  COLMAN-1805-1,32.431
+
+<font> Shuff. <$$font> $'T $is {TEXT:'Tis} convenient.
+COLMAN-1805-1,32.432
+
+We liquidate debts of play, and usury, from the same resources.
+COLMAN-1805-1,32.433
+
+<font> Frank.  <$$font> And call a crowd of Jews and gentlemen-gamesters
+together, to be settled with, during the debtor's honeymoon!
+COLMAN-1805-1,32.434
+
+<font> Shuff. <$$font> No, damn it, COLMAN-1805-1,32.435
+
+it $wou'd $n't {TEXT:wou'dn't} be fair to jumble the Jews into the same
+room with our gaming acquaintance.  COLMAN-1805-1,32.436
+
+<font> Frank.  <$$font> Why so?  COLMAN-1805-1,32.437
+
+<font> Shuff. <$$font> Because, twenty to one, the first half of
+the creditors would begin dunning the other.  COLMAN-1805-1,32.438
+
+<font> Frank.  <$$font> Nay, for once in your life, be serious.
+COLMAN-1805-1,32.439
+
+Read this, which has wrung my heart, COLMAN-1805-1,32.440
+
+and repose it, as a secret, in your own <paren> <font> giving the letter.
+<$$font> <$$paren> COLMAN-1805-1,32.441
+
+<font> Shuff. <$$font> <paren> <font> glancing over it
+<$$font> <$$paren> A pretty, little, crow-quill kind of a hand.
+COLMAN-1805-1,32.442
+
+-"<font> Happiness <$$font>, - <font> innocence <$$font>, - <font>
+trifling assistance <$$font> - COLMAN-1805-1,32.443
+
+<font> gentleman befriended me <$$font> COLMAN-1805-1,32.444
+
+- <font> unhappy Mary.  <$$font>"COLMAN-1805-1,32.445
+
+- Yes, I see - <font> <paren> returning it <$$paren> <$$font>
+COLMAN-1805-1,32.446
+
+She wants <P_33> money, COLMAN-1805-1,33.447
+
+but has got a new friend.  COLMAN-1805-1,33.448
+
+- The $style $'s {TEXT:style's} neat, COLMAN-1805-1,33.449
+
+but the subject $is $n't {TEXT:isn't} original.  COLMAN-1805-1,33.450
+
+<font> Frank.  <$$font> Will you serve me at this crisis?
+COLMAN-1805-1,33.451
+
+<font> Shuff. <$$font> Certainly.  COLMAN-1805-1,33.452
+
+<font> Frank.  <$$font> I wish you to see my poor Mary, in the course
+of the day.  COLMAN-1805-1,33.453
+
+Will you talk to her?  COLMAN-1805-1,33.454
+
+<font> Shuff. <$$font> O yes - $I $'ll {TEXT:I'll} talk to her.
+COLMAN-1805-1,33.455
+
+Where is she to be seen?  COLMAN-1805-1,33.456
+
+<font> Frank.  <$$font> She writes, you see, that she has abruptly left
+her father - COLMAN-1805-1,33.457
+
+and I learn, by the messenger, that she is now in a miserable, retired
+house, on the neighbouring heath.  COLMAN-1805-1,33.458
+
+- That $must $n't {TEXT:mustn't} deter you from going.
+COLMAN-1805-1,33.459
+
+<font> Shuff. <$$font> Me?  COLMAN-1805-1,33.460
+
+Oh, dear no - $I $'m {TEXT:I'm} used to it.  COLMAN-1805-1,33.461
+
+I $do $n't {TEXT:don't} care how retired the house is.
+COLMAN-1805-1,33.462
+
+<font> Frank.  <$$font> Come down to my father, to breakfast.  I will
+tell you afterwards all I wish you to execute.  COLMAN-1805-1,33.463
+
+Oh, Tom!  this business has unhinged me for society.  COLMAN-1805-1,33.464
+
+Rigid morality, after all, is the best coat of mail for the conscience.
+COLMAN-1805-1,33.465
+
+<font> Shuff. <$$font> Our ancestors, who wore mail, admired it
+amazingly; COLMAN-1805-1,33.466
+
+but to mix in the gay world, with their rigid morality, would
+be as singular as stalking into a drawing room, in their armour;
+COLMAN-1805-1,33.467
+
+- for dissipation is, now, the fashionable habit, with which, like
+a brown coat, a man goes into company, to avoid being stared at.
+COLMAN-1805-1,33.468
+
+<bracket> <font> Exeunt.  <$$font> COLMAN-1805-1,33.469
+
+<heading>
+
+Scene III.  COLMAN-1805-1,33.471
+
+<$$heading>
+
+<font> An apartment in <$$font> Job Thornberry's <font> house.
+COLMAN-1805-1,33.473
+
+Enter <$$font> Job Thornberry <paren> <font> in a night-gown <$$font>
+<$$paren> <font> and <$$font> Bur.  COLMAN-1805-1,33.474
+
+<font> Bur.  <$$font> $Do $n't {TEXT:Don't} take on so - $do $n't
+{TEXT:don't} you, now!  COLMAN-1805-1,33.475
+
+pray, listen to reason.  COLMAN-1805-1,33.476
+
+<font> Job.  <$$font> I $wo $n't {TEXT:won't}.  COLMAN-1805-1,33.477
+
+<font> Bur.  <$$font> Pray, do!  COLMAN-1805-1,33.478
+
+<font> Job.  <$$font> I $wo $n't {TEXT:won't}.  COLMAN-1805-1,33.479
+
+Reason bid me love my child, and help my friend: COLMAN-1805-1,33.480
+
+- $what $'s {TEXT:what's} the consequence?  COLMAN-1805-1,33.481
+
+my friend has run one way, and broke up my trade; - COLMAN-1805-1,33.482
+
+<P_34>
+
+my daughter has run another, and broke my -.  COLMAN-1805-1,34.484
+
+No, she shall never have it to say she broke my heart.
+COLMAN-1805-1,34.485
+
+If I hang myself for grief, she $sha $n't {TEXT:sha'n't} know she made me.
+COLMAN-1805-1,34.486
+
+<font> Bur.  <$$font> Well, but, master - COLMAN-1805-1,34.487
+
+<font> Job.  <$$font> And reason told me to take you into my shop, when
+the fat churchwardens starved you at the workhouse, COLMAN-1805-1,34.488
+
+- damn their want of feeling for it!  COLMAN-1805-1,34.489
+
+- and you were thump'd about, a poor, unoffending, ragged-rump'd boy,
+as you were - COLMAN-1805-1,34.490
+
+I wonder you $hav'$n't {TEXT:hav'n't} run away from me, too.
+COLMAN-1805-1,34.491
+
+<font> Bur.  <$$font> $That $'s {TEXT:That's} the first real unkind word
+you ever said to me.  COLMAN-1805-1,34.492
+
+$I $'ve {TEXT:I've} sprinkled your shop two-and-twenty years, and never
+miss'd a morning.  COLMAN-1805-1,34.493
+
+<font> Job.  <$$font> The bailiffs are below, clearing the goods:
+COLMAN-1805-1,34.494
+
+- you $wo $n't {TEXT:won't} have the trouble any longer.
+COLMAN-1805-1,34.495
+
+<font> Bur.  <$$font> Trouble!  COLMAN-1805-1,34.496
+
+look ye, old Job Thornberry - COLMAN-1805-1,34.497
+
+<font> Job.  <$$font> Well!  What, you are going to be saucy to me,
+now $I $'m {TEXT:I'm} ruined?  COLMAN-1805-1,34.498
+
+<font> Bur.  <$$font> $Do $n't {TEXT:Don't} say one cutting thing after
+another.  COLMAN-1805-1,34.499
+
+- You have been as noted, all round our town, for being a kind man,
+as being a blunt one.  COLMAN-1805-1,34.500
+
+<font> Job.  <$$font> Blunt or sharp, $I $'ve {TEXT:I've} been honest.
+COLMAN-1805-1,34.501
+
+Let them look at my ledger - $they $'ll {TEXT:they'll} find it right.
+COLMAN-1805-1,34.502
+
+I began upon a little; COLMAN-1805-1,34.503
+
+I made that little great, by industry; COLMAN-1805-1,34.504
+
+I never cringed to a customer, to get him into my books, that I might
+hamper him with an overcharged bill, for long credit; COLMAN-1805-1,34.505
+
+I earn'd my fair profits; COLMAN-1805-1,34.506
+
+I paid my fair way; COLMAN-1805-1,34.507
+
+I break by the treachery of a friend, COLMAN-1805-1,34.508
+
+and my first dividend will be seventeen shillings in the pound.
+COLMAN-1805-1,34.509
+
+I wish every tradesman in England may clap his hand on his heart,
+and say as much, when he asks a creditor to sign his certificate.
+COLMAN-1805-1,34.510
+
+<font> Bur.  <$$font> $'T $was {TEXT:'Twas} I kept your ledger, all
+the time.  COLMAN-1805-1,34.511
+
+<font> Job.  <$$font> I know you did.  COLMAN-1805-1,34.512
+
+<font> Bur.  <$$font> From the time you took me out of the workhouse.
+COLMAN-1805-1,34.513
+
+<P_35>
+
+<font> Job.  <$$font> Psha!  rot the workhouse!  COLMAN-1805-1,35.515
+
+<font> Bur.  <$$font> You never mention'd it to me, yourself, till to-day.
+COLMAN-1805-1,35.516
+
+<font> Job.  <$$font> I said it in a hurry.  COLMAN-1805-1,35.517
+
+<font> Bur.  <$$font> And $I $'ve {TEXT:I've} always remember'd it
+at leisure.  COLMAN-1805-1,35.518
+
+I $do $n't {TEXT:don't} want to brag, COLMAN-1805-1,35.519
+
+but I hope $I $'ve {TEXT:I've} been found faithful.  COLMAN-1805-1,35.520
+
+$It $'s {TEXT:It's} rather hard to tell poor John Bur, the workhouse-boy
+, after cloathing, feeding and, making him your man of trust, for
+two-and-twenty years, that you wonder he $do $n't {TEXT:don't} run away
+from you, now $you $'re {TEXT:you're} in trouble.  COLMAN-1805-1,35.521
+
+<font> Job.  <$$font> <paren> <font> affected.  <$$font> <$$paren> John
+- I beg your pardon.  <paren> <font> Stretching out his hand.  <$$font>
+<$$paren> COLMAN-1805-1,35.522
+
+<font> Bur.  <$$font> <paren> <font> taking his hand.  <$$font> <$$paren>
+$Do $n't {TEXT:Don't} say a word more about it.  COLMAN-1805-1,35.523
+
+<font> Job.  <$$font> I - COLMAN-1805-1,35.524
+
+<font> Bur.  <$$font> Pray, now, master, $do $n't {TEXT:don't} say
+any more!  COLMAN-1805-1,35.525
+
+come, be a man!  COLMAN-1805-1,35.526
+
+get on your things; COLMAN-1805-1,35.527
+
+and face the bailiffs, that are rummaging the goods.  COLMAN-1805-1,35.528
+
+<font> Job.  <$$font> I $can $n't {TEXT:can't}, John; COLMAN-1805-1,35.529
+
+I $can $n't {TEXT:can't}.  COLMAN-1805-1,35.530
+
+My $heart $'s {TEXT:heart's} heavier than all the iron, and brass,
+in my shop.  COLMAN-1805-1,35.531
+
+<font> Bur.  <$$font> Nay, consider what confusion!  COLMAN-1805-1,35.532
+
+- pluck up a courage; COLMAN-1805-1,35.533
+
+do, now!  COLMAN-1805-1,35.534
+
+<font> Job.  <$$font> Well, $I $'ll {TEXT:I'll} try.  COLMAN-1805-1,35.535
+
+<font> Bur.  <$$font> Aye, $that $'s {TEXT:that's} right:
+COLMAN-1805-1,35.536
+
+$here $'s {TEXT:here's} your clothes.  <paren> <font> taking them from
+the back of a chair.  <$$font> <$$paren> COLMAN-1805-1,35.537
+
+$They $'ll {TEXT:They'll} play the devil with all the pots and pans,
+if you $are $n't {TEXT:aren't} by.  COLMAN-1805-1,35.538
+
+- Why, I warrant $you $'ll {TEXT:you'll} do!  COLMAN-1805-1,35.539
+
+bless you, COLMAN-1805-1,35.540
+
+what should ail you?  COLMAN-1805-1,35.541
+
+<font> Job.  <$$font> Ail me?  COLMAN-1805-1,35.542
+
+do you go, and get a daughter, John Bur; then let her run away from you ,
+and $you $'ll {TEXT:you'll} know what ails me.  COLMAN-1805-1,35.543
+
+<font> Bur.  <$$font> Come, $here $'s {TEXT:here's} your coat and
+waistcoat.  <paren> <font> going to help him on with the clothes.
+<$$font> <$$paren> COLMAN-1805-1,35.544
+
+This is the waistcoat young mistress work'd, with her own hands, for
+your birth-day, five years ago.  COLMAN-1805-1,35.545
+
+Come, get into it, as quick as you can.  COLMAN-1805-1,35.546
+
+<font> Job.  <$$font> <paren> <font> throwing it on the floor violently.
+<$$font> <$$paren> $I $'d {TEXT:I'd} as <P_36> lieve get into my coffin.
+COLMAN-1805-1,36.547
+
+$She $'ll {TEXT:She'll} have me there, soon.  COLMAN-1805-1,36.548
+
+Psha!  rot it!  COLMAN-1805-1,36.549
+
+$I $'m {TEXT:I'm} going to snivel.  COLMAN-1805-1,36.550
+
+Bur, go, COLMAN-1805-1,36.551
+
+and get me another.  COLMAN-1805-1,36.552
+
+<font> Bur.  <$$font> Are you sure you $wo $n't {TEXT:won't} put it on?
+COLMAN-1805-1,36.553
+
+<font> Job.  <$$font> No, I $wo $n't {TEXT:won't}.  COLMAN-1805-1,36.554
+
+<paren> Bur <font> pauses.  <$$font> <$$paren> COLMAN-1805-1,36.555
+
+No, I tell you.  COLMAN-1805-1,36.556
+
+<bracket> <font> Exit <$$font> Bur.  COLMAN-1805-1,36.557
+
+How proud I was of that waistcoat, five years ago!  COLMAN-1805-1,36.558
+
+I little thought what would happen, now, when I sat in it, at
+the top of my table, with all my neighbours to celebrate the day;
+COLMAN-1805-1,36.559
+
+- there was Collop, on one side of me, and his wife on the other;
+COLMAN-1805-1,36.560
+
+and my daughter, Mary, sat at the further end; - smiling so sweetly; -
+like an artful, good-for-nothing - COLMAN-1805-1,36.561
+
+I $shou'd $n't {TEXT:shou'dn't} like to throw away a waistcoat neither.
+COLMAN-1805-1,36.562
+
+- I may as well put it on.  COLMAN-1805-1,36.563
+
+- Yes - it would be poor spite not to put it on <paren> <font> putting
+his arms into it <$$font> <$$paren> - COLMAN-1805-1,36.564
+
+$She $'s {TEXT:She's} breaking my heart; COLMAN-1805-1,36.565
+
+but, $I $'ll {TEXT:I'll} wear it; COLMAN-1805-1,36.566
+
+- $I $'ll {TEXT:I'll} wear it, <paren> <font> buttoning it, as he speaks ,
+and crying, involuntarily <$$font> <$$paren> COLMAN-1805-1,36.567
+
+$It $'s {TEXT:It's} my child's - COLMAN-1805-1,36.568
+
+$She $'s {TEXT:She's} undutiful, - ungrateful, - barbarous, -
+COLMAN-1805-1,36.569
+
+but $she $'s {TEXT:she's} my child, COLMAN-1805-1,36.570
+
+- and $she $'ll {TEXT:she'll} never work me another.  COLMAN-1805-1,36.571
+
+<font> Re-enter <$$font> Bur.  COLMAN-1805-1,36.572
+
+<font> Bur.  <$$font> $Here $'s {TEXT:Here's} another waistcoat;
+COLMAN-1805-1,36.573
+
+but, it has laid by so long, I think $it $'s {TEXT:it's} damp.
+COLMAN-1805-1,36.574
+
+<font> Job.  <$$font> I was thinking so myself, Bur; COLMAN-1805-1,36.575
+
+and so - COLMAN-1805-1,36.576
+
+<font> Bur.  <$$font> Eh - what, $you $'ve {TEXT:you've} got on the
+old one?  COLMAN-1805-1,36.577
+
+Well, now, I declare, $I $'m {TEXT:I'm} glad of that.
+COLMAN-1805-1,36.578
+
+$Here $'s {TEXT:Here's} your coat <paren> <font> putting it on him
+<$$font> <$$paren>.  COLMAN-1805-1,36.579
+
+'Sbobs!  this waistcoat feels a little damp, about the top of the bosom.
+COLMAN-1805-1,36.580
+
+<font> Job.  <$$font> <paren> <font> confused <$$font> <$$paren> Never
+mind, Bur, never mind.  COLMAN-1805-1,36.581
+
+- A little water has dropt on it; COLMAN-1805-1,36.582
+
+but it $wo $n't {TEXT:won't} give me cold, I believe.
+COLMAN-1805-1,36.583
+
+<paren> <font> A noise of voices, in altercation, without.  <$$font>
+<$$paren> COLMAN-1805-1,36.584
+
+<font> Bur.  <$$font> Heigh!  they are playing up old Harry below!
+COLMAN-1805-1,36.585
+
+$I $'ll {TEXT:I'll} run, and see $what $'s {TEXT:what's} the matter.
+COLMAN-1805-1,36.586
+
+Make haste after me, COLMAN-1805-1,36.587
+
+do, now!  COLMAN-1805-1,36.588
+
+<bracket> <font> Exit <$$font> Bur.  COLMAN-1805-1,36.589
+
+<P_37>
+
+<font> Job.  <$$font> I $do $n't {TEXT:don't} care for the bankruptcy,
+now.  COLMAN-1805-1,37.591
+
+I can face my creditors, like an honest man; COLMAN-1805-1,37.592
+
+- and I can crawl to my grave, afterwards, as poor as a church-mouse.
+COLMAN-1805-1,37.593
+
+What does it signify?  COLMAN-1805-1,37.594
+
+Job Thornberry has no reason, now, to wish himself worth a groat:
+COLMAN-1805-1,37.595
+
+- the old ironmonger and brazier has nobody to hoard his money for, now!
+COLMAN-1805-1,37.596
+
+I was only saving for my daughter; COLMAN-1805-1,37.597
+
+and she has run away from her doating, {COM:sic} foolish father, -
+and struck down my heart - flat - flat.  COLMAN-1805-1,37.598
+
+- <font> Enter <$$font> Peregrine.  COLMAN-1805-1,37.599
+
+Well, who are you?  COLMAN-1805-1,37.600
+
+<font> Pereg. <$$font> A friend.  COLMAN-1805-1,37.601
+
+<font> Job.  <$$font> Then, $I $'m {TEXT:I'm} sorry to see you.
+COLMAN-1805-1,37.602
+
+I have just been ruin'd by a friend; COLMAN-1805-1,37.603
+
+and never wish to have another friend again, as long as I live.  - No,
+nor any ungrateful, undutiful - Poh!  COLMAN-1805-1,37.604
+
+- I $do $n't {TEXT:don't} recollect your face.  COLMAN-1805-1,37.605
+
+<font> Pereg. <$$font> Climate, and years have been at work on it.
+COLMAN-1805-1,37.606
+
+While Europeans are scorching under an Indian sun, Time is doubly busy
+in fanning their features with his wings.  COLMAN-1805-1,37.607
+
+But, do you remember no trace of me?  COLMAN-1805-1,37.608
+
+<font> Job.  <$$font> No, I tell you.  COLMAN-1805-1,37.609
+
+If you have any thing to say, say it.  COLMAN-1805-1,37.610
+
+I have something to settle, below, with my daughter.  - I mean, with
+the people in the shop; COLMAN-1805-1,37.611
+
+- they are impatient; COLMAN-1805-1,37.612
+
+and the morning has half run away, before she knew I should be up.
+COLMAN-1805-1,37.613
+
+- I mean before I have had time to get on my coat and waistcoat, she
+gave me - COLMAN-1805-1,37.614
+
+I mean - I mean, if you have any business, tell it, at once.
+COLMAN-1805-1,37.615
+
+<font> Pereg. <$$font> I <font> will <$$font> tell it, at once.
+COLMAN-1805-1,37.616
+
+You seem agitated.  COLMAN-1805-1,37.617
+
+The harpies, whom I pass'd in your shop, inform'd me of your sudden
+misfortune; COLMAN-1805-1,37.618
+
+but, do not despair yet.  COLMAN-1805-1,37.619
+
+<font> Job.  <$$font> Aye, $I $'m {TEXT:I'm} going to be a bankrupt -
+COLMAN-1805-1,37.620
+
+but <P_38> that $do $n't {TEXT:don't} signify.  COLMAN-1805-1,38.621
+
+Go on: COLMAN-1805-1,38.622
+
+it $is $n't {TEXT:isn't} that; COLMAN-1805-1,38.623
+
+- $they $'ll {TEXT:they'll} find all fair; COLMAN-1805-1,38.624
+
+- but, go on.  COLMAN-1805-1,38.625
+
+<font> Pereg. <$$font> I will.  COLMAN-1805-1,38.626
+
+$'T $is {TEXT:'Tis} just thirty years ago since I left England.
+COLMAN-1805-1,38.627
+
+<font> Job.  <$$font> $That $'s {TEXT:That's} a little after the time
+I set up in the hardware business.  COLMAN-1805-1,38.628
+
+<font> Pereg. <$$font> About that time, a lad of fifteen years
+enter'd your shop: COLMAN-1805-1,38.629
+
+he had the appearance of a gentleman's son; COLMAN-1805-1,38.630
+
+and told you he had heard, by accident, as he was wandering through the
+streets of Penzance, some of your neighbours speak of Job Thornberry's
+goodness to persons in distress.  COLMAN-1805-1,38.631
+
+<font> Job.  <$$font> I believe he told a lie there.  COLMAN-1805-1,38.632
+
+<font> Pereg. <$$font> Not in that instance, though he did
+in another.  COLMAN-1805-1,38.633
+
+<font> Job.  <$$font> I remember him.  COLMAN-1805-1,38.634
+
+He was a fine, bluff boy!  COLMAN-1805-1,38.635
+
+<font> Pereg. <$$font> He had lost his parents, he said;
+COLMAN-1805-1,38.636
+
+and, destitute of friends, money, and food, was making his way to the next
+port, to offer himself to any vessel that would take him on board, that
+he might work his way abroad, and seek a livelihood.  COLMAN-1805-1,38.637
+
+<font> Job.  <$$font> Yes, yes; he did.  COLMAN-1805-1,38.638
+
+I remember it.  COLMAN-1805-1,38.639
+
+<font> Pereg. <$$font> You may remember, too, when the boy
+had finish'd his tale of distress, you put ten guineas in his hand.
+COLMAN-1805-1,38.640
+
+They were the first earnings of your trade, you told him,
+COLMAN-1805-1,38.641
+
+and could not be laid out to better advantage than in relieving a helpless
+orphan; COLMAN-1805-1,38.642
+
+- and, giving him a letter of recommendation to a sea captain at Falmouth
+, you wish'd him good spirits, and prosperity.  COLMAN-1805-1,38.643
+
+He left you with a promise, that, if fortune ever smiled upon him,
+you should, one day, hear news of Peregrine.  COLMAN-1805-1,38.644
+
+<font> Job.  <$$font> Ah, poor fellow!  poor Peregrine!  he was a
+pretty boy.  COLMAN-1805-1,38.645
+
+I should like to hear news of him, I own.  COLMAN-1805-1,38.646
+
+<font> Pereg. <$$font> I am that Peregrine.  COLMAN-1805-1,38.647
+
+<font> Job.  <$$font> Eh?  what - you are -?  COLMAN-1805-1,38.648
+
+No: let me <P_39> look at you again.  COLMAN-1805-1,39.649
+
+Are you the pretty boy, that - COLMAN-1805-1,39.650
+
+bless us, COLMAN-1805-1,39.651
+
+how you are alter'd!  COLMAN-1805-1,39.652
+
+<font> Pereg. <$$font> I have endured many hardships, since I
+saw you; many turns of fortune; COLMAN-1805-1,39.653
+
+- but, I deceived you <paren> it was the cunning of a truant lad <$$paren>
+when I told you I had lost my parents.  COLMAN-1805-1,39.654
+
+From a romantick folly, the growth of boyish brains, I had fix'd my
+fancy on being a sailor, COLMAN-1805-1,39.655
+
+and had run away from my father.  COLMAN-1805-1,39.656
+
+<font> Job.  <$$font> <paren> <font> with great emotion.  <$$font>
+<$$paren> Run away from your father!  COLMAN-1805-1,39.657
+
+If I had known that, $I $'d {TEXT:I'd} have horsewhipp'd you, within an
+inch of your life!  COLMAN-1805-1,39.658
+
+<font> Pereg. <$$font> Had you known it, you had done right,
+perhaps.  COLMAN-1805-1,39.659
+
+<font> Job.  <$$font> Right?  COLMAN-1805-1,39.660
+
+Ah!  you $do $n't {TEXT:don't} know what it is for a child to run away
+from a father!  COLMAN-1805-1,39.661
+
+Rot me, if I $wou'd $n't {TEXT:wou'dn't} have sent you back to him, tied,
+neck and heels, in the basket of the stage coach.  COLMAN-1805-1,39.662
+
+<font> Pereg. <$$font> I have had my compunctions;
+COLMAN-1805-1,39.663
+
+- have express'd them by letter to my father: COLMAN-1805-1,39.664
+
+but I fear my penitence had no effect.  COLMAN-1805-1,39.665
+
+<font> Job.  <$$font> Served you right.  COLMAN-1805-1,39.666
+
+<font> Pereg. <$$font> Having no answers from him, he died, I
+fear, without forgiving me <paren> <font> sighing <$$font> <$$paren>.
+COLMAN-1805-1,39.667
+
+<font> Job.  <$$font> <paren> <font> starting.  <$$font> <$$paren> What!
+died!  without forgiving his child!  COLMAN-1805-1,39.668
+
+- Come, $that $'s {TEXT:that's} too much.  COLMAN-1805-1,39.669
+
+I $cou'd $n't {TEXT:cou'dn't} have done that, neither.
+COLMAN-1805-1,39.670
+
+- But, go on: COLMAN-1805-1,39.671
+
+I hope $you $'ve {TEXT:you've} been prosperous.  COLMAN-1805-1,39.672
+
+But you $shou'd $n't {TEXT:shou'dn't} - you $shou'd $n't {TEXT:shou'dn't}
+have quitted your father.  COLMAN-1805-1,39.673
+
+<font> Pereg. <$$font> I acknowledge it; COLMAN-1805-1,39.674
+
+- yet, I have seen prosperity; though I traversed many countries, on my
+outset, in pain and poverty.  COLMAN-1805-1,39.675
+
+Chance, at length, raised me a friend in India; by whose interest, and my
+own industry, I amass'd considerable wealth, in the Factory at Calcutta.
+COLMAN-1805-1,39.676
+
+<font> Job.  <$$font> And have just landed it, I suppose, in England?
+COLMAN-1805-1,39.677
+
+<font> Pereg. <$$font> I landed one hundred pounds, last night,
+<P_40> in my purse, as I swam from the Indiaman, which was splitting on
+a rock, half a league from the neighbouring shore.  COLMAN-1805-1,40.678
+
+As for the rest of my property - bills, bonds, cash, jewels - the whole
+amount of my toil and application, are, by this time, I doubt not,
+gone to the bottom; COLMAN-1805-1,40.679
+
+and Peregrine is return'd, after thirty years, to pay his debt to you,
+almost as poor as he left you.  COLMAN-1805-1,40.680
+
+<font> Job.  <$$font> I $wo $n't {TEXT:won't} touch a penny of your
+hundred pounds - not a penny.  COLMAN-1805-1,40.681
+
+<font> Pereg. <$$font> I do not desire you: COLMAN-1805-1,40.682
+
+I only desire you to take your own.  COLMAN-1805-1,40.683
+
+<font> Job.  <$$font> My own?  COLMAN-1805-1,40.684
+
+<font> Pereg. <$$font> Yes; I plunged with this box, last night,
+into the waves.  COLMAN-1805-1,40.685
+
+You see, it has your name on it.  COLMAN-1805-1,40.686
+
+<font> Job.  <$$font>"Job Thornberry,"sure enough.  COLMAN-1805-1,40.687
+
+And $what $'s {TEXT:what's} in it?  COLMAN-1805-1,40.688
+
+<font> Pereg. <$$font> The harvest of a kind man's charity;
+- the produce of your bounty, to one whom you thought an orphan.
+COLMAN-1805-1,40.689
+
+I have traded, these twenty years, on ten guineas <paren> which, from
+the first, I had set apart as yours <$$paren>, till they have become
+ten thousand: COLMAN-1805-1,40.690
+
+take it; COLMAN-1805-1,40.691
+
+it could not, I find, come more opportunely.  COLMAN-1805-1,40.692
+
+Your honest heart gratified itself in administering to my need;
+COLMAN-1805-1,40.693
+
+and I experience that burst of pleasure, a grateful man enjoys,
+in relieving my reliever <paren> <font> giving him the box <$$font>
+<$$paren>.  COLMAN-1805-1,40.694
+
+<font> Job.  <$$font> <paren> <font> squeezes <$$font> Peregrine's <font>
+hand, COLMAN-1805-1,40.695
+
+returns the box, COLMAN-1805-1,40.696
+
+and seems almost unable to utter.  <$$font> <$$paren> Take it again.
+COLMAN-1805-1,40.697
+
+<font> Pereg. <$$font> Why do you reject it?  COLMAN-1805-1,40.698
+
+<font> Job.  <$$font> $I $'ll {TEXT:I'll} tell you, as soon as $I $'m
+{TEXT:I'm} able.  COLMAN-1805-1,40.699
+
+T'other day, I lent a friend - COLMAN-1805-1,40.700
+
+Pshaw, rot it!  COLMAN-1805-1,40.701
+
+$I $'m {TEXT:I'm} an old fool!  <paren> <font> wiping his eyes.  <$$font>
+<$$paren> COLMAN-1805-1,40.702
+
+- I lent a friend, t'other day, the whole profits of my trade, to save
+him from sinking.  COLMAN-1805-1,40.703
+
+He walk'd off with them, COLMAN-1805-1,40.704
+
+and made me a bankrupt.  COLMAN-1805-1,40.705
+
+$Do $n't {TEXT:Don't} you think he is a rascal?  COLMAN-1805-1,40.706
+
+<P_41>
+
+<font> Pereg. <$$font> Decidedly so.  COLMAN-1805-1,41.708
+
+<font> Job.  <$$font> And what should I be, if I took all you have saved
+in the world, and left you to shift for yourself?  COLMAN-1805-1,41.709
+
+<font> Pereg. <$$font> But the case is different.
+COLMAN-1805-1,41.710
+
+This money is, in fact, your own.  COLMAN-1805-1,41.711
+
+I am inured to hardships; better able to bear them, COLMAN-1805-1,41.712
+
+and am younger than you.  COLMAN-1805-1,41.713
+
+Perhaps, too, I still have prospects of - COLMAN-1805-1,41.714
+
+<font> Job.  <$$font> I $wo $n't {TEXT:won't} take it.
+COLMAN-1805-1,41.715
+
+$I $'m {TEXT:I'm} as thankful to you, as if I left you to starve:
+COLMAN-1805-1,41.716
+
+but I $wo $n't {TEXT:won't} take it.  COLMAN-1805-1,41.717
+
+<font> Pereg. <$$font> Remember, too, you have claims upon you,
+which I have not.  COLMAN-1805-1,41.718
+
+My guide, as I came hither, said, you had married in my absence:
+COLMAN-1805-1,41.719
+
+$'t $is {TEXT:'tis} true, he told me, you were, now, a widower;
+COLMAN-1805-1,41.720
+
+but, it seems, you have a daughter to provide for.  COLMAN-1805-1,41.721
+
+<font> Job.  <$$font> I have no daughter to provide for, now!
+COLMAN-1805-1,41.722
+
+<font> Pereg. <$$font> Then, he misinform'd me.
+COLMAN-1805-1,41.723
+
+<font> Job.  <$$font> No, he $did $n't {TEXT:didn't}.
+COLMAN-1805-1,41.724
+
+I had one, last night; COLMAN-1805-1,41.725
+
+but $she $'s {TEXT:she's} gone.  COLMAN-1805-1,41.726
+
+<font> Pereg. <$$font> Gone!  COLMAN-1805-1,41.727
+
+<font> Job.  <$$font> Yes; gone to sea, for what I know, as you did.
+COLMAN-1805-1,41.728
+
+Run away from a good father, as you did.  COLMAN-1805-1,41.729
+
+This is a morning to remember; COLMAN-1805-1,41.730
+
+- my daughter has run out, COLMAN-1805-1,41.731
+
+and the bailiffs have run in; COLMAN-1805-1,41.732
+
+- I $sha $n't {TEXT:sha'n't} soon forget the day of the month.
+COLMAN-1805-1,41.733
+
+<font> Pereg. <$$font> This morning, did you say?
+COLMAN-1805-1,41.734
+
+<font> Job.  <$$font> Aye, before day-break; - a hard-hearted, base -
+COLMAN-1805-1,41.735
+
+<font> Pereg. <$$font> And could she leave you, during the
+derangement of your affairs?  COLMAN-1805-1,41.736
+
+<font> Job.  <$$font> She $did $n't {TEXT:didn't} know what was going
+to happen, poor soul!  COLMAN-1805-1,41.737
+
+I wish she had, now.  COLMAN-1805-1,41.738
+
+I $do $n't {TEXT:don't} think my Mary would have left her old father in
+the midst of his misfortunes.  COLMAN-1805-1,41.739
+
+<font> Pereg. <$$font> <paren> <font> aside.  <$$font> <$$paren>
+Mary!  it must be she!  COLMAN-1805-1,41.740
+
+What is the amount of the demands upon you?  COLMAN-1805-1,41.741
+
+<font> Job.  <font> Six thousand.  COLMAN-1805-1,41.742
+
+But I $do $n't {TEXT:don't} mind that: COLMAN-1805-1,41.743
+
+the goods can nearly cover it - COLMAN-1805-1,41.744
+
+let'em take'em - COLMAN-1805-1,41.745
+
+<P_42>
+
+damn the gridirons and warming-pans!  COLMAN-1805-1,42.747
+
+I could begin again - COLMAN-1805-1,42.748
+
+but, now my $Mary $'s {TEXT:Mary's} gone, I $hav'$n't {TEXT:hav'n't}
+the heart; COLMAN-1805-1,42.749
+
+but I shall hit upon something.  COLMAN-1805-1,42.750
+
+<font> Pereg. <$$font> Let me make a proposal to you, my old
+friend.  COLMAN-1805-1,42.751
+
+Permit me to settle with the officers, and to clear all demands upon you.
+COLMAN-1805-1,42.752
+
+Make it a debt, if you please.  I will have a hold, if it must be so,
+on your future profits in trade; COLMAN-1805-1,42.753
+
+- but do this, and I promise to restore your daughter to you.
+COLMAN-1805-1,42.754
+
+<font> Job.  <$$font> What?  bring back my child!  COLMAN-1805-1,42.755
+
+Do you know where she is?  COLMAN-1805-1,42.756
+
+Is she safe?  COLMAN-1805-1,42.757
+
+Is she far off?  COLMAN-1805-1,42.758
+
+Is - COLMAN-1805-1,42.759
+
+<font> Pereg. <$$font> Will you receive the money?
+COLMAN-1805-1,42.760
+
+<font> Job.  <$$font> Yes, yes; on those terms - on those conditions.
+COLMAN-1805-1,42.761
+
+But, where is Mary?  COLMAN-1805-1,42.762
+
+<font> Pereg. <$$font> Patience.  COLMAN-1805-1,42.763
+
+I must not tell you yet; COLMAN-1805-1,42.764
+
+but, in four-and-twenty hours, I pledge myself to bring her back to you.
+COLMAN-1805-1,42.765
+
+<font> Job.  <$$font> What, here?  to her father's house?
+COLMAN-1805-1,42.766
+
+and safe?  COLMAN-1805-1,42.767
+
+Oh,'sbud!  when I see her safe, what a thundering passion $I $'ll
+{TEXT:I'll} be in with her!  COLMAN-1805-1,42.768
+
+But you are not deceiving me?  COLMAN-1805-1,42.769
+
+You know, the first time you came into my shop, what a bouncer you told
+me, when you were a boy.  COLMAN-1805-1,42.770
+
+<font> Pereg. <$$font> Believe me, I would not trifle with you,
+now.  COLMAN-1805-1,42.771
+
+Come, come down to your shop, that we may rid it of its present visitants.
+COLMAN-1805-1,42.772
+
+<font> Job.  <$$font> I believe you dropt from the clouds, all on a
+sudden, to comfort an old, broken-hearted brazier.  COLMAN-1805-1,42.773
+
+<font> Pereg. <$$font> I rejoice, my honest friend, that I arrived
+at so critical a juncture; COLMAN-1805-1,42.774
+
+and, if the hand of Providence be in it, $'t $is {TEXT:'tis} because
+Heaven ordains that benevolent actions, like yours, sooner or later,
+must ever meet their recompence.  COLMAN-1805-1,42.775
+
+<bracket> <font> Exeunt.  <$$font> COLMAN-1805-1,42.776
+
+<heading>
+
+The End of the Second Act.  COLMAN-1805-1,42.778
+
+<$$heading>
+
+<P_43>
+
+<heading>
+
+Act III.  COLMAN-1805-1,43.782
+
+Scene I.  COLMAN-1805-1,43.783
+
+<$$heading>
+
+<font> Sir <$$font> Simon Rochdale's <font> Library.  <$$font>
+COLMAN-1805-1,43.785
+
+<font> Enter Sir <$$font> Simon Rochdale, <font> and the Earl of <$$font>
+Fitz Balaam.  COLMAN-1805-1,43.786
+
+<font> Sir Simon.  <$$font> Believe me, my Lord, the man I wish'd
+most to meet in my library this morning, was the Earl of Fitz Balaam.
+COLMAN-1805-1,43.787
+
+<font> Lord Fitz.  <$$font> Thank you, Sir Simon.  COLMAN-1805-1,43.788
+
+<font> Sir Simon.  <$$font> Your arrival, a day before your promise,
+gives us such convenient leisure to talk over the arrangements, relative
+to the marriage of Lady Caroline Braymore, your lordship's daughter,
+with my son.  COLMAN-1805-1,43.789
+
+<font> Lord Fitz.  <$$font> True, Sir Simon.  COLMAN-1805-1,43.790
+
+<font> Sir Simon.  <$$font> Then, while Lady Caroline is at her toilet,
+$we $'ll {TEXT:we'll} dash into business at once; COLMAN-1805-1,43.791
+
+for I know your lordship is a man of few words.  COLMAN-1805-1,43.792
+
+They tell me, my lord, you have sat in the Upper House, and said nothing
+but aye and no, there, for these thirty years.  COLMAN-1805-1,43.793
+
+<font> Lord Fitz.  <$$font> I spoke, for more than a minute, in the year
+of the Influenza.  COLMAN-1805-1,43.794
+
+<font> Sir Simon.  <$$font> Bless me!  the epidemic, perhaps, raging
+among the members, at the moment.  COLMAN-1805-1,43.795
+
+<font> Lord Fitz.  <$$font> Yes; COLMAN-1805-1,43.796
+
+- they cough'd so loud, I left off in the middle.  COLMAN-1805-1,43.797
+
+<font> Sir Simon.  <$$font> And you never attempted again?
+COLMAN-1805-1,43.798
+
+<font> Lord Fitz.  <$$font> I hate to talk much, Sir Simon;
+COLMAN-1805-1,43.799
+
+- $'t $is {TEXT:'tis} my way; tho'several $do $n't {TEXT:don't} like it.
+COLMAN-1805-1,43.800
+
+<P_44>
+
+<font> Sir Simon.  <$$font> I do.  COLMAN-1805-1,44.802
+
+I consider it as a mark of your lordship's discretion.
+COLMAN-1805-1,44.803
+
+The less you say, my lord, in my mind, the wiser you are;
+COLMAN-1805-1,44.804
+
+and I have often thought it a pity, that some noble orators $hav'$n't
+{TEXT:hav'n't} follow'd your lordship's example.  COLMAN-1805-1,44.805
+
+- But, here are the writings <paren> <font> sitting down with Lord
+<$$font> Fitz Balaam, <font> and taking them from the table <$$font>
+<$$paren>.  COLMAN-1805-1,44.806
+
+We must wave ceremony now, my lord; COLMAN-1805-1,44.807
+
+for all this pile of parchment is built on the independent four thousand
+a year of your daughter, Lady Caroline, on one hand, and your lordship's
+incumbrances, on the other.  COLMAN-1805-1,44.808
+
+<font> Lord Fitz.  <$$font> I have saddles on my property, Sir Simon.
+<font> Sir Simon.  <$$font> Which saddles, your lordship's property
+being uncommonly small, look something like sixteen stone upon a poney.
+COLMAN-1805-1,44.809
+
+The Fitz Balaam estate, for an earl, is deplorably narrow!
+COLMAN-1805-1,44.810
+
+<font> Lord Fitz.  <$$font> Yet, it has given security for a large debt.
+COLMAN-1805-1,44.811
+
+<font> Sir Simon.  <$$font> Large, indeed!  COLMAN-1805-1,44.812
+
+I $can $n't {TEXT:can't} think how you have contriv'd it.
+COLMAN-1805-1,44.813
+
+$'T $is {TEXT:'Tis} the Archbishop of Brobdignag, squeez'd into Tom
+Thumb's pantaloons.  COLMAN-1805-1,44.814
+
+<font> Lord Fitz.  <$$font> Mine is the oldest estate in England,
+Sir Simon.  COLMAN-1805-1,44.815
+
+<font> Sir Simon.  <$$font> If we may judge of age by decay, my lord,
+it must be very ancient, indeed!  COLMAN-1805-1,44.816
+
+- But this goes to something in the shape of supplies <paren> <font>
+untying the papers <$$font> <$$paren>: COLMAN-1805-1,44.817
+
+"Covenant between Augustus Julius Braymore, Earl of Fitz Balaam
+, of Cullender Castle, in the county of Cumberland, and Simon
+Rochdale, baronet, of Hollyhock-house, in the county of Cornwall.
+"COLMAN-1805-1,44.818
+
+- By the bye, my lord, considering what an expence attends that
+castle, which is at your own disposal, and that, if the auctioneer
+$do $n't {TEXT:don't} soon knock it <P_45> down, the weather will,
+I wonder what has prevented your lordship's bringing it to the hammer.
+COLMAN-1805-1,45.819
+
+<font> Lord Fitz.  <$$font> The dignity of my ancestors.
+COLMAN-1805-1,45.820
+
+I have blood in my family, Sir Simon <paren> <font> proudly <$$font>
+<$$paren>.  COLMAN-1805-1,45.821
+
+<font> Sir Simon.  <$$font> A deal of excellent blood, my lord;
+COLMAN-1805-1,45.822
+
+but, from the butler down to the house-dog, curse me if ever I saw so
+little flesh in a family before.  COLMAN-1805-1,45.823
+
+- But, by this covenant - <font> Lord Fitz.  <$$font> You clear off the
+largest mortgage.  COLMAN-1805-1,45.824
+
+<font> Sir Simon.  <$$font> Right; - for which purpose, on the day of
+the young folks'marriage - <font> Lord Fitz.  <$$font> You must pay me
+forty thousand pounds.  COLMAN-1805-1,45.825
+
+<font> Sir Simon.  <$$font> Right, again.  COLMAN-1805-1,45.826
+
+Your lordship says little; COLMAN-1805-1,45.827
+
+but $'t $is {TEXT:'tis} terribly plump to the point, indeed, my lord.
+COLMAN-1805-1,45.828
+
+Here is the covenant; COLMAN-1805-1,45.829
+
+- and, now, will your lordship look over the marriage articles?
+COLMAN-1805-1,45.830
+
+<font> Lord Fitz.  <$$font> My attorney will be here to-morrow, Sir Simon.
+COLMAN-1805-1,45.831
+
+I prefer reading by deputy COLMAN-1805-1,45.832
+
+<paren> <font> both rise <$$font> <$$paren>.  COLMAN-1805-1,45.833
+
+<font> Sir Simon.  <$$font> Many people of rank read in the same way,
+my lord.  COLMAN-1805-1,45.834
+
+And your lordship will receive the forty thousand pounds, I am to pay you,
+by deputy also, I suppose.  COLMAN-1805-1,45.835
+
+<font> Lord Fitz.  <$$font> I seldom swear, Sir Simon;
+COLMAN-1805-1,45.836
+
+but, damn me if I will.  COLMAN-1805-1,45.837
+
+<font> Sir Simon.  <$$font> I believe you are right.  COLMAN-1805-1,45.838
+
+Yet there are but two reasons for not trusting an attorney with your
+money: COLMAN-1805-1,45.839
+
+- one is, when you $do $n't {TEXT:don't} know him very well;
+COLMAN-1805-1,45.840
+
+and the other is, when you do.  COLMAN-1805-1,45.841
+
+- And now, since the marriage is concluded, as I may say, in the families,
+may I take the liberty to ask, my lord, what sort of a wife my son Frank
+may expect in Lady Caroline?  COLMAN-1805-1,45.842
+
+Frank is rather of a grave, domestick turn: COLMAN-1805-1,45.843
+
+Lady Caroline, it seems, has past the three last winters in London.
+COLMAN-1805-1,45.844
+
+Did her ladyship enter into <font> all <$$font> the spirit of the first
+circles?  COLMAN-1805-1,45.845
+
+<P_46>
+
+<font> Lord Fitz.  <$$font> She was as gay as a lark, Sir Simon.
+COLMAN-1805-1,46.847
+
+<font> Sir Simon.  <$$font> Was she like the lark in her hours, my lord?
+COLMAN-1805-1,46.848
+
+<font> Lord Fitz.  <$$font> A great deal more like the owl, Sir Simon.
+COLMAN-1805-1,46.849
+
+<font> Sir Simon.  <$$font> I thought so.  COLMAN-1805-1,46.850
+
+Frank's mornings in London, will begin where her ladyship's nights finish.
+COLMAN-1805-1,46.851
+
+But his case $wo $n't {TEXT:won't} be very singular.  COLMAN-1805-1,46.852
+
+Many couples make the marriage bed a kind of cold matrimonial well;
+COLMAN-1805-1,46.853
+
+and the two family buckets dip into it alternately.  COLMAN-1805-1,46.854
+
+<font> Enter <$$font> Lady Caroline Braymore.  COLMAN-1805-1,46.855
+
+<font> Lady Car. <$$font> Do I interrupt business?
+COLMAN-1805-1,46.856
+
+<font> Sir Simon.  <$$font> Not in the least.  COLMAN-1805-1,46.857
+
+Pray, Lady Caroline, come in.  COLMAN-1805-1,46.858
+
+His Lordship and I have just concluded.  COLMAN-1805-1,46.859
+
+<font> Lord Fitz.  <$$font> And I must go and walk my three miles,
+this morning.  COLMAN-1805-1,46.860
+
+<font> Sir Simon.  <$$font> Must you, my lord?  COLMAN-1805-1,46.861
+
+<font> Lord Fitz.  <$$font> My physician prescribed it, when I told him
+I was apt to be dull, after dinner.  COLMAN-1805-1,46.862
+
+<font> Sir Simon.  <$$font> I would attend your lordship;
+COLMAN-1805-1,46.863
+
+- but since Lady Caroline favours me with - - COLMAN-1805-1,46.864
+
+<font> Lady Car. <$$font> No, no, - $do $n't {TEXT:don't} mind me.
+COLMAN-1805-1,46.865
+
+I assure you, I had much rather you would go.  COLMAN-1805-1,46.866
+
+<font> Sir Simon.  <$$font> Had you?  COLMAN-1805-1,46.867
+
+- hum!  - but the petticoats have their new school of good breeding
+, too, they tell me <paren> <font> aside <$$font> <$$paren>.
+COLMAN-1805-1,46.868
+
+Well, we are gone - COLMAN-1805-1,46.869
+
+we have been glancing over the writings, Lady Caroline, that form the
+basis of my son's happiness: - though his lordship $is $n't {TEXT:isn't}
+much inclined to read.  COLMAN-1805-1,46.870
+
+<font> Lady Car. <$$font> But I am.  COLMAN-1805-1,46.871
+
+- I came here to study very deeply, before dinner.  COLMAN-1805-1,46.872
+
+<font> Sir Simon.  <$$font> What, would your ladyship, then, wish to -
+<paren> <font> shewing the writings <$$font> <$$paren>.  <font> Lady
+Car. <$$font> To read that?  COLMAN-1805-1,46.873
+
+My dear Sir Simon!  <P_47> all that Hebrew, upon parchment, as thick as
+a board!  COLMAN-1805-1,47.874
+
+- I came to see if you had any of the last novels in your book-room.
+COLMAN-1805-1,47.875
+
+<font> Sir Simon.  <$$font> The last novels!  COLMAN-1805-1,47.876
+
+- most of the female new school are ghost-bitten, they tell me <paren>
+<font> aside <$$font> <$$paren>.  COLMAN-1805-1,47.877
+
+$There $'s {TEXT:There's} Fielding's works; COLMAN-1805-1,47.878
+
+and $you $'ll {TEXT:you'll} find Tom Jones, you know.
+COLMAN-1805-1,47.879
+
+<font> Lady Car. <$$font> Psha!  $that $'s {TEXT:that's} such
+a hack!  COLMAN-1805-1,47.880
+
+<font> Sir Simon.  <$$font> A hack, Lady Caroline, that the knowing ones
+have warranted sound.  COLMAN-1805-1,47.881
+
+<font> Lady Car. <$$font> But what do you think of those that
+have had such a run lately?  COLMAN-1805-1,47.882
+
+<font> Sir Simon.  <$$font> Why, I think most of them have run too much,
+and want firing.  COLMAN-1805-1,47.883
+
+<bracket> <font> Exeunt Sir <$$font> Simon <font> and Lord <$$font>
+Fitz Balaam.  COLMAN-1805-1,47.884
+
+<font> Lady Car. <$$font> I shall die of <font> ennui <$$font>
+, in this moping Manor-house!  COLMAN-1805-1,47.885
+
+shall I read to-day?  COLMAN-1805-1,47.886
+
+- No, $I $'ll {TEXT:I'll} walk.  COLMAN-1805-1,47.887
+
+- No, $I $'ll {TEXT:I'll} - COLMAN-1805-1,47.888
+
+Yes, $I $'ll {TEXT:I'll} read, first, and walk, afterwards
+COLMAN-1805-1,47.889
+
+<paren> <font> rings the bell, COLMAN-1805-1,47.890
+
+and takes a book <$$font> <$$paren>.  COLMAN-1805-1,47.891
+
+- Pope.  COLMAN-1805-1,47.892
+
+Come, as there are no novels, this may be tolerable.  COLMAN-1805-1,47.893
+
+This is the most <font> triste <$$font> house I ever saw!
+COLMAN-1805-1,47.894
+
+<paren> <font> sits down COLMAN-1805-1,47.895
+
+and reads.  <$$font> <$$paren> COLMAN-1805-1,47.896
+
+"In these deep solitudes, and awful cells, Where heavenly-pensive -
+{TEXT:missing_close_quote} COLMAN-1805-1,47.897
+
+<font> Enter <$$font> Servant.  COLMAN-1805-1,47.898
+
+<font> Serv. <$$font> Did you ring, my lady?  COLMAN-1805-1,47.899
+
+<font> Lady Car. <$$font> -"Contemplation dwells. "
+COLMAN-1805-1,47.900
+
+- Sir?  COLMAN-1805-1,47.901
+
+Oh yes.  - I should like to walk.  COLMAN-1805-1,47.902
+
+Is it damp under foot, sir?  COLMAN-1805-1,47.903
+
+-"And ever musing"- COLMAN-1805-1,47.904
+
+<font> Serv. <$$font> There has been a good deal of rain, to-day,
+my lady.  COLMAN-1805-1,47.905
+
+<font> Lady Car. <$$font> -"Melancholy reigns. "-
+COLMAN-1805-1,47.906
+
+<font> Serv. <$$font> My lady?  COLMAN-1805-1,47.907
+
+<font> Lady Car. <$$font> Pray, sir, look out, COLMAN-1805-1,47.908
+
+and bring me word if it is clean or dirty.  COLMAN-1805-1,47.909
+
+<P_48>
+
+<font> Serv. <$$font> Yes, my lady.  COLMAN-1805-1,48.911
+
+<bracket> <font> Exit.  <$$font> COLMAN-1805-1,48.912
+
+<font> Lady Car. <$$font> This settling a marriage is a strange
+business!  COLMAN-1805-1,48.913
+
+-"What means this tumult in a Vestal's veins? "COLMAN-1805-1,48.914
+
+<font> Tom Shuffleton.  <$$font> <paren> <font> without.  <$$font>
+<$$paren> Bid the groom lead the horse into the avenue, and $I $'ll
+{TEXT:I'll} come to him.  COLMAN-1805-1,48.915
+
+<font> Lady Car. <$$font> Company in the house!
+COLMAN-1805-1,48.916
+
+- some Cornish squire, I suppose.  COLMAN-1805-1,48.917
+
+<paren> <font> Resumes her reading.  <$$font> <$$paren>
+COLMAN-1805-1,48.918
+
+<font> Enter <$$font> Tom Shuffleton, <font> <paren> speaking while
+entering <$$paren> <$$font> John <font> following him.  <$$font>
+COLMAN-1805-1,48.919
+
+<font> Lady Car. <$$font> <paren> <font> still reading, and
+seated with her back to <$$font> Shuffleton <$$paren> -"Soon as thy
+letters trembling, I unclose"- COLMAN-1805-1,48.920
+
+<font> John.  <$$font> What horse will you have saddled, sir?
+COLMAN-1805-1,48.921
+
+<font> Shuff. <$$font> Slyboots.  COLMAN-1805-1,48.922
+
+<bracket> <font> Exit <$$font> John.  COLMAN-1805-1,48.923
+
+<font> Lady Car. <$$font> -"That well known name awakens all my
+woes. "COLMAN-1805-1,48.924
+
+<font> Shuff. <$$font> Lady Caroline Braymore!
+COLMAN-1805-1,48.925
+
+<font> Lady Car. <$$font> Mr. Shuffleton!
+COLMAN-1805-1,48.926
+
+Lard!  what can bring you into Cornwall?  COLMAN-1805-1,48.927
+
+<font> Shuff. <$$font> Sympathy: - which has generally brought
+me near your ladyship, <paren> in London at least <$$paren> for these
+three winters.  COLMAN-1805-1,48.928
+
+<font> Lady Car. <$$font> Psha!  but, seriously.
+COLMAN-1805-1,48.929
+
+<font> Shuff. <$$font> I was summon'd by friendship.
+COLMAN-1805-1,48.930
+
+I am consulted on all essential points, in this family;
+COLMAN-1805-1,48.931
+
+- and Frank Rochdale is going to be married.  COLMAN-1805-1,48.932
+
+<font> Lady Car. <$$font> Then, you know to whom.
+COLMAN-1805-1,48.933
+
+<font> Shuff. <$$font> No; not thinking that an essential point,
+I forgot to ask.  COLMAN-1805-1,48.934
+
+He kneels at the pedestal of a rich shrine, COLMAN-1805-1,48.935
+
+and I $did $n't {TEXT:didn't} inquire {COM:sic} about the statue.
+COLMAN-1805-1,48.936
+
+But, dear Lady Caroline, what has brought you into Cornwall?
+COLMAN-1805-1,48.937
+
+<font> Lady Car. <$$font> Me?  COLMAN-1805-1,48.938
+
+$I $'m {TEXT:I'm} the statue.  COLMAN-1805-1,48.939
+
+<P_49>
+
+<font> Shuff. <$$font> You!  COLMAN-1805-1,49.941
+
+<font> Lady Car. <$$font> Yes; $I $'ve {TEXT:I've} walk'd off my
+pedestal, to be worshipp'd at the Land's End.  COLMAN-1805-1,49.942
+
+<font> Shuff. <$$font> You to be married to Frank Rochdale!
+COLMAN-1805-1,49.943
+
+Oh!  Lady Caroline!  what, then, is to become of me?  COLMAN-1805-1,49.944
+
+<font> Lady Car. <$$font> Oh, Mr. Shuffleton!  not thinking
+that an essential point, I forgot to ask.  COLMAN-1805-1,49.945
+
+<font> Shuff. <$$font> Psha!  now $you $'re {TEXT:you're} laughing
+at me!  COLMAN-1805-1,49.946
+
+but, upon my soul, I shall turn traitor: take advantage of the
+confidence reposed in me, by my friend, and endeavour to supplant him.
+COLMAN-1805-1,49.947
+
+<font> Lady Car. <$$font> What do you think the world would call
+such duplicity of conduct?  COLMAN-1805-1,49.948
+
+<font> Enter <$$font> Servant.  COLMAN-1805-1,49.949
+
+<font> Serv. <$$font> Very dirty, indeed, my lady.
+COLMAN-1805-1,49.950
+
+<bracket> <font> Exit.  <$$font> COLMAN-1805-1,49.951
+
+<font> Shuff. <$$font> That infernal footman has been listening!
+COLMAN-1805-1,49.952
+
+$I $'ll {TEXT:I'll} kick him round his master's park.
+COLMAN-1805-1,49.953
+
+<font> Lady Car. <$$font> $'T $is {TEXT:'Tis} lucky, then, you
+are booted; COLMAN-1805-1,49.954
+
+for, you hear, he says it is very dirty there.  COLMAN-1805-1,49.955
+
+<font> Shuff. <$$font> Was that the meaning of -.
+COLMAN-1805-1,49.956
+
+Pooh!  COLMAN-1805-1,49.957
+
+- but you see the - the surprise - the - the agitation has made me
+ridiculous.  COLMAN-1805-1,49.958
+
+<font> Lady Car. <$$font> I see, something has made you ridiculous
+; COLMAN-1805-1,49.959
+
+but you never told me what it was, before.  COLMAN-1805-1,49.960
+
+<font> Shuff. <$$font> Lady Caroline, this is a crisis, that -
+my attentions, - that is, the - COLMAN-1805-1,49.961
+
+In short, the world, you know, my dear Lady Coroline {COM:sic}, has <font>
+given <$$font> me to you.  COLMAN-1805-1,49.962
+
+<font> Lady Car. <$$font> Why, what a shabby world it is!
+COLMAN-1805-1,49.963
+
+<font> Shuff. <$$font> How so?  COLMAN-1805-1,49.964
+
+<font> Lady Car. <$$font> To make me a present of something it
+sets no value on, itself.  COLMAN-1805-1,49.965
+
+<font> Shuff. <$$font> I flatter'd myself I might not be altogether
+invaluable to your ladyship.  COLMAN-1805-1,49.966
+
+<P_50>
+
+<font> Lady Car. <$$font> To me!  COLMAN-1805-1,50.968
+
+Now, I $can $n't {TEXT:can't} conceive any use I could make of you.
+COLMAN-1805-1,50.969
+
+No, positively, you are neither useful, nor ornamental.
+COLMAN-1805-1,50.970
+
+<font> Shuff. <$$font> Yet, you were never at an opera, without
+me at your elbow; - never in Kensington gardens, that my horse - the
+crop, by the bye, given me by Lord Collarbone, - $was $n't {TEXT:wasn't}
+constantly in leading at the gate.  COLMAN-1805-1,50.971
+
+- $Hav'$n't {TEXT:Hav'n't} you danced with me at every ball?
+COLMAN-1805-1,50.972
+
+and $hav'$n't {TEXT:hav'n't} I, unkind, forgetful Lady Caroline , even
+cut the Newmarket meetings, when you were in London?  COLMAN-1805-1,50.973
+
+<font> Lady Car. <$$font> Bless me!  COLMAN-1805-1,50.974
+
+- these charges are brought in like a bill. "To attending your ladyship
+, at such a time; to dancing down twenty couple with your ladyship at
+another,"COLMAN-1805-1,50.975
+
+- and, pray, to what do they all amount?  COLMAN-1805-1,50.976
+
+<font> Shuff. <$$font> The fullest declaration.
+COLMAN-1805-1,50.977
+
+<font> Lady Car. <$$font> Lard, Mr. Shuffleton!  why it has,
+to be sure, looked a - a - a little foolish - COLMAN-1805-1,50.978
+
+but you - you never spoke any thing to - that is - to justify such a -
+COLMAN-1805-1,50.979
+
+<font> Shuff. <$$font> $That $'s {TEXT:That's} as much as to say,
+speak now.  <paren> <font> aside.  <$$font> <$$paren> COLMAN-1805-1,50.980
+
+To be plain, Lady Caroline, my friend does not know your value.
+COLMAN-1805-1,50.981
+
+He has an excellent heart - COLMAN-1805-1,50.982
+
+but that heart is - <paren> <font> coughs <$$font> <$$paren> damn the
+word, $it $'s {TEXT:it's} so out of fashion, it chokes me!  <paren>
+<font> aside <$$font> <$$paren> is irrevocably given to another.
+COLMAN-1805-1,50.983
+
+- But mine, - by this sweet hand, I swear!  - <paren> <font> kneeling
+and kissing her hand.  <$$font> <$$paren> COLMAN-1805-1,50.984
+
+<font> Enter <$$font> John.  <paren> COLMAN-1805-1,50.985
+
+<font> Rising hastily.  <$$font> <$$paren> COLMAN-1805-1,50.986
+
+Well, sir?  COLMAN-1805-1,50.987
+
+<font> 2d {COM:only_d_in_italics} Serv. <$$font> Slyboots, sir,
+has been down on his knees; COLMAN-1805-1,50.988
+
+- and the groom says he $can $n't {TEXT:can't} go out.
+COLMAN-1805-1,50.989
+
+<font> Shuff. <$$font> Let him saddle another.
+COLMAN-1805-1,50.990
+
+<font> 2d {COM:only_d_in_italics} Serv. <$$font> What horse, sir,
+will you - COLMAN-1805-1,50.991
+
+<P_51>
+
+<font> Shuff. <$$font> Psha!  - any.  COLMAN-1805-1,51.993
+
+- What do you call Mr. Rochdale's favourite, now?
+COLMAN-1805-1,51.994
+
+<font> 2d {COM:only_d_in_italics} Serv. <$$font> Traitor, sir.
+COLMAN-1805-1,51.995
+
+<font> Shuff. <$$font> When $Traitor $'s {TEXT:Traitor's} in the
+avenue, I shall be there.  COLMAN-1805-1,51.996
+
+<bracket> <font> Exit <$$font> John.  COLMAN-1805-1,51.997
+
+<font> Lady Car. <$$font> Answer me one question, candidly, and,
+perhaps, I may entrust you with a secret.  COLMAN-1805-1,51.998
+
+- Is Mr. Rochdale seriously attach'd?  COLMAN-1805-1,51.999
+
+<font> Shuff. <$$font> Very seriously.  COLMAN-1805-1,51.1000
+
+<font> Lady Car. <$$font> Then I $wo $n't {TEXT:won't} marry him.
+COLMAN-1805-1,51.1001
+
+<font> Shuff. <$$font> $That $'s {TEXT:That's} spirited.
+COLMAN-1805-1,51.1002
+
+- Now your secret.  COLMAN-1805-1,51.1003
+
+<font> Lady Car. <$$font> Why - perhaps, you may have heard that
+my father, Lord Fitz Balaam is, somehow, so - so much in debt, that -
+COLMAN-1805-1,51.1004
+
+but, no matter.  COLMAN-1805-1,51.1005
+
+<font> Shuff. <$$font> Oh, not at all; COLMAN-1805-1,51.1006
+
+- the case is fashionable, with both Lords and Commoners.
+COLMAN-1805-1,51.1007
+
+<font> Lady Car. <$$font> But an old maiden aunt, whom, rest
+her soul!  I never saw, for family pride's sake, bequeath'd me an
+independence.  COLMAN-1805-1,51.1008
+
+To obviate his lordship's difficulties, I meant to - to marry into this
+humdrum Cornish family.  COLMAN-1805-1,51.1009
+
+<font> Shuff. <$$font> I see.  - A sacrifice!  - filial piety,
+and all that - to disembarrass his lordship.  COLMAN-1805-1,51.1010
+
+But $had $n't {TEXT:hadn't} your ladyship better - <font> Lady Car.
+<$$font> Marry to disembarrass you?  COLMAN-1805-1,51.1011
+
+<font> Shuff. <$$font> By my honour, $I $'m {TEXT:I'm}
+disinterested.  COLMAN-1805-1,51.1012
+
+<font> Lady Car. <$$font> By my honour, I am monstrously piqued ;
+and so vex'd, that I $can $n't {TEXT:can't} read this morning; - nor talk,
+- nor - COLMAN-1805-1,51.1013
+
+$I $'ll {TEXT:I'll} walk.  COLMAN-1805-1,51.1014
+
+<font> Shuff. <$$font> Shall I attend you?  COLMAN-1805-1,51.1015
+
+<font> Lady Car. <$$font> No; - $do $n't {TEXT:don't} fidget at
+my elbow, as you do at the Opera.  COLMAN-1805-1,51.1016
+
+But you shall tell me more of this, by and bye.  COLMAN-1805-1,51.1017
+
+<font> Shuff. <$$font> When?  COLMAN-1805-1,51.1018
+
+- Where?  - <paren> <font> taking her hand.  <$$font> <$$paren>
+COLMAN-1805-1,51.1019
+
+<font> Lady Car. <$$font> $Do $n't {TEXT:Don't} torment me.
+COLMAN-1805-1,51.1020
+
+- This evening, or - $tomorrow {TEXT:to_morrow}, perhaps, in the Park ,
+COLMAN-1805-1,51.1021
+
+or - <P_52> psha!  we shall meet, at dinner.  COLMAN-1805-1,52.1022
+
+Do, {COM:sic} let me go now, COLMAN-1805-1,52.1023
+
+for I shall be very bad company.  COLMAN-1805-1,52.1024
+
+<font> Shuff. <$$font> <paren> <font> kissing her hand.  <$$font>
+<$$paren> Adieu, Lady Caroline!  COLMAN-1805-1,52.1025
+
+<font> Lady Car. <$$font> Adieu!  COLMAN-1805-1,52.1026
+
+<bracket> <font> Exit.  <$$font> COLMAN-1805-1,52.1027
+
+<font> Shuff. <$$font> My friend, Frank, here, I think, is very
+much obliged to me!  COLMAN-1805-1,52.1028
+
+I am putting matters pretty well <font> en train <$$font> to disincumber
+him of a wife; COLMAN-1805-1,52.1029
+
+- and, now, $I $'ll {TEXT:I'll} canter over the heath, and see what I
+can do for him with the brazier's daughter.  COLMAN-1805-1,52.1030
+
+<bracket> <font> Exit.  <$$font> COLMAN-1805-1,52.1031
+
+<heading>
+
+Scene II.  COLMAN-1805-1,52.1033
+
+<$$heading>
+
+<font> A mean Parlour, at the Red Cow.  <$$font> <paren>
+COLMAN-1805-1,52.1035
+
+<font> A Table - Pen, Ink, and Paper on it.  <$$font> <$$paren>
+COLMAN-1805-1,52.1036
+
+Mary, <font> and Mrs. <$$font> Brulgruddery, <font> discover'd.
+<$$font> COLMAN-1805-1,52.1037
+
+<font> Mrs. Brul. <$$font> Aye, he might have been there,
+and back, over and over again; COLMAN-1805-1,52.1038
+
+but my $husband $'s {TEXT:husband's} slow enough in his motions, as I
+tell him, till $I $'m {TEXT:I'm} tired on't.  COLMAN-1805-1,52.1039
+
+<font> Mary.  <$$font> I hope $he $'ll {TEXT:he'll} be here soon.
+COLMAN-1805-1,52.1040
+
+<font> Mrs. Brul. <$$font> Ods, my little heart!  Miss,
+why so impatient?  COLMAN-1805-1,52.1041
+
+$Hav'$n't {TEXT:Hav'n't} you as genteel a parlour as any lady in the
+land could wish to sit down in?  COLMAN-1805-1,52.1042
+
+The $bed $'s {TEXT:bed's} turn'd up in a chest of drawers $that $'s
+{TEXT:that's} stain'd to look like mahogany: COLMAN-1805-1,52.1043
+
+$there $'s {TEXT:there's} two poets, and a poll parrot, the best images
+the Jew had on his head, over the mantle-piece; COLMAN-1805-1,52.1044
+
+and, was I to leave you, all alone, by yourself, $is $n't {TEXT:isn't}
+there an eight-day clock in the corner, that, when $one $'s {TEXT:one's}
+waiting, lonesome like, for any body, keeps going tick-tack, and is
+quite company?  COLMAN-1805-1,52.1045
+
+<font> Mary.  <$$font> Indeed, I did not mean to complain.
+COLMAN-1805-1,52.1046
+
+<P_53>
+
+<font> Mrs. Brul. <$$font> Complain?  COLMAN-1805-1,53.1048
+
+No, I think not, indeed!  when, besides having a handsome house over
+your head, the strange gentleman has left two guineas - tho'one seems
+light, and t'other looks a little brummish - to be laid out for you,
+as I see occasion.  COLMAN-1805-1,53.1049
+
+I $do $n't {TEXT:don't} say it for the lucre of any thing $I $'m
+{TEXT:I'm} to make out of the money, COLMAN-1805-1,53.1050
+
+but, $I $'m {TEXT:I'm} sure you $can $n't {TEXT:can't} want to eat, yet.
+COLMAN-1805-1,53.1051
+
+<font> Mary.  <$$font> Not if it gives any trouble; COLMAN-1805-1,53.1052
+
+- but I was up before sun-rise, COLMAN-1805-1,53.1053
+
+and have tasted nothing to-day.  COLMAN-1805-1,53.1054
+
+<font> Mrs. Brul. <$$font> Eh?  Why bless me, young woman!
+COLMAN-1805-1,53.1055
+
+$ar'$n't {TEXT:ar'n't} you well?  COLMAN-1805-1,53.1056
+
+<font> Mary.  <$$font> I feel very faint.  COLMAN-1805-1,53.1057
+
+<font> Mrs. Brul. <$$font> Aye, this is a faintish time o'
+year; COLMAN-1805-1,53.1058
+
+but I must give you a little something, I suppose: COLMAN-1805-1,53.1059
+
+$I $'ll {TEXT:I'll} open the window, and give you a little air.
+COLMAN-1805-1,53.1060
+
+Dennis Brulgruddery <paren> <font> singing without <$$font> <$$paren>
+COLMAN-1805-1,53.1061
+
+{COM:verse_omitted}
+
+<font> Mary.  <$$font> $There $'s {TEXT:There's} your husband!
+COLMAN-1805-1,53.1063
+
+<font> Mrs. Brul. <$$font> $There $'s {TEXT:There's}
+a hog; COLMAN-1805-1,53.1064
+
+- for $he $'s {TEXT:he's} as drunk as one, COLMAN-1805-1,53.1065
+
+I know, by his beastly bawling.  COLMAN-1805-1,53.1066
+
+<font> Enter <$$font> Dennis Brulgruddery.  COLMAN-1805-1,53.1067
+
+<font> Dennis.  <$$font> <paren> <font> singing <$$font> <$$paren>
+Whack doodlety bob, sing pip.  COLMAN-1805-1,53.1068
+
+<font> Mrs. Brul. <$$font> Sing pip, indeed!
+COLMAN-1805-1,53.1069
+
+sing sot!  COLMAN-1805-1,53.1070
+
+- and $that $'s {TEXT:that's} to your old tune.  COLMAN-1805-1,53.1071
+
+<font> Mary.  <$$font> $Hav'$n't {TEXT:Hav'n't} you got an answer?
+COLMAN-1805-1,53.1072
+
+<font> Mrs. Brul. <$$font> $Hav'$n't {TEXT:Hav'n't} you
+got drunk?  COLMAN-1805-1,53.1073
+
+<font> Dennis.  <$$font> Be asy {COM:sic}, and $you $'ll {TEXT:you'll}
+see what $I $'ve {TEXT:I've} got, in a minute.  COLMAN-1805-1,53.1074
+
+<paren> <font> pulls a bottle from his pocket.  <$$font> <$$paren>
+COLMAN-1805-1,53.1075
+
+<P_54>
+
+<font> Mrs. Brul. <$$font> $What $'s {TEXT:What's} that?
+COLMAN-1805-1,54.1077
+
+<font> Dennis.  <$$font> Good Madeira it was, when the butler at the
+big house gave it me.  COLMAN-1805-1,54.1078
+
+It jolts so over the heath, if I $had $n't {TEXT:hadn't} held it to my
+mouth, $I $'d {TEXT:I'd} have wasted half.  COLMAN-1805-1,54.1079
+
+<paren> <font> puts it on the table <$$font> <$$paren>.
+COLMAN-1805-1,54.1080
+
+There, Miss, I brought it for you; COLMAN-1805-1,54.1081
+
+and $I $'ll {TEXT:I'll} get a glass from the cupboard; and a plate for
+this paper of sweet cakes, that the gentlefolks eat, after the dinner,
+in the desart.  {COM:sic} COLMAN-1805-1,54.1082
+
+<font> Mary.  <$$font> But, tell me if - COLMAN-1805-1,54.1083
+
+<font> Dennis.  <$$font> <paren> <font> running to the cupboard.  <$$font>
+<$$paren> Eat and drink, my jewel; and my discourse shall serve for
+the seasoning.  COLMAN-1805-1,54.1084
+
+Drink, now, my pretty one!  COLMAN-1805-1,54.1085
+
+<paren> <font> fills a glass, <$$font> <$$paren> COLMAN-1805-1,54.1086
+
+for $you $'ve {TEXT:you've} had nothing, $I $'ll {TEXT:I'll} be bound.
+COLMAN-1805-1,54.1087
+
+Och, by the powers!  I know the ways of ould {COM:sic} mother
+Brulgruddery.  COLMAN-1805-1,54.1088
+
+<font> Mrs. Brul. <$$font> Old mother Brulgruddery!
+COLMAN-1805-1,54.1089
+
+<font> Dennis.  <$$font> $Do $n't {TEXT:Don't} mind her;
+COLMAN-1805-1,54.1090
+
+- take your prog; COLMAN-1805-1,54.1091
+
+- $she $'d {TEXT:she'd} starve a saint.  COLMAN-1805-1,54.1092
+
+<font> Mrs. Brul. <$$font> I starve a saint!
+COLMAN-1805-1,54.1093
+
+<font> Dennis.  <$$font> Let him stop at the Red Cow, as plump as a
+porker, and $you $'d {TEXT:you'd} send him away, in a week, like a weasel.
+COLMAN-1805-1,54.1094
+
+Bite a maccaroony, my darling!  <paren> <font> offering the plate to Mary.
+<$$font> <$$paren> COLMAN-1805-1,54.1095
+
+<font> Mary.  <$$font> I thank you.  COLMAN-1805-1,54.1096
+
+<font> Dennis.  <$$font> Faith, no merit of mine; COLMAN-1805-1,54.1097
+
+$'t $was {TEXT:'twas} the butler that stole it: COLMAN-1805-1,54.1098
+
+take some.  COLMAN-1805-1,54.1099
+
+<paren> <font> Lets the plate fall.  <$$font> <$$paren>
+COLMAN-1805-1,54.1100
+
+Slips, by St. Patrick!  COLMAN-1805-1,54.1101
+
+<font> Mrs. Brul. <$$font> <paren> <font> screaming.
+<$$font> <$$paren> Our best China plate broke all to shivers!
+COLMAN-1805-1,54.1102
+
+<font> Dennis.  <$$font> Delf, you deceiver!  delf {COM:sic}.  The cat's
+dining-dish, rivetted.  COLMAN-1805-1,54.1103
+
+<font> Mary.  <$$font> Pray, now, let me hear your news.
+COLMAN-1805-1,54.1104
+
+<font> Dennis.  <$$font> That I will.  COLMAN-1805-1,54.1105
+
+Mrs. Brulgruddery, I take the small liberty of begging you to
+get out, my lambkin.  COLMAN-1805-1,54.1106
+
+<font> Mrs. Brul. <$$font> I $sha $n't {TEXT:shan't}
+budge an inch.  COLMAN-1805-1,54.1107
+
+She $need $n't {TEXT:needn't} <P_55> be ashamed of any thing $that $'s
+{TEXT:that's} to be told, if $she $'s {TEXT:she's} what she shou'd be.
+COLMAN-1805-1,55.1108
+
+<font> Mary.  <$$font> I know what I should be, if I were in your place.
+COLMAN-1805-1,55.1109
+
+<font> Mrs. Brul. <$$font> Marry, come up!
+COLMAN-1805-1,55.1110
+
+And what shou'd you be, then?  COLMAN-1805-1,55.1111
+
+<font> Mary.  <$$font> More compassionate to one of my own sex, or to
+any one, in misfortune.  COLMAN-1805-1,55.1112
+
+Had you come to me, almost broken-hearted, and not looking like one quite
+abandon'd to wickedness, I should have thought on your misery , and forgot
+that it might have been brought on by your faults.  COLMAN-1805-1,55.1113
+
+<font> Dennis.  <$$font> At her, my little crature {COM:sic}!
+COLMAN-1805-1,55.1114
+
+By my soul, $she $'ll {TEXT:she'll} bother the ould {COM:sic} one!
+COLMAN-1805-1,55.1115
+
+- Faith, the Madeira has done her a deal of service!
+COLMAN-1805-1,55.1116
+
+<font> Mrs. Brul. <$$font> $What $'s {TEXT:What's} to be
+said, is said before <font> me <$$font>; COLMAN-1805-1,55.1117
+
+and $that $'s {TEXT:that's} flat.  COLMAN-1805-1,55.1118
+
+<font> Mary.  <$$font> Do tell it, then <paren> <font> to <$$font>
+Dennis <$$paren>; COLMAN-1805-1,55.1119
+
+but, for others'sakes, $do $n't {TEXT:don't} mention names.
+COLMAN-1805-1,55.1120
+
+I wish to hide nothing, now, on my own account; though the money that
+was put down for me, before you would afford me shelter, I thought
+might have given me a little more title to hear a private message.
+COLMAN-1805-1,55.1121
+
+<font> Mrs. Brul. <$$font> $I $'ve {TEXT:I've} a character,
+for virtue, to lose, young woman.  COLMAN-1805-1,55.1122
+
+<font> Dennis.  <$$font> When $that $'s {TEXT:that's} gone, $you
+$'ll {TEXT:you'll} get another - $that $'s {TEXT:that's} of a damn'd
+impertinant landlady.  COLMAN-1805-1,55.1123
+
+Sure, she has a right to her parlour; COLMAN-1805-1,55.1124
+
+and $hav'$n't {TEXT:hav'n't} I brought her cash enough to swallow up
+the Red Cow's rent for these two years?  COLMAN-1805-1,55.1125
+
+<font> Mrs. Brul. <$$font> Have you!  COLMAN-1805-1,55.1126
+
+- - Well, though the young lady misunderstands me, $it $'s
+{TEXT:it's} always my endeavour to be respectful to gentlefolks.
+COLMAN-1805-1,55.1127
+
+<font> Dennis.  <$$font> Och, botheration to the respect $that $'s
+{TEXT:that's} bought, by knocking one shilling against another, at an inn!
+COLMAN-1805-1,55.1128
+
+Let the heart keep open house, I say; COLMAN-1805-1,55.1129
+
+<P_56>
+
+and if Charity $is $n't {TEXT:isn't} seated inside of it, like a beautiful
+barmaid, $it $'s {TEXT:it's} all a humbug to stick up the sign of the
+Christian.  COLMAN-1805-1,56.1131
+
+<font> Mrs. Brul. <$$font> $I $'m {TEXT:I'm} sure Miss
+shall have any thing she likes, poor, dear thing!  COLMAN-1805-1,56.1132
+
+$There $'s {TEXT:There's} one chicken - COLMAN-1805-1,56.1133
+
+<font> Dennis.  <$$font> A chicken!  COLMAN-1805-1,56.1134
+
+- Fie on your double barbarity!  COLMAN-1805-1,56.1135
+
+Would you murder the tough dunghill cock, to choak {COM:sic} a customer?
+COLMAN-1805-1,56.1136
+
+- A certain person, that shall be nameless, will come to you in the
+course of this day, either by himself, or by friend, or by hand-writing.
+COLMAN-1805-1,56.1137
+
+<font> Mary.  <$$font> And not one word - not one, by letter, now?
+COLMAN-1805-1,56.1138
+
+<font> Dennis.  <$$font> Be asey {COM:sic} - COLMAN-1805-1,56.1139
+
+$wo $n't {TEXT:won't} he be here soon?  COLMAN-1805-1,56.1140
+
+In the mean time, $here $'s {TEXT:here's} nineteen guineas, and a
+seven-shilling piece, as a bit of a postscript.  COLMAN-1805-1,56.1141
+
+<font> Mrs. Brul. <$$font> Nineteen guineas, and - -
+COLMAN-1805-1,56.1142
+
+<font> Dennis.  <$$font> Hould {COM:sic} your gab, woman.
+COLMAN-1805-1,56.1143
+
+Count them, darling!  <paren> <font> putting them on the table <$$font>
+<$$paren>.  COLMAN-1805-1,56.1144
+
+<bracket> Mary <font> counts the money.  <$$font> <$$bracket>
+COLMAN-1805-1,56.1145
+
+<font> Mrs. Brul. <$$font> <paren> <font> drawing <$$font>
+Dennis <font> aside.  <$$font> <$$paren> What have you done with the rest?
+COLMAN-1805-1,56.1146
+
+<font> Dennis.  <$$font> The rest!  COLMAN-1805-1,56.1147
+
+<font> Mrs. Brul. <$$font> Why, have you given her all?
+COLMAN-1805-1,56.1148
+
+<font> Dennis.  <$$font> $I $'ll {TEXT:I'll} tell you what, Mrs.
+Brulgruddery; COLMAN-1805-1,56.1149
+
+$it $'s {TEXT:it's} my notion, in summing up your last accounts,
+that, when you begin to dot, Ould {COM:sic} Nick will carry one;
+COLMAN-1805-1,56.1150
+
+and $that $'s {TEXT:that's} yourself, my lambkin.  COLMAN-1805-1,56.1151
+
+<font> Shuffleton.  <$$font> <paren> <font> without <$$font> <$$paren>.
+Holo!  Red Cow!  COLMAN-1805-1,56.1152
+
+<font> Dennis.  <$$font> You are call'd, Mrs. Brulgruddery.
+COLMAN-1805-1,56.1153
+
+<font> Mrs. Brul. <$$font> I, you Irish bear!
+COLMAN-1805-1,56.1154
+
+- Go, COLMAN-1805-1,56.1155
+
+and <paren> <font> looking towards the window <$$font> <$$paren> -
+- Jimminy!  a traveller on horseback!  and the handsomest gentleman I
+ever saw in my life.  COLMAN-1805-1,56.1156
+
+<paren> <font> Runs out.  <$$font> <$$paren> COLMAN-1805-1,56.1157
+
+<font> Mary.  <$$font> Oh, then, it must be he!  COLMAN-1805-1,56.1158
+
+<font> Dennis.  <$$font> No, faith, it $is $n't {TEXT:isn't} the young
+squire.  COLMAN-1805-1,56.1159
+
+<P_57>
+
+<font> Mary.  <$$font> <paren> <font> mournfully.  <$$font> <$$paren> No!
+COLMAN-1805-1,57.1161
+
+<font> Dennis.  <$$font> There - $he $'s {TEXT:he's} got off the outside
+of his horse: COLMAN-1805-1,57.1162
+
+$it $'s {TEXT:it's} that flashy spark I saw, crossing the court-yard,
+at the big house.  COLMAN-1805-1,57.1163
+
+Here he is.  COLMAN-1805-1,57.1164

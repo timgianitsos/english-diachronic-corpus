@@ -1,0 +1,2690 @@
+<P_3>
+
+<heading>
+
+The man of many friends.  COYNE-1855-2,3.3
+
+Act I.  COYNE-1855-2,3.4
+
+<$$heading>
+
+Scene, - <font> A fashionably furnished Apartment in Peter Popple's
+Villa at Norwood.  COYNE-1855-2,3.6
+
+The apartment is semi-circular at the upper end, with three large French
+windows opening on the ornamental grounds of the Villa; COYNE-1855-2,3.7
+
+a breakfast table laid, <$$font> C. R.; COYNE-1855-2,3.8
+
+<font> a lady's work table, L. C.; <$$font> COYNE-1855-2,3.9
+
+door, L. 2 E.; COYNE-1855-2,3.10
+
+<font> door of Popple's private room, <$$font> R. 2 E.;
+COYNE-1855-2,3.11
+
+<font> a parrot on a perch at back.  <$$font> COYNE-1855-2,3.12
+
+James, <font> a footman, discovered asleep in an easy chair, <$$font>
+R. C.; COYNE-1855-2,3.13
+
+<font> a newspaper lies at his feet.  COYNE-1855-2,3.14
+
+Enter <$$font> Mincing, L. D. COYNE-1855-2,3.15
+
+Mincing.  James, James.  COYNE-1855-2,3.16
+
+Goodness, $he $'s {TEXT:he's} asleep!  COYNE-1855-2,3.17
+
+<paren> <font> goes to him and calls loudly <$$font> <$$paren> James!
+COYNE-1855-2,3.18
+
+James.  <paren> <font> starting up <$$font> <$$paren> Hey!  $What $'s
+{TEXT:What's} the matter?  COYNE-1855-2,3.19
+
+Haw - <paren> <font> yawning <$$font> <$$paren> - Mincing, I believe I
+was obliverous.  COYNE-1855-2,3.20
+
+Mincing.  Obliverous!  COYNE-1855-2,3.21
+
+You were fast asleep, James.  COYNE-1855-2,3.22
+
+James.  Really, the Parliament speeches is so dreadful heavy,
+COYNE-1855-2,3.23
+
+and we were late at the hoprer last night.  COYNE-1855-2,3.24
+
+Mincing.  Yes, $'t $was {TEXT:'twas} near two o'clock before mistress
+came home.  COYNE-1855-2,3.25
+
+James.  <font> Aproposs, <$$font> as we say in the classics, Mincing,
+I was quite shocked at a report I heard.  COYNE-1855-2,3.26
+
+Mincing.  What report?  COYNE-1855-2,3.27
+
+James.  Why, they say $we $'re {TEXT:we're} <font> parwenews.  <$$font>
+COYNE-1855-2,3.28
+
+Mincing.  <font> Parwenews!  <$$font> Good gracious!  COYNE-1855-2,3.29
+
+James.  $Is $n't {TEXT:Isn't} it disgusting?  COYNE-1855-2,3.30
+
+Mincing.  Dreadful!  COYNE-1855-2,3.31
+
+But are you sure of this, James?  COYNE-1855-2,3.32
+
+James.  Sure!  COYNE-1855-2,3.33
+
+Sir William Fluke's tiger pledged his honor it was a fact!
+COYNE-1855-2,3.34
+
+Mincing.  Oh, if Sir William's tiger pledged his honor, there can be no
+doubt about it.  COYNE-1855-2,3.35
+
+James.  I always suspected Mr. Popples since I see him eat green
+peas with his knife.  COYNE-1855-2,3.36
+
+Mincing.  Hush, here he comes.  COYNE-1855-2,3.37
+
+<font> Exit <$$font> James, L. D. COYNE-1855-2,3.38
+
+<font> Enter <$$font> Popples <font> from room, R.,
+COYNE-1855-2,3.39
+
+he casts a glance at breakfast table, COYNE-1855-2,3.40
+
+and looks at his watch.  <$$font> COYNE-1855-2,3.41
+
+Pop. Mistress not down yet, Mincing?  COYNE-1855-2,3.42
+
+Mincing.  Not yet, sir; COYNE-1855-2,3.43
+
+but $she $'ll {TEXT:she'll} be here presently.  <font> Exit, <$$font>
+L. COYNE-1855-2,3.44
+
+Pop. Twelve o'clock, and not down to breakfast yet.
+COYNE-1855-2,3.45
+
+A few months ago, when I was a happy doll maker, she used to rise with
+<P_4> the lark - that is, not exactly with the lark, for larks $do $n't
+{TEXT:don't} rise in Mile End - but with the earliest sparrow in the
+neighbourhood; COYNE-1855-2,4.46
+
+but ever since I came into this unlucky fortune, her poor little head
+has been turned, COYNE-1855-2,4.47
+
+and nothing will serve but I must take a country villa, and give up my
+shop, and my dolls, and my old friends; and eat, drink, sleep, and dress
+as she pleases - because, as she says, $it $'s {TEXT:it's} fashionable.
+COYNE-1855-2,4.48
+
+<paren> Mrs. Popples <font> is heard laughing outside.  <$$font>
+L. <$$paren> COYNE-1855-2,4.49
+
+There she is at last, COYNE-1855-2,4.50
+
+bless her dear merry laugh - COYNE-1855-2,4.51
+
+it reminds me of the happy days when she $was $n't {TEXT:wasn't} afraid
+to be natural.  COYNE-1855-2,4.52
+
+<font> Enter <$$font> Mrs. Popples, L., <font> in an
+elegant morning costume, COYNE-1855-2,4.53
+
+she is followed by <$$font> Alphonse.  COYNE-1855-2,4.54
+
+Mrs. P. Ah, my dear Poppy, how $d $'ye {TEXT:d'ye} do?
+COYNE-1855-2,4.55
+
+Coffee, Alphonse.  <paren> <font> sits at table, <$$font> L.
+<$$paren> COYNE-1855-2,4.56
+
+Been up long, my love?  COYNE-1855-2,4.57
+
+Pop. Since six o'clock, my dear.  <paren> <font> sits at table
+<$$font>, R. <$$paren> COYNE-1855-2,4.58
+
+Mrs. P. Six!  COYNE-1855-2,4.59
+
+Mercy on me, how have you contrived to amuse yourself all this time?
+COYNE-1855-2,4.60
+
+<paren> Alphonse, <font> who has poured out coffee, hands it to <$$font>
+Mrs. Popples <$$paren> COYNE-1855-2,4.61
+
+Pop. A - hem - <paren> <font> embarrassed <$$font> <$$paren>
+For the first three hours, I watched the gold fish wagging their little
+tails in the glass globe; COYNE-1855-2,4.62
+
+but the study of natural history becoming tiresome, I turned my attention
+to passing events COYNE-1855-2,4.63
+
+and counted the cabs and shays on the road.  COYNE-1855-2,4.64
+
+Mrs. P. Chaises, my love.  COYNE-1855-2,4.65
+
+Pop. Well chayzes - COYNE-1855-2,4.66
+
+$it $'s {TEXT:it's} all the same, COYNE-1855-2,4.67
+
+only $you $'re {TEXT:you're} so particular with your French, because
+you spent twelve months with your aunt, the schoolmistress, at Boulogne.
+COYNE-1855-2,4.68
+
+Mrs. P. Ha, ha, ha, ha!  - $You $'re {TEXT:You're}
+delightfully droll.  COYNE-1855-2,4.69
+
+You may go, Alphonse - ha, ha, ha!  COYNE-1855-2,4.70
+
+<paren> Alphonse <font> is going <$$font> <$$paren> COYNE-1855-2,4.71
+
+Pop. And, Alphonse, here!  <paren> <font> returns to <$$font>
+C. <$$paren> COYNE-1855-2,4.72
+
+I $do $n't {TEXT:don't} want you!  <font> Exit <$$font> Alphonse,
+L. COYNE-1855-2,4.73
+
+Mrs. P. Ha, ha, ha!  <paren> <font> Changing her tone
+<$$font> <$$paren> Popples, why will you expose yourself and me in this
+manner, before your domestics?  COYNE-1855-2,4.74
+
+You forget that our position in life is not now what it once was.
+COYNE-1855-2,4.75
+
+Pop. I have a painful conviction of the fact.  COYNE-1855-2,4.76
+
+$I $'ll {TEXT:I'll} take a cup of tea, my dear.  COYNE-1855-2,4.77
+
+<paren> <font> she pours out tea <$$font> <$$paren> COYNE-1855-2,4.78
+
+Mrs. P. You ought to be the happiest man in existence.
+COYNE-1855-2,4.79
+
+Blessed with an ample fortune - Pop. Which I $do $n't {TEXT:don't}
+know how to spend.  COYNE-1855-2,4.80
+
+Mrs. P. My love, $I $'ll {TEXT:I'll} do that for you.
+COYNE-1855-2,4.81
+
+You live in an elegant villa at Norwood - COYNE-1855-2,4.82
+
+Pop. I $do $n't {TEXT:don't} like it - COYNE-1855-2,4.83
+
+I was more comfortable at Mile End.  COYNE-1855-2,4.84
+
+$There $'s {TEXT:There's} too much fresh air going to waste here;
+COYNE-1855-2,4.85
+
+$it $'s {TEXT:it's} a shameful expenditure of nature's property.
+COYNE-1855-2,4.86
+
+<paren> Mrs. Popples <font> hands him a cup of tea <$$font>
+<$$paren> Thank you, my dear.  COYNE-1855-2,4.87
+
+Mrs. P. Then you have a host of friends who are all
+sincerely attached to you.  COYNE-1855-2,4.88
+
+Pop. I know it; COYNE-1855-2,4.89
+
+attached to me, and to my dinners; COYNE-1855-2,4.90
+
+attached to my old wines, and my young - hem - COYNE-1855-2,4.91
+
+<paren> <font> aside <$$font> <$$paren> $I $'ll {TEXT:I'll} not say that
+- COYNE-1855-2,4.92
+
+attached to my fortune, COYNE-1855-2,4.93
+
+and like caterpillars $they $'ll {TEXT:they'll} stick to the tree while
+$there $'s {TEXT:there's} a leaf left on it to devour.  COYNE-1855-2,4.94
+
+<P_5>
+
+Mrs. P. Ridiculous!  COYNE-1855-2,5.96
+
+<paren> <font> he pours his tea from his cup into the slop basin <$$font>
+<$$paren> COYNE-1855-2,5.97
+
+Why $do $n't {TEXT:don't} you drink your tea from the cup, my dear?
+COYNE-1855-2,5.98
+
+Pop. Because I like it better from a bowl, my dear -
+COYNE-1855-2,5.99
+
+you remember I always had my tea in a bowl when I made dolls at Mile End.
+COYNE-1855-2,5.100
+
+Mrs. P. I wish you would try and forget Mile End and your
+dolls, Mr. Popples.  COYNE-1855-2,5.101
+
+Pop. $That $'s {TEXT:That's} impossible, Mrs. Popples -
+morally impossible.  COYNE-1855-2,5.102
+
+I can never forget the lovely creatures, with their soft flaxen hair
+curling round their little pink cheeks, and those beautiful blue eyes
+turning all manner of ways, that bring tears to mine when I think of them.
+COYNE-1855-2,5.103
+
+Forget my dolls!  COYNE-1855-2,5.104
+
+No, Mrs. Popples, I trust I have the feelings of a doll maker too
+strong in my bosom, ever to forget the sweet smiling innocents that owed
+their existence to these hands.  COYNE-1855-2,5.105
+
+Mrs. P. Well, my dear, I only hope you will suppress your
+feelings in the presence of our aristocratic friends, who are coming to
+spend a few days with us.  COYNE-1855-2,5.106
+
+Pop. What, move?  COYNE-1855-2,5.107
+
+Why the house will be full of them: COYNE-1855-2,5.108
+
+they swarm to it like blue-bottles to a pastry cook's window in the dog
+days, COYNE-1855-2,5.109
+
+and nearly drive me mad.  COYNE-1855-2,5.110
+
+Mrs. P. How strangely tastes differ.  COYNE-1855-2,5.111
+
+For my part, I like the excitement of a house full of company -
+COYNE-1855-2,5.112
+
+nature, I suppose, formed me for fashionable life.  COYNE-1855-2,5.113
+
+Pop. $Do $n't {TEXT:Don't} blame nature, Polly: COYNE-1855-2,5.114
+
+- nature formed you for a good sensible little wife, COYNE-1855-2,5.115
+
+but art has well nigh spoiled you.  COYNE-1855-2,5.116
+
+Nature never taught you to turn day-light into wax-light, to risk your
+money at a card table, or to lose your complexion at night in a ball room
+, and buy a fresh one in the morning at a perfumer's.  COYNE-1855-2,5.117
+
+Mrs. P. <paren> <font> laughing <$$font> <$$paren> I
+protest, Popples, COYNE-1855-2,5.118
+
+you wrong me about my complexion.  COYNE-1855-2,5.119
+
+As yet, I have not been obliged to mend my damaged charms by art like
+Lady Oldham, who spends the morning stuccoing and patching her face,
+and comes out in the evening like one of those repaired portraits one
+sees in a picture cleaner's window, where they write up,"Heads restored
+in this style. "COYNE-1855-2,5.120
+
+Pop. Will you listen to me seriously.  Mrs. Popples?
+<paren> <font> rises <$$font> <$$paren> COYNE-1855-2,5.121
+
+Mrs. P. <paren> <font> rises <$$font> <$$paren> Not to day,
+my dear - COYNE-1855-2,5.122
+
+I want to be in my best spirits to meet my friends.  COYNE-1855-2,5.123
+
+Come, come, COYNE-1855-2,5.124
+
+$there $'s {TEXT:there's} a dear Poppy.  COYNE-1855-2,5.125
+
+<font> Faisons la paix et embrassez moi mon cher.  <$$font> <paren>
+<font> kisses him <$$font> <$$paren> COYNE-1855-2,5.126
+
+$You $'ll {TEXT:You'll} be amiable, $wo $n't {TEXT:won't} you?
+COYNE-1855-2,5.127
+
+Pop. Well, I suppose I must - COYNE-1855-2,5.128
+
+these are arguments that no man can resist.  COYNE-1855-2,5.129
+
+$I $'m {TEXT:I'm} sorry though $they $'re {TEXT:they're} coming to-day,
+COYNE-1855-2,5.130
+
+for I expect a visitor who may not perhaps be the sort of person who -
+COYNE-1855-2,5.131
+
+Mrs. P. A visitor - COYNE-1855-2,5.132
+
+who is it?  COYNE-1855-2,5.133
+
+Pop. Our old friend Skrymsher - Sam Skrymsher from Lincolnshire.
+COYNE-1855-2,5.134
+
+Mrs. P. What, Skrymsher, that vulgar creature?
+COYNE-1855-2,5.135
+
+Oh, Popples, how could you?  COYNE-1855-2,5.136
+
+- what will our friends say?  COYNE-1855-2,5.137
+
+Do contrive some plan to keep him out of the way - COYNE-1855-2,5.138
+
+or, better, if you were to let him perceive that his visit is not
+agreeable, that he is <font> de trop <$$font>.  COYNE-1855-2,5.139
+
+Pop. What, give the cold shoulder to Sam Skrymsher?
+COYNE-1855-2,5.140
+
+No, Polly, $I $'ll {TEXT:I'll} be hanged if I do that.  COYNE-1855-2,5.141
+
+I $can $n't {TEXT:can't} forget that he was my best friend when I
+wanted one, that he lent me three hundred <P_6> pounds when we married
+to set up in business, and that he used to send us up the fattest goose
+in Lincolnshire, and buy the biggest doll in my shop every Christmas.
+COYNE-1855-2,6.142
+
+$Do $n't {TEXT:Don't} ask me to cut such a man.  COYNE-1855-2,6.143
+
+Mrs. P. There, $that $'s {TEXT:that's} the way you
+perpetually oppose my wishes, COYNE-1855-2,6.144
+
+$it $'s {TEXT:it's} plain you $do $n't {TEXT:don't} care for me.
+COYNE-1855-2,6.145
+
+I have lost your affections, COYNE-1855-2,6.146
+
+you $do $n't {TEXT:don't} love me any longer.  COYNE-1855-2,6.147
+
+Pop. My darling Polly, you know - COYNE-1855-2,6.148
+
+Mrs. P. I know I am an unhappy woman.  COYNE-1855-2,6.149
+
+Reach me a chair.  COYNE-1855-2,6.150
+
+Oh!  <font> Vous m'avez blesse` au coeur - je sens que j'evanourai
+<$$font>.  COYNE-1855-2,6.151
+
+Pop. <paren> <font> aside <$$font> <$$paren> Now $she $'s
+{TEXT:she's} got to her French entrenchments $she $'ll {TEXT:she'll}
+give me no quarter.  <paren> <font> places a chair <$$font> C.,
+<font> she sits <$$font> <$$paren> COYNE-1855-2,6.152
+
+Mrs. P. I feel I shall have one of my nervous attacks.
+COYNE-1855-2,6.153
+
+Pop. Pray $do $n't {TEXT:don't}!  my angel, COYNE-1855-2,6.154
+
+$do $n't {TEXT:don't}!  COYNE-1855-2,6.155
+
+I can stand any attack from a woman but a nervous one.  COYNE-1855-2,6.156
+
+There now, COYNE-1855-2,6.157
+
+$do $n't {TEXT:don't} go off, and $I $'ll {TEXT:I'll} do whatever
+you wish.  COYNE-1855-2,6.158
+
+$I $'ll {TEXT:I'll} look at Sam, when he comes, as fiercely as the lion
+looks at the unicorn in the royal arms.  COYNE-1855-2,6.159
+
+Will that do?  COYNE-1855-2,6.160
+
+Mrs. P. <paren> <font> recovering, rises <$$font> <$$paren>
+Thanks, my dear Poppy, COYNE-1855-2,6.161
+
+you have taken a monstrous load from my heart.  COYNE-1855-2,6.162
+
+Skrymsher, <paren> <font> without <$$font>, L. D.,
+<font> speaking very loud <$$font> <$$paren> Sam Skrymsher is my name.
+COYNE-1855-2,6.163
+
+$I $'m {TEXT:I'm} not ashamed of it, my good fellow!  COYNE-1855-2,6.164
+
+Pop. <paren> <font> alarmed <$$font> $It $'s {TEXT:It's} Sam -
+COYNE-1855-2,6.165
+
+$he $'s {TEXT:he's} come!  COYNE-1855-2,6.166
+
+Mrs. P. Mind then how you receive him COYNE-1855-2,6.167
+
+<paren> Popples <font> goes up <$$font>, R., <font> despairingly
+<$$font> <$$paren> COYNE-1855-2,6.168
+
+<font> Enter <$$font> Skrymsher, L. D., COYNE-1855-2,6.169
+
+<font> he carries a large carpet bag <$$font> - COYNE-1855-2,6.170
+
+James <font> follows <$$font>.  COYNE-1855-2,6.171
+
+Skrym. I tell you $it $'s {TEXT:it's} all right -
+COYNE-1855-2,6.172
+
+I $do $n't {TEXT:don't} want to be introduced.  COYNE-1855-2,6.173
+
+James.  Allow me to take your carpet bag, sir.  COYNE-1855-2,6.174
+
+Skrym. <paren> <font> looking at <$$font> James <$$paren> Well,
+mind how you handle it - <paren> <font> gives him carpet bag <$$font>
+<$$paren> COYNE-1855-2,6.175
+
+$there $'s {TEXT:there's} a lot of eggs, and a couple of bottles of elder
+wine in it.  <font> Exit <$$font> James, L. COYNE-1855-2,6.176
+
+<paren> <font> sees <$$font> Mrs. Popples <$$paren> Hey!  -
+bless me - COYNE-1855-2,6.177
+
+surely it is - Mrs. Popples.  COYNE-1855-2,6.178
+
+Hey - how be you - and my friend Peter, hey?  <paren> <font> offers his
+hand <$$font> <$$paren> COYNE-1855-2,6.179
+
+Mrs. P. <paren> <font> curtseying formally <$$font>
+<$$paren> Mr. Popples is quite well, sir.  COYNE-1855-2,6.180
+
+Skrym. Hey, $what $'s {TEXT:what's} the matter?  <paren> <font>
+she turns off grandly, up <$$font> C. <$$paren> COYNE-1855-2,6.181
+
+What does it mean?  COYNE-1855-2,6.182
+
+<paren> <font> mimicking her <$$font> <$$paren> Mr. Popples is
+quite well, sir.  COYNE-1855-2,6.183
+
+Oh, I see.  <paren> <font> touches his forehead <$$font> <$$paren>
+COYNE-1855-2,6.184
+
+Poor woman - I always suspected it.  <paren> <font> sees <$$font> Popples
+, <font> who comes down <$$font>, R. <$$paren> COYNE-1855-2,6.185
+
+Ah, Peter, there you are.  COYNE-1855-2,6.186
+
+How be you, lad - purely, eh?  COYNE-1855-2,6.187
+
+Pop. My dear Sa - ahem.  <paren> <font> checked by a look from
+<$$font> Mrs. Popples <$$paren> Eh - ah!  tolerably well, sir.
+COYNE-1855-2,6.188
+
+<paren> Skrymsher <font> stares at him in silent astonishment; <$$font>
+COYNE-1855-2,6.189
+
+Popples, <font> unable to bear his looks, turns away to conceal his
+emotion - aside <$$font> <$$paren> $I $'m {TEXT:I'm} a Turk; an unnatural
+hippopotamus.  COYNE-1855-2,6.190
+
+Skrym."Sir! ""Mister! "COYNE-1855-2,6.191
+
+I $do $n't {TEXT:don't} understand it.  COYNE-1855-2,6.192
+
+Mrs. P. <paren> <font> looking off at back <$$font>
+<$$paren> I declare some of our friends have arrived.  COYNE-1855-2,6.193
+
+I must go and receive them.  <font> Exit hastily <$$font>, L.
+D., <font> making signs to <$$font> Popples.  COYNE-1855-2,6.194
+
+Pop. <paren> <font> rushes to <$$font> Skrymsher <font> and *con
+embraces him <$$font> <$$paren> Skrymsher, my dear old friend!  $I $'m
+{TEXT:I'm} so glad to see you.  <paren> <font> shakes his hand warmly
+<$$font> <$$paren> COYNE-1855-2,6.195
+
+Delighted, I am.  COYNE-1855-2,6.196
+
+Skrym. Hah!  I like that, COYNE-1855-2,6.197
+
+$that $'s {TEXT:that's} a hearty squeeze, man; COYNE-1855-2,6.198
+
+it feels <P_7> like an honest welcome.  COYNE-1855-2,7.199
+
+But I thought at first $you $'d {TEXT:you'd} as lief I had not come.
+COYNE-1855-2,7.200
+
+You looked so oddly at me.  COYNE-1855-2,7.201
+
+Pop. Oh, ah, did I?  COYNE-1855-2,7.202
+
+Yes, it was Polly, hem - Mrs. Popples - that
+{COM:grammatical_function_unrecoverable_because_of_break} -
+COYNE-1855-2,7.203
+
+ahem - never mind; COYNE-1855-2,7.204
+
+$I $'m {TEXT:I'm} glad to see you looking so well.  COYNE-1855-2,7.205
+
+Nothing troubles you Sam.  COYNE-1855-2,7.206
+
+Skrym. Nothing in the world.  COYNE-1855-2,7.207
+
+$I $'m {TEXT:I'm} hale and hearty.  COYNE-1855-2,7.208
+
+I sleep like a top COYNE-1855-2,7.209
+
+and eat like an ostrich.  COYNE-1855-2,7.210
+
+By-the-bye, if $you $'ve {TEXT:you've} any cold meat in the house I
+$should $n't {TEXT:shouldn't} mind giving you a specimen of my appetite.
+COYNE-1855-2,7.211
+
+But dang it, Peter, $what $'s {TEXT:what's} the matter?
+COYNE-1855-2,7.212
+
+You $do $n't {TEXT:don't} look so brisk as you used to.
+COYNE-1855-2,7.213
+
+Any thing wrong?  COYNE-1855-2,7.214
+
+Come, what is it?  COYNE-1855-2,7.215
+
+I see $you $'re {TEXT:you're} not happy.  COYNE-1855-2,7.216
+
+Pop. <paren> R. <$$paren> Well, I $do $n't {TEXT:don't}
+think I am; COYNE-1855-2,7.217
+
+in fact, I suspect $I $'m {TEXT:I'm} very miserable.  COYNE-1855-2,7.218
+
+This sort of life $do $n't {TEXT:don't} suit me; COYNE-1855-2,7.219
+
+a thousand times a day I wish that my uncle Jackson had left his fortune
+to somebody else.  COYNE-1855-2,7.220
+
+$It $'s {TEXT:It's} too much for me.  COYNE-1855-2,7.221
+
+Skrym. <paren> L. <$$paren> Hob!  I knew it.
+COYNE-1855-2,7.222
+
+Always said that the sweets of fortune would not agree with you.
+COYNE-1855-2,7.223
+
+$You $'re {TEXT:You're} smothered in prosperity, Peter.
+COYNE-1855-2,7.224
+
+Pop. You $do $n't {TEXT:don't} know my sufferings, trying to get
+through the day doing nothing.  COYNE-1855-2,7.225
+
+I should have died in a month if I had not contrived a little amusement
+for myself, unknown to Mrs. P. COYNE-1855-2,7.226
+
+Skrym. Nothing irregular I hope, Peter?  COYNE-1855-2,7.227
+
+Pop. Oh dear no!  COYNE-1855-2,7.228
+
+Polly reigns sole mistress of the little tenement inside my waistcoat -
+COYNE-1855-2,7.229
+
+but there is a secret which $I $'ll {TEXT:I'll} confide to you, Sam.
+COYNE-1855-2,7.230
+
+You must know that Mrs. P. $can $n't {TEXT:can't} abide
+the sight of a doll, COYNE-1855-2,7.231
+
+the very mention of one makes her ill, lest people, as she says, should
+suspect the fact of my having been a doll maker.  COYNE-1855-2,7.232
+
+Skrym. Bah!  A weak woman!  COYNE-1855-2,7.233
+
+Pop. Yes; but the weakest of them are too strong for us, Sam.
+COYNE-1855-2,7.234
+
+Skrym. Perhaps so - COYNE-1855-2,7.235
+
+$can $n't {TEXT:can't} say as I never speculated in the article.
+COYNE-1855-2,7.236
+
+Go on.  COYNE-1855-2,7.237
+
+Pop. Now in this respect I $do $n't {TEXT:don't} at all coincide
+with Mrs. P. COYNE-1855-2,7.238
+
+- $I $'m {TEXT:I'm} an enthusiast in dolls, COYNE-1855-2,7.239
+
+$I $'ve {TEXT:I've} made them and lived among them all my life,
+COYNE-1855-2,7.240
+
+and I $do $n't {TEXT:don't} mind confessing that my earliest love was
+for a splendid wax doll, with joints and turning eyes: COYNE-1855-2,7.241
+
+- she was sent to Russia, Sam, COYNE-1855-2,7.242
+
+and I afterwards married Polly, because she was like that doll.
+COYNE-1855-2,7.243
+
+Skrym. Well, but the secret?  COYNE-1855-2,7.244
+
+Pop. $I $'m {TEXT:I'm} coming to it.  COYNE-1855-2,7.245
+
+$I $'ve {TEXT:I've} had a notion for a long time, that a great improvement
+might be made in the construction of dolls, COYNE-1855-2,7.246
+
+so as I had nothing better to do, I set to work in that room, <paren>
+<font> points to <$$font> R. <$$paren> of which I keep the key,
+COYNE-1855-2,7.247
+
+and every hour that I can manage to steal away, I employ making a model
+doll that will astonish the world.  COYNE-1855-2,7.248
+
+Skrym. You think so?  COYNE-1855-2,7.249
+
+Pop. $I $'m {TEXT:I'm} certain of it.  COYNE-1855-2,7.250
+
+By a curious complication of springs and bellows, I can make it imitate
+the human voice, COYNE-1855-2,7.251
+
+and already it calls"mamma,"in the sweetest infantine tone you ever heard.
+COYNE-1855-2,7.252
+
+Skrym. Nonsense - $you $'re {TEXT:you're} losing your wits,
+Peter - COYNE-1855-2,7.253
+
+$you $'ve {TEXT:you've} run doll mad.  COYNE-1855-2,7.254
+
+Pop. Ah, you think $it $'s {TEXT:it's} impossible,
+COYNE-1855-2,7.255
+
+but come with me and you <P_8> shall judge for yourself;
+COYNE-1855-2,8.256
+
+you shall see it, Sam - COYNE-1855-2,8.257
+
+$I $'ll {TEXT:I'll} show you how it works.  COYNE-1855-2,8.258
+
+Skrym. Ay!  Well it must be curious.  COYNE-1855-2,8.259
+
+You always had a wonderful head - COYNE-1855-2,8.260
+
+but $do $n't {TEXT:don't} you think a little refreshment might be
+agreeable at the same time?  COYNE-1855-2,8.261
+
+Pop. Refreshment - ah, to be sure!  COYNE-1855-2,8.262
+
+I forgot that you have had a ride from town.  COYNE-1855-2,8.263
+
+<paren> <font> aside <$$font> <$$paren> A thought strikes me;
+COYNE-1855-2,8.264
+
+$I $'ll {TEXT:I'll} try to keep him in the doll room till my wife's
+fashionable company have left.  COYNE-1855-2,8.265
+
+I say, Skrymsher, as Mrs. P. $do $n't {TEXT:don't} dine
+till six, what do you say to an early bit of dinner to ourselves in my
+room, amongst the dolls, eh?  snug and quiet, eh?  COYNE-1855-2,8.266
+
+nobody to disturb us - and a comfortable pipe afterwards, eh?
+COYNE-1855-2,8.267
+
+Skrym. The very thing $I $'d {TEXT:I'd} like; COYNE-1855-2,8.268
+
+none of those fellows with a top dressing of flour upon their heads,
+standing behind our chairs.  COYNE-1855-2,8.269
+
+Pop. Nothing of the kind - perfectly private, COYNE-1855-2,8.270
+
+nobody is ever permitted to set foot in that room but myself.
+COYNE-1855-2,8.271
+
+You go in, Sam, COYNE-1855-2,8.272
+
+and $I $'ll {TEXT:I'll} see about dinner.  COYNE-1855-2,8.273
+
+<paren> <font> unlocks door <$$font>, R., COYNE-1855-2,8.274
+
+<font> and puts <$$font> Skrymsher <font> in <$$font> <$$paren>
+COYNE-1855-2,8.275
+
+$Do $n't {TEXT:Don't} meddle with my model doll though till I come.
+COYNE-1855-2,8.276
+
+Now for a daring attack upon the larder.  <paren> <font> locks door
+and puts key in his pocket - looks off at back <$$font> <$$paren>
+COYNE-1855-2,8.277
+
+Good heavens!  $there $'s {TEXT:there's} Captain Hawkshaw, my sporting
+friend!  COYNE-1855-2,8.278
+
+The sight of him throws me into a cold perspiration - COYNE-1855-2,8.279
+
+$he $'s {TEXT:he's} always getting me to bet upon some horse that
+never starts.  COYNE-1855-2,8.280
+
+I should not, however, mind losing my money, if he $had $n't {TEXT:hadn't}
+a design upon my life.  COYNE-1855-2,8.281
+
+It was only last week he persuaded me to buy a splendid horse, that he
+told me was going a dead bargain - COYNE-1855-2,8.282
+
+but, egad, it was I who was near being the dead bargain,
+COYNE-1855-2,8.283
+
+for the brute tumbled on his nose, COYNE-1855-2,8.284
+
+and pitched me over his head like an unpremediated harlequin into a
+quickset hedge.  COYNE-1855-2,8.285
+
+<paren> <font> going <$$font> <$$paren> Ah!  here he is -
+COYNE-1855-2,8.286
+
+I $can $n't {TEXT:can't} escape him!  COYNE-1855-2,8.287
+
+Hawkshaw.  <paren> <font> speaking outside <$$font>, L. <$$paren>
+Let the phaeton wait, COYNE-1855-2,8.288
+
+and shorten the bearing rein on the off horse.  COYNE-1855-2,8.289
+
+<font> Enter with <$$font> Flapper, L. D. Popples, how $d
+$'ye {TEXT:d'ye} do?  COYNE-1855-2,8.290
+
+delighted to see you look in such splendid condition.  COYNE-1855-2,8.291
+
+Allow me to introduce to you my friend Flapper - Montague Flapper, of -
+of - COYNE-1855-2,8.292
+
+I forgot the Park; COYNE-1855-2,8.293
+
+never mind.  COYNE-1855-2,8.294
+
+<paren> <font> aside to <$$font> Popples <$$paren> $You $'ll {TEXT:You'll}
+find him a devilish useful fellow - never happy but when employed by
+his friends.  COYNE-1855-2,8.295
+
+Pop. Ah!  ah!  glad to see you, Flapper.  COYNE-1855-2,8.296
+
+Flap. Thank you, Mr. Popples.  COYNE-1855-2,8.297
+
+My friend, Hawkshaw, knowing how anxious I was to make your acquaintance ,
+drove me down.  COYNE-1855-2,8.298
+
+Hawk. Twenty minutes and fifteen seconds from Charing Cross in
+my phaeton; COYNE-1855-2,8.299
+
+not bad going that.  COYNE-1855-2,8.300
+
+By-the-bye, you $have $n't {TEXT:haven't} seen my pair of duns!
+COYNE-1855-2,8.301
+
+Pop. Your duns?  COYNE-1855-2,8.302
+
+No, where are they?  COYNE-1855-2,8.303
+
+Hawk. In the phaeton, at the door.  COYNE-1855-2,8.304
+
+Pop. They stick pretty close to you.  COYNE-1855-2,8.305
+
+Do you owe them much?  COYNE-1855-2,8.306
+
+Hawk. Owe them?  COYNE-1855-2,8.307
+
+Oh, $you $'re {TEXT:you're} in the wrong stall.  COYNE-1855-2,8.308
+
+$They $'re {TEXT:They're} none of your rascally creditors, but a pair
+of dun carriage horses.  COYNE-1855-2,8.309
+
+I brought them down on purpose to show them to you.  COYNE-1855-2,8.310
+
+$They $'re {TEXT:They're} the very things you want, Popples.
+COYNE-1855-2,8.311
+
+<P_9>
+
+Pop. No, no, I really have no occasion for them.
+COYNE-1855-2,9.313
+
+Hawk. Allow me to know better, my dear friend.  COYNE-1855-2,9.314
+
+You $can $n't {TEXT:can't} do without them.  COYNE-1855-2,9.315
+
+<font> Enter <$$font> Mrs. Popples, L. Mrs. Popples
+will, I know, agree with me.  COYNE-1855-2,9.316
+
+Mrs. Popples, how $d $'ye {TEXT:d'ye} do, COYNE-1855-2,9.317
+
+how $d $'ye {TEXT:d'ye} do.  COYNE-1855-2,9.318
+
+<paren> Flapper <font> bows repeatedly <$$font> <$$paren> My friend,
+Montague Flapper.  <paren> <font> she curtseys <$$font> <$$paren>
+COYNE-1855-2,9.319
+
+I want you to decide a little amicable dispute between my friend Popples,
+and me.  COYNE-1855-2,9.320
+
+I tell him he must have that beautiful pair of horses in my phaeton,
+COYNE-1855-2,9.321
+
+you know he wants them for your new carriage.  COYNE-1855-2,9.322
+
+Mrs. P. Certainly, certainly, $I $'m {TEXT:I'm} sure
+you want them, my love.  <paren> <font> crosses to <$$font> Popples,
+R. <$$paren> COYNE-1855-2,9.323
+
+Pop. I tell you I $do $n't {TEXT:don't}.  COYNE-1855-2,9.324
+
+$I $'ll {TEXT:I'll} have nothing to do with them.  COYNE-1855-2,9.325
+
+Hawk. Now $do $n't {TEXT:don't} be obstinate, my dear fellow,
+COYNE-1855-2,9.326
+
+you know $I $'m {TEXT:I'm} your friend, and would not advise you to do
+anything that was not for your advantage.  COYNE-1855-2,9.327
+
+On second thoughts you had better take the phaeton with the horses,
+COYNE-1855-2,9.328
+
+it would be a thousand pities to separate them.  COYNE-1855-2,9.329
+
+You shall have the whole turn-out for five hundred guineas -
+COYNE-1855-2,9.330
+
+say pounds to a friend - there.  COYNE-1855-2,9.331
+
+Mrs. P. Amazingly cheap.  COYNE-1855-2,9.332
+
+Flap. Quite a sacrifice.  COYNE-1855-2,9.333
+
+Hawk. $You $'ll {TEXT:You'll} be astonished at their performance
+if $you $'ll {TEXT:you'll} jump on the box with me.  COYNE-1855-2,9.334
+
+I know $you $'ll {TEXT:you'll} admire their paces.  COYNE-1855-2,9.335
+
+Pop. Thank you, COYNE-1855-2,9.336
+
+but I can admire their paces from the window more at my ease.
+COYNE-1855-2,9.337
+
+Hawk. Oh, $they $'re {TEXT:they're} as quiet as lambs.
+COYNE-1855-2,9.338
+
+$I $'ll {TEXT:I'll} give you a lesson in handling the garters.
+COYNE-1855-2,9.339
+
+Pop. The garters!  COYNE-1855-2,9.340
+
+There are ladies present, Captain.  COYNE-1855-2,9.341
+
+Hawk. The ribbons I mean.  COYNE-1855-2,9.342
+
+Teach you to drive, my boy.  COYNE-1855-2,9.343
+
+Mrs. P. My dear Poppy, you should be exceedingly obliged
+to Captain Hawkshaw for the trouble he takes with you, COYNE-1855-2,9.344
+
+every gentleman should learn to drive, COYNE-1855-2,9.345
+
+and the sooner you break the ice the better.  COYNE-1855-2,9.346
+
+Pop. Break the ice and my neck at the same time.
+COYNE-1855-2,9.347
+
+Mrs. P. $Do $n't {TEXT:Don't} be a fool, Poppy,
+COYNE-1855-2,9.348
+
+$here $'s {TEXT:here's} your hat.  <paren> <font> offers him his hat
+<$$font> <$$paren> COYNE-1855-2,9.349
+
+$There $'s {TEXT:There's} no danger, my love.  COYNE-1855-2,9.350
+
+Pop. But I tell you there is danger $you $'re {TEXT:you're}
+in a conspiracy to bring me to an untimely end.  COYNE-1855-2,9.351
+
+Mrs. P. <paren> <font> puts on his hat <$$font> <$$paren>
+It only requires a little nerve.  COYNE-1855-2,9.352
+
+Pop. You want to be a gay widow, Mrs. P.
+COYNE-1855-2,9.353
+
+Hawk. Come along, my dear fellow.  <paren> <font> takes his arm
+<$$font> <$$paren> COYNE-1855-2,9.354
+
+Flap. Allow me to assist you.  <paren> <font> takes <$$font>
+Popples'<font> arm on <$$font> R. <font> side <$$font> <$$paren>
+COYNE-1855-2,9.355
+
+Pop. Stop, <paren> <font> disengaging himself <$$font> <$$paren>
+COYNE-1855-2,9.356
+
+Stop, COYNE-1855-2,9.357
+
+give me just five minutes - only five minutes, to make my will.
+COYNE-1855-2,9.358
+
+<font> Runs off <$$font>, L. COYNE-1855-2,9.359
+
+Hawk. But, my dear Popples - confound it - to treat a friend in
+this manner.  COYNE-1855-2,9.360
+
+I say, my dear fellow.  <font> Exit hastily <$$font>, L.
+COYNE-1855-2,9.361
+
+Flap. Shall I run after him and bring him back?  COYNE-1855-2,9.362
+
+Mrs. P. By no means, Mr. Flapper.  COYNE-1855-2,9.363
+
+Flap. <paren> <font> aside <$$font> <$$paren> I wish she had
+something for me to do, a skein of silk to wind, or a letter to carry
+to the post-office.  COYNE-1855-2,9.364
+
+<P_10>
+
+<font> Enter <$$font> James, L., <font> to clear breakfast.
+<$$font> COYNE-1855-2,10.366
+
+Mrs. P. James!  COYNE-1855-2,10.367
+
+Flap. James!  <paren> <font> in a loud voice <$$font> <$$paren>
+COYNE-1855-2,10.368
+
+Mrs. P. Take Frisk and Mignonne out on the lawn for
+an airing.  COYNE-1855-2,10.369
+
+The poor creatures have not been abroad to-day.  COYNE-1855-2,10.370
+
+James.  Yes, madam.  <font> Exit <$$font>, L. <font> with tea
+tray <$$font>.  COYNE-1855-2,10.371
+
+Flap. Allow me; COYNE-1855-2,10.372
+
+$I $'ve {TEXT:I've} quite a fancy for airing lap-dogs.
+COYNE-1855-2,10.373
+
+Mrs. P. By no means.  COYNE-1855-2,10.374
+
+I could not think of troubling you, Mr. Flapper.
+COYNE-1855-2,10.375
+
+Flap. Oh, pray $do $n't {TEXT:don't} mention it,
+COYNE-1855-2,10.376
+
+none of my friends ever think of sparing me, when I can be useful.
+COYNE-1855-2,10.377
+
+$I $'ll {TEXT:I'll} take a run with them for half-an-hour.
+COYNE-1855-2,10.378
+
+Here Frisk, Mignonne, whew, whew!  <font> Exit <$$font>, L.
+C. <font> COYNE-1855-2,10.379
+
+Enter <$$font> Miss Daw, L. D. COYNE-1855-2,10.380
+
+Miss D. Mr. Ingot, the jeweller's man, has brought
+this, mem.  <paren> <font> gives <$$font> Mrs. Popples <font>
+a miniature in a case <$$font> <$$paren> COYNE-1855-2,10.381
+
+Mrs. P. <paren> <font> opening the case <$$font> <$$paren>
+Ah!  <font> Il a fait un joli ouvrage dans le meilleur gout <$$font>.
+COYNE-1855-2,10.382
+
+It is beautifully executed, COYNE-1855-2,10.383
+
+and the miniature; COYNE-1855-2,10.384
+
+do you recognise it, Miss Daw?  <paren> <font> showing her the miniature
+<$$font> <$$paren> COYNE-1855-2,10.385
+
+Miss D. Oh, mem, $it $'s {TEXT:it's} amazingly like you!
+COYNE-1855-2,10.386
+
+Mrs. P. Well, mind you $do $n't {TEXT:don't} breathe a
+syllable about it to any person.  COYNE-1855-2,10.387
+
+Miss D. $I $'ll {TEXT:I'll} be dumb, mem.  COYNE-1855-2,10.388
+
+Mrs. P. By-the-bye, Miss Daw, if it be not trespassing
+too much on your leisure, will you have the kindness to cut the leaves
+of the new novel I got this morning?  COYNE-1855-2,10.389
+
+Miss D. With the greatest pleasure, mem.  <font> Exit <$$font>
+, L. D. COYNE-1855-2,10.390
+
+Mrs. P. It was a charming idea to have my miniature painted
+to present to my dear little Poppy, on the anniversary of our wedding.
+COYNE-1855-2,10.391
+
+He knows nothing of it, COYNE-1855-2,10.392
+
+nor shall he until I place it in his hands to-morrow morning.
+COYNE-1855-2,10.393
+
+He has his faults, to be sure, COYNE-1855-2,10.394
+
+and $I $'m {TEXT:I'm} afraid his vulgar tastes will not be easily rooted
+out; COYNE-1855-2,10.395
+
+but $he $'s {TEXT:he's} so kind and affectionate COYNE-1855-2,10.396
+
+and lets me have so much of my own way, that I $can $n't {TEXT:can't}
+be angry with him, even when he abuses my friends.  COYNE-1855-2,10.397
+
+<paren> <font> she places the miniature in the drawer of the work table
+<$$font>, L. <$$paren> There it will be safe till to-morrow.
+COYNE-1855-2,10.398
+
+<font> Enter <$$font> Alphonse, L. D., <font> announcing
+<$$font>"Mr. Arlington Veneer,"<font> who enters <$$font> ,
+L.; COYNE-1855-2,10.399
+
+Mrs. Popples <font> crosses to receive him.  COYNE-1855-2,10.400
+
+Exit <$$font> Alphonse, L. COYNE-1855-2,10.401
+
+Mrs. P. <paren> R. <$$paren> Mr. Veneer,
+this is kind.  COYNE-1855-2,10.402
+
+Veneer.  <paren> L. <$$paren> You see, my dear Mrs. Popples,
+your invitation has drawn me to your little paradise.  COYNE-1855-2,10.403
+
+Mrs. P. And you have really forsaken the brilliant soirees
+of Belgravia to honor my poor circle here at Norwood.  COYNE-1855-2,10.404
+
+Veneer.  Nay, madam!  the circle of which Mrs. Popples forms the
+centre, is that in which I would continually revolve.  COYNE-1855-2,10.405
+
+Mrs. P. Very pretty and complimentary.  COYNE-1855-2,10.406
+
+I permit you to make me these flattering speeches in the absence of the
+object of your idolatry.  COYNE-1855-2,10.407
+
+Veneer.  Madam, I swear - COYNE-1855-2,10.408
+
+<P_11>
+
+Mrs. P. Oh, fie!  COYNE-1855-2,11.410
+
+Swear not; COYNE-1855-2,11.411
+
+or, if you do, let it be by the bright eyes of the charming widow Beamish,
+whom people say you have persuaded to make a second pilgrimage to the
+hymenial altar.  COYNE-1855-2,11.412
+
+Veneer.  <paren> <font> aside <$$font> <$$paren> Jealous!
+COYNE-1855-2,11.413
+
+$there $'s {TEXT:there's} no mistaking the symptoms.  COYNE-1855-2,11.414
+
+You surprise me beyond measure; COYNE-1855-2,11.415
+
+no man's character is safe in these times.  COYNE-1855-2,11.416
+
+I certainly fluttered in the fascinating widow's meshes for three weeks
+; COYNE-1855-2,11.417
+
+but I never had the remotest intention of becoming a matrimonial victim
+for her sake.  COYNE-1855-2,11.418
+
+Oh dear, no!  COYNE-1855-2,11.419
+
+Perhaps some forty years hence, when I have drained the wine from the
+cup of life, I may - Mrs. P. Generously offer to share
+the dregs with some fortunate woman.  COYNE-1855-2,11.420
+
+Veneer.  Well, positively, there is something in the idea of marriage,
+that shocks one's sense of freedom.  COYNE-1855-2,11.421
+
+Mrs. P. You think, perhaps, that love should be unfettered.
+COYNE-1855-2,11.422
+
+Veneer.  Decidedly.  COYNE-1855-2,11.423
+
+Love, madam, is a beautiful bird of paradise while its wings are free ;
+COYNE-1855-2,11.424
+
+but clip its bright pinions and it becomes a vulgar barn-door fowl.
+COYNE-1855-2,11.425
+
+Mrs. P. Yet I suspect the widow will find a way to check
+your flight and induce you to settle down quietly in the domestic nest.
+COYNE-1855-2,11.426
+
+Veneer.  <paren> <font> aside <$$font> <$$paren> The widow again.
+COYNE-1855-2,11.427
+
+The $hint $'s {TEXT:hint's} too plain to be mistaken.  COYNE-1855-2,11.428
+
+My dear Mrs. Popples, there is but one woman in the world who
+could chain my roving fancy; one shrine upon which I should desire to
+offer the incense of my adoration.  COYNE-1855-2,11.429
+
+<paren> <font> takes her hand <$$font> <$$paren> On this snowy tablet
+would I imprint love's softest seal.  COYNE-1855-2,11.430
+
+Mrs. P. <paren> <font> snatching away her hand <$$font>
+<$$paren> Mr. Veneer, recollect to whom you address this language.
+COYNE-1855-2,11.431
+
+Veneer.  I recollect only that you are the most cruel of women and I
+the most wretched of men.  COYNE-1855-2,11.432
+
+<paren> <font> kneels <$$font> <$$paren> Enchantress, at your feet I
+implore one pitying look - one tender word.  COYNE-1855-2,11.433
+
+<paren> <font> aside <$$font> <$$paren> I hope she will not leave me
+long in this agonising position.  COYNE-1855-2,11.434
+
+Mrs. P. Ha, ha, ha, ha!  COYNE-1855-2,11.435
+
+That attitude is really beautiful!  COYNE-1855-2,11.436
+
+There, $do $n't {TEXT:don't} move.  COYNE-1855-2,11.437
+
+I wish I could have you photographed in that interesting pose.
+COYNE-1855-2,11.438
+
+<font> Enter <$$font> Flapper <font> hastily <$$font>, L. C.
+COYNE-1855-2,11.439
+
+Flap. <paren> <font> down <$$font>, R. <$$paren> Can I be
+of any assistance to you?  COYNE-1855-2,11.440
+
+Veneer.  <paren> <font> jumping up - aside <$$font> <$$paren> Confound it!
+COYNE-1855-2,11.441
+
+She $sha $n't {TEXT:shan't} make me lose my temper though.
+COYNE-1855-2,11.442
+
+You may judge the effect it produced, Mrs. Popples, when the
+gentleman was discovered on his knees before the lady, in the manner I
+have endeavoured to show you.  COYNE-1855-2,11.443
+
+Mrs. P. Oh, I can perfectly imagine it from your admirable
+acting - COYNE-1855-2,11.444
+
+you could not have done it better had you been yourself the suppliant -
+ha, ha, ha, ha!  COYNE-1855-2,11.445
+
+Flap. <paren> <font> aside <$$font> <$$paren> I $do $n't
+{TEXT:don't} see how I can be useful if they keep the joke to themselves.
+COYNE-1855-2,11.446
+
+Mrs. P. Hark!  COYNE-1855-2,11.447
+
+More of our friends have arrived.  <paren> <font> crosses <$$font>,
+L. - COYNE-1855-2,11.448
+
+<font> apart to <$$font> Veneer <$$paren> $Do $n't {TEXT:Don't} forget
+those charming speeches and that beautiful attitude - COYNE-1855-2,11.449
+
+$they $'ll {TEXT:they'll} answer for the fascinating widow;
+COYNE-1855-2,11.450
+
+- I expect her here to-day, ha, ha, ha!  <font> Exit, laughing <$$font>,
+L. D. COYNE-1855-2,11.451
+
+<P_12>
+
+Veneer.  <paren> <font> half aside <$$font> <$$paren> Not so easily
+caught as I expected.  COYNE-1855-2,12.453
+
+Flap. I beg your pardon, COYNE-1855-2,12.454
+
+I believe you spoke {TEXT:missing_period} COYNE-1855-2,12.455
+
+Veneer.  Well, sir?  COYNE-1855-2,12.456
+
+Flap. I thought there might be something I could do for you;
+COYNE-1855-2,12.457
+
+$can $n't {TEXT:can't} I make myself useful?  COYNE-1855-2,12.458
+
+Veneer.  No, COYNE-1855-2,12.459
+
+- stay - yes, you can confer a particular favour on me - by taking
+yourself off.  COYNE-1855-2,12.460
+
+Flap. Certainly, with the greatest pleasure - anything to oblige.
+<paren> <font> going <$$font>, L. - COYNE-1855-2,12.461
+
+<font> returns <$$font> <$$paren> $You $'re {TEXT:You're} certain $there
+$'s {TEXT:there's} nothing else.  COYNE-1855-2,12.462
+
+<paren> Veneer <font> makes an impatient gesture <$$font> <$$paren> Oh,
+very well, only I fancied there might.  <font> Exit <$$font>, L.
+D. COYNE-1855-2,12.463
+
+Veneer.  A provoking coquette.  COYNE-1855-2,12.464
+
+Though she likes to teaze me, $I $'m {TEXT:I'm} certain $I $'m {TEXT:I'm}
+not indifferent to her.  COYNE-1855-2,12.465
+
+$It $'s {TEXT:It's} the way with women - COYNE-1855-2,12.466
+
+they torment where they love most: COYNE-1855-2,12.467
+
+she $sha $n't {TEXT:shan't} however make me give up the chase -
+COYNE-1855-2,12.468
+
+$I $'ll {TEXT:I'll} change my treatment like the doctors, and try her
+with poetry.  COYNE-1855-2,12.469
+
+Poetry is the blow-pipe of love, COYNE-1855-2,12.470
+
+it concentrates the flame COYNE-1855-2,12.471
+
+and melts the toughest female hearts.  COYNE-1855-2,12.472
+
+<paren> <font> takes a pocket book from his pocket and opens it <$$font>
+<$$paren> I keep a variety of amatory effusions ready for an emergency.
+COYNE-1855-2,12.473
+
+<paren> <font> selects a paper from a number of others <$$font>
+<$$paren> Now $here $'s {TEXT:here's} one that will exactly suit her;
+COYNE-1855-2,12.474
+
+$I $'ll {TEXT:I'll} leave it in the drawer of her work table, where she
+$can $not {TEXT:cannot} fail to find it.  COYNE-1855-2,12.475
+
+<paren> <font> opens the drawer, and perceiving the miniature,
+takes it out <$$font> <$$paren> Hah!  $what $'s {TEXT:what's} this?
+COYNE-1855-2,12.476
+
+- a miniature of the dear little tyrant herself.  COYNE-1855-2,12.477
+
+Ah, you may smile, COYNE-1855-2,12.478
+
+but take care - COYNE-1855-2,12.479
+
+it may be my turn next.  <paren> <font> goes up <$$font>, C.
+<$$paren> COYNE-1855-2,12.480
+
+<font> Enter <$$font> Popples, L., <font> carrying a tray <$$font>,
+<font> on which are a roast fowl, a cold tongue, a pot of porter, with
+plate, knives, forks, &c. <$$font> COYNE-1855-2,12.481
+
+Pop. All right!  COYNE-1855-2,12.482
+
+<paren> Veneer <font> sees him COYNE-1855-2,12.483
+
+and hastily puts the miniature in his coat pocket <$$font> <$$paren>
+COYNE-1855-2,12.484
+
+$I $'ve secured a roast fowl and a cold tongue; committed petty larceny
+in my own larder - bribed Jem the groom to fetch me a pot of porter -
+COYNE-1855-2,12.485
+
+and now if I can only smuggle them in without being detected by any of
+these fine folks - crossing to R., COYNE-1855-2,12.486
+
+<font> puts tray on a chair while he unlocks <$$font> R. D.
+, COYNE-1855-2,12.487
+
+<font> takes tray up again, COYNE-1855-2,12.488
+
+and is about going into room <$$font>, R. <$$paren>
+COYNE-1855-2,12.489
+
+Veneer.  <paren> <font> coming down <$$font>, L. <$$paren> How
+$d $'ye {TEXT:d'ye} do, Popples?  COYNE-1855-2,12.490
+
+Pop. <paren> <font> turns and stands confounded <$$font> <$$paren>
+Hah!  Bless me, Mr. Veneer, COYNE-1855-2,12.491
+
+I $did $n't {TEXT:didn't} see you - COYNE-1855-2,12.492
+
+excuse me not offering you my hand.  COYNE-1855-2,12.493
+
+Veneer.  $Do $n't {TEXT:Don't} mention it, pray; COYNE-1855-2,12.494
+
+I perceive $they $'re {TEXT:they're} both engaged.  COYNE-1855-2,12.495
+
+Pop. Yes, ha, ha, ha!  COYNE-1855-2,12.496
+
+The servants were so busy that - I thought $I $'d {TEXT:I'd} lend a
+helping hand; COYNE-1855-2,12.497
+
+but you need not mention it to my wife.  COYNE-1855-2,12.498
+
+Veneer.  To your wife, certainly not.  COYNE-1855-2,12.499
+
+Pop. The fact is, I have a friend here quite private.
+COYNE-1855-2,12.500
+
+Veneer.  A friend?  COYNE-1855-2,12.501
+
+I understand.  COYNE-1855-2,12.502
+
+Sly dog - COYNE-1855-2,12.503
+
+but $do $n't {TEXT:don't} be alarmed.  COYNE-1855-2,12.504
+
+$I $'ll {TEXT:I'll} keep your secret.  <paren> <font> aside <$$font>
+<$$paren> And turn it to account with his wife.  COYNE-1855-2,12.505
+
+<paren> <font> laughter and voices heard outside at back <$$font>,
+L. C. <$$paren> COYNE-1855-2,12.506
+
+Pop. Hist!  Some of our friends coming.  COYNE-1855-2,12.507
+
+$I $'ll {TEXT:I'll} get away.  COYNE-1855-2,12.508
+
+<paren> <font> aside <$$font> <$$paren> Skrymsher must be nearly starved.
+COYNE-1855-2,12.509
+
+<font> Exit <$$font>, R. <font> COYNE-1855-2,12.510
+
+Enter <$$font> Miss Nettley, C., <font> followed by <$$font>
+Captain Hawkshaw, Sir Jacob Malmsey, Miss Daw, <font> and <$$font>
+Mrs. Major Martingale.  COYNE-1855-2,12.511
+
+Mrs. M. You $sha $n't {TEXT:shan't} escape us, Miss Nettley
+- COYNE-1855-2,12.512
+
+we $wo $n't {TEXT:won't} quit you till you tell us.  COYNE-1855-2,12.513
+
+<P_13>
+
+Veneer.  What is it?  COYNE-1855-2,13.515
+
+Hawk. Only one of Miss Nettley's stories about our friend Popples.
+COYNE-1855-2,13.516
+
+Veneer.  Oh, poor Popples!  COYNE-1855-2,13.517
+
+Sir J. A well-meaning sort of a man though he $do $n't {TEXT:don't}
+know an <font> omelette souffle` <$$font> from a lobster salad.
+Hawk. Nor a Clarence from a tax cart.  Mrs. M. Nor
+a field piece from a field marshal.  COYNE-1855-2,13.518
+
+Miss D. Pray, Miss Nettley, let us hear it.  COYNE-1855-2,13.519
+
+Miss N. I vow I $sha $n't {TEXT:shan't}, because I $do $n't
+{TEXT:don't} believe one word of it; COYNE-1855-2,13.520
+
+and coming from me - COYNE-1855-2,13.521
+
+Mrs. M. None of us will believe it, my dear.
+COYNE-1855-2,13.522
+
+Miss N. $It $'s {TEXT:It's} really a shame to spread such a
+ridiculous report.  COYNE-1855-2,13.523
+
+Mr. Popples is my particular friend.  Miss D. And mine.
+Hawk. And mine.  Mrs. M. And mine.  Sir J.
+And mine.  Veneer.  And mine.  COYNE-1855-2,13.524
+
+Miss N. Well, since we are all his friends we may take a friendly
+liberty with him in his absence.  COYNE-1855-2,13.525
+
+You must know, then, that until very recently our dear friend trod
+the humble walks of life - Hawk. In stout bluchers and worsted
+stockings.  Sir J. And ate tough mutton without caper sauce.
+COYNE-1855-2,13.526
+
+Miss N. $I $'m {TEXT:I'm} told he was originally a tailor.
+COYNE-1855-2,13.527
+
+Veneer.  Allow me to set you right on that point: COYNE-1855-2,13.528
+
+he was a pawnbroker's clerk.  COYNE-1855-2,13.529
+
+Sir J. No, no, I beg your pardon, COYNE-1855-2,13.530
+
+his father was a fishmonger.  Miss N. And his son a tailor.
+COYNE-1855-2,13.531
+
+All.  Ha, ha, ha!  COYNE-1855-2,13.532
+
+Hawk. There I must differ with you: COYNE-1855-2,13.533
+
+the father was an undertaker, COYNE-1855-2,13.534
+
+and young Popples commenced life as a mute.  <paren> <font> all laugh
+<$$font> <$$paren> COYNE-1855-2,13.535
+
+Veneer.  Allow me to say you are all wrong.  COYNE-1855-2,13.536
+
+$It $'s {TEXT:It's} well known he was - Miss N. A tailor.
+COYNE-1855-2,13.537
+
+Sir J. His father was a - Hawk. An undertaker.  Veneer.
+A pawnbroker's clerk.  <paren> <font> speaking together <$$font> <$$paren>
+<font> COYNE-1855-2,13.538
+
+While they are loud in contention <$$font>, Mrs. Popples <font>
+enters <$$font>, L.; COYNE-1855-2,13.539
+
+Miss Nettley <font> perceives her before she enters, COYNE-1855-2,13.540
+
+and lays her fingers on her lips significantly <$$font>.
+COYNE-1855-2,13.541
+
+Miss N. Hush.  COYNE-1855-2,13.542
+
+Hah!  my dear Mrs. Popples, we were this moment wishing for you -
+COYNE-1855-2,13.543
+
+such a delicious jest of Sir Jacob Malmsey's!  COYNE-1855-2,13.544
+
+Sir J. Of mine?  COYNE-1855-2,13.545
+
+Hawk. Sir Jacob, you know, would rather lose his friend than
+his joke.  COYNE-1855-2,13.546
+
+Sir J. Well, I $do $n't {TEXT:don't} know that I might not be
+right sometimes.  COYNE-1855-2,13.547
+
+Mrs. P. Oh fie; Sir Jacob, do you value your friends
+so lightly?  COYNE-1855-2,13.548
+
+If we had no friendship, what would this world be?  COYNE-1855-2,13.549
+
+<P_14>
+
+Miss M. Miserable!  COYNE-1855-2,14.551
+
+Mrs. M. Horrid!  COYNE-1855-2,14.552
+
+Hawk. Dismal!  COYNE-1855-2,14.553
+
+Miss D. Shocking!  COYNE-1855-2,14.554
+
+Veneer.  Very.  COYNE-1855-2,14.555
+
+<paren> Mrs. Beamish <font> is heard laughing outside <$$font>
+, C. L. <$$paren> COYNE-1855-2,14.556
+
+Mrs. P. Hah!  $there $'s {TEXT:there's} my charming friend ,
+Mrs. Beamish; COYNE-1855-2,14.557
+
+I hear her merry laugh ringing on the lawn.  COYNE-1855-2,14.558
+
+Miss N. Oh, yes; $there $'s {TEXT:there's} no mistaking the lively
+widow's bell.  COYNE-1855-2,14.559
+
+What delightfully boisterous spirits she enjoys, since she left off
+her weeds.  COYNE-1855-2,14.560
+
+Mrs. P. For heaven's sake look at her equipage!
+COYNE-1855-2,14.561
+
+Mrs. Beamish <font> enters, <$$font> C. <font> back in a
+wheeled garden chair drawn by <$$font> Flapper - COYNE-1855-2,14.562
+
+<font> she is dressed in a riding costume.  <$$font> COYNE-1855-2,14.563
+
+Mrs. B. <paren> <font> speaking as they enter <$$font>
+<$$paren> Now then, Flapper, mind you $do $n't {TEXT:don't} run against
+the flower-pots: COYNE-1855-2,14.564
+
+so, so, that will do.  COYNE-1855-2,14.565
+
+<paren> <font> she jumps out of the chair <$$font> <$$paren> Thank you.
+COYNE-1855-2,14.566
+
+How $d $'ye {TEXT:d'ye} do - COYNE-1855-2,14.567
+
+here I am - COYNE-1855-2,14.568
+
+how $d $'ye {TEXT:d'ye} like my equipage, Mrs. Popples?
+COYNE-1855-2,14.569
+
+Mrs. P. Delightfully eccentric!  COYNE-1855-2,14.570
+
+And so you have brought Mr. Flapper under the female yoke.
+COYNE-1855-2,14.571
+
+Flap. Yes, $I $'ve {TEXT:I've} been trying to make myself useful -
+<paren> <font> out of breath <$$font> <$$paren> doing duty for a donkey.
+COYNE-1855-2,14.572
+
+Veneer.  Allow me to compliment you, sir, on the manner in which
+the representative of the great original has acquitted himself.
+COYNE-1855-2,14.573
+
+Mrs. B. Oh, $'t $was {TEXT:'twas} capital fun!
+COYNE-1855-2,14.574
+
+I left my horse at the gate, COYNE-1855-2,14.575
+
+and ordered Flapper to draw me in the garden chair, and make a triumphal
+entry amongst you.  COYNE-1855-2,14.576
+
+$You $'re {TEXT:You're} not tired, Flapper?  <paren> <font> he wipes
+his forehead <$$font> <$$paren> COYNE-1855-2,14.577
+
+Why, $I $'m {TEXT:I'm} nothing of a weight - light as a cork.
+COYNE-1855-2,14.578
+
+Flap. Then $I $'d {TEXT:I'd} no idea that drawing a cork was such
+warm work.  COYNE-1855-2,14.579
+
+Mrs. P. Mr. Veneer, where are your eyes?
+COYNE-1855-2,14.580
+
+$Can $not {TEXT:Cannot} you see your friends?  COYNE-1855-2,14.581
+
+Mrs. Beamish, you know Mr. Veneer?  COYNE-1855-2,14.582
+
+Mrs. B. Oh, yes!  I think we were acquainted last week.
+COYNE-1855-2,14.583
+
+Veneer.  <paren> <font> crosses to <$$font> Mrs. Beamish <$$paren>
+A thousand pardons for my inattention.  COYNE-1855-2,14.584
+
+<paren> <font> apart to <$$font> Mrs. Beamish, L. <$$paren>
+This is an unexpected felicity.  COYNE-1855-2,14.585
+
+<paren> <font> apart to <$$font> Mrs. Popples <font> on the other
+side <$$font> <$$paren> Cruel woman!  COYNE-1855-2,14.586
+
+<paren> <font> apart to <$$font> Mrs. Beamish <$$paren> Never
+saw you look so killing!  COYNE-1855-2,14.587
+
+<paren> <font> apart to <$$font> Mrs. Popples <$$paren> To consign
+me to this purgatory.  COYNE-1855-2,14.588
+
+<paren> <font> aside <$$font> <$$paren> How the deuce am I to play my
+cards between them?  COYNE-1855-2,14.589
+
+Mrs. B. Ah, you deceitful truant!  COYNE-1855-2,14.590
+
+I vow I ought not to speak to you, COYNE-1855-2,14.591
+
+but $I $'m {TEXT:I'm} by nature soft and forgiving.  COYNE-1855-2,14.592
+
+Give me your arm, you wretch, COYNE-1855-2,14.593
+
+and tell me what you have been doing these last six days.  <paren> <font>
+takes his arm <$$font> <$$paren> COYNE-1855-2,14.594
+
+Veneer.  <paren> <font> aside <$$font> <$$paren> Hooked by Jove,
+COYNE-1855-2,14.595
+
+and no rescue!  COYNE-1855-2,14.596
+
+<paren> <font> goes up <$$font> C. <font> with <$$font> Mrs.
+Beamish <$$paren> COYNE-1855-2,14.597
+
+Mrs. P. <paren> <font> aside <$$font> Ha, ha, ha!  Now she
+has got him $she $'ll {TEXT:she'll} hold him fast.  COYNE-1855-2,14.598
+
+<font> Enter <$$font> Popples, <font> from <$$font> R. <font>
+room, COYNE-1855-2,14.599
+
+he has on his head a workman's brown paper cap.  <$$font>
+COYNE-1855-2,14.600
+
+Pop. <paren> <font> aside <$$font> <$$paren> I left Skrymsher
+smoking his pipe, COYNE-1855-2,14.601
+
+and now $I $'m {TEXT:I'm} <P_15> come to show myself amongst my wife's
+company.  COYNE-1855-2,15.602
+
+I must not get too near them though, as there may be a flavour of tobacco
+about me.  COYNE-1855-2,15.603
+
+Mrs. P. <paren> <font> crosses to him - apart to <$$font>
+Popples <$$paren> Popples, Popples, what have you got on your head?
+COYNE-1855-2,15.604
+
+Pop. My head, what?  COYNE-1855-2,15.605
+
+<paren> <font> she snatches off his cap COYNE-1855-2,15.606
+
+and gives it to him - COYNE-1855-2,15.607
+
+he thrusts it into his pocket <$$font> <$$paren> COYNE-1855-2,15.608
+
+Bless me!  COYNE-1855-2,15.609
+
+I forgot - COYNE-1855-2,15.610
+
+one $do $n't {TEXT:don't} know where one's head is.  COYNE-1855-2,15.611
+
+Mrs. P. <paren> <font> apart to <$$font> Popples <$$paren>
+What have you done with Skrymsher?  COYNE-1855-2,15.612
+
+Pop. <paren> <font> apart to <$$font> Mrs. Popples <$$paren>
+Oh, $I $'ve {TEXT:I've} secured him, COYNE-1855-2,15.613
+
+he $wo $n't {TEXT:won't} trouble you, COYNE-1855-2,15.614
+
+$he $'s {TEXT:he's} all right.  COYNE-1855-2,15.615
+
+Mrs. P. <paren> <font> apart <$$font> <$$paren> Thank
+heaven.  COYNE-1855-2,15.616
+
+The bare idea of that horrid vulgar man appearing amongst our friends
+makes my blood run cold.  COYNE-1855-2,15.617
+
+<font> Enter <$$font> Skrymesher, <font> from <$$font> R. <font>
+room; COYNE-1855-2,15.618
+
+his waistcoat open, he carries a painter pot in one hand, and a long
+clay pipe in the other.  <$$font> COYNE-1855-2,15.619
+
+Mrs. P. <paren> <font> perceiving him <$$font> <$$paren>
+Oh, Popples, he is here!  <paren> <font> sinks into a chair <$$font>
+- COYNE-1855-2,15.620
+
+Popples <font> hastily retreats up the stage to <$$font> L.,
+; <font> where he appears to be deeply engaged examining pictures in
+a portfolio <$$font>, <font> at table <$$font>, L. <$$paren>
+COYNE-1855-2,15.621
+
+We are destroyed!  COYNE-1855-2,15.622
+
+Skrym. Popples, where have you sneaked to?  COYNE-1855-2,15.623
+
+You know I like a friend to talk to while $I $'m {TEXT:I'm} smoking
+my weed.  COYNE-1855-2,15.624
+
+Hey, dang my buttons, $here $'s {TEXT:here's} a heap of fine folk!
+COYNE-1855-2,15.625
+
+<paren> <font> the <$$font> Guests <font> come down COYNE-1855-2,15.626
+
+and stare at him with impudent curiosity <$$font> <$$paren>
+COYNE-1855-2,15.627
+
+Veneer.  Good heavens, what is it?  COYNE-1855-2,15.628
+
+Skrym. Hope no offence, ladies and gents.  COYNE-1855-2,15.629
+
+I was looking for my friend, Popples.  COYNE-1855-2,15.630
+
+Peter, where are you?  COYNE-1855-2,15.631
+
+$Here $'s {TEXT:Here's} your very good health all round.  <paren>
+<font> drinks and claps the pot of porter on table <$$font> <$$paren>
+COYNE-1855-2,15.632
+
+$That $'s {TEXT:That's} not a bad tap.  COYNE-1855-2,15.633
+
+My name is Skrymsher!  COYNE-1855-2,15.634
+
+Hawk. Skrymsher!  COYNE-1855-2,15.635
+
+Skrym. Yes, sir, Skrymsher is my name.  COYNE-1855-2,15.636
+
+Sam Skrymsher, from Great Grimsby, Lincolnshire, at your sarvus!
+COYNE-1855-2,15.637
+
+Hawk. Oh, from Lincolnshire, - the paradise of geese!
+COYNE-1855-2,15.638
+
+Skrym. Geese, doomplins, and other combustibles!
+COYNE-1855-2,15.639
+
+Mrs. B. <paren> <font> apart to <$$font> Guests <$$paren>
+What an original creature.  COYNE-1855-2,15.640
+
+A perfect Arcadian.  COYNE-1855-2,15.641
+
+Veneer.  <paren> <font> apart to <$$font> Guests <$$paren> Neat as
+imported.  COYNE-1855-2,15.642
+
+He only wants a crook, COYNE-1855-2,15.643
+
+for you see he is already provided with his pipe.  COYNE-1855-2,15.644
+
+Skrym. <paren> <font> aside <$$font> How these folks do stare
+at me.  COYNE-1855-2,15.645
+
+Hawk. I beg pardon, Skrymsher, COYNE-1855-2,15.646
+
+but allow me to ask, who grooms you?  COYNE-1855-2,15.647
+
+Skrym. <paren> <font> amazed <$$font> <$$paren> Grooms me?
+COYNE-1855-2,15.648
+
+<paren> Guests <font> titter - COYNE-1855-2,15.649
+
+aside <$$font> <$$paren> Danged if they $bea $n't {TEXT:bean't} laughing
+at I.  COYNE-1855-2,15.650
+
+Veneer.  And if it be not an impertinent question - how are beans down
+in your parts?  COYNE-1855-2,15.651
+
+Skrym. Well, I believe they are pratty fairish, COYNE-1855-2,15.652
+
+but like the fine chaps up in your parts, $they $'re {TEXT:they're}
+sadly in want of thrashing.  <paren> <font> all laugh <$$font> <$$paren>
+COYNE-1855-2,15.653
+
+Hawk. $I $'ll {TEXT:I'll} take four to one on the Arcadian.
+COYNE-1855-2,15.654
+
+Pop. Ah, ha, ha!  COYNE-1855-2,15.655
+
+Skrym. <paren> <font> perceiving <$$font> Popples <$$paren>
+Hollo {COM:sic}!  COYNE-1855-2,15.656
+
+$There $'s {TEXT:There's} Peter.  COYNE-1855-2,15.657
+
+What are <P_16> you doing there, Peter?  <paren> <font> crosses to
+<$$font> Popples, <font> who comes down <$$font>, L. <font>
+with a drawing in his hand <$$font> <$$paren> COYNE-1855-2,16.658
+
+Pictures!  COYNE-1855-2,16.659
+
+Ah, you should see my picture over the fire-place at home;
+COYNE-1855-2,16.660
+
+none of your wishy washy things, but good solid painting - no sparing
+of colour - plenty of red, and blue, and green.  COYNE-1855-2,16.661
+
+And then for size - why $I $'m {TEXT:I'm} dashed if it $would $n't
+{TEXT:wouldn't} make a dozen such as that.  COYNE-1855-2,16.662
+
+Mrs. P. <paren> <font> aside <$$font> <$$paren> His
+vulgarity petrifies me!  COYNE-1855-2,16.663
+
+Skrym. <paren> <font> apart to <$$font> Popples <$$paren> Dang me,
+Peter, if your friends here $bea $n't {TEXT:bean't} the most ill-mannered
+set o'people I ever met.  COYNE-1855-2,16.664
+
+They should come down to Great Grimsby to learn good manners like -
+COYNE-1855-2,16.665
+
+Pop. <paren> <font> apart to <$$font> Skrymsher <$$paren> Hush!
+COYNE-1855-2,16.666
+
+Come this way, Sam, COYNE-1855-2,16.667
+
+I want to speak to you.  <paren> <font> takes him to table <$$font>,
+L. <$$paren> COYNE-1855-2,16.668
+
+Mrs. B. <paren> <font> who has been playing with the parrot
+<$$font>, <font> screams <$$font> <$$paren> Oh, dear!  the parrot has
+bitten me!  <paren> <font> coming down <$$font>, L. <$$paren>
+COYNE-1855-2,16.669
+
+Mrs. P. The horrid bird!  COYNE-1855-2,16.670
+
+How your finger bleeds.  COYNE-1855-2,16.671
+
+Shall I get you some lint and Friar's Balsam?  Flap. Or the nap
+of a hat and a handful of cobwebs?  COYNE-1855-2,16.672
+
+Mrs. B. Oh dear no - it is nothing - a mere scratch!
+COYNE-1855-2,16.673
+
+Veneer.  At least let me tie my handkerchief round your finger,
+COYNE-1855-2,16.674
+
+<paren> <font> in taking his handkerchief from his pocket he draws out
+the miniature, which falls on the floor <$$font>, COYNE-1855-2,16.675
+
+<font> he ties the handkerchief round <$$font> Mrs. Beamish's
+<font> hand <$$font> <$$paren> COYNE-1855-2,16.676
+
+Mrs. B. You compassionate angel!  COYNE-1855-2,16.677
+
+<paren> Flapper <font> picks up the miniature unperceived <$$font>
+<$$paren> COYNE-1855-2,16.678
+
+Flap. <paren> <font> aside <$$font> <$$paren> Hey!  $what $'s
+{TEXT:what's} this Veneer has dropped?  COYNE-1855-2,16.679
+
+Mrs. P. $Who $'s {TEXT:Who's} for a stroll in the garden?
+COYNE-1855-2,16.680
+
+I have such a splendid Mexican cactus in full bloom - COYNE-1855-2,16.681
+
+you must come and see it.  COYNE-1855-2,16.682
+
+Mrs. B. <paren> <font> and other <$$font> Guests <$$paren>
+$We $'ll {TEXT:We'll} all go.  COYNE-1855-2,16.683
+
+<paren> Mrs. Beamish <font> takes <$$font> Veneer's <font> arm,
+COYNE-1855-2,16.684
+
+and with <$$font> Mrs. Popples <font> goes up <$$font>, C.
+<$$paren> COYNE-1855-2,16.685
+
+Mrs. M. Shall we fall in, Sir Jacob?  COYNE-1855-2,16.686
+
+Sir J. With pleasure, Mrs. Martingale - COYNE-1855-2,16.687
+
+a little turn in the fresh air sharpens the appetite.  COYNE-1855-2,16.688
+
+<paren> Mrs. Popples, Mrs. Beamish, <font> and <$$font>
+Veneer <font> exeunt at back; COYNE-1855-2,16.689
+
+the others are about to follow when <$$font> Flapper <font> stops them
+<$$font> <$$paren> COYNE-1855-2,16.690
+
+Flap. Stop one moment - COYNE-1855-2,16.691
+
+such a rare joke!  COYNE-1855-2,16.692
+
+$I $'ve {TEXT:I've} found a miniature that Veneer has just dropped -
+ho, ho, ho!  COYNE-1855-2,16.693
+
+Miss N. A miniature!  COYNE-1855-2,16.694
+
+Whose is it?  COYNE-1855-2,16.695
+
+Flap. I $do $n't {TEXT:don't} know, COYNE-1855-2,16.696
+
+for I $can $n't {TEXT:can't} find how it opens; COYNE-1855-2,16.697
+
+but it must be a lady's gift, COYNE-1855-2,16.698
+
+for I see engraved here on the back,"To him whose happiness makes
+mine. "COYNE-1855-2,16.699
+
+Pop. Ha, ha, ha!  COYNE-1855-2,16.700
+
+let me try it.  COYNE-1855-2,16.701
+
+$It $'s {TEXT:It's} hardly fair, COYNE-1855-2,16.702
+
+but it will be such a laugh at Veneer.  COYNE-1855-2,16.703
+
+We shall know who the dear creature is.  COYNE-1855-2,16.704
+
+Sir J. Well, $do $n't {TEXT:don't} keep us any longer in suspense
+: COYNE-1855-2,16.705
+
+let us see who his enslaver is.  COYNE-1855-2,16.706
+
+Hawk. Ay; break cover at once.  COYNE-1855-2,16.707
+
+Pop. I have it.  COYNE-1855-2,16.708
+
+Stand back now: COYNE-1855-2,16.709
+
+I must enjoy the first peep myself.  COYNE-1855-2,16.710
+
+Poor Veneer!  COYNE-1855-2,16.711
+
+Ho, ho, ho, ho, ho!  <bracket> <font> comes forward from the group,
+and opens the case; COYNE-1855-2,16.712
+
+recognizing his wife's likeness - his laugh sinks into a faint quaver,
+COYNE-1855-2,16.713
+
+and he gasps out in a tone of suppressed horror <$$font> <$$paren>
+My wife!  COYNE-1855-2,16.714
+
+Hawk. Well, whose is it?  COYNE-1855-2,16.715
+
+<P_17>
+
+Omnes.  Ay, whose is it?  COYNE-1855-2,17.717
+
+Pop. <paren> <font> with forced calmness, and thrusting
+the miniature into his pocket <$$font> <$$paren> Nobody's!
+COYNE-1855-2,17.718
+
+Hawk. Nobody's!  COYNE-1855-2,17.719
+
+Sir J. Nobody's!  COYNE-1855-2,17.720
+
+Pop. Nobody's!  COYNE-1855-2,17.721
+
+Such a joke!  Ha, ha, ha!  So good that - it $can $n't {TEXT:can't}
+be told.  COYNE-1855-2,17.722
+
+<paren> <font> he sinks into a chair <$$font> <$$paren>
+COYNE-1855-2,17.723
+
+Skrym. Why, Peter, what ails thee, man?  COYNE-1855-2,17.724
+
+Your eye rolls - COYNE-1855-2,17.725
+
+$you $'re {TEXT:you're} not well.  COYNE-1855-2,17.726
+
+Flap. Decidedly ill. COYNE-1855-2,17.727
+
+My dear sir, let me feel your pulse.  COYNE-1855-2,17.728
+
+Hawk. Open his collar.  COYNE-1855-2,17.729
+
+Pop. $There $'s {TEXT:There's} no occasion; COYNE-1855-2,17.730
+
+$I $'m {TEXT:I'm} better now.  COYNE-1855-2,17.731
+
+$'T $was {TEXT:'Twas} a sudden attack - COYNE-1855-2,17.732
+
+Sir J. Ah, I know - an overflow of blood.  COYNE-1855-2,17.733
+
+Pop. No, Sir Jacob, merely an overflow of friends.  <paren> <font>
+rises <$$font> <$$paren> COYNE-1855-2,17.734
+
+<font> Re-enter <$$font> Mrs. Popples, C. <font> down
+<$$font> R. COYNE-1855-2,17.735
+
+Mrs. P. What are you waiting for?  COYNE-1855-2,17.736
+
+Is anything the matter?  COYNE-1855-2,17.737
+
+Pop. Nothing.  COYNE-1855-2,17.738
+
+Mrs. Popples - nothing: COYNE-1855-2,17.739
+
+$we $'re {TEXT:we're} all going to see your Mexican cactus.
+COYNE-1855-2,17.740
+
+<paren> <font> the <$$font> Characters <font> group COYNE-1855-2,17.741
+
+and go up the stage as act drop descends <$$font> <$$paren>
+COYNE-1855-2,17.742
+
+<heading> End of Act I.  COYNE-1855-2,17.743
+
+Act II.  <$$heading> COYNE-1855-2,17.744
+
+Scene I.  COYNE-1855-2,17.745
+
+- <font> Same as in Act I <$$font>.  COYNE-1855-2,17.746
+
+Miss Nettley <font> at the door of the room <$$font>, R., <font>
+trying to peep through the keyhole <$$font>; COYNE-1855-2,17.747
+
+Miss Daw <font> and <$$font> Mrs. Major Martingale <font> listening
+; <$$font> COYNE-1855-2,17.748
+
+Mrs. Beamish <font> standing <$$font>, R. C.
+COYNE-1855-2,17.749
+
+Mrs. B. Well, what do you see, Miss Nettley?
+COYNE-1855-2,17.750
+
+Miss N. Nothing; COYNE-1855-2,17.751
+
+the abominable keyhole is stopped on the inside.  COYNE-1855-2,17.752
+
+Mrs. B. Of course; COYNE-1855-2,17.753
+
+he $do $n't {TEXT:don't} want the world to know what passes there.
+COYNE-1855-2,17.754
+
+Mrs. M. I declare, I can hear nothing.  COYNE-1855-2,17.755
+
+Mrs. B. <paren> <font> aside to <$$font> Miss Daw <$$paren>
+I $do $n't {TEXT:don't} wonder at that, COYNE-1855-2,17.756
+
+for the poor woman is as deaf as a post.  COYNE-1855-2,17.757
+
+Miss N. $I $'m {TEXT:I'm} certain though that $there $'s
+{TEXT:there's} something improper going forward in that room;
+COYNE-1855-2,17.758
+
+if there $was $n't {TEXT:wasn't} why should Mr. Popples spend so
+much of his time there alone?  Miss D. And never allow anybody
+to get a peep into it?  Miss N. And always lock the door, and
+keep the key in his pocket?  COYNE-1855-2,17.759
+
+Miss D. I $do $n't {TEXT:don't} wish to make mischief,
+COYNE-1855-2,17.760
+
+but I must say I heard more than once an infantine voice cry"Mamma,
+"in that room.  COYNE-1855-2,17.761
+
+Mrs. B. Oh, $'t $would {TEXT:'twould} be rare fun if we
+could detect Popples in a little delinquency.  Miss N. And expose
+the atrocious little wretch to his wife.  COYNE-1855-2,17.762
+
+<P_18>
+
+Miss D. <paren> <font> at door <$$font>, R. <$$paren>
+Hist, hist - there it is - COYNE-1855-2,18.764
+
+$do $n't {TEXT:don't} you hear?  COYNE-1855-2,18.765
+
+There.  COYNE-1855-2,18.766
+
+Mrs. B. $Do $n't {TEXT:Don't} breathe - COYNE-1855-2,18.767
+
+let us listen.  COYNE-1855-2,18.768
+
+<paren> <font> they all listen eagerly - COYNE-1855-2,18.769
+
+a voice as of a baby inside cries <$$font>"Mamma! "<font> two or three
+times <$$font> <$$paren> COYNE-1855-2,18.770
+
+Miss N. There, are you satisfied now?  COYNE-1855-2,18.771
+
+Mrs. M. I hear it: COYNE-1855-2,18.772
+
+$there $'s {TEXT:there's} positively a child in the room.
+COYNE-1855-2,18.773
+
+Mrs. B. Oh, $it $'s {TEXT:it's} delightful:
+COYNE-1855-2,18.774
+
+we shall so torment poor Popples!  COYNE-1855-2,18.775
+
+I wonder is he inside?  COYNE-1855-2,18.776
+
+Shall I knock and unkennel the sly fox?  COYNE-1855-2,18.777
+
+Miss N. Not for the world; COYNE-1855-2,18.778
+
+$we $'ll {TEXT:we'll} manage it better by dropping a hint to his wife,
+COYNE-1855-2,18.779
+
+and here she comes.  COYNE-1855-2,18.780
+
+<font> Enter <$$font> Mrs. Popples, L. D.
+COYNE-1855-2,18.781
+
+Miss N. Ah, my sweet friend, we were this moment speaking of
+you; saying how happy you must be in this little Paradise, surrounded by
+everything you can desire; all the comforts of life; friends who love you;
+a husband who lets you have your own way - COYNE-1855-2,18.782
+
+Mrs. P. Heigho!  COYNE-1855-2,18.783
+
+Miss N. Why do you sigh, dear, when your husband is mentioned?
+COYNE-1855-2,18.784
+
+Mrs. P. I $do $n't {TEXT:don't} know; COYNE-1855-2,18.785
+
+but I fancy Popples has something on his mind that he $wo $n't
+{TEXT:won't} confide to me.  COYNE-1855-2,18.786
+
+Ladies.  <paren> <font> mysteriously <$$font> <$$paren> Ha!
+COYNE-1855-2,18.787
+
+Humph - indeed!  COYNE-1855-2,18.788
+
+Mrs. P. Since yesterday he has scarcely spoken to me,
+COYNE-1855-2,18.789
+
+and he has avoided me all this morning.  COYNE-1855-2,18.790
+
+I fear I have done something to displease him.  COYNE-1855-2,18.791
+
+Miss N. Is it not more likely that he feels conscious of having
+done something that might displease you?  COYNE-1855-2,18.792
+
+Mrs. P. Who?  Poppy?  COYNE-1855-2,18.793
+
+Oh, you $do $n't {TEXT:don't} know him - COYNE-1855-2,18.794
+
+$he $'s {TEXT:he's} the best and kindest man that ever breathed, though
+he has his oddities.  COYNE-1855-2,18.795
+
+Mrs. B. Well, $I $'m {TEXT:I'm} glad you find him so,
+my dear; COYNE-1855-2,18.796
+
+for my part I believe that all men are horrid wretches.  Mrs.
+M. <paren> <font> to <$$font> Mrs. Beamish <$$paren>
+Especially husbands; who would tyrannize over poor weak women if we did
+not manage by some means to put them down.  COYNE-1855-2,18.797
+
+Miss N. <paren> <font> apart to <$$font> Mrs. Popples
+<$$paren> She has managed to put down four of them in her time!
+COYNE-1855-2,18.798
+
+Mrs. B. But do you really imagine, dear, that Mr.
+Popples has no secrets he wishes to conceal from you?  Miss N. No
+dark affair that he fears may come to your knowledge?  Miss D.
+No delicate mystery that he may wish to preserve?  Mrs.
+M. No shocking business that $he $'s {TEXT:he's} ashamed of?
+COYNE-1855-2,18.799
+
+Mrs. P. Ashamed!  COYNE-1855-2,18.800
+
+What could he be ashamed of?  COYNE-1855-2,18.801
+
+For heaven's sake, tell me what you mean?  COYNE-1855-2,18.802
+
+You know something concerning my husband?  COYNE-1855-2,18.803
+
+Miss N. Oh, we know nothing - COYNE-1855-2,18.804
+
+but we suspect.  COYNE-1855-2,18.805
+
+Mrs. P. What do you suspect?  COYNE-1855-2,18.806
+
+I have a right to know.  COYNE-1855-2,18.807
+
+Mrs. M. Certainly, my dear, $'t $is {TEXT:'tis}
+the privilege of a wife to know everything bad of her husband.
+COYNE-1855-2,18.808
+
+<P_19>
+
+Mrs. B. Of course; COYNE-1855-2,19.810
+
+and if we were not your friends we should not tell you.
+COYNE-1855-2,19.811
+
+Mrs. P. Then for mercy sake do not torture me by those
+dark hints; COYNE-1855-2,19.812
+
+speak plainly, COYNE-1855-2,19.813
+
+or I will not listen to you a moment longer.  COYNE-1855-2,19.814
+
+Miss N. Well, if you wish to be satisfied of Mr. Popple's
+baseness, just hearken.  COYNE-1855-2,19.815
+
+<paren> <font> the voice in room <$$font>, R. <font> cries
+<$$font>"Mamma. "<$$paren> COYNE-1855-2,19.816
+
+Mrs. P. What is that?  COYNE-1855-2,19.817
+
+a child's voice in the room that he keeps so jealously closed against
+every intruder - COYNE-1855-2,19.818
+
+no, no, it is fancy.  COYNE-1855-2,19.819
+
+<paren> <font> voice again cries <$$font>"Mamma. "<$$paren>
+COYNE-1855-2,19.820
+
+There <font> is <$$font> a child there, COYNE-1855-2,19.821
+
+- and Popples whom I thought a model of morality: $I $'ll {TEXT:I'll}
+<font> go <$$font> this moment and tax him with his perfidy.
+COYNE-1855-2,19.822
+
+Mrs. B. My dear creature, what would you do?  Make a scene ,
+and so lose the advantage that you have gained?  COYNE-1855-2,19.823
+
+No, no; you must restrain your feelings, and silently hang up your wrongs,
+as schoolmasters do the birch, ready to be taken down at any moment to
+punish the offender.  COYNE-1855-2,19.824
+
+Mrs. M. You ought to bless your stars, my dear,
+that you have got a domestic grievance that will never know rest;
+COYNE-1855-2,19.825
+
+$'t $will {TEXT:'twill} be as fresh in twenty years, if properly used,
+as at this moment.  COYNE-1855-2,19.826
+
+Mrs. B. Then see the freedom it will give you to do just
+as you like, COYNE-1855-2,19.827
+
+for your husband will never dare to censure your little foibles , while
+his own misdeeds are staring at him through your eyes; COYNE-1855-2,19.828
+
+and if you should be tempted to retaliate, why - ha, ha, ha!  really, as
+a woman of spirit - ha, ha, ha!  I do not say how far <font> I <$$font>
+might go.  COYNE-1855-2,19.829
+
+Mrs. P. You are right: COYNE-1855-2,19.830
+
+I will not say a word, COYNE-1855-2,19.831
+
+but he shall feel that I know his baseness, and can resent the insult
+he has offered to me.  COYNE-1855-2,19.832
+
+Ladies.  <paren> <font> clap their hands <$$font> <$$paren> Brava,
+Brava, Brava!  COYNE-1855-2,19.833
+
+Mrs. B. And now let us go to the fish ponds, where we
+promised to meet Captain Hawkshaw and the gentlemen - COYNE-1855-2,19.834
+
+you must not let such a trifle affect you, my love.  COYNE-1855-2,19.835
+
+Mrs. P. Oh, it $do $n't {TEXT:don't} affect me in the
+least - COYNE-1855-2,19.836
+
+I never, never was in better spirits - ha, ha, ha!  <paren> <font>
+laughs with forced gaiety <$$font> <$$paren> COYNE-1855-2,19.837
+
+<font> Enter <$$font> Flapper, L. COYNE-1855-2,19.838
+
+Flapper, will you have the kindness to fetch our shawls and parasols
+after us?  <font> Exit <$$font>, C. Miss N. And my
+darling Bijou, if you please, Mr. Flapper.  <font> Exit <$$font>,
+C. COYNE-1855-2,19.839
+
+Mrs. M. And $there $'s {TEXT:there's} a folding chair in
+the hall, Mr. Flapper, if you $would $n't {TEXT:wouldn't} think
+it too much trouble.  <font> Exit <$$font>, C. COYNE-1855-2,19.840
+
+Mrs. B. And, Mr. Flapper, if you see my horse whip,
+will you bring it?  <font> Exit <$$font>, C. COYNE-1855-2,19.841
+
+Miss D. Oh!  and, Mr. Flapper, $I $'ve {TEXT:I've} mislaid
+my goloshes, COYNE-1855-2,19.842
+
+will you kindly look for them?  <font> Exit <$$font>, C.
+COYNE-1855-2,19.843
+
+Flap. With the greatest pleasure.  COYNE-1855-2,19.844
+
+Upon my word - I flatter myself I am become useful at last.
+COYNE-1855-2,19.845
+
+<font> Exit <$$font>, L. 1 E. COYNE-1855-2,19.846
+
+Popples <font> puts his head in through door <$$font>, E.,
+COYNE-1855-2,19.847
+
+<font> and, seeing nobody, enters <$$font>.  COYNE-1855-2,19.848
+
+Pop. I thought I heard voices; COYNE-1855-2,19.849
+
+the house is like a rabbit warren since our friends took up their
+quarters here.  COYNE-1855-2,19.850
+
+Heigho!  <paren> <font> takes off a <$$font> <P_20> <font> paper cap
+and white apron which he wears, COYNE-1855-2,20.851
+
+and flings them into the room, of which he locks the door
+COYNE-1855-2,20.852
+
+and puts the key in his pocket <$$font> <$$paren> COYNE-1855-2,20.853
+
+There, I can work no longer: COYNE-1855-2,20.854
+
+$I $'m {TEXT:I'm} disgusted with the world, COYNE-1855-2,20.855
+
+- my $heart $'s {TEXT:heart's} almost broken, COYNE-1855-2,20.856
+
+and $there $'s {TEXT:there's} nothing now for me, but to smash my doll,
+and throw myself over Waterloo Bridge.  COYNE-1855-2,20.857
+
+<font> Enter <$$font> Skrymsher, L. D. COYNE-1855-2,20.858
+
+Skrym. I say, Peter, $I $'ve {TEXT:I've} just been having a glass
+of ale with the butler - COYNE-1855-2,20.859
+
+but, dash it, $what $'s {TEXT:what's} the matter wi'ye, eh?
+COYNE-1855-2,20.860
+
+anything wrong?  COYNE-1855-2,20.861
+
+<paren> Popples <font> wrings his hand <$$font> <$$paren> Ah, that
+squeeze tells me there is.  COYNE-1855-2,20.862
+
+Coom {COM:sic}, you $sha $n't {TEXT:shan't} hide your troubles from an
+old friend.  COYNE-1855-2,20.863
+
+What has happened?  COYNE-1855-2,20.864
+
+$Ca $n't {TEXT:Can't} you get the doll to speak?  COYNE-1855-2,20.865
+
+Pop. Oh yes, it calls"Mamma,"like a cherub; COYNE-1855-2,20.866
+
+but I wish, Sam, I had never been left that unlucky legacy.
+COYNE-1855-2,20.867
+
+Skrym. I thought it would come to this, COYNE-1855-2,20.868
+
+$you $'ve {TEXT:you've} got your wings daubed in the treacle of
+prosperity.  COYNE-1855-2,20.869
+
+Pop. It $is $n't {TEXT:isn't} that Sam, COYNE-1855-2,20.870
+
+I could have struggled under the burthens of fortune, and have borne up
+against the trials of fashionable life, if I had only been left my doll
+and my wife.  COYNE-1855-2,20.871
+
+I thought that Polly loved me, COYNE-1855-2,20.872
+
+I fondly imagined that I was the sole object of her affections until
+yesterday, when this miniature was picked up.  <paren> <font> takes
+miniature from his pocket and gives it to <$$font> Skrymsher <$$paren>
+COYNE-1855-2,20.873
+
+Her miniature, which that polished scoundrel Veneer, who calls himself
+my friend, dropped accidentally from his pocket.  COYNE-1855-2,20.874
+
+Skrym. Wh-e - w!  ah, dear me!  COYNE-1855-2,20.875
+
+Pop. Sam, Sam, how I loved that woman, COYNE-1855-2,20.876
+
+and she to deceive me to {COM:sic}!  COYNE-1855-2,20.877
+
+<paren> <font> sinks into a chair COYNE-1855-2,20.878
+
+and covers his face with his handkerchief <$$font> <$$paren>
+COYNE-1855-2,20.879
+
+Skrym. Dash it, Peter, COYNE-1855-2,20.880
+
+$do $n't {TEXT:don't} - COYNE-1855-2,20.881
+
+$do $n't {TEXT:don't}, I say!  COYNE-1855-2,20.882
+
+<paren> <font> whimpering <$$font> <$$paren> You $should $n't
+{TEXT:shouldn't} give way to this weakness, COYNE-1855-2,20.883
+
+you should be firm like me!  COYNE-1855-2,20.884
+
+Pop. Well, I will if I can; COYNE-1855-2,20.885
+
+but $'t $will {TEXT:'twill} be a hard struggle.  COYNE-1855-2,20.886
+
+Every man has his affections, COYNE-1855-2,20.887
+
+even a doll maker has'em, COYNE-1855-2,20.888
+
+and it is not easy to root'em out of the heart, like - like -
+Skrym. Like thistles out of corn, Peter.  COYNE-1855-2,20.889
+
+No more it is, COYNE-1855-2,20.890
+
+but you must keep up your heart; COYNE-1855-2,20.891
+
+perhaps after $all $'s {TEXT:all's} said, she has only been a little
+giddy.  COYNE-1855-2,20.892
+
+Pop. Ah!  if I thought that her heart had not been poisoned
+by these vipers, I would instantly remove her from their society.
+COYNE-1855-2,20.893
+
+Skrym. Quite right; COYNE-1855-2,20.894
+
+but how is it to be done?  COYNE-1855-2,20.895
+
+Mrs. Popples may object, COYNE-1855-2,20.896
+
+and then where are you?  COYNE-1855-2,20.897
+
+Pop. Where?  COYNE-1855-2,20.898
+
+In my own house, where $I $'ll {TEXT:I'll} show them $I $'m {TEXT:I'm}
+master, by ordering them to quit it instantly.  COYNE-1855-2,20.899
+
+Skrym. Softly - softly, Peter woah!  COYNE-1855-2,20.900
+
+Take care ye $doa $n't {TEXT:doa'nt} make them laugh at thee without
+mending matters.  COYNE-1855-2,20.901
+
+We must hit on a plan to get these plaguey gentry to clear out of their
+own accord.  COYNE-1855-2,20.902
+
+<font> Enter <$$font> Flapper, L., <font> carrying shawls
+and parasols, a folding chair, and lap-dog <$$font>, R.
+COYNE-1855-2,20.903
+
+Flap. Mr. Popples, are you not coming to see the sport?
+COYNE-1855-2,20.904
+
+Pop. What sport, Mr. Flapper?  COYNE-1855-2,20.905
+
+Flap. Oh, $do $n't {TEXT:don't} you know?  COYNE-1855-2,20.906
+
+Captain Hawkshaw is going to <P_21> have the fish-ponds dragged,
+COYNE-1855-2,21.907
+
+and $I $'m {TEXT:I'm} carrying the ladies their shawls and parasols.
+COYNE-1855-2,21.908
+
+Pop. What do you say?  COYNE-1855-2,21.909
+
+Captain Hawkshaw going to have the fish-ponds dragged without my
+permission?  COYNE-1855-2,21.910
+
+Flap. Certainly.  COYNE-1855-2,21.911
+
+You know we $do $n't {TEXT:don't} stand upon ceremony with you,
+COYNE-1855-2,21.912
+
+$you $'re {TEXT:you're} such a good-natured fellow, COYNE-1855-2,21.913
+
+and we are all your particular friends.  <font> Exit <$$font>, C.
+L. COYNE-1855-2,21.914
+
+Skrym. Pleasant familiar sort o'people, Peter.  COYNE-1855-2,21.915
+
+Pop. Never mind, COYNE-1855-2,21.916
+
+$I $'ll {TEXT:I'll} get rid of them, COYNE-1855-2,21.917
+
+and $I $'ve {TEXT:I've} thought of a way to do it.  COYNE-1855-2,21.918
+
+$I $'ll {TEXT:I'll} give out that $I $'m {TEXT:I'm} ruined.
+COYNE-1855-2,21.919
+
+Skrym. Eeod!  $that $'s {TEXT:that's} a sure way to get rid of
+one's friends.  COYNE-1855-2,21.920
+
+Pop. You shall spread the report among them, Sam.
+COYNE-1855-2,21.921
+
+Say that I have lost half my fortune by the failure of that pious
+bank; and the other half in the South African Tooth Drawing Company.
+COYNE-1855-2,21.922
+
+Tell them that $I $'m {TEXT:I'm} a beggar, Sam.  COYNE-1855-2,21.923
+
+Skrym. $Do $n't $'ee {TEXT:Dont'ee} be afraid, COYNE-1855-2,21.924
+
+it $sha $n't {TEXT:shan't} be my fault if $you $'re {TEXT:you're} not
+in the Insolvent Court in five minutes.  COYNE-1855-2,21.925
+
+Pop. Thanks, thanks <paren> <font> shakes his hand <$$font>
+COYNE-1855-2,21.926
+
+$You $'re {TEXT:You're} my only true friend.  <paren> <font> goes up with
+him looking off back at <$$font> L. <$$paren> COYNE-1855-2,21.927
+
+Look, Sam, COYNE-1855-2,21.928
+
+look, COYNE-1855-2,21.929
+
+there she is, coming up the walk!  COYNE-1855-2,21.930
+
+$I $'ll {TEXT:I'll} stop and meet her with a withering look.
+COYNE-1855-2,21.931
+
+What a figure she has, Sam.  COYNE-1855-2,21.932
+
+$Is $n't {TEXT:Isn't} it lovely, COYNE-1855-2,21.933
+
+and how she moves; COYNE-1855-2,21.934
+
+but she $sha $n't {TEXT:shan't} move me from my purpose.
+COYNE-1855-2,21.935
+
+Skrym. $Do $n't {TEXT:Don't} brag, Peter, COYNE-1855-2,21.936
+
+$do $n't {TEXT:don't} brag; COYNE-1855-2,21.937
+
+many a stouter man than thee has been twisted round a woman's little
+finger.  <font> Exit <$$font>, L. COYNE-1855-2,21.938
+
+Pop. Skrymsher evidently $do $n't {TEXT:don't} know me,
+COYNE-1855-2,21.939
+
+he has a private conviction that $I $'m {TEXT:I'm} a fool;
+COYNE-1855-2,21.940
+
+but $I $'ll {TEXT:I'll} let him see that $I $'m {TEXT:I'm} not to be
+taken by my looks.  COYNE-1855-2,21.941
+
+$I $'ll {TEXT:I'll} meet Mrs. Popples with a calm countenance
+and dignified deportment, and announce to her my intention of dispensing
+with her friends; COYNE-1855-2,21.942
+
+if she demurs - <paren> <font> buttoning up his coat <$$font> <$$paren>
+my $mind $'s {TEXT:mind's} made up.  COYNE-1855-2,21.943
+
+<font> Enter <$$font> Mrs. Popples, C. L.;
+COYNE-1855-2,21.944
+
+<font> she starts on seeing <$$font> Popples.  COYNE-1855-2,21.945
+
+Mrs. P. <paren> <font> aside <$$font> <$$paren> He is here.
+COYNE-1855-2,21.946
+
+He does not know that I have discovered his disgraceful secret;
+COYNE-1855-2,21.947
+
+but I have promised my friend to say nothing about it yet.
+COYNE-1855-2,21.948
+
+Pop. Mrs. Popples, may I request a few minutes'
+conversation, if it be not detaining you too long from some one who may
+be expecting you.  COYNE-1855-2,21.949
+
+Mrs. P. Oh, certainly, sir.  COYNE-1855-2,21.950
+
+<paren> <font> aside <$$font> <$$paren> What does this formal preface
+mean?  COYNE-1855-2,21.951
+
+Pop. <paren> <font> aside <$$font> <$$paren>"Sir,"
+COYNE-1855-2,21.952
+
+$she $'s {TEXT:she's} on her guard.  COYNE-1855-2,21.953
+
+<paren> <font> Places a chair <$$font> <$$paren> A chair, Mrs.
+Popples.  COYNE-1855-2,21.954
+
+Mrs. P. <font> Merci mon ami <$$font>.  COYNE-1855-2,21.955
+
+<paren> <font> aside <$$font> <$$paren> What is to follow?
+COYNE-1855-2,21.956
+
+<paren> <font> she sits <$$font> - COYNE-1855-2,21.957
+
+Popples <font> then draws a chair beside her, COYNE-1855-2,21.958
+
+and sits <$$font> <$$paren> COYNE-1855-2,21.959
+
+Pop. <paren> L. <$$paren> Mrs. Popples, I wish you
+to understand that I do not approve of the fashionable friends who have
+latterly so kindly made my house their home - hem!  COYNE-1855-2,21.960
+
+Mrs. P. <paren> R. <$$paren> Indeed!  Now I like
+them amazingly.  COYNE-1855-2,21.961
+
+Pop. I hate the sight of them; COYNE-1855-2,21.962
+
+they have no business here - COYNE-1855-2,21.963
+
+they are intruders, ma'am, COYNE-1855-2,21.964
+
+and $I $'ve {TEXT:I've} come to the determination of getting rid of them.
+COYNE-1855-2,21.965
+
+<P_22>
+
+Mrs. P. There may be another intruder beneath this roof,
+Mr. Popples, whom you should get rid of first.  COYNE-1855-2,22.967
+
+Pop. Another intruder!  COYNE-1855-2,22.968
+
+<paren> <font> aside <$$font> <$$paren> She means Sam Skrymsher.
+COYNE-1855-2,22.969
+
+$I $'ll {TEXT:I'll} have fifty such intruders if I please, Mrs.
+Popples.  COYNE-1855-2,22.970
+
+Mrs. P. This open avowal of your baseness is an insult
+that I will not endure, sir.  COYNE-1855-2,22.971
+
+Pop. As you please, ma'am; COYNE-1855-2,22.972
+
+but you $sha $n't {TEXT:shan't} turn me from my resolution:
+COYNE-1855-2,22.973
+
+- in one word then, Mrs. Popples, will you give up the society
+of your new friends?  COYNE-1855-2,22.974
+
+Mrs. P. In one word then, Mr. Popples - No!
+COYNE-1855-2,22.975
+
+<paren> <font> both rise COYNE-1855-2,22.976
+
+and put back chairs <$$font> <$$paren> COYNE-1855-2,22.977
+
+Pop. $I $'m {TEXT:I'm} satisfied - perfectly satisfied, ma'am;
+COYNE-1855-2,22.978
+
+at length I know you.  COYNE-1855-2,22.979
+
+I have not another word to say, except - good morning.  <paren> <font>
+going <$$font> L. <$$paren> COYNE-1855-2,22.980
+
+Mrs. P. <paren> <font> curtseying formally <$$font>
+<$$paren> Good morning, Mr. Popples.  COYNE-1855-2,22.981
+
+Pop. <paren> <font> returning <$$font> <$$paren> I $sha $n't
+{TEXT:shan't} remain in this house another hour; COYNE-1855-2,22.982
+
+$I $'ll {TEXT:I'll} start for Brighton - for Paris - for the North Pole -
+by the first train.  <paren> <font> going <$$font>, L. <$$paren>
+COYNE-1855-2,22.983
+
+Mas. P. Will you really deprive us of your company?
+COYNE-1855-2,22.984
+
+<font> Mon Dieu!  je me serai desolee` {COM:sic} de votre absence
+<$$font>.  COYNE-1855-2,22.985
+
+I trust you have provided an agreeable travelling companion, Mr.
+Popples.  COYNE-1855-2,22.986
+
+Pop. Travelling companion!  COYNE-1855-2,22.987
+
+<paren> <font> aside <$$font> <$$paren> She says that to irritate me.
+COYNE-1855-2,22.988
+
+Oh, yes - ha, ha, ha!  COYNE-1855-2,22.989
+
+$I $'ve {TEXT:I've} taken care of that.  COYNE-1855-2,22.990
+
+<paren> <font> aside <$$font> <$$paren> $I $'ll {TEXT:I'll} carry my
+doll with me.  COYNE-1855-2,22.991
+
+Mrs. P. <paren> <font> aside <$$font> <$$paren> Pride
+support me!  COYNE-1855-2,22.992
+
+Well <font> Bon voyage, mon cher <$$font>.  COYNE-1855-2,22.993
+
+When do you think of returning?  COYNE-1855-2,22.994
+
+Pop. When?  COYNE-1855-2,22.995
+
+Never, perhaps - COYNE-1855-2,22.996
+
+$'t $is {TEXT:'tis} very likely you may never see my face again.  <paren>
+<font> going <$$font>, L. <$$paren> COYNE-1855-2,22.997
+
+Mrs. P. A moment, Popples.  <paren> <font> he stops -
+COYNE-1855-2,22.998
+
+aside <$$font> <$$paren> Shall I?  COYNE-1855-2,22.999
+
+no, no, he would despise me.  COYNE-1855-2,22.1000
+
+<paren> <font> to <$$font> Popples <$$paren> Pray pick up my handkerchief
+before you go.  COYNE-1855-2,22.1001
+
+Pop. <paren> <font> forgetting himself <$$font> <$$paren> Certainly
+, my love - COYNE-1855-2,22.1002
+
+no, $I $'ll {TEXT:I'll} be hanged if I do!  COYNE-1855-2,22.1003
+
+Falsest of women, farewell!  <font> Exit <$$font>, L. D.
+COYNE-1855-2,22.1004
+
+Mrs. P. Can he be gone?  COYNE-1855-2,22.1005
+
+Has he really left me?  COYNE-1855-2,22.1006
+
+- No, he could never do that!  COYNE-1855-2,22.1007
+
+$He $'ll {TEXT:He'll} return - COYNE-1855-2,22.1008
+
+I know he will.  COYNE-1855-2,22.1009
+
+Perhaps I was wrong not to tell him my suspicions that some dreadful
+mystery is concealed in that room.  COYNE-1855-2,22.1010
+
+Hah!  He returns - COYNE-1855-2,22.1011
+
+I knew he would.  COYNE-1855-2,22.1012
+
+<font> Re-enter <$$font> Popples, L. COYNE-1855-2,22.1013
+
+Pop. $I $'ve {TEXT:I've} changed my mind - COYNE-1855-2,22.1014
+
+I will not quit my house; COYNE-1855-2,22.1015
+
+but observe me, Mrs. Popples - COYNE-1855-2,22.1016
+
+$I $'ll {TEXT:I'll} have a separation.  COYNE-1855-2,22.1017
+
+Mrs. P. <paren> <font> alarmed <$$font> <$$paren>
+A separation!  COYNE-1855-2,22.1018
+
+<paren> <font> aside <$$font> <$$paren> If I give way now, what will my
+friends say?  COYNE-1855-2,22.1019
+
+Well, sir?  COYNE-1855-2,22.1020
+
+Pop. I repeat, ma'am, we shall be parted as far asunder - as -
+as - law and justice; COYNE-1855-2,22.1021
+
+$that $'s {TEXT:that's} my unalterable determination.
+COYNE-1855-2,22.1022
+
+Mrs. P. <paren> <font> struggling with herself - aside
+<$$font> <$$paren> I $do $n't {TEXT:don't} care; COYNE-1855-2,22.1023
+
+why should I care?  COYNE-1855-2,22.1024
+
+$He $'s {TEXT:He's} no longer worthy of my affection.
+COYNE-1855-2,22.1025
+
+Pop. Do you hear, ma'am?  COYNE-1855-2,22.1026
+
+- we part for ever.  <font> Exit <$$font>, L. D.
+COYNE-1855-2,22.1027
+
+Mrs. P. With all my - all my - all - $I $'ll {TEXT:I'll}
+not let him have the last word.  <paren> <font> runs to <$$font> L.
+D., COYNE-1855-2,22.1028
+
+<font> and calls after <$$font> Popples <$$paren> With all my <P_23>
+heart, Mr. Popples.  COYNE-1855-2,23.1029

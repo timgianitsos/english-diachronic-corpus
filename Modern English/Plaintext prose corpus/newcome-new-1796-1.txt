@@ -1,0 +1,2767 @@
+<P_1,1J>
+
+<heading>
+
+The Gospel according to St. John.  NEWCOME-NEW-1796-1,1,1J.3
+
+<$$heading>
+
+The Word was in the beginning, NEWCOME-NEW-1796-1,1,1J.5
+
+and the Word was with God, NEWCOME-NEW-1796-1,1,1J.6
+
+and the Word was God.  NEWCOME-NEW-1796-1,1,1J.7
+
+This <font> Word <$$font> was in the beginning with God.
+NEWCOME-NEW-1796-1,1,1J.8
+
+All things were made by him; NEWCOME-NEW-1796-1,1,1J.9
+
+and without him was not any thing made that was made.
+NEWCOME-NEW-1796-1,1,1J.10
+
+In him was life; NEWCOME-NEW-1796-1,1,1J.11
+
+and the life was the light of men.  NEWCOME-NEW-1796-1,1,1J.12
+
+And the light shone in darkness; NEWCOME-NEW-1796-1,1,1J.13
+
+and the darkness overspread it not.  NEWCOME-NEW-1796-1,1,1J.14
+
+There was a man sent from God, whose name <font> was <$$font> John.
+NEWCOME-NEW-1796-1,1,1J.15
+
+This man came for a testimony, to testify of the Light; <font> so <$$font>
+that through him all might believe.  NEWCOME-NEW-1796-1,1,1J.16
+
+He was not that Light, NEWCOME-NEW-1796-1,1,1J.17
+
+but <font> was sent <$$font> to testify of that Light.
+NEWCOME-NEW-1796-1,1,1J.18
+
+<font> That <$$font> was the true Light, which enlighteneth every man,
+coming into the world.  NEWCOME-NEW-1796-1,1,1J.19
+
+He was in the world, NEWCOME-NEW-1796-1,1,1J.20
+
+and the world was made by him, NEWCOME-NEW-1796-1,1,1J.21
+
+and yet the world knew him not.  NEWCOME-NEW-1796-1,1,1J.22
+
+He came to his own; NEWCOME-NEW-1796-1,1,1J.23
+
+and yet those who were his own received him not.
+NEWCOME-NEW-1796-1,1,1J.24
+
+But as many as received him, to them he gave power to become children
+of God, <font> even <$$font> to them who believe in his name: who were
+born, not of blood, nor of the will of the flesh, nor of the will of man,
+but of God.  NEWCOME-NEW-1796-1,1,1J.25
+
+And the Word became flesh, NEWCOME-NEW-1796-1,1,1J.26
+
+and dwelt among us <paren> and we beheld his glory, the glory as of
+the only-begotten <font> who came <$$font> from the Father <$$paren>
+full of favour and of truth.  NEWCOME-NEW-1796-1,1,1J.27
+
+John bare witness of him, NEWCOME-NEW-1796-1,1,1J.28
+
+and cried, saying;"This was he of whom I spake, NEWCOME-NEW-1796-1,1,1J.29
+
+'He who Cometh after me, goeth before me; NEWCOME-NEW-1796-1,1,1J.30
+
+for he was before me,'{TEXT:missing_close_double_quote}
+NEWCOME-NEW-1796-1,1,1J.31
+
+And of his fullness we have all received; and favour upon favour.
+NEWCOME-NEW-1796-1,1,1J.32
+
+For the law was given by Moses; NEWCOME-NEW-1796-1,1,1J.33
+
+<font> but <$$font> favour and truth came by Jesus Christ.
+NEWCOME-NEW-1796-1,1,1J.34
+
+No man hath seen God at any time; NEWCOME-NEW-1796-1,1,1J.35
+
+the only-begotten <bracket> Son <$$bracket> that is in the bosom of the
+Father, he hath declared <font> him.  <$$font> NEWCOME-NEW-1796-1,1,1J.36
+
+And this is the witness of John, when the Jews sent priests and Levites
+from Jerusalem, to ask him;"Who art Thou? " NEWCOME-NEW-1796-1,1,1J.37
+
+<P_1,20J>
+
+and he confessed, NEWCOME-NEW-1796-1,1,20J.39
+
+and denied not, NEWCOME-NEW-1796-1,1,20J.40
+
+but confessed,"I am not the Christ. "NEWCOME-NEW-1796-1,1,20J.41
+
+And they asked him;"What then?  NEWCOME-NEW-1796-1,1,20J.42
+
+Art thou Elijah? "NEWCOME-NEW-1796-1,1,20J.43
+
+and he saith,"I am not. "NEWCOME-NEW-1796-1,1,20J.44
+
+"Art thou a prophet? "NEWCOME-NEW-1796-1,1,20J.45
+
+and he answered,"No. "NEWCOME-NEW-1796-1,1,20J.46
+
+Then they said unto him;"Who art thou?  that we may give an answer to
+those who sent us.  NEWCOME-NEW-1796-1,1,20J.47
+
+What sayest thou of thyself? "NEWCOME-NEW-1796-1,1,20J.48
+
+He said;"I <font> am <$$font> the voice of one crying in the desert,
+'Make straight the way of the Lord:'as said the prophet Isaiah.
+"NEWCOME-NEW-1796-1,1,20J.49
+
+Now those who had been sent were of the Pharisees.
+NEWCOME-NEW-1796-1,1,20J.50
+
+Then they asked him, NEWCOME-NEW-1796-1,1,20J.51
+
+and said unto him;"Why baptizest thou then, if thou be not the Christ ,
+nor Elijah, nor a prophet? "NEWCOME-NEW-1796-1,1,20J.52
+
+John answered them, saying;"I baptize with water:
+NEWCOME-NEW-1796-1,1,20J.53
+
+but there standeth one amidst you, whom ye know not; <font> even <$$font>
+he who cometh after me; the latchet of whose sandal I am not worthy to
+unloose. "NEWCOME-NEW-1796-1,1,20J.54
+
+These things passed in Bethabara beyond Jordan, where John was baptizing.
+NEWCOME-NEW-1796-1,1,20J.55
+
+The next day John beholdeth Jesus coming unto him,
+NEWCOME-NEW-1796-1,1,20J.56
+
+and saith;"See, the Lamb of God, who taketh away the sin of the world.
+NEWCOME-NEW-1796-1,1,20J.57
+
+This is he of whom I said;'After me cometh a man, who goeth before me;
+NEWCOME-NEW-1796-1,1,20J.58
+
+for he was before me. 'NEWCOME-NEW-1796-1,1,20J.59
+
+And I knew him not: NEWCOME-NEW-1796-1,1,20J.60
+
+but I therefore came baptizing with water, that he might be made manifest
+to Israel. "NEWCOME-NEW-1796-1,1,20J.61
+
+John also bare witness, saying;"I saw the Spirit coming down from heaven
+as a dove; NEWCOME-NEW-1796-1,1,20J.62
+
+and it abode upon him.  NEWCOME-NEW-1796-1,1,20J.63
+
+And I knew him not <font> then: <$$font> NEWCOME-NEW-1796-1,1,20J.64
+
+but he who sent me to baptize with water had said unto me;'Upon whom thou
+shalt see the Spirit coming down and abiding, this is he who baptizeth
+with the Holy Spirit. 'NEWCOME-NEW-1796-1,1,20J.65
+
+And I saw, NEWCOME-NEW-1796-1,1,20J.66
+
+and bare witness that this is the Son of God. "
+NEWCOME-NEW-1796-1,1,20J.67
+
+<font> On <$$font> the next day, John was again standing, and two of
+his disciples: NEWCOME-NEW-1796-1,1,20J.68
+
+and he looked on Jesus <font> who was <$$font> walking,
+NEWCOME-NEW-1796-1,1,20J.69
+
+and saith;"Behold the Lamb of God. "NEWCOME-NEW-1796-1,1,20J.70
+
+And the two disciples heard him speak, NEWCOME-NEW-1796-1,1,20J.71
+
+and followed Jesus.  NEWCOME-NEW-1796-1,1,20J.72
+
+Then Jesus turned, NEWCOME-NEW-1796-1,1,20J.73
+
+and saw them following, NEWCOME-NEW-1796-1,1,20J.74
+
+and saith unto them;"What seek ye? "NEWCOME-NEW-1796-1,1,20J.75
+
+And they said unto him;"Rabbi, <paren> which signifieth,
+being interpreted, Master <$$paren> where dwellest thou? "
+NEWCOME-NEW-1796-1,1,20J.76
+
+He saith unto them;"Come and see. "NEWCOME-NEW-1796-1,1,20J.77
+
+They came NEWCOME-NEW-1796-1,1,20J.78
+
+and saw where he dwelt, NEWCOME-NEW-1796-1,1,20J.79
+
+and abode with him that day: NEWCOME-NEW-1796-1,1,20J.80
+
+<paren> <font> now <$$font> it was about the tenth hour.  <$$paren>
+NEWCOME-NEW-1796-1,1,20J.81
+
+<P_1,40J>
+
+One of the two that heard John <font> speak <$$font>, and
+followed <font> Jesus <$$font> was Andrew, Simon Peter's brother.
+NEWCOME-NEW-1796-1,1,40J.83
+
+He meeteth with his own brother Simon first <font> of any <$$font>,
+NEWCOME-NEW-1796-1,1,40J.84
+
+and saith to him;"We have found the Messiah:"<paren> which
+is, being interpreted, <font> the <$$font> Christ.  <$$paren>
+NEWCOME-NEW-1796-1,1,40J.85
+
+And <font> Andrew <$$font> brought him to Jesus.
+NEWCOME-NEW-1796-1,1,40J.86
+
+And Jesus looked on him, NEWCOME-NEW-1796-1,1,40J.87
+
+and said;"Thou art Simon the son of Jonah: NEWCOME-NEW-1796-1,1,40J.88
+
+thou shalt be called Cephas:"<paren> which being interpreted, is, a rock.
+<$$paren> NEWCOME-NEW-1796-1,1,40J.89
+
+The day following, Jesus purposed to go into Galilee;
+NEWCOME-NEW-1796-1,1,40J.90
+
+and meeteth with Philip, NEWCOME-NEW-1796-1,1,40J.91
+
+and saith unto him,"Follow me. "NEWCOME-NEW-1796-1,1,40J.92
+
+Now Philip was of Bethsaida, the city of Andrew and Peter.
+NEWCOME-NEW-1796-1,1,40J.93
+
+Philip meeteth with Nathanael, NEWCOME-NEW-1796-1,1,40J.94
+
+and saith unto him;"We have found him of whom Moses in the law, and
+the prophets <font> also, <$$font> wrote, Jesus of Nazareth, the son of
+Joseph. "NEWCOME-NEW-1796-1,1,40J.95
+
+Then Nathanael said unto him;"Can any good thing come out of Nazareth?
+"NEWCOME-NEW-1796-1,1,40J.96
+
+Philip saith unto him;"Come and see. "NEWCOME-NEW-1796-1,1,40J.97
+
+Jesus saw Nathanael coming to him, NEWCOME-NEW-1796-1,1,40J.98
+
+and saith of him;"Behold an Israelite indeed, in whom is no guile.
+"NEWCOME-NEW-1796-1,1,40J.99
+
+Nathanael saith unto him;"Whence knowest thou Me? "
+NEWCOME-NEW-1796-1,1,40J.100
+
+Jesus answered NEWCOME-NEW-1796-1,1,40J.101
+
+and said unto him;"Before Philip called thee, when thou wast under the
+fig-tree, I saw thee. "NEWCOME-NEW-1796-1,1,40J.102
+
+Nathanael answered NEWCOME-NEW-1796-1,1,40J.103
+
+and saith unto him;"Master, thou art the Son of God;
+NEWCOME-NEW-1796-1,1,40J.104
+
+thou art the King of Israel. "NEWCOME-NEW-1796-1,1,40J.105
+
+Jesus answered NEWCOME-NEW-1796-1,1,40J.106
+
+and said unto him;"Because I said unto thee,'I saw thee under the
+fig-tree,'believest thou?  NEWCOME-NEW-1796-1,1,40J.107
+
+thou shalt see greater things than these. "NEWCOME-NEW-1796-1,1,40J.108
+
+Then <font> Jesus <$$font> saith unto him;"Verily verily I say unto
+you, <bracket> Hereafter <$$bracket> ye shall see heaven opened,
+and the angels of God ascending and descending on the Son of man.
+"NEWCOME-NEW-1796-1,1,40J.109
+
+<P_2,1J>
+
+And the third day there was a marriage-feast in Cana of Galilee;
+NEWCOME-NEW-1796-1,2,1J.111
+
+and the mother of Jesus was there: NEWCOME-NEW-1796-1,2,1J.112
+
+And Jesus and his disciples also were invited to the marriage-feast.
+NEWCOME-NEW-1796-1,2,1J.113
+
+And when <font> the <$$font> wine failed, the mother of Jesus saith unto
+him;"They have no wine. "NEWCOME-NEW-1796-1,2,1J.114
+
+Jesus saith unto her;"Woman, what have I to do with thee?
+NEWCOME-NEW-1796-1,2,1J.115
+
+mine hour is not yet come. "NEWCOME-NEW-1796-1,2,1J.116
+
+His mother saith to the servants;"Whatsoever he saith unto you, do <font>
+it <$$font>. "NEWCOME-NEW-1796-1,2,1J.117
+
+Now six water-pots of stone were placed there, according to the manner
+of cleansing among the Jews, containing two or three baths apiece.
+NEWCOME-NEW-1796-1,2,1J.118
+
+Jesus saith unto them;"Fill the water-pots with water. "
+NEWCOME-NEW-1796-1,2,1J.119
+
+And they filled them to the brim.  NEWCOME-NEW-1796-1,2,1J.120
+
+Then he saith unto them;"Draw out now, NEWCOME-NEW-1796-1,2,1J.121
+
+and bear to the governour of the feast. "NEWCOME-NEW-1796-1,2,1J.122
+
+And they bare <font> it.  <$$font> NEWCOME-NEW-1796-1,2,1J.123
+
+And when the governour of the feast had tasted the water which was made
+wine, and knew not whence it was; <paren> but the servants who drew the
+water knew; <$$paren> the governour of the feast calleth the bridegroom ,
+NEWCOME-NEW-1796-1,2,1J.124
+
+and saith unto him;"Every man at first setteth on good wine ; and when men
+have drunk largely, then that which is worse: NEWCOME-NEW-1796-1,2,1J.125
+
+<font> but <$$font> thou hast kept the good wine until now. "
+NEWCOME-NEW-1796-1,2,1J.126
+
+This beginning of miracles Jesus made in Cana of Galilee,
+NEWCOME-NEW-1796-1,2,1J.127
+
+and manifested his glory: NEWCOME-NEW-1796-1,2,1J.128
+
+and his disciples believed in him.  NEWCOME-NEW-1796-1,2,1J.129
+
+After this, he went down to Capernaum, he, and his mother, and his
+brethren, and his disciples: NEWCOME-NEW-1796-1,2,1J.130
+
+and they remained there not many days.  NEWCOME-NEW-1796-1,2,1J.131
+
+Now the passover of the Jews was near; NEWCOME-NEW-1796-1,2,1J.132
+
+and Jesus went up to Jerusalem; NEWCOME-NEW-1796-1,2,1J.133
+
+and found in the temple those who sold cattle, and sheep, and doves,
+and the money-changers sitting: NEWCOME-NEW-1796-1,2,1J.134
+
+and, when he had made a scourge of small cords, he drove them all out
+of the temple, and the sheep, and the cattle; NEWCOME-NEW-1796-1,2,1J.135
+
+and poured out the money of the exchangers, NEWCOME-NEW-1796-1,2,1J.136
+
+and overturned <font> their <$$font> tables; NEWCOME-NEW-1796-1,2,1J.137
+
+and said to those who sold doves;"Take these things hence;
+NEWCOME-NEW-1796-1,2,1J.138
+
+make not my Father's house an house of merchandise. "
+NEWCOME-NEW-1796-1,2,1J.139
+
+And his disciples remembered, that it was written;"A zeal for thine
+house consumeth me. "NEWCOME-NEW-1796-1,2,1J.140
+
+Then the Jews spake NEWCOME-NEW-1796-1,2,1J.141
+
+and said unto him;"What sign shewest thou unto us, since thou doest
+these things? "NEWCOME-NEW-1796-1,2,1J.142
+
+Jesus answered NEWCOME-NEW-1796-1,2,1J.143
+
+and said unto them;"Destroy this temple, and in three days I will raise
+it up. "NEWCOME-NEW-1796-1,2,1J.144
+
+<P_2,20J>
+
+Then the Jews said;"Forty and six years hath this temple been in building;
+NEWCOME-NEW-1796-1,2,20J.146
+
+and wilt Thou raise it up in three days? "NEWCOME-NEW-1796-1,2,20J.147
+
+But he spake concerning the temple of his body.
+NEWCOME-NEW-1796-1,2,20J.148
+
+When therefore he was risen from the dead, his disciples
+remembered that he had said this <bracket> unto them: <$$bracket>
+NEWCOME-NEW-1796-1,2,20J.149
+
+and they believed the scripture, and the words which Jesus had spoken.
+NEWCOME-NEW-1796-1,2,20J.150
+
+Now, when he was in Jerusalem at the feast of the passover, many
+believed on his name, when they beheld the miracles which he did.
+NEWCOME-NEW-1796-1,2,20J.151
+
+But Jesus did not trust himself to them, because he knew all <font>
+of them: <$$font> and because he needed not that any should testify of
+man: NEWCOME-NEW-1796-1,2,20J.152
+
+for he himself knew what was in man.  NEWCOME-NEW-1796-1,2,20J.153
+
+<P_3,1J>
+
+Now there was a man of the Pharisees, named Nicodemus, a ruler of the
+Jews: NEWCOME-NEW-1796-1,3,1J.155
+
+this man came to <font> Jesus <$$font> by night,
+NEWCOME-NEW-1796-1,3,1J.156
+
+and said unto him;"Master, we know that thou art a teacher come from God:
+NEWCOME-NEW-1796-1,3,1J.157
+
+for no man can do these miracles which thou doest, unless God be with
+him. "NEWCOME-NEW-1796-1,3,1J.158
+
+Jesus answered NEWCOME-NEW-1796-1,3,1J.159
+
+and said unto him;"Verily verily I say unto thee, Unless a man
+be born again, he $can $not {TEXT:cannot} see the kingdom of God.
+"NEWCOME-NEW-1796-1,3,1J.160
+
+Nicodemus saith unto him;"How can a man be born when he is old?
+NEWCOME-NEW-1796-1,3,1J.161
+
+can he enter a second time into his mother's womb, and be born?
+"NEWCOME-NEW-1796-1,3,1J.162
+
+Jesus answered;"Verily verily I say unto thee, Unless a man be born of
+water, and <font> of <$$font> the Spirit, he $can $not {TEXT:cannot}
+enter into the kingdom of God.  NEWCOME-NEW-1796-1,3,1J.163
+
+That which is born of the flesh, is flesh; NEWCOME-NEW-1796-1,3,1J.164
+
+and that which is born of the Spirit, is spirit.
+NEWCOME-NEW-1796-1,3,1J.165
+
+Wonder not that I said unto thee, Ye must be born again.
+NEWCOME-NEW-1796-1,3,1J.166
+
+The wind bloweth where it will, NEWCOME-NEW-1796-1,3,1J.167
+
+and thou hearest its {TEXT:it's} sound, NEWCOME-NEW-1796-1,3,1J.168
+
+but knowest not whence it cometh, and whither it goeth:
+NEWCOME-NEW-1796-1,3,1J.169
+
+so is every one that is born of the Spirit. " NEWCOME-NEW-1796-1,3,1J.170
+
+Nicodemus answered NEWCOME-NEW-1796-1,3,1J.171
+
+and said unto him;"How can these things be? " NEWCOME-NEW-1796-1,3,1J.172
+
+Jesus answered NEWCOME-NEW-1796-1,3,1J.173
+
+and said unto him;"Art thou a teacher in Israel,
+NEWCOME-NEW-1796-1,3,1J.174
+
+and knowest not these things?  NEWCOME-NEW-1796-1,3,1J.175
+
+Verily verily I say unto thee, We speak that which we know,
+NEWCOME-NEW-1796-1,3,1J.176
+
+and testify that which we have seen; NEWCOME-NEW-1796-1,3,1J.177
+
+and yet ye receive not our testimony.  NEWCOME-NEW-1796-1,3,1J.178
+
+If I have told you earthly things, and ye believe not; how will ye
+believe, if I tell you heavenly things?  NEWCOME-NEW-1796-1,3,1J.179
+
+Now no man goeth up to heaven, but he who came down from heaven
+, <font> even <$$font> the Son of man, who was in heaven.
+NEWCOME-NEW-1796-1,3,1J.180
+
+And as Moses lifted up the serpent in the desert, so must the Son of man
+be lifted up that every one who believeth in him may <bracket> not perish
+, but <$$bracket> have everlasting life.  NEWCOME-NEW-1796-1,3,1J.181
+
+For God hath so loved the world, that he hath given his only-begotten Son,
+that everyone who believeth in him may not perish, but have everlasting
+life.  NEWCOME-NEW-1796-1,3,1J.182
+
+For God hath not sent his Son into the world, to condemn the world; but
+that the world through him might be saved.  NEWCOME-NEW-1796-1,3,1J.183
+
+He who believeth in him, shall not be condemned:
+NEWCOME-NEW-1796-1,3,1J.184
+
+but he that believeth not, is condemned already, because he
+hath not believed on the name of the only-begotten Son of God.
+NEWCOME-NEW-1796-1,3,1J.185
+
+And this is the condemnation; that light is come into the world, and
+yet men have loved darkness rather than light: NEWCOME-NEW-1796-1,3,1J.186
+
+for their deeds were evil: NEWCOME-NEW-1796-1,3,1J.187
+
+<P_3,20J>
+
+for every one who doeth evil hateth the light,
+NEWCOME-NEW-1796-1,3,20J.189
+
+and cometh not to the light, lest his deeds should be discovered.
+NEWCOME-NEW-1796-1,3,20J.190
+
+But he who doeth the truth cometh to the light, that his deeds may
+be made manifest, that they are wrought <font> through faith <$$font>
+in God. "NEWCOME-NEW-1796-1,3,20J.191
+
+After these things, Jesus and his disciples came into the land of Judea ;
+NEWCOME-NEW-1796-1,3,20J.192
+
+and there he tarried with them, NEWCOME-NEW-1796-1,3,20J.193
+
+and baptized.  NEWCOME-NEW-1796-1,3,20J.194
+
+And John also was baptizing in Enon, near Salim; because much water was
+there; NEWCOME-NEW-1796-1,3,20J.195
+
+and <font> the people <$$font> came, NEWCOME-NEW-1796-1,3,20J.196
+
+and were baptized.  NEWCOME-NEW-1796-1,3,20J.197
+
+For John was not yet cast into prison.  NEWCOME-NEW-1796-1,3,20J.198
+
+Then a question arose between <font> some <$$font> of John's disciples
+and a Jew, about baptizing.  NEWCOME-NEW-1796-1,3,20J.199
+
+And <font> some <$$font> came to John, NEWCOME-NEW-1796-1,3,20J.200
+
+and said unto him;"Master, he that was with thee beyond Jordan, to whom
+thou barest witness, behold, he baptizeth, NEWCOME-NEW-1796-1,3,20J.201
+
+and all <font> men <$$font> come to him. "NEWCOME-NEW-1796-1,3,20J.202
+
+John answered NEWCOME-NEW-1796-1,3,20J.203
+
+and said;"A man can receive nothing, unless it be given him from heaven.
+NEWCOME-NEW-1796-1,3,20J.204
+
+Ye yourselves bear me witness, that I said;'I am not the Christ,
+NEWCOME-NEW-1796-1,3,20J.205
+
+but I am sent before his face. 'NEWCOME-NEW-1796-1,3,20J.206
+
+He that hath the bride, is the bridegroom: NEWCOME-NEW-1796-1,3,20J.207
+
+but the friend of the bridegroom, who standeth and heareth him, rejoiceth
+greatly, because of the bridegroom's voice.  NEWCOME-NEW-1796-1,3,20J.208
+
+This my joy therefore is complete.  NEWCOME-NEW-1796-1,3,20J.209
+
+He must increase, NEWCOME-NEW-1796-1,3,20J.210
+
+but I <font> must <$$font> decrease.  NEWCOME-NEW-1796-1,3,20J.211
+
+He that cometh from above, is above all: NEWCOME-NEW-1796-1,3,20J.212
+
+he that is from the earth, is from the earth, NEWCOME-NEW-1796-1,3,20J.213
+
+and speaketh from the earth: NEWCOME-NEW-1796-1,3,20J.214
+
+he that cometh from heaven <bracket> is above all;
+NEWCOME-NEW-1796-1,3,20J.215
+
+and <$$bracket> testifieth what he hath seen and heard;
+NEWCOME-NEW-1796-1,3,20J.216
+
+and yet none receiveth his testimony.  NEWCOME-NEW-1796-1,3,20J.217
+
+He that hath received his testimony, hath set his seal <font> to confirm
+<$$font> that God is true.  NEWCOME-NEW-1796-1,3,20J.218
+
+For he whom God hath sent, speaketh the words of God:
+NEWCOME-NEW-1796-1,3,20J.219
+
+for <bracket> God <$$bracket> giveth him not the Spirit by measure.
+NEWCOME-NEW-1796-1,3,20J.220
+
+The Father loveth the Son, NEWCOME-NEW-1796-1,3,20J.221
+
+and hath given all things into his hand.  NEWCOME-NEW-1796-1,3,20J.222
+
+He who believeth on the Son, hath everlasting life:
+NEWCOME-NEW-1796-1,3,20J.223
+
+and he who disbelieveth the Son, will not see life;
+NEWCOME-NEW-1796-1,3,20J.224
+
+but the anger of God abideth on him. "NEWCOME-NEW-1796-1,3,20J.225
+
+<P_4,1J>
+
+When therefore the Lord knew that the Pharisees had heard that he made
+and baptized more disciples than John; <paren> though Jesus himself
+baptized not, but <font> his <$$font> disciples; <$$paren> he left Judea,
+NEWCOME-NEW-1796-1,4,1J.227
+
+and went again into Galilee.  NEWCOME-NEW-1796-1,4,1J.228
+
+Now he must needs go through Samaria.  NEWCOME-NEW-1796-1,4,1J.229
+
+He cometh therefore to a city of Samaria, called Sychar, near
+to the portion of land which Jacob gave to his son Joseph.
+NEWCOME-NEW-1796-1,4,1J.230
+
+Now Jacob's well was there.  NEWCOME-NEW-1796-1,4,1J.231
+
+So Jesus, being wearied with <font> his <$$font> journey, sat afterward
+on the well.  NEWCOME-NEW-1796-1,4,1J.232
+
+<paren> It was about the sixth hour.  <$$paren>
+NEWCOME-NEW-1796-1,4,1J.233
+
+A woman of Samaria cometh to draw water.  NEWCOME-NEW-1796-1,4,1J.234
+
+Jesus saith unto her;"Give me to drink. "NEWCOME-NEW-1796-1,4,1J.235
+
+<paren> For his disciples were gone to the city, that they might buy food.
+<$$paren> NEWCOME-NEW-1796-1,4,1J.236
+
+Then the Samaritan woman saith unto him;"Why dost thou, being a Jew,
+ask drink of me, that am a Samaritan? "NEWCOME-NEW-1796-1,4,1J.237
+
+<paren> for the Jews have no <font> friendly <$$font> dealings with
+the Samaritans.  <$$paren> NEWCOME-NEW-1796-1,4,1J.238
+
+Jesus answered NEWCOME-NEW-1796-1,4,1J.239
+
+and said unto her;"If thou knewest the bounty of God, and who he is
+that saith unto thee,'Give me to drink;'thou wouldest have asked of him,
+NEWCOME-NEW-1796-1,4,1J.240
+
+and he would have given thee living water. "NEWCOME-NEW-1796-1,4,1J.241
+
+The woman saith unto him;"Sir, thou hast no vessel to draw with,
+NEWCOME-NEW-1796-1,4,1J.242
+
+and the well is deep: NEWCOME-NEW-1796-1,4,1J.243
+
+whence then canst thou have that living water?
+NEWCOME-NEW-1796-1,4,1J.244
+
+Art thou greater than our father Jacob, who gave us the well, and himself
+drank of it, and his sons, and his cattle? " NEWCOME-NEW-1796-1,4,1J.245
+
+Jesus answered NEWCOME-NEW-1796-1,4,1J.246
+
+and said unto her;"Whosoever drinketh of this water, will thirst again:
+NEWCOME-NEW-1796-1,4,1J.247
+
+but whosoever shall drink of the water which I {TEXT:I_which} shall give
+him, will never thirst; NEWCOME-NEW-1796-1,4,1J.248
+
+but the water which I shall give him will be in him a well of water
+springing up to everlasting life. "NEWCOME-NEW-1796-1,4,1J.249
+
+The woman saith unto him;"Sir, give me this water; that I thirst not,
+nor come hither to draw. "NEWCOME-NEW-1796-1,4,1J.250
+
+Jesus saith unto her;"Go, NEWCOME-NEW-1796-1,4,1J.251
+
+call thine husband, NEWCOME-NEW-1796-1,4,1J.252
+
+and come hither. "NEWCOME-NEW-1796-1,4,1J.253
+
+The woman answered NEWCOME-NEW-1796-1,4,1J.254
+
+and said;"I have no husband. "NEWCOME-NEW-1796-1,4,1J.255
+
+Jesus saith unto her;"Thou hast rightly said,'I have no husband:
+'NEWCOME-NEW-1796-1,4,1J.256
+
+for thou hast had five husbands; NEWCOME-NEW-1796-1,4,1J.257
+
+and he whom thou now hast, is not thine husband:
+NEWCOME-NEW-1796-1,4,1J.258
+
+thou hast spoken this truly. "NEWCOME-NEW-1796-1,4,1J.259
+
+The woman saith unto him;"Sir, I perceive that thou art a prophet.
+NEWCOME-NEW-1796-1,4,1J.260
+
+<P_4,20J>
+
+Our fathers worshipped on this mountain; NEWCOME-NEW-1796-1,4,20J.262
+
+and ye say; that in Jerusalem is the place where <font> men <$$font>
+ought to worship. "NEWCOME-NEW-1796-1,4,20J.263
+
+Jesus saith unto her;"Woman, believe me, the hour cometh when ye
+shall worship the Father neither on this mountain nor at Jerusalem.
+NEWCOME-NEW-1796-1,4,20J.264
+
+Ye worship what ye know not: NEWCOME-NEW-1796-1,4,20J.265
+
+we worship what we know: NEWCOME-NEW-1796-1,4,20J.266
+
+for salvation is from the Jews.  NEWCOME-NEW-1796-1,4,20J.267
+
+But the hour cometh, and now is, when the true worshippers
+will worship the Father in spirit and <font> in <$$font> truth:
+NEWCOME-NEW-1796-1,4,20J.268
+
+for indeed the Father seeketh such worshippers of him.
+NEWCOME-NEW-1796-1,4,20J.269
+
+God <font> is <$$font> a spirit: NEWCOME-NEW-1796-1,4,20J.270
+
+and the worshippers of him ought to worship <font> him <$$font> in spirit
+and <font> in <$$font> truth. "NEWCOME-NEW-1796-1,4,20J.271
+
+The woman saith unto him;"I know that <font> the <$$font> Messiah
+cometh: <paren> which signifieth <font> the <$$font> Christ: <$$paren>
+NEWCOME-NEW-1796-1,4,20J.272
+
+when he is come, he will tell us all things. "
+NEWCOME-NEW-1796-1,4,20J.273
+
+Jesus saith unto her;"I, who talk with thee, am <font> he <$$font>.
+"NEWCOME-NEW-1796-1,4,20J.274
+
+And upon this his disciples came, NEWCOME-NEW-1796-1,4,20J.275
+
+and wondered that he talked with the woman: NEWCOME-NEW-1796-1,4,20J.276
+
+yet none said;"What seekest thou? "or,"Why talkest thou with
+her? "NEWCOME-NEW-1796-1,4,20J.277
+
+The woman then left her bucket, NEWCOME-NEW-1796-1,4,20J.278
+
+and went into the city, NEWCOME-NEW-1796-1,4,20J.279
+
+and saith to the men;"Come, see a man who hath told me all things whatever
+I did: NEWCOME-NEW-1796-1,4,20J.280
+
+is this the Christ? "NEWCOME-NEW-1796-1,4,20J.281
+
+<font> Then <$$font> they went out of the city,
+NEWCOME-NEW-1796-1,4,20J.282
+
+and came unto him.  NEWCOME-NEW-1796-1,4,20J.283
+
+In the mean time his disciples besought him, saying;"Master, eat.
+"NEWCOME-NEW-1796-1,4,20J.284
+
+But he said unto them;"I have food to eat, which ye know not of.
+"NEWCOME-NEW-1796-1,4,20J.285
+
+Then the disciples said one to another;"Hath any one brought him <font>
+any thing <$$font> to eat? "NEWCOME-NEW-1796-1,4,20J.286
+
+Jesus saith unto them;"My food is, to do the will of him who sent me,
+and to finish his work.  NEWCOME-NEW-1796-1,4,20J.287
+
+Say ye not,'There are yet four months, and <font> then <$$font> cometh
+the harvest? 'NEWCOME-NEW-1796-1,4,20J.288
+
+behold, I say unto you, Lift up your eyes, NEWCOME-NEW-1796-1,4,20J.289
+
+and look on the fields; that they are already white for harvest.
+NEWCOME-NEW-1796-1,4,20J.290
+
+<font> And <$$font> he who reapeth receiveth wages,
+NEWCOME-NEW-1796-1,4,20J.291
+
+and gathereth a crop, to everlasting life: that both he who soweth,
+and he who reapeth, may rejoice together.  NEWCOME-NEW-1796-1,4,20J.292
+
+For herein is that saying true; NEWCOME-NEW-1796-1,4,20J.293
+
+'One soweth, NEWCOME-NEW-1796-1,4,20J.294
+
+and another reapeth. 'NEWCOME-NEW-1796-1,4,20J.295
+
+I have sent you to reap that on which ye have not laboured:
+NEWCOME-NEW-1796-1,4,20J.296
+
+others have laboured, NEWCOME-NEW-1796-1,4,20J.297
+
+and ye are entered into their labours. "NEWCOME-NEW-1796-1,4,20J.298
+
+And many of the Samaritans of that city believed in him, for the words
+of the woman who testified;"He told me all things whatever I did.
+"NEWCOME-NEW-1796-1,4,20J.299
+
+<P_4,40J>
+
+When therefore the Samaritans were come unto him, they besought him that
+he would abide with them: NEWCOME-NEW-1796-1,4,40J.301
+
+and he abode there two day's.  NEWCOME-NEW-1796-1,4,40J.302
+
+And many more believed because of his own words;
+NEWCOME-NEW-1796-1,4,40J.303
+
+and said to the woman;"We no longer believe because of thy report:
+NEWCOME-NEW-1796-1,4,40J.304
+
+for we ourselves have heard him, NEWCOME-NEW-1796-1,4,40J.305
+
+and know that this is indeed <bracket> the Christ, <$$bracket> the
+Saviour of the world. "NEWCOME-NEW-1796-1,4,40J.306
+
+Now after the two days he departed thence, NEWCOME-NEW-1796-1,4,40J.307
+
+and went into Galilee.  NEWCOME-NEW-1796-1,4,40J.308
+
+For Jesus himself declared that a prophet hath no honour in his own
+country.  NEWCOME-NEW-1796-1,4,40J.309
+
+So when he was come into Galilee, the Galileans received him,
+having seen all the things which he did in Jerusalem at the feast:
+NEWCOME-NEW-1796-1,4,40J.310
+
+for they also had gone to the feast.  NEWCOME-NEW-1796-1,4,40J.311
+
+So <font> Jesus <$$font> came again to Cana of Galilee, where he had
+made the water wine.  NEWCOME-NEW-1796-1,4,40J.312
+
+And there was one of the king's household, whose son was sick at
+Capernaum.  NEWCOME-NEW-1796-1,4,40J.313
+
+This man, when he heard that Jesus was come out of Judea into Galilee,
+went to him, NEWCOME-NEW-1796-1,4,40J.314
+
+and besought <bracket> him <$$bracket> that he would come down and cure
+his son: NEWCOME-NEW-1796-1,4,40J.315
+
+for he was at the point of death.  NEWCOME-NEW-1796-1,4,40J.316
+
+Then Jesus said unto him;"Unless ye see signs and wonders, ye will not
+believe. "NEWCOME-NEW-1796-1,4,40J.317
+
+He of the king's household saith unto him;"Sir, come down, before my
+child die. "NEWCOME-NEW-1796-1,4,40J.318
+
+Jesus saith unto him;"Depart; NEWCOME-NEW-1796-1,4,40J.319
+
+thy son liveth. "NEWCOME-NEW-1796-1,4,40J.320
+
+And the man believed the words which Jesus had spoken unto him,
+NEWCOME-NEW-1796-1,4,40J.321
+
+and departed.  NEWCOME-NEW-1796-1,4,40J.322
+
+And as he was now going down, his servants met him,
+NEWCOME-NEW-1796-1,4,40J.323
+
+and told <font> him, <$$font> saying;"Thy son liveth. "
+NEWCOME-NEW-1796-1,4,40J.324
+
+Then he enquired of them the hour when <font> his son <$$font> began
+to amend.  NEWCOME-NEW-1796-1,4,40J.325
+
+And they said unto him;"Yesterday, at the seventh hour, the fever left
+him. "NEWCOME-NEW-1796-1,4,40J.326
+
+So the father knew that <font> it was <$$font> at the very hour, in which
+Jesus had said unto him;"Thy son liveth. " NEWCOME-NEW-1796-1,4,40J.327
+
+And himself believed, and his whole house.  NEWCOME-NEW-1796-1,4,40J.328
+
+This second miracle Jesus did, when he had come out of Judea into Galilee.
+NEWCOME-NEW-1796-1,4,40J.329
+
+<P_5,1J>
+
+After these things there was a feast of the Jews;
+NEWCOME-NEW-1796-1,5,1J.331
+
+and Jesus went up to Jerusalem.  NEWCOME-NEW-1796-1,5,1J.332
+
+Now there is at Jerusalem, by the $sheep-gate {COM:gate_in_italics},
+a pool, which is called in the Hebrew <font> tongue <$$font> Bethesda,
+having five porches.  NEWCOME-NEW-1796-1,5,1J.333
+
+In these lay a <bracket> great <$$bracket> multitude of infirm persons ,
+of blind, lame, withered, <bracket> looking for the moving of the water.
+NEWCOME-NEW-1796-1,5,1J.334
+
+For at a certain season an angel went down into the pool,
+NEWCOME-NEW-1796-1,5,1J.335
+
+and troubled the water: NEWCOME-NEW-1796-1,5,1J.336
+
+whosoever therefore went in first, after the troubling of the
+water, was made well, whatever disease he had.  <$$bracket>
+NEWCOME-NEW-1796-1,5,1J.337
+
+And a certain man was there, that had an infirmity thirty and eight years.
+NEWCOME-NEW-1796-1,5,1J.338
+
+When Jesus saw him lying, and knew that he had been now a long time
+<font> afflicted, <$$font> he saith unto him;"Dost thou desire to be
+made well? "NEWCOME-NEW-1796-1,5,1J.339
+
+The infirm man answered him;"Sir, I have no man, when the water is
+troubled, to put me into the pool: NEWCOME-NEW-1796-1,5,1J.340
+
+but while I am coming, another goeth down before me. "
+NEWCOME-NEW-1796-1,5,1J.341
+
+Jesus saith unto him;"Rise, NEWCOME-NEW-1796-1,5,1J.342
+
+take up thy couch, NEWCOME-NEW-1796-1,5,1J.343
+
+and walk. "NEWCOME-NEW-1796-1,5,1J.344
+
+And immediately the man was made well, NEWCOME-NEW-1796-1,5,1J.345
+
+and took up his couch, NEWCOME-NEW-1796-1,5,1J.346
+
+and walked.  NEWCOME-NEW-1796-1,5,1J.347
+
+Now on that day was the sabbath.  NEWCOME-NEW-1796-1,5,1J.348
+
+The Jews therefore said to him that was cured;"It is the sabbath:
+NEWCOME-NEW-1796-1,5,1J.349
+
+it is not lawful for thee to take up <font> thy <$$font> couch.
+"NEWCOME-NEW-1796-1,5,1J.350
+
+He answered them; He who made me well, himself said unto me;"Take up
+thy couch, NEWCOME-NEW-1796-1,5,1J.351
+
+and walk. "NEWCOME-NEW-1796-1,5,1J.352
+
+Then they asked him;"What man is that who said unto thee,'Take up thy
+couch, NEWCOME-NEW-1796-1,5,1J.353
+
+and walk? '"NEWCOME-NEW-1796-1,5,1J.354
+
+But he that was cured knew not who it was: NEWCOME-NEW-1796-1,5,1J.355
+
+for Jesus had conveyed himself away, a multitude being in <font> that
+<$$font> place.  NEWCOME-NEW-1796-1,5,1J.356
+
+Afterward Jesus meeteth with him in the temple,
+NEWCOME-NEW-1796-1,5,1J.357
+
+and said unto him;"Behold, thou art made well: NEWCOME-NEW-1796-1,5,1J.358
+
+sin no more, lest some worse thing befal thee. "
+NEWCOME-NEW-1796-1,5,1J.359
+
+The man departed, NEWCOME-NEW-1796-1,5,1J.360
+
+and told the Jews that it was Jesus who had made him well.
+NEWCOME-NEW-1796-1,5,1J.361
+
+And for this the Jews persecuted Jesus, because he had done these things
+on the sabbath.  NEWCOME-NEW-1796-1,5,1J.362
+
+But Jesus said unto them;"My Father worketh until now;
+NEWCOME-NEW-1796-1,5,1J.363
+
+and I <font> also <$$font> work. "NEWCOME-NEW-1796-1,5,1J.364
+
+Wherefore for this the Jews sought the more to kill him; because he
+not only had broken the sabbath, but said also that God was his Father,
+making himself like God.  NEWCOME-NEW-1796-1,5,1J.365
+
+Jesus therefore spake NEWCOME-NEW-1796-1,5,1J.366
+
+and said unto them;"Verily verily I say unto you, The Son can do nothing
+of himself; but what he seeth the Father do: NEWCOME-NEW-1796-1,5,1J.367
+
+for what things <font> the Father <$$font> doeth, these the Son also
+doeth in like manner.  NEWCOME-NEW-1796-1,5,1J.368
+
+<P_5,20J>
+
+For the Father loveth the Son, NEWCOME-NEW-1796-1,5,20J.370
+
+and sheweth him all things which he himself doeth:
+NEWCOME-NEW-1796-1,5,20J.371
+
+and he will shew him greater works than these, so that ye will wonder.
+NEWCOME-NEW-1796-1,5,20J.372
+
+For as the Father raiseth up the dead, and giveth <font> them
+<$$font> life; so the Son likewise giveth life to whom he will.
+NEWCOME-NEW-1796-1,5,20J.373
+
+For neither doth the Father judge any man: NEWCOME-NEW-1796-1,5,20J.374
+
+but hath committed all judgement to the Son; that all may honour the Son,
+as they honour the Father.  NEWCOME-NEW-1796-1,5,20J.375
+
+He that honoureth not the Son, honoureth not the Father who sent him.
+NEWCOME-NEW-1796-1,5,20J.376
+
+Verily verily I say unto you, He that hearkeneth to my words
+, and believeth in him who sent me, hath everlasting life,
+NEWCOME-NEW-1796-1,5,20J.377
+
+and shall not come into condemnation, NEWCOME-NEW-1796-1,5,20J.378
+
+but passeth from death to life.  NEWCOME-NEW-1796-1,5,20J.379
+
+Verily verily I say unto you, The hour cometh, and now is, when the dead
+shall hear the voice of the Son of God; NEWCOME-NEW-1796-1,5,20J.380
+
+and they that hear shall live.  NEWCOME-NEW-1796-1,5,20J.381
+
+For as the Father hath life in himself, so hath he given to the Son also
+to have life in himself: NEWCOME-NEW-1796-1,5,20J.382
+
+and he hath given him authority to exercise judgement also, because he
+is the Son of man.  NEWCOME-NEW-1796-1,5,20J.383
+
+Wonder not at this: NEWCOME-NEW-1796-1,5,20J.384
+
+for the hour cometh, in which all that are in the sepulchres shall
+hear his voice, and shall come forth; they that have done good, to the
+resurrection of life; and they that have done evil, to the resurrection
+of condemnation.  NEWCOME-NEW-1796-1,5,20J.385
+
+Of myself I can do nothing: NEWCOME-NEW-1796-1,5,20J.386
+
+as I hear, I judge: NEWCOME-NEW-1796-1,5,20J.387
+
+and my judgement is just; because I seek not mine own will, but the will
+of him who sent me. "NEWCOME-NEW-1796-1,5,20J.388
+
+If I bear witness of myself, my witness is not true.
+NEWCOME-NEW-1796-1,5,20J.389
+
+There is another who beareth witness of me; NEWCOME-NEW-1796-1,5,20J.390
+
+and I know that the witness which he witnesseth of me is true.
+NEWCOME-NEW-1796-1,5,20J.391
+
+Ye sent unto John, NEWCOME-NEW-1796-1,5,20J.392
+
+and he bare witness to the truth.  NEWCOME-NEW-1796-1,5,20J.393
+
+Yet I receive not witness from man: NEWCOME-NEW-1796-1,5,20J.394
+
+but I say these things, that ye may be saved.
+NEWCOME-NEW-1796-1,5,20J.395
+
+He was a burning and shining lamp: NEWCOME-NEW-1796-1,5,20J.396
+
+and ye were willing to rejoice for a time in his light.
+NEWCOME-NEW-1796-1,5,20J.397
+
+But I have greater witness than <font> that <$$font> of John:
+NEWCOME-NEW-1796-1,5,20J.398
+
+for the works which the Father hath given me to perform, these
+works which I do, bear witness of me that the Father hath sent me.
+NEWCOME-NEW-1796-1,5,20J.399
+
+And the Father himself, who sent me, hath borne witness of me.
+NEWCOME-NEW-1796-1,5,20J.400
+
+Ye have neither heard his voice at any time, nor seen his form.
+NEWCOME-NEW-1796-1,5,20J.401
+
+And ye have not his word abiding in you: NEWCOME-NEW-1796-1,5,20J.402
+
+for whom he hath sent, him ye believe not.  NEWCOME-NEW-1796-1,5,20J.403
+
+"Search the scriptures; NEWCOME-NEW-1796-1,5,20J.404
+
+for in them ye think that ye have everlasting life:
+NEWCOME-NEW-1796-1,5,20J.405
+
+and they bear witness of me: NEWCOME-NEW-1796-1,5,20J.406
+
+<P_5,40J>
+
+and yet ye are not willing to come unto me, that ye may have life.
+NEWCOME-NEW-1796-1,5,40J.408
+
+I receive not honour from men: NEWCOME-NEW-1796-1,5,40J.409
+
+but I know you, that ye have not the love of God in you.
+NEWCOME-NEW-1796-1,5,40J.410
+
+I am come in my Father's name, NEWCOME-NEW-1796-1,5,40J.411
+
+and yet ye receive me not: NEWCOME-NEW-1796-1,5,40J.412
+
+if another shall come in his own name, him ye will receive.
+NEWCOME-NEW-1796-1,5,40J.413
+
+How can Ye believe, who receive honour from one another, and seek
+not the honour which <font> cometh <$$font> from the only God?
+NEWCOME-NEW-1796-1,5,40J.414
+
+Think not that I will accuse you to the Father:
+NEWCOME-NEW-1796-1,5,40J.415
+
+there is <font> one <$$font> that accuseth you, <font> even <$$font>
+Moses, in whom ye trust.  NEWCOME-NEW-1796-1,5,40J.416
+
+For if ye had believed Moses, ye would have believed me:
+NEWCOME-NEW-1796-1,5,40J.417
+
+for he wrote of me.  NEWCOME-NEW-1796-1,5,40J.418
+
+But if ye believe not his writings, how will ye believe my words?
+"NEWCOME-NEW-1796-1,5,40J.419
+
+<P_6,1J>
+
+After these things Jesus went over the lake of Galilee, which is <font>
+the lake <$$font> of Tiberias.  NEWCOME-NEW-1796-1,6,1J.421
+
+And a great multitude followed him, because they saw the miracles which
+he did on those who were diseased.  NEWCOME-NEW-1796-1,6,1J.422
+
+And Jesus went up a mountain, NEWCOME-NEW-1796-1,6,1J.423
+
+and sat there with his disciples.  NEWCOME-NEW-1796-1,6,1J.424
+
+Now the passover, <paren> a feast of the Jews, <$$paren> was nigh.
+NEWCOME-NEW-1796-1,6,1J.425
+
+When Jesus then lifted up <font> his <$$font> eyes, and saw that a great
+multitude was coming to him, he saith to Philip;"Whence shall we buy
+bread, that these may eat? "NEWCOME-NEW-1796-1,6,1J.426
+
+<paren> Now he said this to try him: NEWCOME-NEW-1796-1,6,1J.427
+
+for he himself knew what he was about to do.  <$$paren>
+NEWCOME-NEW-1796-1,6,1J.428
+
+Philip answered him;"Bread, worth two hundred denarii, is not
+sufficient for them, that every one of them may take a little.
+"NEWCOME-NEW-1796-1,6,1J.429
+
+One of his disciples, Andrew, Simon Peter's brother, saith unto him;
+"There is a child here, that hath five barley-loaves, and two fishes:
+NEWCOME-NEW-1796-1,6,1J.430
+
+but what are They among so many? "NEWCOME-NEW-1796-1,6,1J.431
+
+And Jesus said;"Make the men place themselves on the ground.
+"NEWCOME-NEW-1796-1,6,1J.432
+
+<paren> Now there was much grass in the place.  <$$paren>
+NEWCOME-NEW-1796-1,6,1J.433
+
+So the men placed themselves on the ground, in number about five thousand.
+NEWCOME-NEW-1796-1,6,1J.434
+
+And Jesus took the loaves; NEWCOME-NEW-1796-1,6,1J.435
+
+and, when he had given thanks, he distributed <bracket> to the
+disciples, and the disciples <$$bracket> to those that were on the
+ground: and in like manner of the fishes, as much as they would.
+NEWCOME-NEW-1796-1,6,1J.436
+
+And when they were filled, he saith to his disciples;"
+Gather the fragments which remain, that nothing be lost. "
+NEWCOME-NEW-1796-1,6,1J.437
+
+They therefore gathered <font> them, <$$font> NEWCOME-NEW-1796-1,6,1J.438
+
+and filled twelve panniers with the fragments of the five barley-loaves,
+which remained to those that had eaten.  NEWCOME-NEW-1796-1,6,1J.439
+
+Then those men, when they had seen the miracle which Jesus did,
+said ;"This is in truth that prophet who was to come into the world.
+"NEWCOME-NEW-1796-1,6,1J.440
+
+When Jesus therefore perceived that they were about to come and take him
+by force, to make him a king, he withdrew <bracket> again <$$bracket>
+to a mountain himself alone.  NEWCOME-NEW-1796-1,6,1J.441
+
+And when evening came, his disciples went down to the lake;
+NEWCOME-NEW-1796-1,6,1J.442
+
+and entered into a ship, NEWCOME-NEW-1796-1,6,1J.443
+
+and went over the lake toward Capernaum.  NEWCOME-NEW-1796-1,6,1J.444
+
+And it was now dark; NEWCOME-NEW-1796-1,6,1J.445
+
+and Jesus was not come to them.  NEWCOME-NEW-1796-1,6,1J.446
+
+And the lake rose, because of a great wind which blew.
+NEWCOME-NEW-1796-1,6,1J.447
+
+So when they had rowed about twenty-five or thirty furlongs,
+they see Jesus walking on the lake, and drawing near to the ship:
+NEWCOME-NEW-1796-1,6,1J.448
+
+and they were afraid.  NEWCOME-NEW-1796-1,6,1J.449
+
+<P_6,20J>
+
+But he saith unto them;"It is I: NEWCOME-NEW-1796-1,6,20J.451
+
+be not afraid. "NEWCOME-NEW-1796-1,6,20J.452
+
+Then they were glad to receive him into the ship:
+NEWCOME-NEW-1796-1,6,20J.453
+
+and immediately the ship was at the land whither they were going.
+NEWCOME-NEW-1796-1,6,20J.454
+
+The day following, when the multitude who stood on the other side of the
+lake saw that there was none other boat there but one, and that Jesus had
+not gone with his disciples into the ship, but <font> that <$$font> his
+disciples had departed alone; <paren> however there came other boats from
+Tiberias, near the place where they ate bread, after the Lord had given
+thanks; <$$paren> when the people therefore saw that neither Jesus was
+there, nor his disciples, they took shipping, NEWCOME-NEW-1796-1,6,20J.455
+
+and came to Capernaum, seeking Jesus.  NEWCOME-NEW-1796-1,6,20J.456
+
+And when they had found him on the other side of the lake, they said
+unto him;"Master, when camest thou hither? "NEWCOME-NEW-1796-1,6,20J.457
+
+Jesus answered them NEWCOME-NEW-1796-1,6,20J.458
+
+and said;"Verily verily I say unto you, Ye seek me, not because ye
+have seen miracles, but because ye ate of the loaves and were filled.
+NEWCOME-NEW-1796-1,6,20J.459
+
+Work not so much for the food which perisheth, as for the food which
+endureth to everlasting life, which the Son of man will give you:
+NEWCOME-NEW-1796-1,6,20J.460
+
+for him hath the Father sealed, <font> even <$$font> God. "
+NEWCOME-NEW-1796-1,6,20J.461
+
+They said therefore unto him;"What shall we do, that we may work the
+works of God? "NEWCOME-NEW-1796-1,6,20J.462
+
+Jesus answered NEWCOME-NEW-1796-1,6,20J.463
+
+and said unto them;"This is the work of God, that ye believe on him whom
+he hath sent. "NEWCOME-NEW-1796-1,6,20J.464
+
+Then they said unto him;"What miracle <bracket> therefore <$$bracket>
+doest thou, that we may see <font> it, <$$font> and believe in thee?
+NEWCOME-NEW-1796-1,6,20J.465
+
+what dost thou work?  NEWCOME-NEW-1796-1,6,20J.466
+
+Our fathers ate manna in the desert: as it is written,'
+NEWCOME-NEW-1796-1,6,20J.467
+
+He gave them bread from heaven to eat. 'NEWCOME-NEW-1796-1,6,20J.468
+
+Jesus <bracket> therefore <$$bracket> said unto them; Verily
+verily I say unto you, Moses gave you not the bread from heaven;
+NEWCOME-NEW-1796-1,6,20J.469
+
+but my Father giveth you the true bread from heaven.
+NEWCOME-NEW-1796-1,6,20J.470
+
+For the bread of God is that which cometh down from heaven, and giveth
+life to the world. "NEWCOME-NEW-1796-1,6,20J.471
+
+Then they said unto him;"Master, always give us this bread.
+"NEWCOME-NEW-1796-1,6,20J.472
+
+And Jesus said unto them;"I am the bread of life:
+NEWCOME-NEW-1796-1,6,20J.473
+
+he who cometh to me, shall never hunger; NEWCOME-NEW-1796-1,6,20J.474
+
+and he who believeth in me, shall never thirst.
+NEWCOME-NEW-1796-1,6,20J.475
+
+But I have said unto you, that ye have both seen me and believe not.
+NEWCOME-NEW-1796-1,6,20J.476
+
+All whom the Father giveth me, will come to me;
+NEWCOME-NEW-1796-1,6,20J.477
+
+and him who cometh to me, I will in no wise cast out.
+NEWCOME-NEW-1796-1,6,20J.478
+
+For I am come down from heaven, not to do mine own will, but the will
+of him who sent me.  NEWCOME-NEW-1796-1,6,20J.479
+
+And this is the will of him who sent me, that of all whom he hath
+given me I should lose none, but should raise them up at the last day.
+NEWCOME-NEW-1796-1,6,20J.480
+
+<P_6,40J>
+
+For this is the will of him who sent me, that every one who
+seeth the Son, and believeth in him, may have everlasting life:
+NEWCOME-NEW-1796-1,6,40J.482
+
+and him I will raise up at the last day. "NEWCOME-NEW-1796-1,6,40J.483
+
+The Jews then murmured at him, because he said;'I am the bread which
+came down from heaven:'NEWCOME-NEW-1796-1,6,40J.484
+
+and said;"Is not this Jesus, the son of Joseph, whose father and mother
+we know?  NEWCOME-NEW-1796-1,6,40J.485
+
+how therefore doth this man say,'I came down from heaven? '
+"NEWCOME-NEW-1796-1,6,40J.486
+
+Jesus answered NEWCOME-NEW-1796-1,6,40J.487
+
+and said unto them;"Murmur not among yourselves.
+NEWCOME-NEW-1796-1,6,40J.488
+
+No man can come to me, unless the Father, who sent me, draw him:
+NEWCOME-NEW-1796-1,6,40J.489
+
+and him I will raise up at the last day.  NEWCOME-NEW-1796-1,6,40J.490
+
+It is written in the prophets;'And all shall be taught of God.
+'NEWCOME-NEW-1796-1,6,40J.491
+
+Every one that hath heard and learned from the Father, cometh unto me.
+NEWCOME-NEW-1796-1,6,40J.492
+
+Not that any <font> man <$$font> hath seen the Father,
+NEWCOME-NEW-1796-1,6,40J.493
+
+but he that is from God; he hath seen the Father.
+NEWCOME-NEW-1796-1,6,40J.494
+
+Verily verily I say unto you, He who believeth in me, hath everlasting
+life.  NEWCOME-NEW-1796-1,6,40J.495
+
+I am the bread of life.  NEWCOME-NEW-1796-1,6,40J.496
+
+Your fathers ate manna in the desert, NEWCOME-NEW-1796-1,6,40J.497
+
+and died.  NEWCOME-NEW-1796-1,6,40J.498
+
+This is the bread which cometh down from heaven, that a man may eat of
+it, and not die.  NEWCOME-NEW-1796-1,6,40J.499
+
+I am the living bread which came down from heaven:
+NEWCOME-NEW-1796-1,6,40J.500
+
+if any man eat of this bread, he shall live for ever:
+NEWCOME-NEW-1796-1,6,40J.501
+
+and the bread which I will give, is my flesh which I will give for the
+life of the world. "NEWCOME-NEW-1796-1,6,40J.502
+
+The Jews therefore contended among themselves, saying;" How can this man
+give us <font> his <$$font> flesh to eat? " NEWCOME-NEW-1796-1,6,40J.503
+
+Jesus therefore said unto them;"Verily verily I say unto you, Unless ye
+eat the flesh of the Son of man, and drink his blood, ye have not life
+in you.  NEWCOME-NEW-1796-1,6,40J.504
+
+He that eateth my flesh, and drinketh my blood, hath everlasting life;
+NEWCOME-NEW-1796-1,6,40J.505
+
+and him I will raise up at the last day.  NEWCOME-NEW-1796-1,6,40J.506
+
+For my flesh is truly food, NEWCOME-NEW-1796-1,6,40J.507
+
+and my blood is truly drink.  NEWCOME-NEW-1796-1,6,40J.508
+
+He that eateth my flesh, and drinketh my blood, abideth in me, and I
+in him.  NEWCOME-NEW-1796-1,6,40J.509
+
+As the living Father hath sent me, and I live by the Father; so he
+likewise that eateth me, shall live by me.  NEWCOME-NEW-1796-1,6,40J.510
+
+This is the bread which came down from heaven: not as <bracket>
+your <$$bracket> fathers ate <bracket> manna, <$$bracket> and died.
+NEWCOME-NEW-1796-1,6,40J.511
+
+He that eateth of this bread, shall live for ever. "
+NEWCOME-NEW-1796-1,6,40J.512
+
+He said these things in the synagogue, as he taught in Capernaum.
+NEWCOME-NEW-1796-1,6,40J.513
+
+<P_6,60J>
+
+Many therefore of his disciples, when they had heard <font> him, <$$font>
+said;"This is hard doctrine: NEWCOME-NEW-1796-1,6,60J.515
+
+who can understand it? "NEWCOME-NEW-1796-1,6,60J.516
+
+But when Jesus knew in himself that his disciples murmured
+at this, he said unto them;"Doth this cause you to offend?
+NEWCOME-NEW-1796-1,6,60J.517
+
+<font> What <$$font> then if ye shall see the Son of man going up where
+he was before?  NEWCOME-NEW-1796-1,6,60J.518
+
+It is the spirit that giveth life; NEWCOME-NEW-1796-1,6,60J.519
+
+the flesh profiteth nothing: NEWCOME-NEW-1796-1,6,60J.520
+
+the words which I speak unto you, <font> they <$$font> are spirit,
+NEWCOME-NEW-1796-1,6,60J.521
+
+and <font> they <$$font> are life.  NEWCOME-NEW-1796-1,6,60J.522
+
+But there are some of you that believe not. " NEWCOME-NEW-1796-1,6,60J.523
+
+<paren> For Jesus knew from the beginning who they were that believed not
+, and who was to deliver him up.  <$$paren> NEWCOME-NEW-1796-1,6,60J.524
+
+Then he said;"For this cause I said unto you, that none can come unto me,
+unless it be given unto him by my Father. " NEWCOME-NEW-1796-1,6,60J.525
+
+From that <font> time <$$font> many of his disciples went back,
+NEWCOME-NEW-1796-1,6,60J.526
+
+and walked no more with him.  NEWCOME-NEW-1796-1,6,60J.527
+
+Jesus therefore said to the twelve;"Will Ye also depart? "
+NEWCOME-NEW-1796-1,6,60J.528
+
+Simon Peter answered him;"Master, to whom shall we go?
+NEWCOME-NEW-1796-1,6,60J.529
+
+thou hast the words of everlasting life: NEWCOME-NEW-1796-1,6,60J.530
+
+and we believe, and know, that thou art the Holy One of God. "
+NEWCOME-NEW-1796-1,6,60J.531
+
+Jesus answered them;"Have not I chosen you twelve?
+NEWCOME-NEW-1796-1,6,60J.532
+
+and yet one of you is a false accuser. "NEWCOME-NEW-1796-1,6,60J.533
+
+Now he spake of Judas Iscariot, <font> the son <$$font> of Simon:
+NEWCOME-NEW-1796-1,6,60J.534
+
+for he was about to deliver him up, <bracket> being <$$bracket> one of
+the Twelve.  NEWCOME-NEW-1796-1,6,60J.535
+
+<P_7,1J>
+
+And after these things Jesus walked in Galilee:
+NEWCOME-NEW-1796-1,7,1J.537
+
+for he would not walk in Judea, because the Jews sought to kill him.
+NEWCOME-NEW-1796-1,7,1J.538
+
+Now the feast of the Jews, <font> called <$$font> the feast of
+tabernacles, was near.  NEWCOME-NEW-1796-1,7,1J.539
+
+His brethren therefore said unto him;"Depart hence,
+NEWCOME-NEW-1796-1,7,1J.540
+
+and go into Judea; that thy disciples also may see the works which
+thou doest.  NEWCOME-NEW-1796-1,7,1J.541
+
+For no man doeth any thing in secret, NEWCOME-NEW-1796-1,7,1J.542
+
+and <font> yet <$$font> he himself seeketh to be known publickly.
+NEWCOME-NEW-1796-1,7,1J.543
+
+If thou do these things, shew thyself to the world. "
+NEWCOME-NEW-1796-1,7,1J.544
+
+<paren> For neither did his brethren believe in him.  <$$paren>
+NEWCOME-NEW-1796-1,7,1J.545
+
+<bracket> Then <$$bracket> Jesus saith unto them;"My time is not yet
+come: NEWCOME-NEW-1796-1,7,1J.546
+
+but your time is always ready.  NEWCOME-NEW-1796-1,7,1J.547
+
+The world $can $not {TEXT:cannot} hate You; NEWCOME-NEW-1796-1,7,1J.548
+
+but Me it hateth, because I testify of it that its works are evil.
+NEWCOME-NEW-1796-1,7,1J.549
+
+Go Ye up to this feast: NEWCOME-NEW-1796-1,7,1J.550
+
+I go not up <font> now <$$font> to this feast; NEWCOME-NEW-1796-1,7,1J.551
+
+for my time is not yet fully come. "NEWCOME-NEW-1796-1,7,1J.552
+
+When he had said these words unto them, he <font> still <$$font> remained
+in Galilee.  NEWCOME-NEW-1796-1,7,1J.553
+
+But when his brethren had gone up, then he also went up to the
+feast; not openly, but as <font> it were <$$font> in secret.
+NEWCOME-NEW-1796-1,7,1J.554
+
+Then the Jews sought him at the feast, NEWCOME-NEW-1796-1,7,1J.555
+
+and said;"Where is he? "NEWCOME-NEW-1796-1,7,1J.556
+
+And there was much murmuring among the multitudes concerning him:
+NEWCOME-NEW-1796-1,7,1J.557
+
+and some said;"He is a good man:"NEWCOME-NEW-1796-1,7,1J.558
+
+others said;"No: but he deceiveth the people. "
+NEWCOME-NEW-1796-1,7,1J.559
+
+However no man spake openly of him, for fear of the Jews.
+NEWCOME-NEW-1796-1,7,1J.560
+
+But <font> when it was <$$font> now about the midst of the feast, Jesus
+went up into the temple, NEWCOME-NEW-1796-1,7,1J.561
+
+and taught.  NEWCOME-NEW-1796-1,7,1J.562
+
+And the Jews wondered, saying;"How hath this man learning, having never
+been taught? "NEWCOME-NEW-1796-1,7,1J.563
+
+Jesus answered them NEWCOME-NEW-1796-1,7,1J.564
+
+and said;"My doctrine is not mine, but his who sent me.
+NEWCOME-NEW-1796-1,7,1J.565
+
+If any man desire to do his will, he shall know concerning the doctrine,
+whether it be from God, or <font> whether <$$font> I speak of myself.
+NEWCOME-NEW-1796-1,7,1J.566
+
+Whoever speaketh of himself, seeketh his own glory:
+NEWCOME-NEW-1796-1,7,1J.567
+
+but whoever seeketh his glory who sent him, he is true,
+NEWCOME-NEW-1796-1,7,1J.568
+
+and unrighteousness is not in him.  NEWCOME-NEW-1796-1,7,1J.569
+
+Did not Moses give you the law; NEWCOME-NEW-1796-1,7,1J.570
+
+and <font> yet <$$font> none of you keepeth the law?
+NEWCOME-NEW-1796-1,7,1J.571
+
+why seek ye to kill me? "NEWCOME-NEW-1796-1,7,1J.572
+
+<P_7,20J>
+
+The multitude answered NEWCOME-NEW-1796-1,7,20J.574
+
+and said;"Thou hast a demon: NEWCOME-NEW-1796-1,7,20J.575
+
+who seeketh to kill thee? "NEWCOME-NEW-1796-1,7,20J.576
+
+Jesus answered NEWCOME-NEW-1796-1,7,20J.577
+
+and said unto them;"I have done one work, NEWCOME-NEW-1796-1,7,20J.578
+
+and ye all wonder at it.  NEWCOME-NEW-1796-1,7,20J.579
+
+Moses gave you circumcision; <paren> not that it is from Moses, but from
+the fathers; <$$paren> NEWCOME-NEW-1796-1,7,20J.580
+
+and ye on the sabbath circumcise a man.  NEWCOME-NEW-1796-1,7,20J.581
+
+If a man on the sabbath receive circumcision, that the law of Moses may
+not be broken; are ye angry with me, because I made a man altogether
+well on the sabbath.  NEWCOME-NEW-1796-1,7,20J.582
+
+Judge not according to appearance; NEWCOME-NEW-1796-1,7,20J.583
+
+but judge righteous judgement. "NEWCOME-NEW-1796-1,7,20J.584
+
+Then some inhabitants of Jerusalem said;"Is not this he whom they seek
+to kill?  NEWCOME-NEW-1796-1,7,20J.585
+
+but, lo, he speaketh boldly; NEWCOME-NEW-1796-1,7,20J.586
+
+and nothing is said unto him.  NEWCOME-NEW-1796-1,7,20J.587
+
+Do the rulers know indeed that this is the Christ?
+NEWCOME-NEW-1796-1,7,20J.588
+
+However, we know whence this man is: NEWCOME-NEW-1796-1,7,20J.589
+
+but, when Christ cometh, none knoweth whence he is. "
+NEWCOME-NEW-1796-1,7,20J.590
+
+Then Jesus cried out in the temple, as he taught, saying;"Ye both know
+me, and ye know whence I am: NEWCOME-NEW-1796-1,7,20J.591
+
+and yet I am not come of myself, NEWCOME-NEW-1796-1,7,20J.592
+
+but he who sent me is true, whom ye know not.
+NEWCOME-NEW-1796-1,7,20J.593
+
+<font> But <$$font> I know him: NEWCOME-NEW-1796-1,7,20J.594
+
+for I am from him, NEWCOME-NEW-1796-1,7,20J.595
+
+and he hath sent me. "NEWCOME-NEW-1796-1,7,20J.596
+
+Then the <font> Jews <$$font> sought to apprehend him:
+NEWCOME-NEW-1796-1,7,20J.597
+
+yet no man laid hands on him, because his hour was not yet come.
+NEWCOME-NEW-1796-1,7,20J.598
+
+But many of the multitude believed in him, NEWCOME-NEW-1796-1,7,20J.599
+
+and said;"When Christ cometh, will he do more miracles than <bracket>
+these <$$bracket> which this <font> man <$$font> hath done.
+"NEWCOME-NEW-1796-1,7,20J.600
+
+The Pharisees heard the multitude murmuring such things about him;
+NEWCOME-NEW-1796-1,7,20J.601
+
+and the Pharisees and the chief-priests sent officers to apprehend him.
+NEWCOME-NEW-1796-1,7,20J.602
+
+Jesus therefore said;"Yet a little time <font> longer <$$font> I shall
+be with you; NEWCOME-NEW-1796-1,7,20J.603
+
+and <font> then <$$font> I shall go to him who sent me.
+NEWCOME-NEW-1796-1,7,20J.604
+
+Ye will seek me, NEWCOME-NEW-1796-1,7,20J.605
+
+and will not find <font> me <$$font>; NEWCOME-NEW-1796-1,7,20J.606
+
+and where I shall be, <font> thither <$$font> ye $can $not {TEXT:cannot}
+come. "NEWCOME-NEW-1796-1,7,20J.607
+
+The Jews therefore said among themselves;"Whither will this man go,
+that we shall not find him?  NEWCOME-NEW-1796-1,7,20J.608
+
+will he go to the dispersed Greeks, and teach the Greeks?
+NEWCOME-NEW-1796-1,7,20J.609
+
+What words are these which he said;'Ye will seek me, and will not find
+<font> me <$$font>: and where I shall be, <font> thither <$$font> ye
+$can $not {TEXT:cannot} come? '"NEWCOME-NEW-1796-1,7,20J.610
+
+Now on the last day, <font> which is <$$font> the great <font> day,
+<$$font> of the feast, Jesus stood NEWCOME-NEW-1796-1,7,20J.611
+
+and cried out, saying;"If any man thirst, let him come to me, and drink.
+NEWCOME-NEW-1796-1,7,20J.612
+
+He who believeth in me, as the scripture hath said, from his belly shall
+flow rivers of living water. "NEWCOME-NEW-1796-1,7,20J.613
+
+<paren> Now he spake this of the Spirit, which those who believe in him
+were to receive: NEWCOME-NEW-1796-1,7,20J.614
+
+for the <bracket> Holy <$$bracket> Spirit was not yet <font>
+given, <$$font> because Jesus was not yet glorified.  <$$paren>
+NEWCOME-NEW-1796-1,7,20J.615
+
+<P_7,40J>
+
+Many of the multitude therefore, when they heard these words, said;
+"In truth this is a prophet. "NEWCOME-NEW-1796-1,7,40J.617
+
+Others said;"This is the Christ. "NEWCOME-NEW-1796-1,7,40J.618
+
+But others said;"Doth the Christ come out of Galilee?
+NEWCOME-NEW-1796-1,7,40J.619
+
+Hath not the scripture said, that the Christ cometh of the offspring
+of David, and from the town of Bethlehem, where David was? "
+NEWCOME-NEW-1796-1,7,40J.620
+
+So there was a division among the multitude because of him.
+NEWCOME-NEW-1796-1,7,40J.621
+
+And some of them desired to apprehend him: NEWCOME-NEW-1796-1,7,40J.622
+
+but none laid hands on him.  NEWCOME-NEW-1796-1,7,40J.623
+
+Then the officers came to the chief-priests and Pharisees who said unto
+them;"Why have ye not brought him? "NEWCOME-NEW-1796-1,7,40J.624
+
+The officers answered,"Never man spake like this <bracket> man.
+<$$bracket>"NEWCOME-NEW-1796-1,7,40J.625
+
+Then the Pharisees answered them;"Are Ye also deceived?
+NEWCOME-NEW-1796-1,7,40J.626
+
+Hath any <font> one <$$font> of the rulers or of the Pharisees, believed
+in him?  NEWCOME-NEW-1796-1,7,40J.627
+
+but this multitude, who know not the law, are accursed. "
+NEWCOME-NEW-1796-1,7,40J.628
+
+Nicodemus saith unto them, <paren> he that came to <font> Jesus <$$font>
+by night, being one of them, <$$paren>"Doth our law judge any man, unless
+it first hear him, and know what he doeth?  "NEWCOME-NEW-1796-1,7,40J.629
+
+They answered NEWCOME-NEW-1796-1,7,40J.630
+
+and said unto him;"Art Thou also of Galilee?  NEWCOME-NEW-1796-1,7,40J.631
+
+Search NEWCOME-NEW-1796-1,7,40J.632
+
+and see, that a prophet is not to arise from Galilee. "
+NEWCOME-NEW-1796-1,7,40J.633
+
+<bracket> Then every man went to his own house:
+NEWCOME-NEW-1796-1,7,40J.634
+
+<P_8,1J>
+
+but Jesus went to the mount of Olives.  NEWCOME-NEW-1796-1,8,1J.636
+
+And early in the morning he came again into the temple,
+NEWCOME-NEW-1796-1,8,1J.637
+
+and all the people came to him; NEWCOME-NEW-1796-1,8,1J.638
+
+and he sat down NEWCOME-NEW-1796-1,8,1J.639
+
+and taught them.  NEWCOME-NEW-1796-1,8,1J.640
+
+And the scribes and the Pharisees bring to him a woman taken in adultery
+: NEWCOME-NEW-1796-1,8,1J.641
+
+and when they had set her in the midst, they say unto him; "Master, this
+woman was taken in adultery, in the very act.  NEWCOME-NEW-1796-1,8,1J.642
+
+Now Moses in the law commanded us, that such should be stoned:
+NEWCOME-NEW-1796-1,8,1J.643
+
+what then sayest Thou? "NEWCOME-NEW-1796-1,8,1J.644
+
+Now they said this, trying him; that they might have <font> whereof
+<$$font> to accuse him.  NEWCOME-NEW-1796-1,8,1J.645
+
+But Jesus stooped down, NEWCOME-NEW-1796-1,8,1J.646
+
+and with <font> his <$$font> finger wrote on the ground.
+NEWCOME-NEW-1796-1,8,1J.647
+
+But when they continued asking him, he raised himself up,
+NEWCOME-NEW-1796-1,8,1J.648
+
+and said unto them;"Let him that is without sin among you, first cast
+a stone at her. "NEWCOME-NEW-1796-1,8,1J.649
+
+And he again stooped down, NEWCOME-NEW-1796-1,8,1J.650
+
+and wrote on the ground.  NEWCOME-NEW-1796-1,8,1J.651
+
+But they, having heard <font> this, <$$font> and being convicted by <font>
+their <$$font> conscience, went out one by one, having begun at the elder,
+to the last: NEWCOME-NEW-1796-1,8,1J.652
+
+and Jesus was left alone, and the woman standing in the midst.
+NEWCOME-NEW-1796-1,8,1J.653
+
+Now when Jesus raised himself up, and saw none but the woman, he said unto
+her;"Woman, where are those thine accusers?  NEWCOME-NEW-1796-1,8,1J.654
+
+hath no man condemned thee? "NEWCOME-NEW-1796-1,8,1J.655
+
+And she said;"No man, Sir. "NEWCOME-NEW-1796-1,8,1J.656
+
+And Jesus said unto her;"Neither do I condemn thee:
+NEWCOME-NEW-1796-1,8,1J.657
+
+go, NEWCOME-NEW-1796-1,8,1J.658
+
+and sin no more. "<$$bracket> NEWCOME-NEW-1796-1,8,1J.659
+
+Then Jesus spake again unto them, saying;"I am the light of the world:
+NEWCOME-NEW-1796-1,8,1J.660
+
+he who followeth me, shall by no means walk in darkness,
+NEWCOME-NEW-1796-1,8,1J.661
+
+but shall have the light of life. "NEWCOME-NEW-1796-1,8,1J.662
+
+The Pharisees therefore said unto him;"Thou bearest witness of thyself ;
+NEWCOME-NEW-1796-1,8,1J.663
+
+thy witness is not true. "NEWCOME-NEW-1796-1,8,1J.664
+
+Jesus answered NEWCOME-NEW-1796-1,8,1J.665
+
+and said unto them;"Though I bear witness of myself, <font> yet <$$font>
+my witness is true: NEWCOME-NEW-1796-1,8,1J.666
+
+for I know whence I came, and whither I go; NEWCOME-NEW-1796-1,8,1J.667
+
+but ye know not whence I come, and whither I go.
+NEWCOME-NEW-1796-1,8,1J.668
+
+Ye judge according to the flesh: NEWCOME-NEW-1796-1,8,1J.669
+
+I judge no one.  NEWCOME-NEW-1796-1,8,1J.670
+
+And yet if I judge, my judgement is true: because I am not alone, but
+I and the Father who sent me.  NEWCOME-NEW-1796-1,8,1J.671
+
+It is written in your law also, that the witness of two men is true.
+NEWCOME-NEW-1796-1,8,1J.672
+
+I bear witness of myself; NEWCOME-NEW-1796-1,8,1J.673
+
+and the Father who sent me beareth witness of me. "
+NEWCOME-NEW-1796-1,8,1J.674
+
+They said therefore unto him;"Where is thy Father? "
+NEWCOME-NEW-1796-1,8,1J.675
+
+Jesus answered;"Ye neither know me, nor my Father:
+NEWCOME-NEW-1796-1,8,1J.676
+
+if ye had known me, ye would have known my Father also. "
+NEWCOME-NEW-1796-1,8,1J.677
+
+<P_8,20J>
+
+<font> Jesus <$$font> spake these words in the treasury, as he was
+teaching in the temple: NEWCOME-NEW-1796-1,8,20J.679
+
+and yet none laid hands on him; NEWCOME-NEW-1796-1,8,20J.680
+
+for his hour was not yet come.  NEWCOME-NEW-1796-1,8,20J.681
+
+Then Jesus said unto them again;"I <font> shall <$$font> depart,
+NEWCOME-NEW-1796-1,8,20J.682
+
+and ye will seek me, NEWCOME-NEW-1796-1,8,20J.683
+
+and will die in your sin: NEWCOME-NEW-1796-1,8,20J.684
+
+whither I depart, ye $can $not {TEXT:cannot} come. "
+NEWCOME-NEW-1796-1,8,20J.685
+
+Then the Jews said;"Will he kill himself?  because he saith ,'Whither
+I depart, ye $can $not {TEXT:cannot} come. '" NEWCOME-NEW-1796-1,8,20J.686
+
+And he said unto them;"Ye are of those beneath;
+NEWCOME-NEW-1796-1,8,20J.687
+
+I am of those above: NEWCOME-NEW-1796-1,8,20J.688
+
+ye are of this world; NEWCOME-NEW-1796-1,8,20J.689
+
+I am not of this world.  NEWCOME-NEW-1796-1,8,20J.690
+
+I therefore said unto you, that ye will die in your sins:
+NEWCOME-NEW-1796-1,8,20J.691
+
+for if ye believe not that I am <font> he, <$$font> ye will die in your
+sins. "NEWCOME-NEW-1796-1,8,20J.692
+
+Then they said unto him;"Who art thou? "NEWCOME-NEW-1796-1,8,20J.693
+
+<bracket> And <$$bracket> Jesus said unto them;"Even what I told you
+at first.  NEWCOME-NEW-1796-1,8,20J.694
+
+I have many things to say concerning you, and to condemn:
+NEWCOME-NEW-1796-1,8,20J.695
+
+but he who sent me, is true; NEWCOME-NEW-1796-1,8,20J.696
+
+and I speak to the world those things which I have heard from him.
+"NEWCOME-NEW-1796-1,8,20J.697
+
+They understood not that he spake to them of the Father.
+NEWCOME-NEW-1796-1,8,20J.698
+
+Then Jesus said unto them;"When ye have lifted up the Son of man, then
+ye will know that I am <font> he, <$$font> and <font> that <$$font> I do
+nothing of myself; but speak these things as my Father hath taught me.
+NEWCOME-NEW-1796-1,8,20J.699
+
+And he who sent me is with me: NEWCOME-NEW-1796-1,8,20J.700
+
+the Father hath not left me alone; because I always do those things
+which please him. "NEWCOME-NEW-1796-1,8,20J.701
+
+As he spake these words, many believed in him.
+NEWCOME-NEW-1796-1,8,20J.702
+
+Then Jesus said to those Jews who believed in him;"If ye continue
+in my word, <font> then, <$$font> ye are truly my disciples:
+NEWCOME-NEW-1796-1,8,20J.703
+
+and ye shall know the truth, NEWCOME-NEW-1796-1,8,20J.704
+
+and the truth shall make you free. "NEWCOME-NEW-1796-1,8,20J.705
+
+<font> Some <$$font> answered him;"We are Abraham's offspring,
+NEWCOME-NEW-1796-1,8,20J.706
+
+and were never slaves to any man: NEWCOME-NEW-1796-1,8,20J.707
+
+how sayest thou,'Ye shall become free? '" NEWCOME-NEW-1796-1,8,20J.708
+
+Jesus answered them;"Verily verily I say unto you, Whosoever committeth
+sin, is the slave of sin.  NEWCOME-NEW-1796-1,8,20J.709
+
+And the slave abideth not in the house for ever:
+NEWCOME-NEW-1796-1,8,20J.710
+
+<font> but <$$font> the son abideth for ever.
+NEWCOME-NEW-1796-1,8,20J.711
+
+If the Son therefore shall make you free, ye will be free indeed.
+NEWCOME-NEW-1796-1,8,20J.712
+
+I know that ye are Abraham's offspring: NEWCOME-NEW-1796-1,8,20J.713
+
+yet ye seek to kill me, because my word hath no place in you.
+NEWCOME-NEW-1796-1,8,20J.714
+
+I speak that which I have seen with <bracket> my <$$bracket> Father:
+NEWCOME-NEW-1796-1,8,20J.715
+
+and ye do that which ye have seen with <bracket> your <$$bracket> father.
+"NEWCOME-NEW-1796-1,8,20J.716
+
+They answered NEWCOME-NEW-1796-1,8,20J.717
+
+and said unto him;"Abraham is our father. " NEWCOME-NEW-1796-1,8,20J.718
+
+Jesus saith unto them;"If ye were Abraham's children, ye would do the
+works of Abraham.  NEWCOME-NEW-1796-1,8,20J.719
+
+<P_8,40J>
+
+But now ye seek to kill me, a man that have spoken to you the truth,
+which I have heard from God: NEWCOME-NEW-1796-1,8,40J.721
+
+Abraham did not act thus.  NEWCOME-NEW-1796-1,8,40J.722
+
+Ye do the works of your father. "NEWCOME-NEW-1796-1,8,40J.723
+
+Then they said to him. "We are not born of fornication:
+NEWCOME-NEW-1796-1,8,40J.724
+
+we have one Father, <font> even <$$font> God. "
+NEWCOME-NEW-1796-1,8,40J.725
+
+Jesus said unto them;"If God were your Father, ye would love me:
+NEWCOME-NEW-1796-1,8,40J.726
+
+for I came forth from God, NEWCOME-NEW-1796-1,8,40J.727
+
+and come <font> unto you; <$$font> NEWCOME-NEW-1796-1,8,40J.728
+
+for I came not of myself, NEWCOME-NEW-1796-1,8,40J.729
+
+but He sent me.  NEWCOME-NEW-1796-1,8,40J.730
+
+Why do ye not understand my discourse?  NEWCOME-NEW-1796-1,8,40J.731
+
+because ye $can $not {TEXT:cannot} hearken to my words.
+NEWCOME-NEW-1796-1,8,40J.732
+
+Ye are of <font> your <$$font> father the devil;
+NEWCOME-NEW-1796-1,8,40J.733
+
+and the desires of your father ye are disposed to do.
+NEWCOME-NEW-1796-1,8,40J.734
+
+He was a slayer of men from the beginning, NEWCOME-NEW-1796-1,8,40J.735
+
+and continued not in the truth; because there is no truth in him.
+NEWCOME-NEW-1796-1,8,40J.736
+
+When he speaketh a lie, he speaketh of his own:
+NEWCOME-NEW-1796-1,8,40J.737
+
+for he is a liar, and the father of liars.  NEWCOME-NEW-1796-1,8,40J.738
+
+And because I speak the truth, ye believe me not.
+NEWCOME-NEW-1796-1,8,40J.739
+
+Which of you convicteth me of sin?  NEWCOME-NEW-1796-1,8,40J.740
+
+If I speak the truth, why do ye not believe me?
+NEWCOME-NEW-1796-1,8,40J.741
+
+He that is of God, hearkeneth to God's words: NEWCOME-NEW-1796-1,8,40J.742
+
+ye therefore hearken not, because ye are not of God. "
+NEWCOME-NEW-1796-1,8,40J.743
+
+The Jews answered NEWCOME-NEW-1796-1,8,40J.744
+
+and said unto him;"Say we not well, that thou art a Samaritan, and hast
+a demon? "NEWCOME-NEW-1796-1,8,40J.745
+
+Jesus answered;"I have not a demon: NEWCOME-NEW-1796-1,8,40J.746
+
+but I honour my Father, NEWCOME-NEW-1796-1,8,40J.747
+
+and ye dishonour me.  NEWCOME-NEW-1796-1,8,40J.748
+
+But I seek not mine own glory: NEWCOME-NEW-1796-1,8,40J.749
+
+there is one who seeketh <font> it, <$$font> and judgeth,
+NEWCOME-NEW-1796-1,8,40J.750
+
+Verily verily I say unto you; If a man keep my words, he shall never
+see death. "NEWCOME-NEW-1796-1,8,40J.751
+
+The Jews therefore said unto him;"Now we know that thou hast a demon.
+NEWCOME-NEW-1796-1,8,40J.752
+
+Abraham is dead, and the prophets <font> also: <$$font>
+NEWCOME-NEW-1796-1,8,40J.753
+
+yet thou sayest;'If a man keep my words, he shall never taste of
+death. 'NEWCOME-NEW-1796-1,8,40J.754
+
+Art thou greater than our father Abraham, that is dead?
+NEWCOME-NEW-1796-1,8,40J.755
+
+and the prophets are dead <font> also: <$$font>
+NEWCOME-NEW-1796-1,8,40J.756
+
+whom makest thou thyself? "NEWCOME-NEW-1796-1,8,40J.757
+
+Jesus answered;"If I glorify myself, my glory is nothing;
+NEWCOME-NEW-1796-1,8,40J.758
+
+it is my Father who glorifieth me; of whom ye say, that he is your God:
+NEWCOME-NEW-1796-1,8,40J.759
+
+and yet ye know him not; NEWCOME-NEW-1796-1,8,40J.760
+
+but I know him: NEWCOME-NEW-1796-1,8,40J.761
+
+and if I should say,'I know him not,'I should speak falsely, like you:
+NEWCOME-NEW-1796-1,8,40J.762
+
+but I know him, NEWCOME-NEW-1796-1,8,40J.763
+
+and keep his words.  NEWCOME-NEW-1796-1,8,40J.764
+
+Your father Abraham earnestly desired that he might see my day:
+NEWCOME-NEW-1796-1,8,40J.765
+
+and he saw <font> it, <$$font> NEWCOME-NEW-1796-1,8,40J.766
+
+and was glad,"NEWCOME-NEW-1796-1,8,40J.767
+
+The Jews therefore said unto him;"Thou art not yet fifty years old;
+NEWCOME-NEW-1796-1,8,40J.768
+
+and hast thou seen Abraham? "NEWCOME-NEW-1796-1,8,40J.769
+
+Jesus said unto them;"Verily verily I say unto you, Before Abraham was
+born, I am. "NEWCOME-NEW-1796-1,8,40J.770
+
+Then they took up stones to cast at him: NEWCOME-NEW-1796-1,8,40J.771
+
+but Jesus concealed himself, NEWCOME-NEW-1796-1,8,40J.772
+
+and went out of the temple.  NEWCOME-NEW-1796-1,8,40J.773
+
+<P_9,1J>
+
+And as he passed by, he saw a man <font> that had been <$$font> blind
+from <font> his <$$font> birth.  NEWCOME-NEW-1796-1,9,1J.775
+
+And his disciples asked him, saying;"Master, who sinned, this man,
+or his parents, that he was born blind? "NEWCOME-NEW-1796-1,9,1J.776
+
+Jesus answered;"Neither did this man sin, nor his parents: but that the
+works of God might be manifested in him.  NEWCOME-NEW-1796-1,9,1J.777
+
+I must work the works of him who sent me, while it is day:
+NEWCOME-NEW-1796-1,9,1J.778
+
+the night cometh, when no man can work.  NEWCOME-NEW-1796-1,9,1J.779
+
+While I am in the world, I am the light of the world. "
+NEWCOME-NEW-1796-1,9,1J.780
+
+When he had said this, he spat on the ground, NEWCOME-NEW-1796-1,9,1J.781
+
+and made clay of the spittle, NEWCOME-NEW-1796-1,9,1J.782
+
+and anointed the eyes of the blind man with the clay,
+NEWCOME-NEW-1796-1,9,1J.783
+
+and said unto him;"Go, NEWCOME-NEW-1796-1,9,1J.784
+
+wash thyself in the pool of Siloam:"<paren> which is, by interpretation,
+Sent.  <$$paren> NEWCOME-NEW-1796-1,9,1J.785
+
+He departed therefore, NEWCOME-NEW-1796-1,9,1J.786
+
+and washed himself, NEWCOME-NEW-1796-1,9,1J.787
+
+and came seeing.  NEWCOME-NEW-1796-1,9,1J.788
+
+The neighbours therefore, and those who had seen him before, <paren>
+for he had been a beggar, <$$paren> said;"Is not this he who sat and
+begged? "NEWCOME-NEW-1796-1,9,1J.789
+
+Some said;"This is he. "NEWCOME-NEW-1796-1,9,1J.790
+
+And others <font> said; <$$font>"He is like him. "
+NEWCOME-NEW-1796-1,9,1J.791
+
+<font> But <$$font> He said;"I am <font> he <$$font>. "
+NEWCOME-NEW-1796-1,9,1J.792
+
+They said therefore unto him;"How were thine eyes opened? "
+NEWCOME-NEW-1796-1,9,1J.793
+
+He answered NEWCOME-NEW-1796-1,9,1J.794
+
+and said;"A man, called Jesus, made clay, NEWCOME-NEW-1796-1,9,1J.795
+
+and anointed mine eyes, NEWCOME-NEW-1796-1,9,1J.796
+
+and said unto me;'Go to Siloam, NEWCOME-NEW-1796-1,9,1J.797
+
+and wash thyself:'NEWCOME-NEW-1796-1,9,1J.798
+
+and I went NEWCOME-NEW-1796-1,9,1J.799
+
+and washed myself, NEWCOME-NEW-1796-1,9,1J.800
+
+and received my sight. "NEWCOME-NEW-1796-1,9,1J.801
+
+Then they said unto him;"Where is he? "NEWCOME-NEW-1796-1,9,1J.802
+
+He saith;"I know not. "NEWCOME-NEW-1796-1,9,1J.803
+
+<font> Then <$$font> they bring him to the Pharisees; him, <font> I say,
+<$$font> who before was blind.  NEWCOME-NEW-1796-1,9,1J.804
+
+Now it was the sabbath, when Jesus made the clay, and opened his eyes.
+NEWCOME-NEW-1796-1,9,1J.805
+
+Then the Pharisees also asked him again, how he had received his sight.
+NEWCOME-NEW-1796-1,9,1J.806
+
+And he said unto them;"He put clay on mine eyes,
+NEWCOME-NEW-1796-1,9,1J.807
+
+and I washed myself, NEWCOME-NEW-1796-1,9,1J.808
+
+and see. "NEWCOME-NEW-1796-1,9,1J.809
+
+Wherefore some of the Pharisees said;"This man is not from God, because
+he keepeth not the sabbath. "NEWCOME-NEW-1796-1,9,1J.810
+
+Others said;"How can a sinner do such miracles? "
+NEWCOME-NEW-1796-1,9,1J.811
+
+And there was a division among them.  NEWCOME-NEW-1796-1,9,1J.812
+
+They say again to the blind man;"What sayest Thou of him, since he hath
+opened thine eyes? "NEWCOME-NEW-1796-1,9,1J.813
+
+And <font> the blind man <$$font> said;"He is a prophet. "
+NEWCOME-NEW-1796-1,9,1J.814
+
+Upon this the Jews did not believe concerning him, that he had been
+blind , and had received his sight, until they called his parents:
+<font> the parents, I say, <$$font> of him that had received his sight.
+NEWCOME-NEW-1796-1,9,1J.815
+
+And they asked them, saying;"Is this your son, of whom ye say that he
+was born blind?  NEWCOME-NEW-1796-1,9,1J.816
+
+how then doth he now see? "NEWCOME-NEW-1796-1,9,1J.817
+
+<P_9,20J>
+
+His parents answered them, NEWCOME-NEW-1796-1,9,20J.819
+
+and said;"We know that this is our son, and that he was born blind:
+NEWCOME-NEW-1796-1,9,20J.820
+
+but by what means he now seeth, we know not; NEWCOME-NEW-1796-1,9,20J.821
+
+or who hath opened his eyes, we know not: NEWCOME-NEW-1796-1,9,20J.822
+
+he is of age; NEWCOME-NEW-1796-1,9,20J.823
+
+ask Him: NEWCOME-NEW-1796-1,9,20J.824
+
+he will speak for himself. "NEWCOME-NEW-1796-1,9,20J.825
+
+His parents spake these words, because they feared the Jews:
+NEWCOME-NEW-1796-1,9,20J.826
+
+for the Jews had already agreed that, if any man should confess <font>
+Jesus <$$font> to be <font> the <$$font> Christ, he should be put out
+of the synagogue.  NEWCOME-NEW-1796-1,9,20J.827
+
+For this cause his parents said;"He is of age;
+NEWCOME-NEW-1796-1,9,20J.828
+
+ask him. "NEWCOME-NEW-1796-1,9,20J.829
+
+A second time therefore they called the man that had been blind,
+NEWCOME-NEW-1796-1,9,20J.830
+
+and said unto him;"Give glory to God: NEWCOME-NEW-1796-1,9,20J.831
+
+we know that this man is a sinner. "NEWCOME-NEW-1796-1,9,20J.832
+
+<bracket> Then <$$bracket> he answered NEWCOME-NEW-1796-1,9,20J.833
+
+and said;"Whether he be a sinner, I know not: NEWCOME-NEW-1796-1,9,20J.834
+
+one thing I know, that, whereas I was blind, I now see. "
+NEWCOME-NEW-1796-1,9,20J.835
+
+Then they said to him again;"What did he to thee?
+NEWCOME-NEW-1796-1,9,20J.836
+
+how opened he thine eyes? "NEWCOME-NEW-1796-1,9,20J.837
+
+He answered them;"I have told you already, NEWCOME-NEW-1796-1,9,20J.838
+
+and ye did not hearken: NEWCOME-NEW-1796-1,9,20J.839
+
+why desire ye to hear <font> it <$$font> again?
+NEWCOME-NEW-1796-1,9,20J.840
+
+would Ye also be his disciples? "NEWCOME-NEW-1796-1,9,20J.841
+
+<font> Then <$$font> they reviled him, NEWCOME-NEW-1796-1,9,20J.842
+
+and said;"Thou art his disciple; NEWCOME-NEW-1796-1,9,20J.843
+
+but We are disciples of Moses.  NEWCOME-NEW-1796-1,9,20J.844
+
+We know that God spake to Moses: NEWCOME-NEW-1796-1,9,20J.845
+
+but we know not whence this man is. "NEWCOME-NEW-1796-1,9,20J.846
+
+The man answered NEWCOME-NEW-1796-1,9,20J.847
+
+and said unto them;"In this now is a wonderful thing, that
+ye know not whence he is, and yet he hath opened mine eyes.
+NEWCOME-NEW-1796-1,9,20J.848
+
+Now we know that God heareth not sinners: NEWCOME-NEW-1796-1,9,20J.849
+
+but if any man be a worshipper of God, and do his will, him he heareth.
+NEWCOME-NEW-1796-1,9,20J.850
+
+From the beginning of the world, it hath not been heard that any man
+opened the eyes of one born blind.  NEWCOME-NEW-1796-1,9,20J.851
+
+If this man were not from God, he could do nothing. "
+NEWCOME-NEW-1796-1,9,20J.852
+
+They answered NEWCOME-NEW-1796-1,9,20J.853
+
+and said unto him;"Thou wast altogether born in sins,
+NEWCOME-NEW-1796-1,9,20J.854
+
+and dost Thou teach Us? "NEWCOME-NEW-1796-1,9,20J.855
+
+And they cast him out <font> of their synagogues.  <$$font>
+NEWCOME-NEW-1796-1,9,20J.856
+
+Jesus heard that they had cast him out: NEWCOME-NEW-1796-1,9,20J.857
+
+and, when he met him, he said unto him;"Dost thou believe in the Son of
+God? "NEWCOME-NEW-1796-1,9,20J.858
+
+He answered NEWCOME-NEW-1796-1,9,20J.859
+
+and said;"Who is he, Sir, that I may believe in him? "
+NEWCOME-NEW-1796-1,9,20J.860
+
+And Jesus said unto him;"Thou hast both seen him,
+NEWCOME-NEW-1796-1,9,20J.861
+
+and it is he who talketh with thee. "NEWCOME-NEW-1796-1,9,20J.862
+
+And <font> the man <$$font> said;"Sir, I believe. "
+NEWCOME-NEW-1796-1,9,20J.863
+
+And he did <font> Jesus <$$font> obeisance.  NEWCOME-NEW-1796-1,9,20J.864
+
+Then Jesus said;"For judgement I am come into this world: that those
+who see not, may see; and that those who see, may become blind.
+"NEWCOME-NEW-1796-1,9,20J.865
+
+<P_9,40J>
+
+And <font> some <$$font> of the Pharisees that were with him, heard
+these words, NEWCOME-NEW-1796-1,9,40J.867
+
+and said unto him;"Are We also blind? "NEWCOME-NEW-1796-1,9,40J.868
+
+Jesus said unto them;"If ye were blind, ye would not have sin:
+NEWCOME-NEW-1796-1,9,40J.869
+
+but now ye say,'We see:'NEWCOME-NEW-1796-1,9,40J.870
+
+your sin therefore remaineth.  NEWCOME-NEW-1796-1,9,40J.871
+
+<P_10,1J>
+
+Verily verily I say unto you, he that entereth not by the door into
+the sheep-fold, but climbeth up some other way, that man is a thief and
+a robber.  NEWCOME-NEW-1796-1,10,1J.873
+
+But he that entereth in by the door, is the shepherd of the sheep.
+NEWCOME-NEW-1796-1,10,1J.874
+
+To him the porter openeth; NEWCOME-NEW-1796-1,10,1J.875
+
+and the sheep hearken to his voice: NEWCOME-NEW-1796-1,10,1J.876
+
+and he calleth his own sheep by name, NEWCOME-NEW-1796-1,10,1J.877
+
+and leadeth them out.  NEWCOME-NEW-1796-1,10,1J.878
+
+And when he bringeth forth his own sheep, he goeth before them,
+NEWCOME-NEW-1796-1,10,1J.879
+
+and the sheep follow him; for they know his voice.  Whereas a stranger
+they will not follow, but will flee from him: NEWCOME-NEW-1796-1,10,1J.880
+
+for they know not the voice of strangers. "NEWCOME-NEW-1796-1,10,1J.881
+
+This parable Jesus spake unto them: NEWCOME-NEW-1796-1,10,1J.882
+
+but they understood not what things they were, which he spake unto them.
+NEWCOME-NEW-1796-1,10,1J.883
+
+Jesus therefore said unto them again;"Verily verily I say unto you,
+I am the door of the sheep.  NEWCOME-NEW-1796-1,10,1J.884
+
+All that have come <bracket> before me <$$bracket> are thieves and
+robbers: NEWCOME-NEW-1796-1,10,1J.885
+
+but the sheep did not hear them.  NEWCOME-NEW-1796-1,10,1J.886
+
+I am the door: NEWCOME-NEW-1796-1,10,1J.887
+
+by me if any enter in, he shall be safe, NEWCOME-NEW-1796-1,10,1J.888
+
+and shall go in and out, and find pasture.  NEWCOME-NEW-1796-1,10,1J.889
+
+The thief cometh not, but to steal, and to kill, and to destroy:
+NEWCOME-NEW-1796-1,10,1J.890
+
+I am come that <font> the Sheep <$$font> may have life, and that they
+may have it abundantly.  NEWCOME-NEW-1796-1,10,1J.891
+
+I am the good shepherd: NEWCOME-NEW-1796-1,10,1J.892
+
+the good shepherd layeth down his life for the sheep.
+NEWCOME-NEW-1796-1,10,1J.893
+
+But he that is an hireling, and not the shepherd, whose own the sheep
+are not, seeth the wolf coming, NEWCOME-NEW-1796-1,10,1J.894
+
+and leaveth the sheep, NEWCOME-NEW-1796-1,10,1J.895
+
+and fleeth; NEWCOME-NEW-1796-1,10,1J.896
+
+and the wolf seizeth them, NEWCOME-NEW-1796-1,10,1J.897
+
+and scattereth the sheep: NEWCOME-NEW-1796-1,10,1J.898
+
+and the hireling fleeth, because he is an hireling, and careth not for
+the sheep.  NEWCOME-NEW-1796-1,10,1J.899
+
+I am the good shepherd, NEWCOME-NEW-1796-1,10,1J.900
+
+and know my <font> sheep, <$$font> NEWCOME-NEW-1796-1,10,1J.901
+
+and am known by mine; <font> even <$$font> as the Father knoweth me,
+and <font> as <$$font> I know the Father: NEWCOME-NEW-1796-1,10,1J.902
+
+and I lay down my life for the sheep.  NEWCOME-NEW-1796-1,10,1J.903
+
+And other sheep I have, which are not of this fold:
+NEWCOME-NEW-1796-1,10,1J.904
+
+them also I must bring, NEWCOME-NEW-1796-1,10,1J.905
+
+and they will hear my voice; NEWCOME-NEW-1796-1,10,1J.906
+
+and there shall be one flock, <font> and <$$font> one shepherd.
+NEWCOME-NEW-1796-1,10,1J.907
+
+For this my Father loveth me; because I lay down my life, that I may
+take it again.  NEWCOME-NEW-1796-1,10,1J.908
+
+None taketh it from me; NEWCOME-NEW-1796-1,10,1J.909
+
+but I lay it down of myself.  NEWCOME-NEW-1796-1,10,1J.910
+
+I have power to lay it down, NEWCOME-NEW-1796-1,10,1J.911
+
+and I have power to take it again.  NEWCOME-NEW-1796-1,10,1J.912
+
+This commission I have received from my Father. "
+NEWCOME-NEW-1796-1,10,1J.913
+
+There was a division therefore again among the Jews because of these
+words.  NEWCOME-NEW-1796-1,10,1J.914
+
+<P_10,20J>
+
+And many of them said;"He hath a demon, NEWCOME-NEW-1796-1,10,20J.916
+
+and is mad; NEWCOME-NEW-1796-1,10,20J.917
+
+why hear ye him? "NEWCOME-NEW-1796-1,10,20J.918
+
+Others said;"These are not the words of him that hath a demon.
+NEWCOME-NEW-1796-1,10,20J.919
+
+Can a demon open the eyes of the blind? "NEWCOME-NEW-1796-1,10,20J.920
+
+Now the feast of Dedication was kept at Jerusalem;
+NEWCOME-NEW-1796-1,10,20J.921
+
+and it was winter.  NEWCOME-NEW-1796-1,10,20J.922
+
+And Jesus walked in the temple, in Solomon's porch.
+NEWCOME-NEW-1796-1,10,20J.923
+
+Then the Jews surrounded him, NEWCOME-NEW-1796-1,10,20J.924
+
+and said unto him;"How long dost thou keep us in suspence?
+NEWCOME-NEW-1796-1,10,20J.925
+
+If thou be the Christ, tell us plainly. "NEWCOME-NEW-1796-1,10,20J.926
+
+Jesus answered them;"I have told you, NEWCOME-NEW-1796-1,10,20J.927
+
+and ye believe not: NEWCOME-NEW-1796-1,10,20J.928
+
+the works which I do in my Father's name, they bear witness of me.
+NEWCOME-NEW-1796-1,10,20J.929
+
+But ye believe not, because ye are not of my sheep.
+NEWCOME-NEW-1796-1,10,20J.930
+
+As I said unto you, my sheep hear my voice, NEWCOME-NEW-1796-1,10,20J.931
+
+and I know them, NEWCOME-NEW-1796-1,10,20J.932
+
+and they follow me: NEWCOME-NEW-1796-1,10,20J.933
+
+and I give unto them everlasting life; NEWCOME-NEW-1796-1,10,20J.934
+
+and they shall never perish, NEWCOME-NEW-1796-1,10,20J.935
+
+nor shall any one snatch them out of mine hand.
+NEWCOME-NEW-1796-1,10,20J.936
+
+My Father, that hath given <font> them <$$font> to me, is greater than
+all; NEWCOME-NEW-1796-1,10,20J.937
+
+and none is able to snatch <font> them <$$font> out of my Father's hand.
+NEWCOME-NEW-1796-1,10,20J.938
+
+I and the Father are one. "NEWCOME-NEW-1796-1,10,20J.939
+
+Then the Jews took up stones again, to stone him.
+NEWCOME-NEW-1796-1,10,20J.940
+
+Jesus said to them;"Many good works I have shewn you from my Father:
+NEWCOME-NEW-1796-1,10,20J.941
+
+for which of those works do ye stone me? "NEWCOME-NEW-1796-1,10,20J.942
+
+The Jews answered him, <bracket> saying; <$$bracket> For a good work
+we stone thee not; but for blasphemy, and because thou, being a man,
+makest thyself God.  NEWCOME-NEW-1796-1,10,20J.943
+
+Jesus answered them;"Is it not written in your law,'I said, Ye are
+gods? 'NEWCOME-NEW-1796-1,10,20J.944
+
+If those be called gods, to whom the word of God came, <paren> and the
+scripture $can $not {TEXT:cannot} be made void; <$$paren> say ye of
+him, whom the Father hath set apart, and sent into the world,'Thou
+blasphemest:'because I said,'I am <font> the <$$font> Son of God?
+'NEWCOME-NEW-1796-1,10,20J.945
+
+If I do not the works of my Father, believe me not:
+NEWCOME-NEW-1796-1,10,20J.946
+
+but if I do <font> them, <$$font> though ye believe not Me, believe the
+works: that ye may know and believe that the Father <font> is <$$font>
+in me, and I in him;"NEWCOME-NEW-1796-1,10,20J.947
+
+Upon this they sought again to apprehend him:
+NEWCOME-NEW-1796-1,10,20J.948
+
+but he escaped out of their hand; NEWCOME-NEW-1796-1,10,20J.949
+
+<P_10,40J>
+
+and departed again beyond Jordan, to the place where John at first
+baptized: NEWCOME-NEW-1796-1,10,40J.951
+
+and there he abode.  NEWCOME-NEW-1796-1,10,40J.952
+
+And many resorted to him, NEWCOME-NEW-1796-1,10,40J.953
+
+and said;"John did no miracle: NEWCOME-NEW-1796-1,10,40J.954
+
+but all things which John spake of this man were true. "
+NEWCOME-NEW-1796-1,10,40J.955
+
+And many believed in him there.  NEWCOME-NEW-1796-1,10,40J.956
+
+<P_11,1J>
+
+Now a certain man was sick, <font> named <$$font> Lazarus, of Bethany,
+the town of Mary and of her sister Martha.  NEWCOME-NEW-1796-1,11,1J.958
+
+<paren> Now it was <font> the same <$$font> Mary that anointed the Lord
+with ointment, and wiped his feet with her hair, whose brother Lazarus
+was sick.  <$$paren> NEWCOME-NEW-1796-1,11,1J.959
+
+His sisters therefore sent to <font> Jesus, <$$font> saying;"Master,
+behold, he whom thou lovest is sick. "NEWCOME-NEW-1796-1,11,1J.960
+
+And when Jesus heard <font> it, <$$font> he said;"This sickness is
+not unto death; but for the glory of God, that the Son of God may be
+glorified by it. "NEWCOME-NEW-1796-1,11,1J.961
+
+<paren> Now Jesus loved Martha, and her siser, and Lazarus.  <$$paren>
+NEWCOME-NEW-1796-1,11,1J.962
+
+When he heard therefore that <font> Lazarus <$$font> was sick, he still
+abode two days in the place where he was.  NEWCOME-NEW-1796-1,11,1J.963
+
+Then afterward he saith to <font> his <$$font> disciples;"Let us go
+again into Judea. "NEWCOME-NEW-1796-1,11,1J.964
+
+<font> His <$$font> disciples say unto him;"Master, <font> but <$$font>
+now the Jews sought to stone thee: NEWCOME-NEW-1796-1,11,1J.965
+
+and goest thou thither again? "NEWCOME-NEW-1796-1,11,1J.966
+
+Jesus answered;"Are there not twelve hours of the day?
+NEWCOME-NEW-1796-1,11,1J.967
+
+If a man walk in the day, he stumbleth not, because he seeth the light
+of this world: NEWCOME-NEW-1796-1,11,1J.968
+
+but if a man walk in the night, he stumbleth; because the light is not
+in him. "NEWCOME-NEW-1796-1,11,1J.969
+
+He spake these things; NEWCOME-NEW-1796-1,11,1J.970
+
+and afterward he saith unto them;"Our friend Lazarus sleepeth;
+NEWCOME-NEW-1796-1,11,1J.971
+
+but I go that I may awake him. "NEWCOME-NEW-1796-1,11,1J.972
+
+Then his disciples said;"Master, if he sleep, he will recover.
+"NEWCOME-NEW-1796-1,11,1J.973
+
+But Jesus spake of his death: NEWCOME-NEW-1796-1,11,1J.974
+
+yet they thought that he was speaking of rest in sleep.
+NEWCOME-NEW-1796-1,11,1J.975
+
+Then Jesus said to them plainly;"Lazarus is dead.
+NEWCOME-NEW-1796-1,11,1J.976
+
+And I am glad for your sakes that I was not there, that ye may believe:
+NEWCOME-NEW-1796-1,11,1J.977
+
+but let us go to him. "NEWCOME-NEW-1796-1,11,1J.978
+
+Then Thomas, who is called Didymus, said to his fellow-disciples:"Let
+Us also go, that we may die with him. "NEWCOME-NEW-1796-1,11,1J.979
+
+When Jesus therefore came, he found that <font> Lazarus <$$font> had
+already lain four days in the sepulchre.  NEWCOME-NEW-1796-1,11,1J.980
+
+<paren> Now Bethany was near Jerusalem, about fifteen furlongs off:
+NEWCOME-NEW-1796-1,11,1J.981
+
+and many of the Jews came to Martha and Mary, that they might comfort
+them concerning their brother.  <$$paren> NEWCOME-NEW-1796-1,11,1J.982
+
+<P_11,20J>
+
+Then Martha, as soon as she heard that Jesus was coming, <font> went
+NEWCOME-NEW-1796-1,11,20J.984
+
+and <$$font> met him: NEWCOME-NEW-1796-1,11,20J.985
+
+but Mary sat in the house.  NEWCOME-NEW-1796-1,11,20J.986
+
+Then said Martha to Jesus;"Master, if thou hadst been here, my brother
+had not died.  NEWCOME-NEW-1796-1,11,20J.987
+
+But I know that, even now, whatsoever thou shalt ask of God, God will
+give thee. "NEWCOME-NEW-1796-1,11,20J.988
+
+Jesus saith unto her;"Thy brother shall rise again. "
+NEWCOME-NEW-1796-1,11,20J.989
+
+Martha saith unto him;"I know that he will rise again in the resurrection
+at the last day. "NEWCOME-NEW-1796-1,11,20J.990
+
+Jesus said unto her;"I am the resurrection, and the life:
+NEWCOME-NEW-1796-1,11,20J.991
+
+he who believeth in me, though he die, yet he shall live:
+NEWCOME-NEW-1796-1,11,20J.992
+
+and whosoever liveth, and believeth in me, shall never die.
+NEWCOME-NEW-1796-1,11,20J.993
+
+Believest thou this? "NEWCOME-NEW-1796-1,11,20J.994
+
+She saith unto him;"Yes, Master, I believe that thou art the
+Christ, the Son of God, who was to come into the world. "
+NEWCOME-NEW-1796-1,11,20J.995
+
+And when she had said this, she went NEWCOME-NEW-1796-1,11,20J.996
+
+and called her sister Mary secretly, saying;"The Master is come and
+calleth for thee. "NEWCOME-NEW-1796-1,11,20J.997
+
+As soon as <font> Mary <$$font> heard <font> this, <$$font> she riseth
+quickly, NEWCOME-NEW-1796-1,11,20J.998
+
+and cometh to him.  NEWCOME-NEW-1796-1,11,20J.999
+
+<paren> Now Jesus was not yet come into the town;
+NEWCOME-NEW-1796-1,11,20J.1000
+
+but was in the place where Martha met him.  <$$paren>
+NEWCOME-NEW-1796-1,11,20J.1001
+
+The Jews then, who were with Mary in the house, and were comforting
+her, when they saw that she rose up hastily, and went out, followed
+her, saying;"She goeth to the sepulchre, that she may weep there.
+"NEWCOME-NEW-1796-1,11,20J.1002
+
+As soon then as Mary came where Jesus was, and saw him, she fell down at
+his feet, saying unto him;"Master, if thou hadst been here, my brother
+had not died. "NEWCOME-NEW-1796-1,11,20J.1003
+
+When Jesus therefore saw her weeping, and the Jews <font>
+also <$$font> weeping who came with her, he groaned in spirit,
+NEWCOME-NEW-1796-1,11,20J.1004
+
+and was troubled, NEWCOME-NEW-1796-1,11,20J.1005
+
+and said;"Where have ye laid him? "NEWCOME-NEW-1796-1,11,20J.1006
+
+They say unto him;"Master, come and see. " NEWCOME-NEW-1796-1,11,20J.1007
+
+Jesus wept.  NEWCOME-NEW-1796-1,11,20J.1008
+
+The Jews therefore said;"See, how he loved him. "
+NEWCOME-NEW-1796-1,11,20J.1009
+
+But some of them said;"Could not He, that opened the eyes of the blind
+man, have caused even that this <font> Lazarus <$$font> should not have
+died. "NEWCOME-NEW-1796-1,11,20J.1010
+
+Jesus therefore, again groaning in himself, cometh to the sepulchre.
+NEWCOME-NEW-1796-1,11,20J.1011
+
+Now it was a cave, NEWCOME-NEW-1796-1,11,20J.1012
+
+and a stone lay against it.  NEWCOME-NEW-1796-1,11,20J.1013
+
+Jesus saith;"Take away the stone. "NEWCOME-NEW-1796-1,11,20J.1014
+
+Martha, the sister of him that was dead, saith unto him;"Master, by this
+time he stinketh: NEWCOME-NEW-1796-1,11,20J.1015
+
+for he hath been <font> buried <$$font> four days. "
+NEWCOME-NEW-1796-1,11,20J.1016
+
+<P_11,40J>
+
+Jesus saith unto her;"Said I not unto thee that, if thou wouldest believe,
+thou shouldest see the glory of God? " NEWCOME-NEW-1796-1,11,40J.1018
+
+Then they took away the stone.  NEWCOME-NEW-1796-1,11,40J.1019
+
+And Jesus lifted up <font> his <$$font> eyes,
+NEWCOME-NEW-1796-1,11,40J.1020
+
+and said,"Father, I thank thee that thou hast heard me.
+NEWCOME-NEW-1796-1,11,40J.1021
+
+I know indeed that thou hearest me always: NEWCOME-NEW-1796-1,11,40J.1022
+
+but because of the multitude who stand by I have said <font>
+this, <$$font> that they may believe that thou hast sent me. "
+NEWCOME-NEW-1796-1,11,40J.1023
+
+And when he had said these words, he cried out with a loud voice;
+"Lazarus, come forth. "NEWCOME-NEW-1796-1,11,40J.1024
+
+<bracket> And <$$bracket> he that had been, dead came out, having his
+hands and feet bound with grave-clothes: NEWCOME-NEW-1796-1,11,40J.1025
+
+and his face was bound about with a napkin.
+NEWCOME-NEW-1796-1,11,40J.1026
+
+Jesus saith unto them;"Loose him, NEWCOME-NEW-1796-1,11,40J.1027
+
+and let him go. "NEWCOME-NEW-1796-1,11,40J.1028
+
+Then many of the Jews who had come to Mary, and had seen the things
+which Jesus did, believed in him.  NEWCOME-NEW-1796-1,11,40J.1029
+
+But some of them went away to the Pharisees,
+NEWCOME-NEW-1796-1,11,40J.1030
+
+and told them what things Jesus had done.  NEWCOME-NEW-1796-1,11,40J.1031
+
+The chief-priests therefore and the Pharisees assembled a council,
+NEWCOME-NEW-1796-1,11,40J.1032
+
+and said;"What shall we do?  NEWCOME-NEW-1796-1,11,40J.1033
+
+for this man doeth many miracles.  NEWCOME-NEW-1796-1,11,40J.1034
+
+If we suffer him <font> to go on <$$font> thus, all <font> men <$$font>
+will believe in him: NEWCOME-NEW-1796-1,11,40J.1035
+
+and the Romans will come and take away both our place and nation.
+"NEWCOME-NEW-1796-1,11,40J.1036
+
+Then one of them, <font> named <$$font> Caiaphas, being high-priest that
+year, said unto them;"Ye know nothing; NEWCOME-NEW-1796-1,11,40J.1037
+
+nor consider that it is expedient for us that one man should die
+for the people, and that the whole nation should not perish. "
+NEWCOME-NEW-1796-1,11,40J.1038
+
+Now he spake not this of himself: NEWCOME-NEW-1796-1,11,40J.1039
+
+but, being high-priest that year, he prophesied that Jesus was to die
+for that nation: and <font> indeed <$$font> not for that nation only;
+but that he should gather together also in one the children of God,
+who were scattered abroad.  NEWCOME-NEW-1796-1,11,40J.1040
+
+From that day therefore they took counsel together to kill him.
+NEWCOME-NEW-1796-1,11,40J.1041
+
+Jesus therefore no longer walked openly among the Jews;
+NEWCOME-NEW-1796-1,11,40J.1042
+
+but went thence to a country near the desert, to a city called Ephraim;
+NEWCOME-NEW-1796-1,11,40J.1043
+
+and continued there with his disciples.  NEWCOME-NEW-1796-1,11,40J.1044
+
+And the passover of the Jews was near: NEWCOME-NEW-1796-1,11,40J.1045
+
+and many went up to Jerusalem out of the country before the passover,
+to purify themselves.  NEWCOME-NEW-1796-1,11,40J.1046
+
+Then they sought for Jesus, NEWCOME-NEW-1796-1,11,40J.1047
+
+and said among themselves, as they stood in the temple,"What think ye ?
+that he will not come to the feast? "NEWCOME-NEW-1796-1,11,40J.1048
+
+Now both the chief-priests and the Pharisees had given a commandment ,
+that, if any man knew where he was, he should discover <font> it <$$font>;
+that they might apprehend him.  NEWCOME-NEW-1796-1,11,40J.1049

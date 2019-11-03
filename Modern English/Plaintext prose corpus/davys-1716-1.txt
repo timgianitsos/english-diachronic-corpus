@@ -1,0 +1,2568 @@
+<P_23>
+
+<heading>
+
+Act II.  DAVYS-1716-1,23.3
+
+Scene <font> Lady <$$font> Ample <font>'s <$$font>.  DAVYS-1716-1,23.4
+
+<$$heading>
+
+<font> Lady <$$font> Ample, <font> Lady <$$font> Swish, <font> Lady
+<$$font> Cordivant, <font> and Lady <$$font> Greasy, <font> set at
+Breakfast, with hot Ale and Ginger, Butter, Rolls, a huge <$$font>
+Cheshire <font> Cheese, and a Plate of drunken Toast, before them.
+<$$font> DAVYS-1716-1,23.6
+
+L. <font> Swish.  <$$font> And as I was telling your Ladyship,
+my Husband, Alderman <font> Swish <$$font>, lost three of his best
+Customers, for refusing his Vote to Capt. <font> Flip.  <$$font>
+DAVYS-1716-1,23.7
+
+L. <font> Cor. <$$font> Aye, aye, $it $'s {TEXT:it's}
+an easier Matter to lose one's Customers by refusing a Vote, than get
+new ones by giving on't.  DAVYS-1716-1,23.8
+
+L. <font> Am. <$$font> But, Madam, if the Alderman lost
+his Customers, he gain'd his Cause; DAVYS-1716-1,23.9
+
+and that was worth something.  DAVYS-1716-1,23.10
+
+L. <font> Cor. <$$font> So it was, Madam; DAVYS-1716-1,23.11
+
+and he that has got it, is an honest Gentleman.  DAVYS-1716-1,23.12
+
+I promis'd him my Husband's Vote, when he was not at Home,
+DAVYS-1716-1,23.13
+
+and had much ado to make him stand to it; DAVYS-1716-1,23.14
+
+but next Morning I had a Ham and a Hare sent me, DAVYS-1716-1,23.15
+
+and that brought him over to my Side.  DAVYS-1716-1,23.16
+
+L. <font> Gr. <$$font> Marry, when my Husband's Worship was
+alive, I got nothing for his Vote, but a Kiss, and a Couple of Congees,
+DAVYS-1716-1,23.17
+
+and thought my self hugely paid <P_24> too: DAVYS-1716-1,24.18
+
+for he was a curious fine Gentleman, DAVYS-1716-1,24.19
+
+and smelt like any Perfumer's Shop: DAVYS-1716-1,24.20
+
+But I wish'd I had not seen him; DAVYS-1716-1,24.21
+
+for I could not abide my own Husband for above a Month after.
+DAVYS-1716-1,24.22
+
+L. <font> Swish.  <$$font> Well, my Lady <font> Greasy <$$font>, if
+you got nothing but a Kiss and a Compliment, your Neighbour, Mrs.
+<font> Double <$$font>, got something else, DAVYS-1716-1,24.23
+
+or $she $'s {TEXT:she's} fouly bely'd.  DAVYS-1716-1,24.24
+
+L. <font> Am. <$$font> Nay, Ladies, if you introduce
+Scandal, you invade the Rights of the Tea-Table; DAVYS-1716-1,24.25
+
+and since you will have none of the Liquor, pray $let $'s {TEXT:let's}
+have none of the Talk.  DAVYS-1716-1,24.26
+
+Lady <font> Greasy <$$font>, why $do $n't {TEXT:don't} you drink your Ale?
+DAVYS-1716-1,24.27
+
+$You $'ll {TEXT:You'll} let it be cold.  DAVYS-1716-1,24.28
+
+I wish I had known of your coming, DAVYS-1716-1,24.29
+
+I would have had something better for you.  DAVYS-1716-1,24.30
+
+L. <font> Gre. <$$font> Indeed, my Lady, every Thing is
+very good; DAVYS-1716-1,24.31
+
+but I can drink no more, unless we had had a Bit of Flesh;
+DAVYS-1716-1,24.32
+
+a Collop of Bacon, or hung Beef, would have done well.  DAVYS-1716-1,24.33
+
+L. <font> Am. <$$font> I am sorry I am no better provided
+of suitable Meat for such Stomachs.  <bracket> <font> Aside.  <$$font>
+<$$bracket> DAVYS-1716-1,24.34
+
+But if you will please to stay the frying of an Egg and a Collop, my
+Maid shall do it in a Motion.  DAVYS-1716-1,24.35
+
+L. <font> Swish.  <$$font> No, Madam, by no Means;
+DAVYS-1716-1,24.36
+
+$it $'s {TEXT:it's} too late now: DAVYS-1716-1,24.37
+
+But where is the young Gentlewoman that we came to drink with:
+DAVYS-1716-1,24.38
+
+Must we not have her good Company, to take a Cup of hotted Ale with us?
+DAVYS-1716-1,24.39
+
+L. <font> Am. <$$font> Yes, yes, Madam, she will be here
+presently; DAVYS-1716-1,24.40
+
+she happens to be up this Morning, which is a Wonder; DAVYS-1716-1,24.41
+
+for she is one of those that loves no Companion in the Morning so well
+as her Bed.  DAVYS-1716-1,24.42
+
+And I am sure such Company must needs confirm her in her Choice.
+<bracket> <font> Aside.  <$$font> <$$bracket> DAVYS-1716-1,24.43
+
+But here she comes.  DAVYS-1716-1,24.44
+
+<font> Enter <$$font> Isabella <font>, DAVYS-1716-1,24.45
+
+all rise but Lady <$$font> Greasy.  DAVYS-1716-1,24.46
+
+L. <font> Gr. <$$font> Sweet Mrs. <font> Isbel
+<$$font>, pray excuse me; DAVYS-1716-1,24.47
+
+for I have got such a Pain in my Huck-bone, that when I am once set,
+I $can $n't {TEXT:can't} get up again.  DAVYS-1716-1,24.48
+
+<font> Isa. <$$font> Pray, Ladies, be pleas'd to sit.
+DAVYS-1716-1,24.49
+
+I suppose, Madam, you have got a Cold in your Hip.  DAVYS-1716-1,24.50
+
+L. <font> Gr. <$$font> No, Mrs. <font> Isbel
+<$$font>, I have had it a great while, DAVYS-1716-1,24.51
+
+and they tell me $'t $is {TEXT:'tis} a Certificate.  DAVYS-1716-1,24.52
+
+L. <font> Am. <$$font> I rather fancy, Madam, it is a
+<font> Sciatica.  <$$font> DAVYS-1716-1,24.53
+
+<P_25>
+
+L. <font> Gr. <$$font> Nay, I know not, DAVYS-1716-1,25.55
+
+$it $'s {TEXT:it's} some hard Word; DAVYS-1716-1,25.56
+
+but whatever they call it, I am sure I feel it.  DAVYS-1716-1,25.57
+
+<font> <paren> Belches <$$paren> <$$font> Oh!  wo worth this Wind,
+DAVYS-1716-1,25.58
+
+it just overcomes me.  DAVYS-1716-1,25.59
+
+<font> Isa. Aside.  <$$bracket> <$$font> Aye, and every Body else,
+a nasty Pole-Cat.  DAVYS-1716-1,25.60
+
+<font> To Lady <$$font> Ample.  Madam, have you no Brandy for my Lady ;
+DAVYS-1716-1,25.61
+
+<bracket> <font> Aside <$$font> <$$bracket> for I fancy $that $'s
+{TEXT:that's} what she would be at.  DAVYS-1716-1,25.62
+
+L. <font> Gr. <$$font> Aye, Mrs. <font> Isbel
+{COM:sic} <$$font>, you know $what $'s {TEXT:what's} good for an old
+Woman.  DAVYS-1716-1,25.63
+
+Truly I never us'd to drink Brandy'til now of late, that I have been
+troubled with an Expression at my Stomach.  DAVYS-1716-1,25.64
+
+<font> Isa. Aside.  <$$bracket> <$$font> So, this is like her
+Certificate.  DAVYS-1716-1,25.65
+
+She has abundance of new Distempers.  DAVYS-1716-1,25.66
+
+Ladies, will any of you drink a Dish of Tea this Morning?
+DAVYS-1716-1,25.67
+
+L. <font> Gr. <$$font> No, Mrs. <font>
+Isbel <$$font>, no; we are for none of your far-fetch'd Liquors.
+DAVYS-1716-1,25.68
+
+Tea!  what is it good for, but to swill one's Guts, scald the Teeth out,
+and never warm the Heart.  DAVYS-1716-1,25.69
+
+No, I thank you, DAVYS-1716-1,25.70
+
+we are for none of your Tea.  DAVYS-1716-1,25.71
+
+<font> Isa. <$$font> I doubt, Madam, $you $'re {TEXT:you're}
+not sociable, if you $do $n't {TEXT:don't} drink Tea.  DAVYS-1716-1,25.72
+
+I am sure you are in a Neighbourhood where they drink a great deal.
+DAVYS-1716-1,25.73
+
+L. <font> Gr. <$$font> Yes, yes, but I $do $n't {TEXT:don't}
+like'em; DAVYS-1716-1,25.74
+
+they are too proud, DAVYS-1716-1,25.75
+
+and knows not how to behave themselves to their Betters.
+DAVYS-1716-1,25.76
+
+$There $'s {TEXT:There's} one of them but a Knight's Wife,
+DAVYS-1716-1,25.77
+
+and she, forsooth, must sit above me, tho'my Husband was a Lord; nay,
+one of the best Sort of Lords, DAVYS-1716-1,25.78
+
+he was Lord-Mayor.  DAVYS-1716-1,25.79
+
+L. <font> Swish.  <$$font> Aye, and another proud Flirt jostled
+me from the Head of the Table, tho'her Husband was but a paultry Officer,
+a Colonel, or some such Thing.  DAVYS-1716-1,25.80
+
+<font> Isa. Aside.  <$$bracket> <$$font> I have not Patience with
+those ignorant Brutes.  DAVYS-1716-1,25.81
+
+Ladies, you speak with too much Contempt.  DAVYS-1716-1,25.82
+
+There are a great many fine Gentlemen in the Army, that behave themselves
+with as much good Manners and Gallantry at Home, as Bravery and Honour
+Abroad.  DAVYS-1716-1,25.83
+
+L. <font> Swish.  <$$font> Aye, aye; I know you young Ladies like
+their fine Fringes and Feathers.  DAVYS-1716-1,25.84
+
+But what do you think of Captain <font> Tinsel <$$font>, Madam?
+DAVYS-1716-1,25.85
+
+<font> Isa. <$$font> I $do $n't {TEXT:don't} know much of him;
+DAVYS-1716-1,25.86
+
+but allowing him to be a Man of no Worth, would you condemn a <P_26>
+whole Society because they happen to have one Scoundrel among'em.
+DAVYS-1716-1,26.87
+
+<font> Enter a Servant.  <$$font> DAVYS-1716-1,26.88
+
+<font> Serv. <$$font> Madam, Sir <font> Jeffrey Hearty <$$font>
+is just alighted, DAVYS-1716-1,26.89
+
+and desires to know if your Ladyship be at Leisure.  DAVYS-1716-1,26.90
+
+L. <font> Am. <$$font> Wait on him up Stairs.
+DAVYS-1716-1,26.91
+
+<bracket> <font> Exit Serv. <$$font> <$$bracket> DAVYS-1716-1,26.92
+
+$You $'ll {TEXT:You'll} pardon the Freedom I take, Ladies, in introducing
+a Stranger into your Company, DAVYS-1716-1,26.93
+
+but he is a Relation, and a Country Gentleman, one that $wo $n't
+{TEXT:won't} overload you with Complements {COM:sic}, I dare promise you.
+DAVYS-1716-1,26.94
+
+<font> Enter Sir <$$font> Jeffrey.  DAVYS-1716-1,26.95
+
+L. <font> Am. <$$font> $You $'re {TEXT:You're} welcome to
+<font> York, <$$font> Sir <font> Jeffrey.  <$$font> DAVYS-1716-1,26.96
+
+Sir <font> Jef. <$$font> Cousin <font> Ample <$$font>, I am yours.
+DAVYS-1716-1,26.97
+
+Cousin <font> Bella <$$font>, I am glad to see you.  DAVYS-1716-1,26.98
+
+Ladies, your humble Servant.  DAVYS-1716-1,26.99
+
+<bracket> <font> Salutes them all.  <$$font> <$$bracket>
+DAVYS-1716-1,26.100
+
+Aye, this is like the good $old-fashion'd {TEXT:old_fashion'd} Way of
+House-keeping.  DAVYS-1716-1,26.101
+
+I expected to have found you all set round a Table no bigger than a
+Past-board, and not much stronger, by my Troth, with a Parcel of little
+Crocks, that hold no more than a Girl would drink before her Sweet-heart.
+DAVYS-1716-1,26.102
+
+Come, have you left any Thing, that a Man may partake with you?
+DAVYS-1716-1,26.103
+
+L. <font> Gr. <$$font> Aye, Sir, you Brede of me;
+DAVYS-1716-1,26.104
+
+you and I shou'd do mains weell together.  DAVYS-1716-1,26.105
+
+I am for something in my Stomach that will keep out the Wind, and
+not swill my Guts with hot Water,'till one may hear it swash as I go.
+DAVYS-1716-1,26.106
+
+Sir <font> Jef. <$$font> Truly, Madam, you are in the right on't.
+DAVYS-1716-1,26.107
+
+The Women in this Age mind nothing but their Pleasure, DAVYS-1716-1,26.108
+
+and study nothing but how to consume their Husband's Money.
+DAVYS-1716-1,26.109
+
+L. <font> Gr. <$$font> Rise at Noon.  DAVYS-1716-1,26.110
+
+Sir <font> Jef. <$$font> Dine at Night.  DAVYS-1716-1,26.111
+
+L. <font> Gr. <$$font> Go to Bed in the Morning.
+DAVYS-1716-1,26.112
+
+Sir <font> Jef. <$$font> As soon as $thay $'re {TEXT:thay're} up,
+call <font> Jenny <$$font> to hang on the Tea-Kettle, and bring them a
+clear-starch'd Muslin Apron.  DAVYS-1716-1,26.113
+
+L. <font> Gr. <$$font> Aye; and for fear it should keep
+too long clean, the Dog with his mucky Paws must be laid upon it.
+DAVYS-1716-1,26.114
+
+Sir <font> Jef. <$$font> When the $Tea $'s {TEXT:Tea's} ready
+they sit down, DAVYS-1716-1,26.115
+
+and eat and drink'till they are ready to burst; DAVYS-1716-1,26.116
+
+and then <P_27> their Husbands or Fathers must pity them, because they
+can eat no Dinner.  DAVYS-1716-1,27.117
+
+<font> Isa. <$$font> I wonder, Sir <font> Jeffrey <$$font>, how
+you, that live in the Country, come to be so well acquainted with the
+Behaviour of the Ladies of <font> York!  <$$font> DAVYS-1716-1,27.118
+
+Sir <font> Jef. <$$font> Oh, Madam, $'t $is {TEXT:'tis} not
+the first Time I have been among the Ladies of <font> York.  <$$font>
+DAVYS-1716-1,27.119
+
+As soon as the $Cloth $'s {TEXT:Cloth's} taken away, thay dispatch a
+Courier to three or four Idlers, like themselves, to make up a Set at Lue,
+at which, when thay have lost all their Money, and fall'n out, thay begin
+to dress for the Assembly.  L. <font> Am. <$$font> Where,
+as Mr. <font> Congreve <$$font> says, the Coroner's Inquest fits
+upon all the murder'd Reputations of the Town.  DAVYS-1716-1,27.120
+
+Sir <font> Jef. <$$font> True, Madam.  DAVYS-1716-1,27.121
+
+<font> Isa. <$$font> But pray, Sir <font> Jeffrey <$$font>,
+how must your Spouse behave herself when you get her?  DAVYS-1716-1,27.122
+
+If she must rise at four to look after her Dairy, and keep undress'd
+herself to dress your Dinner, I think she might as well have taken one
+of your Tenants as your self; DAVYS-1716-1,27.123
+
+for Nature has made no Difference betwixt a Gentlewoman and a
+Kitchen-Wench; DAVYS-1716-1,27.124
+
+it is the Sweets of Life that has done it, DAVYS-1716-1,27.125
+
+and if we must not enjoy them, they are of no Use.  DAVYS-1716-1,27.126
+
+Sir <font> Jef. <$$font> Well said, my little <font> Bell.
+<$$font> DAVYS-1716-1,27.127
+
+Come, come, you and I must talk again about this Matter.
+DAVYS-1716-1,27.128
+
+L. <font> Gr. <$$font> Pray, my Lady <font> Ample <$$font>
+, will you call your Maid, that we may know what Bread and Ale we have
+had; DAVYS-1716-1,27.129
+
+for I must needs be going.  DAVYS-1716-1,27.130
+
+L. <font> Am. <$$font> Ladies, I should take it as the
+greatest Mark of your Favour, if you would dispense with the Custom of
+the Town for once, and let this little Treat be mine.  DAVYS-1716-1,27.131
+
+L. <font> Swish.  <$$font> By no Means, Madam; DAVYS-1716-1,27.132
+
+I had as lieve break a Leg or an Arm, as an old Custom.
+DAVYS-1716-1,27.133
+
+L. <font> Cor. <$$font> No, my Lady, no; DAVYS-1716-1,27.134
+
+this has been a Custom Time out of Mind.  DAVYS-1716-1,27.135
+
+Our ancient and loyal City of <font> York <$$font>, has always been
+famous for keeping up an hearty and neighbourly Way among our selves,
+which keeps us all Friends; DAVYS-1716-1,27.136
+
+for eating, as well as lying together, makes Folks love.
+DAVYS-1716-1,27.137
+
+<P_28>
+
+L. <font> Am. <$$font> Well, Ladies, if it must be so, I
+had better submit my single Opinion, than oppose so many superior ones.
+DAVYS-1716-1,28.139
+
+Here, <font> Susan <$$font>, bring a Plate, DAVYS-1716-1,28.140
+
+and let us know what Bread and Ale we have had.  DAVYS-1716-1,28.141
+
+Sir <font> Jef. Aside.  <$$font> <$$bracket> How much Bread
+and Ale!  DAVYS-1716-1,28.142
+
+what a Plague do they mean?  DAVYS-1716-1,28.143
+
+<font> Enter <$$font> Susan <font> with a Plate.  <$$font>
+DAVYS-1716-1,28.144
+
+<font> Su. <$$font> $There $'s {TEXT:There's} four Quarts
+of Country Ale, one of strong Beer, and three Pennyworth of Bread.
+DAVYS-1716-1,28.145
+
+L. <font> Cor. <$$font> $Pray $thee {TEXT:Prithee}, Barn,
+tell us how much it comes to; DAVYS-1716-1,28.146
+
+for we are no great Reckoners.  DAVYS-1716-1,28.147
+
+<font> Su. Aside.  <$$font> <$$bracket> No, so it seems, by
+my Troth.  DAVYS-1716-1,28.148
+
+Madam, it comes to just two and nine Pence.  DAVYS-1716-1,28.149
+
+L. <font> Gr. takes the Plate.  <$$font> DAVYS-1716-1,28.150
+
+Come then, our Twelvepence a-piece does it, DAVYS-1716-1,28.151
+
+and $there $'s {TEXT:there's} something for the Maid.  DAVYS-1716-1,28.152
+
+<font> Su. Aside.  <$$font> <$$bracket> Take two and nine Pence
+out of three Shilling, DAVYS-1716-1,28.153
+
+and what remains?  DAVYS-1716-1,28.154
+
+A Pox on their Threepenny Present.  DAVYS-1716-1,28.155
+
+<bracket> <font> The Ladies get up, DAVYS-1716-1,28.156
+
+and take their Leaves.  <$$font> <$$bracket> DAVYS-1716-1,28.157
+
+<bracket> <font> Exit <$$font> Susan.  DAVYS-1716-1,28.158
+
+L. <font> Gr. <$$font> Good Morrow, my good Lady <font>
+Ample <$$font>, DAVYS-1716-1,28.159
+
+and thank you for me.  DAVYS-1716-1,28.160
+
+Sweet Mrs. <font> Isbel <$$font>, your Servant, DAVYS-1716-1,28.161
+
+Servant Sir.  DAVYS-1716-1,28.162
+
+<bracket> <font> Exeunt <$$font> Ladies.  DAVYS-1716-1,28.163
+
+<font> Isa. <$$font> So, Thanks to my Stars, I am rid of my Plague.
+DAVYS-1716-1,28.164
+
+I had rather sit in the Stocks all Day, and hear the Mob sing Ballads
+, than be consin'd to the Impertinence of those worshipful Ladies.
+DAVYS-1716-1,28.165
+
+Sir <font> Jef. <$$font> Why what a Pox, DAVYS-1716-1,28.166
+
+Cousin <font> Ample <$$font>, do you invite Folks to your House, and
+then make them pay the Reckoning.  DAVYS-1716-1,28.167
+
+Belike I shall have my Beer to pay for by and by.  DAVYS-1716-1,28.168
+
+L. <font> Am. <$$font> Ha, ha, ha: No, Sir <font> Jeffrey,
+<$$font> you shall come off scot-free, I warrant you.  DAVYS-1716-1,28.169
+
+I would not, you see, have taken their Money, but in Compliance to
+a foolish Custom, of which they are very fond, tho'they pay for't.
+DAVYS-1716-1,28.170
+
+You might have minded my Opposition put'em into a mighty Stickle in
+Defence of their Privileges.  DAVYS-1716-1,28.171
+
+Sir <font> Jef. <$$font> A foolish Custom, $quoth $he
+{TEXT:quotha}!  DAVYS-1716-1,28.172
+
+Is it your Custom to go to one another's Houses, guzzle five or six
+Quarts of Ale, and then club round to pay for't?  DAVYS-1716-1,28.173
+
+<P_29>
+
+L. <font> Am. <$$font> Nay, Sir <font> Jeffrey <$$font>
+, if you find Fault with our Proceedings, you must no more be admitted
+into our Society.  DAVYS-1716-1,29.175
+
+I do assure you, this Humour prevails all the Town over,
+DAVYS-1716-1,29.176
+
+and every trivial Occasion brings them together.  DAVYS-1716-1,29.177
+
+<font> Isa. <$$font> Aye, aye, if a Friend comes to Town, they
+come to drink with you for Joy; DAVYS-1716-1,29.178
+
+if they go out of Town, they come to help you to wash away Sorrow;
+so that the good People are resolv'd to share both your Pleasure and
+your Pain, provided they may have a little Victuals and Drink to keep
+up their Spirits.  DAVYS-1716-1,29.179
+
+Sir <font> Jef. <$$font> I have often heard of the Gossips of
+<font> York <$$font>, DAVYS-1716-1,29.180
+
+but never saw any of'em before.  DAVYS-1716-1,29.181
+
+Pray what extraordinary Occasion brought'em here $today {TEXT:to_Day}.
+DAVYS-1716-1,29.182
+
+<font> Isa. <$$font> They came, I thank'em, to drink with me,
+as they call it.  DAVYS-1716-1,29.183
+
+$Tomorrow {TEXT:To_Morrow}, I suppose, Sir <font> Jeffrey <$$font>,
+they will come and drink you to Town.  DAVYS-1716-1,29.184
+
+Sir <font> Jef. <$$font> Gad's Bud, I would they would, by the
+Lord Harry, DAVYS-1716-1,29.185
+
+$I $'d {TEXT:I'd} make'em a Boul of Punch should send'em Home so chirping
+merry, they should remember me'till I came again; DAVYS-1716-1,29.186
+
+and then, if they would, $I $'d {TEXT:I'd} make'em another.
+DAVYS-1716-1,29.187
+
+L. <font> Am. <$$font> Truly, Sir <font> Jeffrey <$$font>
+, I believe if some of'em knew your Mind, they would go near to take
+you at your Word; DAVYS-1716-1,29.188
+
+for they $do $n't {TEXT:don't} love Tea.  DAVYS-1716-1,29.189
+
+Sir <font> Jef. <$$font> Well, my little Bell, how many Sweethearts
+hast got?  DAVYS-1716-1,29.190
+
+Come, I doubt $you $'re {TEXT:you're} hard to please.  DAVYS-1716-1,29.191
+
+L. <font> Am. <$$font> Aye, Sir <font> Jeffrey <$$font>
+, so she is.  DAVYS-1716-1,29.192
+
+Sir <font> Jef. <$$font> Come, I believe I must bring her one from
+the Races, a brisk young Fellow that can leap over a five barr'd Gate,
+either a Foot or a Horseback; can hollow after a Pack of Dogs, without
+straining his lungs; and gallop after a Hare, without breaking the Neck.
+DAVYS-1716-1,29.193
+
+What say you to that, my Lass?  DAVYS-1716-1,29.194
+
+<font> Isa. <$$font> I say Sir <font> Jeffrey <$$font>, you have
+not describ'd the Man I like, DAVYS-1716-1,29.195
+
+I should be better pleas'd with one that lov'd less violent Exercises,
+and gave me less Fears in his Absence; DAVYS-1716-1,29.196
+
+for whatever Pleasure he might take Abroad, I am sure I should not have
+much at Home, when I came to consider his Danger.  DAVYS-1716-1,29.197
+
+Sir <font> Jef. <$$font> Well said, my little <font> Bell;
+<$$font> DAVYS-1716-1,29.198
+
+by my Troth, that Answer is worth a Pint of Sack.  DAVYS-1716-1,29.199
+
+Why thou <P_30> hast too much good Nature in thee for a modern Wife,
+DAVYS-1716-1,30.200
+
+and vow to Gad I believe will love thy Husband.  DAVYS-1716-1,30.201
+
+<font> Isa. <$$font> It is no Shame to love a good Man, Sir <font>
+Jeffrey; <$$font> DAVYS-1716-1,30.202
+
+and if he that Heaven has allotted me, prove worthy of that Character,
+I should deserve a very ill one my self, if any Thing were wanting on
+my Side, to contribute to his Happiness.  DAVYS-1716-1,30.203
+
+Sir <font> Jef. <$$font> Gad, I have a good {TEXT:good_a} Mind
+to court thee my self.  DAVYS-1716-1,30.204
+
+Come, Come, what signifies twenty or thirty Years Difference;
+DAVYS-1716-1,30.205
+
+say but the Word, DAVYS-1716-1,30.206
+
+and $I $'ll {TEXT:I'll} go and take out a License before I go to the
+Races.  DAVYS-1716-1,30.207
+
+<font> Isa. <$$font> No, Sir, I $can $n't {TEXT:can't} promise
+to be equally complaisant to all Men alike neither; DAVYS-1716-1,30.208
+
+for as I am resolv'd to love the Man I marry, I am resolv'd to marry
+the Man I love; DAVYS-1716-1,30.209
+
+for Love, like Charity, covers a Multitude of Faults.  DAVYS-1716-1,30.210
+
+L. <font> Am. <$$font> Sir <font> Jeffrey <$$font>, will
+you dine with me $today {TEXT:to_Day}, DAVYS-1716-1,30.211
+
+and $I $'ll {TEXT:I'll} order Dinner exactly half an Hour after twelve,
+that we may all be ready for the Races?  DAVYS-1716-1,30.212
+
+Sir <font> Jef. <$$font> With all my Heart; DAVYS-1716-1,30.213
+
+and if I can but bring my little <font> Bell <$$font> to have a good
+Opinion of me, I shall go near to make the Pudding a Pound lighter.
+DAVYS-1716-1,30.214
+
+I am going now to <font> Ned Grey's <$$font>, to meet a Friend about
+some Business; DAVYS-1716-1,30.215
+
+at twelve you may expect me.  DAVYS-1716-1,30.216
+
+<bracket> <font> Exit.  <$$font> DAVYS-1716-1,30.217
+
+L. <font> Am. <$$font> So, my little <font> Bell <$$font>
+, you have got Hansel however; DAVYS-1716-1,30.218
+
+you $can $n't {TEXT:can't} say the Races have brought you nothing.
+DAVYS-1716-1,30.219
+
+<font> Isa. <$$font> No, Madam; DAVYS-1716-1,30.220
+
+but I can say they have brought me something worse than nothing.
+DAVYS-1716-1,30.221
+
+It will be very hard if my Person and Fortune can command nothing better
+than an old Country Knight.  DAVYS-1716-1,30.222
+
+L. <font> Am. <$$font> True, Child; DAVYS-1716-1,30.223
+
+but that you need not fear: DAVYS-1716-1,30.224
+
+For if your Person should want Attractives, your twenty thousand Pounds
+will find a numerous Train of Attendants; DAVYS-1716-1,30.225
+
+<font> Mahomet's <$$font> Load-stone never drew with a more magnetick
+Force.  DAVYS-1716-1,30.226
+
+Besides, you forget Sir <font> Loobily Joddrel <$$font>, a Man young
+and handsome, rich, and - <font> DAVYS-1716-1,30.227
+
+Isa. <$$font> Hold, dear Madam, DAVYS-1716-1,30.228
+
+I am so afraid you should out-run the Constable; DAVYS-1716-1,30.229
+
+I suppose the next Thing would have been his Wit.  DAVYS-1716-1,30.230
+
+L. <font> Am. <$$font> Well, you jearing Baggage, if he
+be not so <P_31> very quick in his Understanding, as your Favourite
+<font> Gamont <$$font>, he has an Estate and Title to make amends for't.
+DAVYS-1716-1,31.231
+
+<font> Isa. <$$font> What an Unhappiness it is, that our Relations
+never consult any Thing but the Pleasure of Wealth?  DAVYS-1716-1,31.232
+
+$Me $thinks {TEXT:Methinks}, Madam, you that have a Taste for Wit,
+should never prefer a Fool to a Man of Sense; DAVYS-1716-1,31.233
+
+but you force me to say, Sir <font> Loobily <$$font> must never
+hope to succeed, where <font> Gamont <$$font> thinks fit to address.
+DAVYS-1716-1,31.234
+
+L. <font> Am. <$$font> Well, <font> Isabella <$$font>,
+I can but advise; DAVYS-1716-1,31.235
+
+and if you think fit to reject such an Estate, the Folly will be yours.
+DAVYS-1716-1,31.236
+
+But $I $'ll {TEXT:I'll} leave you to consider of it, and go and order
+the old Knight's Dinner; DAVYS-1716-1,31.237
+
+perhaps he may please you better.  DAVYS-1716-1,31.238
+
+<bracket> <font> Exit <$$font> L. <font> Ample.  <$$font>
+DAVYS-1716-1,31.239
+
+<font> Isa. <$$font> Truly, so he does of the two.
+DAVYS-1716-1,31.240
+
+Oh!  what a Morning have I had?  DAVYS-1716-1,31.241
+
+First deafen'd with an impertinent Crew of old Women, DAVYS-1716-1,31.242
+
+then teaz'd with Love from an old Man; DAVYS-1716-1,31.243
+
+then lectur'd in Behalf of a Fool; DAVYS-1716-1,31.244
+
+and last of all, and worst of all, persecuted by my own Thoughts in
+Favour of one that does not deserve that Character.  DAVYS-1716-1,31.245
+
+No, <font> Gamont <$$font>, thy Qualifications are without Objection;
+DAVYS-1716-1,31.246
+
+and could I but perswade my self thy Love was grounded on a generous
+Basis, not all the Titles in the World should ever have Power to draw
+me from thee.  DAVYS-1716-1,31.247
+
+<bracket> <font> Exit <$$font> Isabella.  DAVYS-1716-1,31.248
+
+<font> Enter <$$font> Bareface <font> and <$$font> Liddy.
+DAVYS-1716-1,31.249
+
+<font> Bare. <$$font> Mrs. <font> Liddy <$$font>, if your
+Affairs will permit, I would fain have a Word or two with you in private.
+DAVYS-1716-1,31.250
+
+<font> Lid. <$$font> Sir, my Affairs and Ears are both at your
+Service.  DAVYS-1716-1,31.251
+
+<font> Bare. <$$font> O Lard, Mrs. <font> Liddy <$$font>
+, $you $'re {TEXT:you're} very obliging; DAVYS-1716-1,31.252
+
+but I suppose you are not ignorant of what all the Town knows, that I
+have a good Estate.  DAVYS-1716-1,31.253
+
+<font> Lid. <$$font> No, Sir, I have often heard you have four
+hundred Pounds a Year.  DAVYS-1716-1,31.254
+
+<font> Bare. <$$font> And $do $n't {TEXT:don't} you think that
+very considerable?  DAVYS-1716-1,31.255
+
+<font> Lid. <$$font> Um - Yes, Sir, the $Estate $'s {TEXT:Estate's}
+very well.  DAVYS-1716-1,31.256
+
+<bracket> <font> Aside.  <$$font> <$$bracket> What does the Fellow mean?
+DAVYS-1716-1,31.257
+
+<font> Bare. <$$font> Very well DAVYS-1716-1,31.258
+
+Egad, I think $it $'s {TEXT:it's} extraordinary, added to my Person.
+DAVYS-1716-1,31.259
+
+<font> Lid. Aside.  <$$bracket> <$$font> I $can $n't {TEXT:can't}
+imagine what he means, unless he be going to make Love to me;
+DAVYS-1716-1,31.260
+
+$I $'ll {TEXT:I'll} humour him a little, DAVYS-1716-1,31.261
+
+Indeed, Sir, as you say, such an Estate, <P_32> with your Qualifications,
+is infinitely preferable to a much greater, where they are wanting.
+DAVYS-1716-1,32.262
+
+<font> Bare. <$$font> I find, Mrs. <font> Liddy <$$font>
+, you are a Woman of a distinguishing Taste, and can set a true Value
+upon Wit and Beauty.  DAVYS-1716-1,32.263
+
+Egad, there are not many such Women to be met with.  DAVYS-1716-1,32.264
+
+<font> Lid. Aside.  <$$bracket> <$$font> Aye, it must be so;
+DAVYS-1716-1,32.265
+
+he has certainly a Mind to me.  DAVYS-1716-1,32.266
+
+Sir, I am very proud I have any Thing in my Power to engage your Notice.
+DAVYS-1716-1,32.267
+
+<font> Bare. <$$font> Indeed, Mrs. <font> Liddy <$$font>
+, I have a very great Opinion of you; DAVYS-1716-1,32.268
+
+and to let you see I have, will entrust you with a Secret, in which I
+must beg your Assistance.  DAVYS-1716-1,32.269
+
+<font> Lid. Aside.  <$$bracket> <$$font> Beg my Assistance!
+DAVYS-1716-1,32.270
+
+$It $'s {TEXT:It's} well if I $be $n't {TEXT:ben't} mistaken.
+DAVYS-1716-1,32.271
+
+<font> Bare. <$$font> In short, I am in Love with your Lady,
+DAVYS-1716-1,32.272
+
+and know no Body has a greater Influence over her than you have;
+DAVYS-1716-1,32.273
+
+so, dear Mrs. <font> Liddy <$$font>, if you will be my Friend now,
+I will be yours for ever after.  DAVYS-1716-1,32.274
+
+<font> Lid. Aside.  <$$font> <$$bracket> Pox take him,
+DAVYS-1716-1,32.275
+
+is that all?  DAVYS-1716-1,32.276
+
+No Matter, $I $'ll {TEXT:I'll} humour him still.  DAVYS-1716-1,32.277
+
+Sir, you $can $n't {TEXT:can't} think how pleas'd I am to hear you make
+such a Proposal; DAVYS-1716-1,32.278
+
+and I am sure it is what my Lady will be very proud of;
+DAVYS-1716-1,32.279
+
+<bracket> <font> Aside.  <$$font> <$$bracket> As how should she chuse?
+DAVYS-1716-1,32.280
+
+And you may depend upon all the Service I can do you.  DAVYS-1716-1,32.281
+
+<font> Bare. <$$font> Nay, I believe it will be no hard Matter
+to bring it about, DAVYS-1716-1,32.282
+
+only I would have you to break the Ice.  DAVYS-1716-1,32.283
+
+<font> Lid. Aside.  <$$bracket> <$$font> I may chance bring more
+Matters about, than you are aware of, my Friend.  DAVYS-1716-1,32.284
+
+Sir, I have already given you my Word to be very much at your Service.
+DAVYS-1716-1,32.285
+
+<font> Bare. <$$font> Egad, Mrs. <font> $Liddy {TEXT:Lidd}
+<$$font>, and I will be very much at yours in the mean Time.
+DAVYS-1716-1,32.286
+
+Accept of this small Present, as an Earnest of something better, <font>
+DAVYS-1716-1,32.287
+
+<bracket> Gives a Purse.  <$$font> DAVYS-1716-1,32.288
+
+<font> Lid. <$$font> Oh, dear Sir, I am asham'd to give you so
+much Trouble.  DAVYS-1716-1,32.289
+
+Upon my Word, I should have come the very same Thing, if I had not tasted
+so <font> largely <$$font> of your Bounty.  DAVYS-1716-1,32.290
+
+<font> Bare. <$$font> A Trifle, a Trifle.  DAVYS-1716-1,32.291
+
+Well, $I $'ll {TEXT:I'll} keep you no longer, because I would fain have
+go about it.  DAVYS-1716-1,32.292
+
+Mrs. <font> Liddy <$$font>, your humble Servant.
+DAVYS-1716-1,32.293
+
+<bracket> <font> Exit <$$font> Bare. DAVYS-1716-1,32.294
+
+<font> Lid. Sola.  <$$font> Well, $here $'s {TEXT:here's} a Purse
+of Broads, DAVYS-1716-1,32.295
+
+but $there $'s {TEXT:there's} but a few of'em.  DAVYS-1716-1,32.296
+
+Let me see how many.  DAVYS-1716-1,32.297
+
+<bracket> <font> Opens <$$font> <P_33> <font> the Purse.  <$$bracket>
+<$$font> DAVYS-1716-1,33.298
+
+By all my Hopes to cheat the Fool, five <font> Edward <$$font> Shillings
+: DAVYS-1716-1,33.299
+
+A Trifle, a Trifle, $quoth $he {TEXT:quotha} - A Son of a - Soap-Boiler
+- DAVYS-1716-1,33.300
+
+Well, faith $it $'s {TEXT:it's} e'en enough, considering what $he $'s
+{TEXT:he's} like to get in Return; DAVYS-1716-1,33.301
+
+for my Wits shall fail me confoundedly, if they be not Part of his
+Wife's Portion.  DAVYS-1716-1,33.302
+
+<font> Enter <$$font> Ralph <font> with a Letter in his Hand.  <$$font>
+DAVYS-1716-1,33.303
+
+<font> Ralph.  <$$font> $Hark $ee {TEXT:Harkee}, Mrs. <font> Liddy
+<$$font>, it has always been a Custom, ever since I have been a serving
+Man, that where the Master and Mistress are striking up Preliminaries of
+Peace, the Man and the Maid should have a little private Confabulation;
+DAVYS-1716-1,33.304
+
+then how comes it to pass that you and I are so strange?
+DAVYS-1716-1,33.305
+
+<font> Lid. <$$font> Why you Fool, would you have me begin first?
+DAVYS-1716-1,33.306
+
+<font> Ralph.  <$$font> No, Child, it shall be Sufficient if you comply
+when I begin.  DAVYS-1716-1,33.307
+
+Come, I long to give you Earnest.  DAVYS-1716-1,33.308
+
+<bracket> <font> Goes to kiss her.  <$$font> DAVYS-1716-1,33.309
+
+<font> Lid. <$$font> Stand off, Saucebox, DAVYS-1716-1,33.310
+
+and keep your Distance; DAVYS-1716-1,33.311
+
+$I $'d {TEXT:I'd} have you to know I have better Game in View, and scorn
+Rooks, while I can catch Woodcocks.  DAVYS-1716-1,33.312
+
+<font> Ralph.  <$$font> O Pox, you Chamber-maids are so full of your
+Ladies Airs, that you $do $n't {TEXT:don't} know how to be civil to
+your Equals.  DAVYS-1716-1,33.313
+
+<font> Lid. <$$font> And you Valets are so full of your Master's
+Vanity, that you think every Body is your Equal; DAVYS-1716-1,33.314
+
+but I shall put you in a Way of knowing both your self and me.
+DAVYS-1716-1,33.315
+
+<font> Ralph.  <$$font> Egad, when I write a Play, you shall be the
+Queen in the Tragedy; DAVYS-1716-1,33.316
+
+for I see you can take State upon you to a Miracle.  DAVYS-1716-1,33.317
+
+<font> Lid. <$$font> Aye, pray when you write a Play, let it be
+a Tragedy; DAVYS-1716-1,33.318
+
+for I dare say it will be a sad one.  DAVYS-1716-1,33.319
+
+But $who $'s {TEXT:who's} that Letter for?  DAVYS-1716-1,33.320
+
+<font> Ralph.  <$$font> This Letter, I receiv'd it just now as I came
+in at your Door: DAVYS-1716-1,33.321
+
+$'T $is {TEXT:'Tis} for my young Lady, DAVYS-1716-1,33.322
+
+but I dare not give it to her; DAVYS-1716-1,33.323
+
+I expected a Crown Portage, DAVYS-1716-1,33.324
+
+but came off with a crooked Sixpence.  DAVYS-1716-1,33.325
+
+<font> Lid. <$$font> Aye, I tell you your Expectations outruns
+your Fate; DAVYS-1716-1,33.326
+
+but pray who gave it you?  DAVYS-1716-1,33.327
+
+<font> Ralph.  <$$font> Mr. <font> Bareface; <$$font>
+DAVYS-1716-1,33.328
+
+but I intend to burn it; DAVYS-1716-1,33.329
+
+for I fancy $'t $is {TEXT:'tis} a Love-Letter, DAVYS-1716-1,33.330
+
+and I may chance to have my Head broke about it.  DAVYS-1716-1,33.331
+
+<P_34>
+
+<font> Lid. <$$font> No, $pray $thee {TEXT:prithee}, <font>
+Ralph <$$font>, give it to me; DAVYS-1716-1,34.333
+
+I fancy I may make some Advantage on't.  DAVYS-1716-1,34.334
+
+<font> Ralph.  <$$font> Yes, $you $'re {TEXT:you're} so civil, indeed!
+DAVYS-1716-1,34.335
+
+Come, one Kiss, and $'t $is {TEXT:'tis} yours.  DAVYS-1716-1,34.336
+
+<font> Lid. <$$font> No, Fool, I have a better Way of returning
+your Kindness; DAVYS-1716-1,34.337
+
+another Time you shall know more.  DAVYS-1716-1,34.338
+
+<font> Ralph.  <$$font> Well, take it; DAVYS-1716-1,34.339
+
+for I find I can deny you nothing.  DAVYS-1716-1,34.340
+
+<bracket> <font> Gives the Letter.  <$$font> DAVYS-1716-1,34.341
+
+<font> Lid. <$$font> Have you any Business with my Lady?
+DAVYS-1716-1,34.342
+
+<font> Ralph.  <$$font> Yes, I want to disburden my self of my Master's
+Service to her, and to load my self back with the joyful News of her
+good Health: DAVYS-1716-1,34.343
+
+He will be here himself by and by, to wait upon her to the Races.
+DAVYS-1716-1,34.344
+
+<font> Lid. <$$font> Well, go in, and $I $'ll {TEXT:I'll} acquaint
+my Lady, and bring you her Answer.  DAVYS-1716-1,34.345
+
+<bracket> <font> Exit <$$font> Ralph.  DAVYS-1716-1,34.346
+
+I find Master <font> Bareface <$$font> takes hold of Time by a double
+Handle; DAVYS-1716-1,34.347
+
+$here $'s {TEXT:here's} five and Sixpence gone $today {TEXT:to_Day}
+in Bribes.  DAVYS-1716-1,34.348
+
+Well, since he bids so fair for a Wife, $I $'ll {TEXT:I'll} take Care
+he $sha $n't {TEXT:shan't} be disappointed: DAVYS-1716-1,34.349
+
+I have my double Design, as well as he; DAVYS-1716-1,34.350
+
+and if one fails, an Answer to this Letter shall make it up again;
+DAVYS-1716-1,34.351
+
+I know the $Fop $'s {TEXT:Fop's} so conceited, $he $'ll {TEXT:he'll}
+answer any Assignation.  DAVYS-1716-1,34.352
+
+<bracket> <font> Exit <$$font> Liddy.  DAVYS-1716-1,34.353
+
+<font> Enter <$$font> Isabella <font> and <$$font> Louisa.
+DAVYS-1716-1,34.354
+
+<font> Isa. <$$font> And <font> Gamont <$$font> and he are old
+Acquaintance then?  DAVYS-1716-1,34.355
+
+<font> Lou. <$$font> Bred together at the University, where they
+contracted a lasting Friendship.  DAVYS-1716-1,34.356
+
+For my Part, I was so surpriz'd and confounded, that I knew not what
+I did, but took up the Tea-Kettle, instead of the Tea-Pot, and fill'd
+every Body a Dish of hot Water.  DAVYS-1716-1,34.357
+
+<font> Isa. <$$font> Ha, ha, ha, what said <font> Gamont?  <$$font>
+DAVYS-1716-1,34.358
+
+<font> Lou. <$$font> Why he saw we were both in Disorder,
+DAVYS-1716-1,34.359
+
+and laugh'd at us accordingly.  DAVYS-1716-1,34.360
+
+<font> Isa. <$$font> I almost fancy this Mr. <font>
+Welby <$$font> has done a Work in a few Hours, which a Parcel of baffled
+Bunglers have been forc'd to give over, after as many Years vain Attempts.
+DAVYS-1716-1,34.361
+
+<font> Lou. <$$font> Nay, I know not what he has done;
+DAVYS-1716-1,34.362
+
+but if his Estate and Humour prove of a Piece with his Wit and Person,
+Heaven of it's Mercy defend my Heart; DAVYS-1716-1,34.363
+
+for I am sure I shall never be able to do it my self.  DAVYS-1716-1,34.364
+
+<font> Isa. <$$font> He had need to be a Man of more than common
+<P_35> Merit, if he can command your Heart.  DAVYS-1716-1,35.365
+
+Well, as you say, if his Estate does but answer the rest, I am in great
+Hopes to have you for my Precedent, and be conducted into the Land of
+Matrimony by my dear <font> Louisa.  <$$font> DAVYS-1716-1,35.366
+
+<font> Lou. <$$font> Were I sure you would follow, as I would have
+you, I should not care how soon I led up the Dance; DAVYS-1716-1,35.367
+
+but you starve poor <font> Gamont's <$$font> generous Love, for want of
+Hopes to keep it warm.  DAVYS-1716-1,35.368
+
+<font> Isa. $Gamont $'s {TEXT:Gamont's} <$$font> particular,
+if he wants Hopes.  DAVYS-1716-1,35.369
+
+Most Men have so good an Opinion of their own Worth, that they often hope,
+when they have very little Reason for it?  DAVYS-1716-1,35.370
+
+<font> Lou. <$$font> Aye, but he is not one of them;
+DAVYS-1716-1,35.371
+
+but, on the contrary, has given himself so entirely away, that a
+Disappointment must of Necessity be fatal.  DAVYS-1716-1,35.372
+
+<font> Isa. <$$font> Indeed, <font> Louisa <$$font>, I doubt you
+promise and vow more in his Name, than he will ever be able to make good.
+DAVYS-1716-1,35.373
+
+I know he is a Man of much Gallantry, DAVYS-1716-1,35.374
+
+and I should be a Woman of little Conduct, should I take Notice of it.
+DAVYS-1716-1,35.375
+
+<font> Lou..  <$$font> Why so, my Dear?  DAVYS-1716-1,35.376
+
+<font> Isa. <$$font> Because it is a general Thing;
+DAVYS-1716-1,35.377
+
+every Man makes Love to every Woman he sees.  DAVYS-1716-1,35.378
+
+For my part, I only expect it in my Turn, DAVYS-1716-1,35.379
+
+and shall accordingly receive it.  DAVYS-1716-1,35.380
+
+<font> Lou. <$$font> Phu, phu, this must be Affectation in you;
+because you know your Merit commands Sincerity.  DAVYS-1716-1,35.381
+
+<font> Isa. <$$font> Indeed, <font> Louisa <$$font>, I never had
+Vanity enough to think any Thing, but my Money, could secure a Heart;
+DAVYS-1716-1,35.382
+
+but if <font> Gamont <$$font> be so much in Love as you would insinuate,
+$he $'s {TEXT:he's} in a dangerous Case; DAVYS-1716-1,35.383
+
+for he has a powerful Rival come to Town.  DAVYS-1716-1,35.384
+
+<font> Lou. <$$font> I hope you $do $n't {TEXT:don't} mean Sir
+<font> Loobily Joddrel <$$font>, that came to our House last Night.
+DAVYS-1716-1,35.385
+
+<font> Isa. <$$font> No, $he $'s {TEXT:he's} my Aversion.
+DAVYS-1716-1,35.386
+
+<font> Lou. <$$font> Thay say $he $'s {TEXT:he's} come on purpose
+to make Love to you; DAVYS-1716-1,35.387
+
+but if he knows how, $I $'ll {TEXT:I'll} be content never to be courted
+my self; DAVYS-1716-1,35.388
+
+hay, I dare swear he would not understand you if you should make Love
+to him.  DAVYS-1716-1,35.389
+
+<font> Isa. <$$font> I believe I $sha $n't {TEXT:shan't} try.
+DAVYS-1716-1,35.390
+
+<P_36>
+
+<font> Enter <$$font> Liddy.  DAVYS-1716-1,36.392
+
+<font> Lid. <$$font> Madam, my Lord <font> Splendid's <$$font>
+Footman comes with his Lord's Service; DAVYS-1716-1,36.393
+
+desires to know how your Ladyship does; DAVYS-1716-1,36.394
+
+and if you are not engag'd to other Company, will come and wait upon
+you to the Races.  DAVYS-1716-1,36.395
+
+<font> Isa. <$$font> My Service to my Lord, DAVYS-1716-1,36.396
+
+and Thanks for the Honour he does me: DAVYS-1716-1,36.397
+
+Had I known of it sooner, I would not have engag'd my self, which now
+I have done.  DAVYS-1716-1,36.398
+
+<bracket> <font> Exit.  <$$font> DAVYS-1716-1,36.399
+
+<font> Lou. Aside <$$font> I doubt this is the powerful Rival.
+DAVYS-1716-1,36.400
+
+Well, my Dear, do you think of going to the Assembly after the Races?
+DAVYS-1716-1,36.401
+
+<font> Isa. <$$font> No: If your Inclination jumps with mine, $we
+$'ll {TEXT:we'll} have the Fiddles, and dance in my Aunt's Dining Room.
+DAVYS-1716-1,36.402
+
+<font> Lou. <$$font> With all my Heart.  DAVYS-1716-1,36.403
+
+<font> Isa. Gamont <$$font> may bring his old Friend with him,
+DAVYS-1716-1,36.404
+
+and then I shall have an Opportunity of giving my Opinion of your
+new Spark.  DAVYS-1716-1,36.405
+
+<font> Lou. <$$font> Aye; but will it be safe to bring you
+together?  DAVYS-1716-1,36.406
+
+I $do $n't {TEXT:don't} know but you may rob me of a Spark, and <font>
+Gamont <$$font> of a Mistress.  DAVYS-1716-1,36.407
+
+<font> Isa. <$$font> No, no, there can be no Danger of that,
+DAVYS-1716-1,36.408
+
+<font> Louisa <$$font> does not use to make half Conquests.
+DAVYS-1716-1,36.409
+
+<font> Lou. <$$font> Well, I must be in your Debt for that 'till
+I come again.  DAVYS-1716-1,36.410
+
+Adieu for half an Hour.  DAVYS-1716-1,36.411
+
+$I $'ll {TEXT:I'll} tell <font> Gamont <$$font> your Design; tho'
+I suppose he will be here by and by.  DAVYS-1716-1,36.412
+
+$You $'ll {TEXT:You'll} honour me with a Place in your Coach.
+DAVYS-1716-1,36.413
+
+<font> Isa. <$$font> Aye, aye, make Haste again.
+DAVYS-1716-1,36.414
+
+<bracket> <font> Exit <$$font> Louisa.  DAVYS-1716-1,36.415
+
+Poor <font> $Louisa $'s {TEXT:Louisa's} <$$font> gone with dubious
+Thoughts; DAVYS-1716-1,36.416
+
+she knows not what to make of my Behaviour: DAVYS-1716-1,36.417
+
+$'T $is {TEXT:'Tis} true, I do love her Brother more than Life;
+DAVYS-1716-1,36.418
+
+but he shall never know his own Power,'till I have made a Tryal or two
+of his Love, DAVYS-1716-1,36.419
+
+and then $I $'ll {TEXT:I'll} use him as he deserves.  DAVYS-1716-1,36.420
+
+<font> For if I find he values nought but Coin <$$font>, <font> $I $'ll
+{TEXT:I'll} tear him from my Breast, DAVYS-1716-1,36.421
+
+and he shall ne'er be mine.  <$$font> DAVYS-1716-1,36.422
+
+<P_37>
+
+<heading>
+
+Act III.  DAVYS-1716-1,37.425
+
+Scene <font> continues <$$font>.  DAVYS-1716-1,37.426
+
+<$$heading>
+
+<font> Enter <$$font> Isabella <font> and <$$font> Liddy.
+DAVYS-1716-1,37.428
+
+<font> Isa. <$$font> $'T $is {TEXT:'Tis} Pity Nature did not
+change thy Sex, and Fortune thy Vocation; DAVYS-1716-1,37.429
+
+thou wouldst have made an admirable Lawyer; DAVYS-1716-1,37.430
+
+for I find, as it is, you can speak for your Fee.  DAVYS-1716-1,37.431
+
+<font> Lid. <$$font> If I have taken too great a Freedom, Madam,
+I hope your Ladyship will pardon it, DAVYS-1716-1,37.432
+
+$'t $was {TEXT:'twas} an Effect of my Zeal.  DAVYS-1716-1,37.433
+
+<font> Isa. <$$font> Yes, Zeal for <font> Gamont;
+DAVYS-1716-1,37.434
+
+<$$font> but if you had any for my Interest, you would rather persuade
+me from him, than take such Pains in his Behalf.  DAVYS-1716-1,37.435
+
+You know as well as I he has no Estate.  DAVYS-1716-1,37.436
+
+<font> Lid. <$$font> True, Madam; DAVYS-1716-1,37.437
+
+but your Ladyship knows, and so do I too, he must have one e'er long;
+DAVYS-1716-1,37.438
+
+his old Father must in a little Time resign both it and Life,
+DAVYS-1716-1,37.439
+
+and then - DAVYS-1716-1,37.440
+
+<font> Isa. <$$font> And then perhaps he will be as imperious as
+he is now submissive; DAVYS-1716-1,37.441
+
+therefore say no more, DAVYS-1716-1,37.442
+
+for I am resolv'd to be satisfy'd: DAVYS-1716-1,37.443
+
+My Person comes at least upon a Level with my Money, DAVYS-1716-1,37.444
+
+or I must give up all Thoughts of him for ever.  DAVYS-1716-1,37.445
+
+<font> Lid. Aside.  <$$font> Aye, but, Heaven be prais'd, $that
+$'s {TEXT:that's} out of your Power; DAVYS-1716-1,37.446
+
+you love him too well for that.  DAVYS-1716-1,37.447
+
+Well, Madam, I shou'd be glad to have you satisfy'd, DAVYS-1716-1,37.448
+
+but $do $n't {TEXT:don't} know what Method you can take to be so.
+DAVYS-1716-1,37.449
+
+<font> Isa. <$$font> I can do nothing without thy Help.
+DAVYS-1716-1,37.450
+
+I heard you say once, you could write a good Man's Hand.
+DAVYS-1716-1,37.451
+
+<font> Lid. <$$font> Yes, Madam, if that will be of any Service
+to you, so I can.  DAVYS-1716-1,37.452
+
+<font> Isa. <$$font> Of very considerable Service:
+DAVYS-1716-1,37.453
+
+This very Man's Hand of yours must be employ'd in writing a Letter from
+my Unkle <font> Richlove <$$font> in <font> London <$$font> to me here
+at <font> York <$$font>, to let me know that Alderman <font> Brittle
+<$$font>, in whose Hands my Money is, is broke, and gone off with all.
+DAVYS-1716-1,37.454
+
+<P_38>
+
+<font> Lid. <$$font> I understand your Ladyship:
+DAVYS-1716-1,38.456
+
+Then if Mr. <font> Gamont - <$$font> DAVYS-1716-1,38.457
+
+<font> Isa. <$$font> Aye, then if <font> Gamont <$$font> proves
+the Man I wish him, and you believe him, to be, my Person and Fortune
+are his; DAVYS-1716-1,38.458
+
+but if I find any Alteration, $I $'ll {TEXT:I'll} immediately give my
+self to another before his Face.  DAVYS-1716-1,38.459
+
+<font> Lid. <$$font> And so to revenge your self on a Man you
+only fancy does not love you, you will give your self away to one you
+are sure you hate.  DAVYS-1716-1,38.460
+
+<font> Isa. <$$font> Yes; DAVYS-1716-1,38.461
+
+and it would be less Mortification to lie in the Arms of one I $do $n't
+{TEXT:don't} love, who I am sure loves me, than be consin'd to one I do,
+and have no Return but Indifference.  DAVYS-1716-1,38.462
+
+<font> Lid. <$$font> Your Prudence, Madam, is not to be disputed
+by me; DAVYS-1716-1,38.463
+
+but if I were to be hang'd for it, I $can $n't {TEXT:can't} forbear
+thinking you try the poor Gentleman a little too far, because -
+DAVYS-1716-1,38.464
+
+<font> Isa. Liddy <$$font>, no more; DAVYS-1716-1,38.465
+
+$I $'ll {TEXT:I'll} go this Minute and write the Letter for you to copy
+; DAVYS-1716-1,38.466
+
+if <font> Gamont <$$font> comes before I return, tell him I am busy.
+DAVYS-1716-1,38.467
+
+<bracket> <font> Ex. <$$font> DAVYS-1716-1,38.468
+
+<font> Lid. Sola.  <$$font> Well, I wou'd I were hang'd if I know
+what to do in this critical Case.  DAVYS-1716-1,38.469
+
+To tell Mr. <font> Gamont <$$font>, would be to betray my Lady,
+DAVYS-1716-1,38.470
+
+and Treachery I scorn.  DAVYS-1716-1,38.471
+
+Yet if I $do $n't {TEXT:don't} tell him, nothing but Mischief can be
+the Event.  DAVYS-1716-1,38.472
+
+For to say the Truth, I $do $n't {TEXT:don't} think his Love runs so
+high as she expects; DAVYS-1716-1,38.473
+
+and I know no Way to prevent his Disappointment, and her Discontent,
+but by making him privy to it.  DAVYS-1716-1,38.474
+
+<bracket> <font> Pauses.  <$$font> <$$bracket> DAVYS-1716-1,38.475
+
+No, hang it, $I $'ll {TEXT:I'll} have no Hand in it; DAVYS-1716-1,38.476
+
+$'t $is {TEXT:'tis} wholly her own Contrivance, DAVYS-1716-1,38.477
+
+and if she be uneasy, $'t $is {TEXT:'tis} wholly her own Fault.
+DAVYS-1716-1,38.478
+
+<font> Enter <$$font> Gamont.  DAVYS-1716-1,38.479
+
+<font> Gam. Liddy <$$font>, $where $'s {TEXT:where's} <font>
+Isabella?  <$$font> DAVYS-1716-1,38.480
+
+$Me $thinks {TEXT:Methinks} $'t $is {TEXT:'tis} an Age since I saw
+her; tho'I fear she has not Love enough to think the Time so long.
+DAVYS-1716-1,38.481
+
+<font> Lid. <$$font> Sir, she has not Love enough to send
+for you, tho'perhaps she is not very well pleas'd with your Absence.
+DAVYS-1716-1,38.482
+
+<font> Gam. <$$font> Oh, such another Word wou'd make me very vain,
+and very happy.  DAVYS-1716-1,38.483
+
+Come, $pray $thee {TEXT:prithee} tell me; DAVYS-1716-1,38.484
+
+do I stand fair in her Esteem, DAVYS-1716-1,38.485
+
+or must I give Place to my rich Rivals?  DAVYS-1716-1,38.486
+
+<font> Lid. <$$font> Does she stand fair in your Esteem, Sir?
+DAVYS-1716-1,38.487
+
+<P_39>
+
+<font> Gam. <$$font> In my Esteem!  DAVYS-1716-1,39.489
+
+What the Devil do you mean by asking such a Question?  DAVYS-1716-1,39.490
+
+<font> Lid. <$$font> Nay, nothing, Sir; DAVYS-1716-1,39.491
+
+but as the World goes now, there is more Danger of your Sex's revolting,
+than ours; DAVYS-1716-1,39.492
+
+and this is a good Time for it, now the Town is so full of Beauties
+and Fortunes.  DAVYS-1716-1,39.493
+
+<font> Gam. Liddy <$$font>, if you have not some particular
+Meaning for what you have said, it is very trifling; DAVYS-1716-1,39.494
+
+if you have, you are not my Friend if you do not tell me.
+DAVYS-1716-1,39.495
+
+'s Death, has some base Person been striving to blast my Credit with
+<font> Isabella?  <$$font> DAVYS-1716-1,39.496
+
+Come, $pray $thee {TEXT:prithee} tell me, DAVYS-1716-1,39.497
+
+let me know the worst.  DAVYS-1716-1,39.498
+
+<font> Lid. <$$font> Upon my Word, Sir, no Body has said any
+Thing to your Disadvantage; DAVYS-1716-1,39.499
+
+your Fate lies wholly in your own Behaviour, which must be manag'd with
+Circumspection, DAVYS-1716-1,39.500
+
+or your Case may prove a little desperate.  DAVYS-1716-1,39.501
+
+<font> Gam. <$$font> Instead of clearing the Matter, you have
+made it more intricate; DAVYS-1716-1,39.502
+
+either speak to be understood, DAVYS-1716-1,39.503
+
+or say nothing.  DAVYS-1716-1,39.504
+
+What the Devil do you mean by all this?  DAVYS-1716-1,39.505
+
+Where is your Lady?  DAVYS-1716-1,39.506
+
+<font> Lid. <$$font> Sir, $she $'s {TEXT:she's} now a little busy;
+DAVYS-1716-1,39.507
+
+in half an Hour she will be at Leisure.  DAVYS-1716-1,39.508
+
+In the mean Time, let Love and Honour be your Guide: DAVYS-1716-1,39.509
+
+But ask me no more Questions; DAVYS-1716-1,39.510
+
+for I can only wish you knew what I dare not tell you.
+DAVYS-1716-1,39.511
+
+<font> Gam. <$$font> Death, Hell, and Furies, you distract me.
+DAVYS-1716-1,39.512
+
+<bracket> <font> Ex. <$$font> DAVYS-1716-1,39.513
+
+<font> Lid. Sola.  <$$font> Poor Gentleman, the Deaux take me,
+if I $ha $n't {TEXT:han't} good Nature enough to pity him, and wish,
+with all my Soul, he had the Spirit of Divination; DAVYS-1716-1,39.514
+
+for I much fear this sham Loss will be of evil Consequence to'em both.
+DAVYS-1716-1,39.515
+
+But here comes the Letter.  DAVYS-1716-1,39.516
+
+<font> Enter <$$font> Isabella <font> with the Letter, Pen, Ink,
+and Paper.  <$$font> DAVYS-1716-1,39.517
+
+<font> Isa. <$$font> Come, <font> Liddy <$$font>, sit down
+DAVYS-1716-1,39.518
+
+and copy this, before any Body comes.  DAVYS-1716-1,39.519
+
+It is but short; DAVYS-1716-1,39.520
+
+$I $'ll {TEXT:I'll} read it to you.  DAVYS-1716-1,39.521
+
+Dear Niece, <font> I Am sorry I must give you so much Uneasiness, by
+sending you the sad News of Alderman <$$font> Brittle, <font> who is
+gone off a hundred thousand Pounds in Debt.  DAVYS-1716-1,39.522
+
+I know your All was in his Hands; DAVYS-1716-1,39.523
+
+however, be as easy as you can, DAVYS-1716-1,39.524
+
+and take my Promise of being a Father to you, as well as a most
+affectionate Unkle <$$font>, Zachariah Richlove.  DAVYS-1716-1,39.525
+
+<P_40>
+
+Here, take it, DAVYS-1716-1,40.527
+
+and write it over; DAVYS-1716-1,40.528
+
+$I $'ll {TEXT:I'll} watch that no Body comes.  DAVYS-1716-1,40.529
+
+<bracket> <font> Goes to the <$$font> Door.  <$$bracket>
+DAVYS-1716-1,40.530
+
+<font> Lid. sitting down to write.  <$$font> Hang this Writing;
+DAVYS-1716-1,40.531
+
+I hate it at best; DAVYS-1716-1,40.532
+
+but $it $'s {TEXT:it's} the very Devil to write for nothing but Mischief.
+DAVYS-1716-1,40.533
+
+<bracket> <font> After some Time.  <$$font> <$$bracket> Here, Madam I
+have done, if you please to fold it up.  DAVYS-1716-1,40.534
+
+<font> Isa. folds up the Letter.  <$$font> DAVYS-1716-1,40.535
+
+Now, direct it for me, at my Lady <font> Ample's <$$font> in <font>
+York; <$$font> DAVYS-1716-1,40.536
+
+and when <font> Gamont <$$font> comes, bring it in.  DAVYS-1716-1,40.537
+
+<bracket> <font> Exit <$$font> Liddy.  <$$bracket> DAVYS-1716-1,40.538
+
+Oh, how my poor Heart is rack'd, for fear this Tryal of <font> Gamont's
+<$$font> Love should not answer my Wishes.  DAVYS-1716-1,40.539
+
+What a ridiculous Thing is a Woman's Fantasque?  DAVYS-1716-1,40.540
+
+Here have I been tormenting my own Invention, to find out what , when
+known, may possibly give me the greatest Uneasiness.  DAVYS-1716-1,40.541
+
+Well, Curiosity was the first destructive Evil that interpos'd between
+Man and Happiness; DAVYS-1716-1,40.542
+
+and I, with too much of the Itch of Knowledge, must be tasting; tho'
+, like my Grand-mother <font> Eve <$$font>, I swallow my own Ruin.
+DAVYS-1716-1,40.543
+
+<font> Enter <$$font> Louisa <font> laughing.  <$$font>
+DAVYS-1716-1,40.544
+
+<font> Isa. <$$font> $You $'re {TEXT:You're} very merry, <font>
+my <$$font> Dear; DAVYS-1716-1,40.545
+
+what has diverted you so?  DAVYS-1716-1,40.546
+
+<font> Lou. <$$font> That that would have diverted you, had you
+been there.  DAVYS-1716-1,40.547
+
+My Lady <font> Greasy <$$font> has found a Letter from Capt.
+<font> Tinsel <$$font> to Miss <font> Dolly <$$font>, which has rais'd
+her Spleen to such a Degree, that I began to consider whether she was
+not stark mad or no.  DAVYS-1716-1,40.548
+
+<font> Isa. <$$font> A sad Misfortune indeed; DAVYS-1716-1,40.549
+
+I promise you I would not be in the Girl's Place for the Husband.
+DAVYS-1716-1,40.550
+
+<font> Lou. <$$font> No, I believe not.  DAVYS-1716-1,40.551
+
+I never saw any Body in such a Rage in my Life.  DAVYS-1716-1,40.552
+
+She has pull'd the poor Toad about the House, and sous'd her with a Mug of
+Small Beer that stood upon the Dresser,'till she looks like a Water-Witch.
+DAVYS-1716-1,40.553
+
+<font> Isa. <$$font> $'T $is {TEXT:'Tis} a Pity the Captain does
+not know the Distress of his Damosel; DAVYS-1716-1,40.554
+
+he would certainly come with Fire and Sword to her Rescue.
+DAVYS-1716-1,40.555
+
+<font> Lou. <$$font> Really I wish he would, DAVYS-1716-1,40.556
+
+for her Case at present is but indifferent; DAVYS-1716-1,40.557
+
+you never saw such a Figure in your Life, unless it were a baited
+Shop-Lister, just out of the Hands of the Mob.  DAVYS-1716-1,40.558
+
+<font> Isa. <$$font> That Landlady of yours, is a very Devil;
+DAVYS-1716-1,40.559
+
+I wonder how you are able to live with her.  DAVYS-1716-1,40.560
+
+And what, I warrant she has lock'd the poor Fool up.  DAVYS-1716-1,40.561
+
+<P_41>
+
+<font> Lou. <$$font> No, I left my Brother and Mr. <font>
+Welby <$$font> interceding for her Liberty; which I suppose they will
+procure before they leave her.  <font> Isa. <$$font> Upon Condition
+she goes with some old Woman, of her Mother's chasing, to be her Guard.
+DAVYS-1716-1,41.563
+
+<font> Lou. <$$font> Marry, if she $be $n't {TEXT:ben't}
+new-dress'd, $she $'ll {TEXT:she'll} need no Guard; DAVYS-1716-1,41.564
+
+for at present $she $'s {TEXT:she's} fitter to fright Folks, than invite
+them to steal her.  DAVYS-1716-1,41.565
+
+<font> Isa. <$$font> Well, $what $'s {TEXT:what's} become of <font>
+Gamont <$$font>?  DAVYS-1716-1,41.566
+
+I think we have lost him.  DAVYS-1716-1,41.567
+
+This new old Friend of his, engrosses him all to himself.
+DAVYS-1716-1,41.568
+
+I would fain see this Mr. <font> Welby <$$font> again;
+DAVYS-1716-1,41.569
+
+I did not much mind him in the Morning.  DAVYS-1716-1,41.570
+
+<font> Lou. <$$font> They will both be here presently -
+DAVYS-1716-1,41.571
+
+I heard my Brother say he would introduce him; DAVYS-1716-1,41.572
+
+I wonder they $do $n't {TEXT:don't} come.  DAVYS-1716-1,41.573
+
+Oh!  here they be.  DAVYS-1716-1,41.574
+
+<font> Enter <$$font> Gamont <font> and <$$font> Welby.
+DAVYS-1716-1,41.575
+
+<font> Gam. <$$font> Madam, your humble Servant;
+DAVYS-1716-1,41.576
+
+I have brought an old Friend here to kiss your Hand, and wait upon you
+to the Races.  DAVYS-1716-1,41.577
+
+<font> Wel. <$$font> Madam, if a Stranger may hope for such an
+Honour, it is what I shall be very proud of.  DAVYS-1716-1,41.578
+
+<font> Isa. <$$font> Sir, a Man of your Character, need not fear
+being acceptable any where.  DAVYS-1716-1,41.579
+
+Mr. <font> Gamont <$$font>, $you $'re {TEXT:you're} a great
+Stranger.  DAVYS-1716-1,41.580
+
+<font> Gam. <$$font> I am glad you think so, Madam.
+DAVYS-1716-1,41.581
+
+My Friend here has, I own, taken Possession of my Body,
+DAVYS-1716-1,41.582
+
+but my Mind was, where it always is, with my dearest <font> Isabella.
+<$$font> DAVYS-1716-1,41.583
+
+<font> Isa. <$$font> Oh, Mr. <font> Gamont <$$font> you
+Gentlemen use your selves so much to this Way of speaking, that I fancy
+you hardly know your selves, when you are in jest, and when in Earnest.
+DAVYS-1716-1,41.584
+
+<font> Gam. <$$font> Madam, you never display the Cruelty of your
+Sex more, than when you seem to doubt my Sincerity: DAVYS-1716-1,41.585
+
+$It $'s {TEXT:It's} very hard that all my Oaths and Vows must stand
+for nothing.  DAVYS-1716-1,41.586
+
+I wish I had an Opportunity to convince you of my Reality.
+DAVYS-1716-1,41.587
+
+<font> Isa. aside.  <$$font> That you may have sooner than you
+are aware of.  DAVYS-1716-1,41.588
+
+<font> To <$$font> Welby.  Well, Sir, how do you like the North?
+DAVYS-1716-1,41.589
+
+Are you not afraid the Coldness of the Climate should chill the Ladies
+Hearts?  DAVYS-1716-1,41.590
+
+Or has it had so great an Effect upon your self already, as to make you
+careless whether it does or no?  DAVYS-1716-1,41.591
+
+<P_42>
+
+<font> Wel. <$$font> Really, Madam, I must own I $can $not
+{TEXT:cannot} boast a Complacency for the whole Sex; DAVYS-1716-1,42.593
+
+but I have some Ladies in View, that I could with the greatest Difficulty
+in the World be indifferent to.  DAVYS-1716-1,42.594
+
+<font> Isa. <$$font> I find, Sir, $you $'re {TEXT:you're} for
+the Present Tense.  DAVYS-1716-1,42.595
+
+Mr. <font> Gamont <$$font>, I think you are dull $today
+{TEXT:to_Day}; DAVYS-1716-1,42.596
+
+I see Extreams never last: DAVYS-1716-1,42.597
+
+Your Joy at the Sight of your Friend here has been so great, that it
+has spent its Force, and left you your own Reverse.  DAVYS-1716-1,42.598
+
+<font> Enter <$$font> Liddy <font> with the Letter.  <$$font>
+DAVYS-1716-1,42.599
+
+<font> Lid. <$$font> Madam, $here $'s {TEXT:here's} a Letter
+for you.  DAVYS-1716-1,42.600
+
+<bracket> Isabella <font> takes the Letter, DAVYS-1716-1,42.601
+
+reads it, DAVYS-1716-1,42.602
+
+and seems disorder'd.  <$$font> <$$bracket> DAVYS-1716-1,42.603
+
+<font> Gam. aside.  <$$font> This Letter is certainly from some
+Lover; DAVYS-1716-1,42.604
+
+and $she $'s {TEXT:she's} vex'd that I have seen it.  DAVYS-1716-1,42.605
+
+A Billet-Doux, Madam, from a happy Lover.  DAVYS-1716-1,42.606
+
+<font> Isa. <$$font> No, Mr. <font> Gamont <$$font> $it
+$'s {TEXT:it's} of greater Concern; DAVYS-1716-1,42.607
+
+you wish'd for an Opportunity of shewing your Reality, DAVYS-1716-1,42.608
+
+and here is too fatal an one for you.  DAVYS-1716-1,42.609
+
+<font> <bracket> Gives him the Letter, DAVYS-1716-1,42.610
+
+and pulling out her Handkerchief, drops that she had writ herself;
+DAVYS-1716-1,42.611
+
+then <$$font> <bracket> <font> Exit.  <$$font> DAVYS-1716-1,42.612
+
+<font> Gam. reads.  <$$font> DAVYS-1716-1,42.613
+
+Hum - hum - gone off - DAVYS-1716-1,42.614
+
+and all lost - DAVYS-1716-1,42.615
+
+<font> Lou. <$$font> I think <font> Isabella <$$font> is not well
+, DAVYS-1716-1,42.616
+
+I must after her.  DAVYS-1716-1,42.617
+
+<bracket> <font> Ex. <$$font> DAVYS-1716-1,42.618
+
+<font> Gam. <$$font> Egad, I $do $n't {TEXT:don't} like this.
+DAVYS-1716-1,42.619
+
+Here, <font> Welby <$$font>, $pray $thee {TEXT:prithee} read it.
+DAVYS-1716-1,42.620
+
+<font> Wel. reads.  DAVYS-1716-1,42.621
+
+- <$$font> Faith, <font> Gamont <$$font>, this is ill News.
+DAVYS-1716-1,42.622
+
+I am sorry for't, for more Reasons than one.  DAVYS-1716-1,42.623
+
+I suppose this will put a full Stop to your Amour; DAVYS-1716-1,42.624
+
+What will you do?  DAVYS-1716-1,42.625
+
+<font> Gam. <$$font> Do?  DAVYS-1716-1,42.626
+
+I know not what to do; DAVYS-1716-1,42.627
+
+to go abruptly off will be base, because she made no Scruple of my
+Circumstances before this happen'd; DAVYS-1716-1,42.628
+
+and to persist, will be Folly and Madness.  DAVYS-1716-1,42.629
+
+Ods Death I was never so puzzl'd in my Life.  DAVYS-1716-1,42.630
+
+$Pray $thee {TEXT:Prithee} advise me.  DAVYS-1716-1,42.631
+
+<font> Wel. <$$font> I know not how: DAVYS-1716-1,42.632
+
+You must e'en pretend your Father has sent for you Home;
+DAVYS-1716-1,42.633
+
+I know no other Way, unless you art resolv'd to marry her right or wrong.
+DAVYS-1716-1,42.634
+
+<font> Gam. <$$font> No; for her Sake $I $'ll {TEXT:I'll} not
+marry her now; DAVYS-1716-1,42.635
+
+but if she will be content to stay'till my Father dies, she shall
+certainly be my Choice; DAVYS-1716-1,42.636
+
+for tho'her Fortune began my first Liking, I have found something in
+her Person very worthy of my Love: DAVYS-1716-1,42.637
+
+Beside, it <P_43> would be the highest Ingratitude to leave her, if for
+no other Reason but because I believe she loves me.  DAVYS-1716-1,43.638
+
+<font> Wel. <$$font> I am glad to find you so generous a Lover;
+DAVYS-1716-1,43.639
+
+$'t $is {TEXT:'tis} more than I expected.  DAVYS-1716-1,43.640
+
+<bracket> <font> Stoops DAVYS-1716-1,43.641
+
+and takes up the Letter <$$font> Isabella <font> dropp'd.  <$$bracket>
+<$$font> DAVYS-1716-1,43.642
+
+What have we here, DAVYS-1716-1,43.643
+
+<bracket> <font> reads <$$bracket> DAVYS-1716-1,43.644
+
+As <$$font> well <font> as an affectionate Unkle <$$font>, Zachariah
+Richlove.  DAVYS-1716-1,43.645
+
+Why, <font> Gamont <$$font>, this is the same again.  DAVYS-1716-1,43.646
+
+<bracket> Gamont <font> takes <$$font> it, DAVYS-1716-1,43.647
+
+<font> and reads.  <$$bracket> <$$font> DAVYS-1716-1,43.648
+
+<font> Gamont.  <$$font> The very same <font> verbatim.  <$$font>
+DAVYS-1716-1,43.649
+
+Egad this is the luckyest Discovery that ever was.  DAVYS-1716-1,43.650
+
+<font> Wel. <$$font> It is so very lucky, that I $do $n't
+{TEXT:don't} understand one Word on't.  DAVYS-1716-1,43.651
+
+<font> Gam. <$$font> Why then $I $'ll {TEXT:I'll} tell you;
+DAVYS-1716-1,43.652
+
+<font> Isabella <$$font>, I suppose, has taken it into her Head to grow
+jealous of her own Fortune, DAVYS-1716-1,43.653
+
+and, doubtless, fancies I like it better than her; upon which she has
+contriv'd this Letter <paren> for it is her own Hand-Writing <$$paren>
+as a Touch-stone for my Love.  DAVYS-1716-1,43.654
+
+<font> Wel. <$$font> If you are sure it is her Hand, it must be
+so; DAVYS-1716-1,43.655
+
+and then, as you say, the Discovery is lucky enough.  DAVYS-1716-1,43.656
+
+For, faith, I believe you would have made but an awkward Piece of Work
+on't, if you had not had the old Encouragement to have gone on with.
+DAVYS-1716-1,43.657
+
+<font> Gam. <$$font> Nay, I know not what I should have done;
+DAVYS-1716-1,43.658
+
+but I am glad $it $'s {TEXT:it's} no worse.  DAVYS-1716-1,43.659
+
+Yes, yes, her Hand, I am sure it is her Hand.  DAVYS-1716-1,43.660
+
+Beside, I remember now her Maid told me, my Fate depended upon my own
+Behaviour, bid me act with Circumspection, and let Love and Honour be
+my Guide.  DAVYS-1716-1,43.661
+
+<font> Enter Lady <$$font> Ample.  DAVYS-1716-1,43.662
+
+L. <font> Am. <$$font> Pray, Mr. <font> Gamont
+<$$font>, $let $'s {TEXT:let's} see this Letter.  DAVYS-1716-1,43.663
+
+<font> Gam. <$$font> Here it is, Madam.  DAVYS-1716-1,43.664
+
+<bracket> <font> gives the Letter.  DAVYS-1716-1,43.665
+
+Lady <$$font> Ample <font> reads.  <$$font> <$$bracket>
+DAVYS-1716-1,43.666
+
+L. <font> Am. aside.  <$$font> I $can $n't {TEXT:can't}
+imagine the Meaning of this.  DAVYS-1716-1,43.667
+
+It is not my Brother <font> Richlove's <$$font> Hand I am sure;
+DAVYS-1716-1,43.668
+
+but I $wo $n't {TEXT:won't} say so to <font> Gamont <$$font>, because
+I hope it will be a Means to break the Match.  DAVYS-1716-1,43.669
+
+<font> Enter <$$font> Isabella <font> and <$$font> Louisa.
+DAVYS-1716-1,43.670
+
+<font> Isa. <$$font> Well, Madam, what do you think of this
+melancholy News; DAVYS-1716-1,43.671
+
+are you convinc'd?  DAVYS-1716-1,43.672
+
+L. <font> Am. <$$font> Why, Child, I wou'd have you to
+make your self as easy as you can; DAVYS-1716-1,43.673
+
+Misfortunes are very <P_44> common to the Inhabiters of this World;
+DAVYS-1716-1,44.674
+
+and you have good Friends to depend upon: DAVYS-1716-1,44.675
+
+Beside, Sir <font> Loobily <$$font> will take you with all your Faults.
+DAVYS-1716-1,44.676
+
+<font> Gam. aside.  <$$font> The Devil take him, with all his,
+first.  DAVYS-1716-1,44.677
+
+<bracket> <font> To <$$font> Isabella.  <$$bracket> I $can $n't
+{TEXT:can't} say, Madam, that I am glad at any Thing that gives you the
+least Disquiet; DAVYS-1716-1,44.678
+
+but I shall never look upon that as a Piece of ill Fortune, that gives
+me so fair an Occasion of discovering how far my Passion is from being
+mercenary.  DAVYS-1716-1,44.679
+
+And, Madam, tho'while my Father lives, I have not an Estate that can
+deserve you, yet if you can confine your self to my present Circumstances
+$I $'ll {TEXT:I'll} make you as happy as I can now, and be doubly joyful
+when I have a Power to add to it.  DAVYS-1716-1,44.680
+
+<font> Isa. aside.  <$$font> This is better than I expected.
+DAVYS-1716-1,44.681
+
+No, Mr. <font> Gamont <$$font>, it would be a Pity to involve
+you in my Misfortunes.  DAVYS-1716-1,44.682
+
+$I $'ll {TEXT:I'll} e'en content my self with a private single Life,
+DAVYS-1716-1,44.683
+
+and you shall always have my best Wishes, to be as happy as your
+Generosity deserves.  DAVYS-1716-1,44.684
+
+<font> Gam. <$$font> Madam, Happiness and a Separation from you
+are inconsistent; DAVYS-1716-1,44.685
+
+surely now $you $'ll {TEXT:you'll} give me Leave to hope, and no longer
+doubt my Sincerity.  DAVYS-1716-1,44.686
+
+<font> Isa. <$$font> I own, Mr. <font> Gamont <$$font> ,
+my Thoughts of you are a little amended; DAVYS-1716-1,44.687
+
+<bracket> <font> aside <$$font> <$$bracket> but I $ha $n't {TEXT:han't}
+done with you yet.  DAVYS-1716-1,44.688
+
+L. <font> Am. Mr. Gamont <$$font>, this Gentleman,
+I presume, is your Friend.  DAVYS-1716-1,44.689
+
+<font> Gam. <$$font> Yes, Madam.  DAVYS-1716-1,44.690
+
+L. <font> Am. <$$font> $You $'re {TEXT:You're} welcome to
+<font> York, <$$font> Sir.  DAVYS-1716-1,44.691
+
+<font> Wel. <$$font> Madam, I am your Ladyship's most humble
+Servant.  DAVYS-1716-1,44.692
+
+<bracket> <font> Salutes Lady <$$font> Am. DAVYS-1716-1,44.693
+
+L. <font> Am. <$$font> Come, <font> Isabella <$$font>
+, I happen to be a little gay $today {TEXT:to_Day}, which is not very
+common with me; DAVYS-1716-1,44.694
+
+and therefore I bar all Chagreen, DAVYS-1716-1,44.695
+
+and desire all this good Company to help out in a Country-Dance in my
+Dining-Room, after the Races.  DAVYS-1716-1,44.696
+
+I wonder Sir <font> Loobily Joddrel <$$font> is not come yet;
+DAVYS-1716-1,44.697
+
+I expected he would have been here before now.  DAVYS-1716-1,44.698
+
+<font> Isa. <$$font> You need not fear $he $'ll {TEXT:he'll}
+fail you, Madam, DAVYS-1716-1,44.699
+
+for here he is.  DAVYS-1716-1,44.700
+
+<bracket> <font> Aside.  <$$bracket> <$$font> Heavens defend me!
+DAVYS-1716-1,44.701
+
+what a Figure he makes.  DAVYS-1716-1,44.702
+
+<P_45>
+
+<font> Enter Sir <$$font> Loobily <font> in a Piss-burnt Periwig,
+a great Riding Coat, and dirty Linnen.  <$$font> DAVYS-1716-1,45.704
+
+<font> Wel. <$$font> to <font> Gam. <$$font> Now, <font>
+Gamont <$$font>, look and tremble.  DAVYS-1716-1,45.705
+
+L. <font> Am. <$$font> I was afraid, Sir <font> Loobily,
+<$$font> we should not have had your Company, and that you were so
+taken up with your Horses, you could not find Time to see your Mistress.
+DAVYS-1716-1,45.706
+
+<font> Wel. <$$font> to <font> Gam. <$$font> Upon my Soul,
+I should sooner take him for a Hangman, than either a Lover or a Knight.
+DAVYS-1716-1,45.707
+
+Sir <font> Loo. <$$font> Nay, nay, hau'd you there;
+DAVYS-1716-1,45.708
+
+I love my Horses, DAVYS-1716-1,45.709
+
+$that $'s {TEXT:that's} true; DAVYS-1716-1,45.710
+
+but I love <font> Mrs. Isbel <$$font> too; DAVYS-1716-1,45.711
+
+and after I had seen them rubb'd down, and taken Care of, I came to look
+after her; DAVYS-1716-1,45.712
+
+and so, How do you do, Forsooth.  DAVYS-1716-1,45.713
+
+<bracket> <font> All laugh.  <$$font> <$$bracket> DAVYS-1716-1,45.714
+
+Why-a, why-a, I am mains glad to find you so merrily dispos'd.
+DAVYS-1716-1,45.715
+
+Thay told me those <font> York <$$font> Foke were so dull thay never
+laught at al.  DAVYS-1716-1,45.716
+
+<font> Gam. <$$font> But, Sir <font> Loobily <$$font>, $me $thinks
+{TEXT:methinks} your Grooms should have taken Care of your Horses ;
+DAVYS-1716-1,45.717
+
+the Ladies always expect to be preferr'd first.  DAVYS-1716-1,45.718
+
+Sir <font> Loo. <$$font> Why, Friend, $that $'s {TEXT:that's}
+true, DAVYS-1716-1,45.719
+
+but my Horse is to run $today {TEXT:to_Day}, DAVYS-1716-1,45.720
+
+and I had no Mind to trust him with any Body but my self;
+DAVYS-1716-1,45.721
+
+it would vex me to my Heart to have him lose for want of looking after.
+DAVYS-1716-1,45.722
+
+<font> Isa. <$$font> You are in the right, Sir <font> Loobily;
+<$$font> DAVYS-1716-1,45.723
+
+beside, you know I can take Care of my self, DAVYS-1716-1,45.724
+
+and $that $'s {TEXT:that's} more, than your Horse can do.
+DAVYS-1716-1,45.725
+
+Sir <font> Loo. <$$font> Ads'sbud, and so you can,
+DAVYS-1716-1,45.726
+
+or you have spent your Time ill; DAVYS-1716-1,45.727
+
+for I believe $you $'re {TEXT:you're} at Age.  DAVYS-1716-1,45.728
+
+<font> Lou. <$$font> Bless me, Sir <font> Loobily <$$font>,
+what do you mean, to talk at this rate?  DAVYS-1716-1,45.729
+
+$Do $n't {TEXT:Don't} you know that nothing in the World can be a greater
+Affront, than to tell a Lady of her Age.  DAVYS-1716-1,45.730
+
+L. <font> Am. <$$font> No, no, not at al, Madam;
+DAVYS-1716-1,45.731
+
+my Niece has no Reason to be asham'd of her Age: DAVYS-1716-1,45.732
+
+Beside, I am sure Sir <font> Loobily <$$font> meant it well.
+DAVYS-1716-1,45.733
+
+Sir <font> Loo. <$$font> Meant it well - DAVYS-1716-1,45.734
+
+Why, I hope there was no Harm in what I said, was there?
+DAVYS-1716-1,45.735
+
+I thought Age was honourable; DAVYS-1716-1,45.736
+
+I am sure it is reckon'd so in our Country; DAVYS-1716-1,45.737
+
+for the audest Man drinks first, DAVYS-1716-1,45.738
+
+and the audest Woman sits uppermost at Kirk; DAVYS-1716-1,45.739
+
+$that $'s {TEXT:that's} our Custom in <font> Craven.  <$$font>
+DAVYS-1716-1,45.740
+
+I know not how Things fadge here.  DAVYS-1716-1,45.741
+
+<font> Gam. <$$font> to <font> Isa. <$$font> $Do $n't
+{TEXT:Don't} you wish to be an old Woman, Madam, to enjoy that valuable
+Privilege?  DAVYS-1716-1,45.742
+
+<P_46>
+
+<font> Isa. <$$font> Every Thing in good Time, Mr. <font>
+Gamont <$$font>; DAVYS-1716-1,46.744
+
+I am willing to keep the Pleasures of Youth as long as I can.
+DAVYS-1716-1,46.745
+
+<font> Wel. <$$font> You are certainly in the right of it, Madam.
+DAVYS-1716-1,46.746
+
+A cold Respect would be but a small Recompence for the Loss of all the
+fine Things that are said to you now.  DAVYS-1716-1,46.747
+
+<font> Isa. <$$font> $There $'s {TEXT:There's} no great Loss in
+what we know to be Flattery, and Words of Course.  DAVYS-1716-1,46.748
+
+<font> Gam. <$$font> Now I am of Opinion, <paren> tho'you have
+so much Humility <$$paren> that most of your Sex thinks they deserve
+'em.  DAVYS-1716-1,46.749
+
+<font> Isa. <$$font> $That $'s {TEXT:That's} as much as to say,
+we let our Vanity get the better of our Reason.  DAVYS-1716-1,46.750
+
+<font> Lou. <$$font> Why, without lying now, I believe the most
+of us do think so.  DAVYS-1716-1,46.751
+
+<font> Isa. <$$font> I pity them that do; DAVYS-1716-1,46.752
+
+and to prevent my being one of'em, will never believe what the best of
+'em says.  DAVYS-1716-1,46.753
+
+<font> Lou. <$$font> Phu, $that $'s {TEXT:that's} running into
+the other Extream.  DAVYS-1716-1,46.754
+
+$'T $is {TEXT:'Tis} like a Man growing a Sloven, for fear of being
+thought a Fop; or turning Quaker, lest he should pass for a Papist.
+DAVYS-1716-1,46.755
+
+But pray, Madam, $what $'s {TEXT:what's} Sir <font> Loobily <$$font>
+doing, that he does not bear his Part in the Company?  DAVYS-1716-1,46.756
+
+L. <font> Am. <$$font> Doing!  DAVYS-1716-1,46.757
+
+$he $'s {TEXT:he's} asleep, I think.  DAVYS-1716-1,46.758
+
+<font> Isa. aside.  <$$font> And I am sure $'t $is {TEXT:'tis}
+Pity to wake him.  DAVYS-1716-1,46.759
+
+L. <font> Am. <$$font> Why, Sir <font> Loobily <$$font>
+, what are you thinking of?  DAVYS-1716-1,46.760
+
+Sir <font> Loo. <$$font> Od so, I Cry you Mercy, my Lady,
+DAVYS-1716-1,46.761
+
+I was reckoning how many Bets I had laid, and casting up how much I
+shall get into my Pocket, if my Nag wins.  DAVYS-1716-1,46.762
+
+L. <font> Am. <$$font> You might have done that another
+Time; DAVYS-1716-1,46.763
+
+you should endeavour to entertain your Mistress now.  DAVYS-1716-1,46.764
+
+<bracket> <font> aside.  <$$font> <$$bracket> $There $'s {TEXT:There's}
+one very busy doing it for you, I see, which I $do $n't {TEXT:don't}
+much approve of.  DAVYS-1716-1,46.765
+
+Come, Niece, pray let Sir <font> Loobily <$$font> have a little of
+your Company.  DAVYS-1716-1,46.766
+
+<font> Isa. aside.  <$$font> I must own my Aunt has an admirable
+Fancy.  DAVYS-1716-1,46.767
+
+Sir <font> Loo. <$$font> Come, forsooth, $and {TEXT:ad} we shall
+live mains happily.  DAVYS-1716-1,46.768
+
+I $can $n't {TEXT:can't} but think how lovingly we shall smoke our
+Pipes together, drink a Pot of Ale, and play at Put in a Winter-Evening.
+DAVYS-1716-1,46.769
+
+<font> Isa. <$$font> Indeed, Sir <font> Loobily <$$font>
+, I $do $n't {TEXT:don't} know what $you $'ll {TEXT:you'll} do;
+DAVYS-1716-1,46.770
+
+for I am a perfect Stranger to all those Things.  DAVYS-1716-1,46.771
+
+<P_47>
+
+Sir <font> Loo. <$$font> $That $'s {TEXT:That's} much;
+DAVYS-1716-1,47.773
+
+all Women in our Country smoke Tobacco; DAVYS-1716-1,47.774
+
+you must learn by all Means.  DAVYS-1716-1,47.775
+
+Not smoke, $quoth $he {TEXT:quotha}, ha, ha, ha.  DAVYS-1716-1,47.776
+
+<font> Enter a Foot-man.  <$$font> DAVYS-1716-1,47.777
+
+<font> Foot. <$$font> Madam, Mr. <font> Bareface <$$font>
+and Capt. <font> Tinsel <$$font> are below to wait on your
+Ladyship.  DAVYS-1716-1,47.778
+
+L. <font> Am. <$$font> Desire'em to walk up.
+DAVYS-1716-1,47.779
+
+<bracket> <font> Exit Foot-man.  <$$font> DAVYS-1716-1,47.780
+
+<font> Lou. <$$font> So, here comes a Couple of Fools of a
+different Stamp.  DAVYS-1716-1,47.781
+
+<font> Enter <$$font> Bareface <font> and <$$font> Tinsel.
+DAVYS-1716-1,47.782
+
+<font> Bare. <$$font> My Lady <font> Ample <$$font>, the lowest
+of your Slaves; DAVYS-1716-1,47.783
+
+beauteous Nymphs, your Adorer; DAVYS-1716-1,47.784
+
+Gentlemen, yours.  DAVYS-1716-1,47.785
+
+$There $'s {TEXT:There's} so strong an Attraction in your Ladyship's
+House, that we found it impossible to go by, without offering our Service
+to wait on you to the Races.  DAVYS-1716-1,47.786
+
+<font> Gam. <$$font> The Ladies are oblig'd to you, Sir,
+DAVYS-1716-1,47.787
+
+but have promis'd to do us that Favour.  DAVYS-1716-1,47.788
+
+<font> Capt. <$$font> Oh, we are for invading no Body's Property
+; DAVYS-1716-1,47.789
+
+$'t $is {TEXT:'tis} not like a Man of Honour.  DAVYS-1716-1,47.790
+
+<font> Bare. <$$font> By no Means.  DAVYS-1716-1,47.791
+
+<bracket> <font> aside.  <$$font> <$$bracket> Tho'I believe the Ladies
+would be glad of the Exchange.  DAVYS-1716-1,47.792
+
+<font> Lou. <$$font> Captain, $there $'s {TEXT:there's} a great
+Misfortune happen'd to you, tho'I fancy you $do $n't {TEXT:don't} know it.
+DAVYS-1716-1,47.793
+
+<font> Capt. <$$font> I am above Misfortunes, Madam;
+DAVYS-1716-1,47.794
+
+I was always, I thank my Stars, of an undaunted Courage.
+DAVYS-1716-1,47.795
+
+But pray do me the Favour to let me know what $'t $is {TEXT:'tis}.
+DAVYS-1716-1,47.796
+
+<font> Lou. <$$font> I suppose you make no Secret of your Passion
+for my Lady <font> Greasy <$$font>'s Daughter.  DAVYS-1716-1,47.797
+
+<font> Capt. <$$font> $There $'s {TEXT:There's} no resisting
+Destiny, DAVYS-1716-1,47.798
+
+or I should be asham'd, that a Person of my Birth and Quality could ever
+be enslav'd by the Daughter of a Mechanick.  DAVYS-1716-1,47.799
+
+<font> Gam. <$$font> Oh, Captain, $you $'re {TEXT:you're} not
+the first great Man that has been in Love; DAVYS-1716-1,47.800
+
+and that you know makes all People equal.  DAVYS-1716-1,47.801
+
+<font> Wel. <$$font> Aye, aye, you know <font> Alexander the
+Great <$$font> was subject to a <font> Persian <$$font> Captive;
+DAVYS-1716-1,47.802
+
+and <font> Omphale <$$font> brought the mighty <font> Hercules <$$font>
+to change his Club for a Distaff.  DAVYS-1716-1,47.803
+
+<font> Bare. <$$font> Pray, Mr. <font> Gamont <$$font>
+, was not that <font> Hercules <$$font> a Marshal of <font> France?
+<$$font> DAVYS-1716-1,47.804
+
+<font> Gam. <$$font> No, Sir, he was one of the King of <font>
+Morocco <$$font>'s chief Elephant-Riders.  DAVYS-1716-1,47.805
+
+<bracket> <font> All laugh.  <$$font> <$$bracket> DAVYS-1716-1,47.806
+
+<font> Capt. <$$font> Well, Gentlemen, I have better Blood in my
+<P_48> Veins, than either of them.  DAVYS-1716-1,48.807
+
+My Ancestors came originally out of <font> Ethiopia <$$font>;
+DAVYS-1716-1,48.808
+
+one of my Grand-mothers was Maid of Honour to the Queen of <font>
+Sheba <$$font>, when she made a Visit to King <font> Solomon <$$font>
+; DAVYS-1716-1,48.809
+
+there she marry'd to a <font> Jewish <$$font> Lord, who deriv'd his
+Pedigree in a direct Line from <font> Noah.  <$$font> DAVYS-1716-1,48.810
+
+<font> Lou. aside.  <$$font> Well said.  DAVYS-1716-1,48.811
+
+Sir <font> Loo. <$$font> I $do $n't {TEXT:don't} understand one
+Word they say; DAVYS-1716-1,48.812
+
+$I $'ll {TEXT:I'll} e'en go to my Horses.  DAVYS-1716-1,48.813
+
+My Lady, Good-by; DAVYS-1716-1,48.814
+
+Good-by Gentlefolks.  DAVYS-1716-1,48.815
+
+L. <font> Am. <$$font> Will you leave us, Sir <font>
+Loobily?  <$$font> DAVYS-1716-1,48.816
+
+Sir <font> Loo. <$$font> Aye, aye, $I $'ll {TEXT:I'll} go to
+my Horses.  DAVYS-1716-1,48.817
+
+<bracket> <font> Exit.  <$$font> DAVYS-1716-1,48.818
+
+<font> Bare. <$$font> Lard, what a rough-hewn Brute it is?
+DAVYS-1716-1,48.819
+
+He stinks so of the Stable, the Stench has almost overcome me.
+DAVYS-1716-1,48.820
+
+<font> Capt. <$$font> to <font> Lou. <$$font> But pray,
+Madam, let me know what cross Accident has done an Injury to the Affair
+that relates to my Passion.  DAVYS-1716-1,48.821
+
+<font> Lou. <$$font> Why, Sir, in short, my Lady <font>
+Greasy <$$font> has found your Letter, and beat your Mistress;
+DAVYS-1716-1,48.822
+
+and, to compleat the Misfortune, has lock'd her up.  DAVYS-1716-1,48.823
+
+<font> Capt. <$$font> Nothing more unlucky could have happen'd;
+DAVYS-1716-1,48.824
+
+for this Day I was in Hopes would have given her up to my Arms.
+DAVYS-1716-1,48.825
+
+<font> Wel. <$$font> Come, come, Captain, $do $n't {TEXT:don't}
+despair.  DAVYS-1716-1,48.826
+
+Mr. <font> Gamont <$$font> and I have been your Friends, tho'
+we did not know your Design.  DAVYS-1716-1,48.827
+
+<font> Gam. <$$font> Aye, we have prevail'd with my Lady, to
+let Miss go to the Race with Lady <font> Swish <$$font> and Lady <font>
+Cordivant <$$font>; DAVYS-1716-1,48.828
+
+so if you can overcome those Dragons, the Golden Fleece will be your
+Reward.  DAVYS-1716-1,48.829
+
+<font> Capt. <$$font> Aye, but how?  DAVYS-1716-1,48.830
+
+for I know they will watch her as a Fox would a Poultry-Yard.
+DAVYS-1716-1,48.831
+
+$Pray $thee {TEXT:Prithee}, <font> Bareface <$$font>, $can $n't
+{TEXT:can't} you help me to a soporiferous Sop?  DAVYS-1716-1,48.832
+
+<font> Bare. <$$font> A soporiferous Sop, DAVYS-1716-1,48.833
+
+what the $Devil $'s {TEXT:Devil's} that, a Bottle of Brandy?
+DAVYS-1716-1,48.834
+
+Well, come, now I think on't, I believe I can do you some Service.
+DAVYS-1716-1,48.835
+
+<font> Capt. <$$font> Dear Rogue, what $is $'t {TEXT:is't}?
+DAVYS-1716-1,48.836
+
+$Pray $thee {TEXT:Prithee} be quick; DAVYS-1716-1,48.837
+
+Delay will rack me like a Fit of the Stone.  DAVYS-1716-1,48.838
+
+<font> Bare. <$$font> Delay may be dangerous; DAVYS-1716-1,48.839
+
+come away, and $I $'ll {TEXT:I'll} tell you as I go.  DAVYS-1716-1,48.840
+
+Ladies, $you $'ll {TEXT:you'll} please to pardon our abrupt Departure;
+DAVYS-1716-1,48.841
+
+the Emergency of the Occasion excuses the Fault.  DAVYS-1716-1,48.842
+
+<P_49>
+
+<font> Capt. <$$font> Ladies and Gentlemen, yours
+DAVYS-1716-1,49.844
+
+<bracket> <font> Ex. <$$font> Bare. & Tin.
+DAVYS-1716-1,49.845
+
+<font> Isa. <$$font> Go your Ways, for a couple of Coxcombs.
+DAVYS-1716-1,49.846
+
+<font> Enter <$$font> Sir Jeffrey.  DAVYS-1716-1,49.847
+
+Sir <font> Jef. <$$font> You see, Madam, I use no Ceremony,
+DAVYS-1716-1,49.848
+
+I come in without knocking.  DAVYS-1716-1,49.849
+
+L. <font> Am. <$$font> Nothing pleases me better, Sir <font>
+Jeffrey <$$font>, than an innocent Freedom.  DAVYS-1716-1,49.850
+
+Sir <font> Jef. <$$font> Come, I just call'd to see if you were
+for the Field, DAVYS-1716-1,49.851
+
+I believe $'t $is {TEXT:'tis} Time.  DAVYS-1716-1,49.852
+
+L. <font> Am. looking on her Watch.  <$$font> Aye, $'t
+$is {TEXT:'tis} almost two a Clock, DAVYS-1716-1,49.853
+
+and the Coach is at the Door; DAVYS-1716-1,49.854
+
+are you for walking, Ladies?  DAVYS-1716-1,49.855
+
+<font> Lou. <$$font> We attend your Ladyship.  DAVYS-1716-1,49.856
+
+Sir <font> Jef. <$$font> If $you $'ll {TEXT:you'll} give me
+your Hand, Cousin <font> Ample <$$font>, $I $'ll {TEXT:I'll} see you to
+your Coach.  DAVYS-1716-1,49.857
+
+L. <font> Am. <$$font> I see, Sir <font> Jeffrey <$$font>
+, you $ha $n't {TEXT:han't} forgot Ceremony.  DAVYS-1716-1,49.858
+
+Sir <font> Jef. <$$font> No, no, what a Pize, DAVYS-1716-1,49.859
+
+I am not so old neither.  DAVYS-1716-1,49.860
+
+<font> Gam. <$$font> to <font> Isa. <$$font> I hope, Madam,
+I may expect the same Favour from you.  DAVYS-1716-1,49.861
+
+<font> Wel. <$$font> to <font> Lou. <$$font> I wish you
+would give me your Heart with your Hand.  DAVYS-1716-1,49.862
+
+<font> Lou. <$$font> Should I give it away so soon, you would
+hardly think it worth Acceptance.  DAVYS-1716-1,49.863
+
+<font> A Conquest easy gain'd you all despise: DAVYS-1716-1,49.864
+
+We please you best, when most we tyrannize.  DAVYS-1716-1,49.865
+
+<bracket> Ex. om. {COM:sic_without_italics}
+DAVYS-1716-1,49.866
+
+<heading>
+
+Act IV.  DAVYS-1716-1,49.868
+
+Scene <font> a Tavern.  <$$font> DAVYS-1716-1,49.869
+
+<$$heading>
+
+<font> Enter <$$font> Bareface.  DAVYS-1716-1,49.871
+
+<font> Bare. <$$font> Here, you Drawer, is Captain <font> Tinsel
+<$$font> here?  DAVYS-1716-1,49.872
+
+<font> Draw. <$$font> Captain <font> Tinsel <$$font>, Sir,
+DAVYS-1716-1,49.873
+
+Yes, Sir - DAVYS-1716-1,49.874
+
+No, Sir, DAVYS-1716-1,49.875
+
+- I $do $n't {TEXT:don't} know, Sir.  DAVYS-1716-1,49.876
+
+$I $'ll {TEXT:I'll} go and see.  DAVYS-1716-1,49.877
+
+<bracket> <font> Ex. <$$font> Dr. DAVYS-1716-1,49.878
+
+<font> Bare. <$$font> $What $'s {TEXT:What's} the Fellow mad!
+DAVYS-1716-1,49.879
+
+Oh now I have it.  DAVYS-1716-1,49.880
+
+I suppose the Work is hardly done, DAVYS-1716-1,49.881
+
+and $he $'s {TEXT:he's} not to be here'till it is.  DAVYS-1716-1,49.882
+
+Well, this Contrivance of mine was a Master-piece, DAVYS-1716-1,49.883
+
+and I shall value myself accordingly.  DAVYS-1716-1,49.884
+
+<font> Enter <$$font> Captain <font> and <$$font> Miss.
+DAVYS-1716-1,49.885
+
+<font> Capt. <$$font> Dear <font> Bareface <$$font>, let me
+embrace thee; DAVYS-1716-1,49.886
+
+$thou $'st {TEXT:thou'st} done more for me than ever my own Father did;
+DAVYS-1716-1,49.887
+
+for <P_50> he gave me only Life; but thou, Dear Rogue, Life, Love,
+and Liberty.  DAVYS-1716-1,50.888
+
+<bracket> <font> Aside.  <$$font> <$$bracket> For, egad, if I had not
+got her as I did, my next Lodging had been in a Jail.  DAVYS-1716-1,50.889
+
+<font> Bare. <$$font> Well, my Bully, by all this Transport I
+suppose my next Work is to wish you Joy, which I do from all the Inwards
+I have.  DAVYS-1716-1,50.890
+
+And for your part, Madam, $'t $is {TEXT:'tis} impossible you should miss
+on't in such Hands.  DAVYS-1716-1,50.891
+
+<font> Miss.  <$$font> I know not what I shall have from his Hands,
+DAVYS-1716-1,50.892
+
+but I am sure I shall have nothing but Blows from my Mother's:
+DAVYS-1716-1,50.893
+
+I dare as well be hang'd as go Home.  DAVYS-1716-1,50.894
+
+<font> Bare. <$$font> Oh Madam, now you are a Soldier's Lady you
+must despise Fear.  DAVYS-1716-1,50.895
+
+<font> Capt. <$$font> My Dear, if she says one angry Word to
+thee, $I $'ll {TEXT:I'll} set her Kennel on Fire, and roast her by her
+own Candles.  DAVYS-1716-1,50.896
+
+But I am still in the Dark how you procur'd my Happiness.
+DAVYS-1716-1,50.897
+
+I saw you carry the Ladies into the Booth, to drink a Glass of Wine,
+DAVYS-1716-1,50.898
+
+but know no more.  DAVYS-1716-1,50.899
+
+<font> Bare. <$$font> Did not your Lady tell you?
+DAVYS-1716-1,50.900
+
+<font> Capt. <$$font> No, I had no Time to ask her.
+DAVYS-1716-1,50.901
+
+<font> Bare. <$$font> Why, as soon as I had them there, I ply'd'em
+well with Bumpers,'till they began to grow careless, DAVYS-1716-1,50.902
+
+then tipp'd the Wink upon <font> Miss <$$font> to follow me, which she
+did to the other End of the Booth; DAVYS-1716-1,50.903
+
+and while they were toasting one another's Healths, I demolished their
+Canvas Walls, DAVYS-1716-1,50.904
+
+and thrust her through.  DAVYS-1716-1,50.905
+
+<font> Capt. <$$font> By my Courage, a noble Contrivance;
+DAVYS-1716-1,50.906
+
+but what said they when they miss'd her?  DAVYS-1716-1,50.907
+
+<font> Bare. <$$font> Said!  DAVYS-1716-1,50.908
+
+The Liquor and their Passion met upon their Tongues, that they could
+not say at all: DAVYS-1716-1,50.909
+
+So I e'en paid the Reckoning, DAVYS-1716-1,50.910
+
+told'em I would go in Quest of her, DAVYS-1716-1,50.911
+
+and left'em - DAVYS-1716-1,50.912
+
+but, Madam, I would have you make haste Home, before your Mother loses
+her Senses {TEXT:missing_period} DAVYS-1716-1,50.913
+
+<font> Miss.  <$$font> Captain, $wo $n't {TEXT:won't} you go with me?
+DAVYS-1716-1,50.914
+
+<font> Capt. <$$font> No, my Dear, I would not have your
+Mother know we are marry'd yet, for a Reason I have to my self;
+DAVYS-1716-1,50.915
+
+but do you make Haste, that you may be at Home before the Ladies.
+DAVYS-1716-1,50.916
+
+<font> Bare. <$$font> Favour me with your Hand, Madam,
+DAVYS-1716-1,50.917
+
+and $I $'ll {TEXT:I'll} convey you out the Back-way.  DAVYS-1716-1,50.918
+
+<bracket> <font> Ex. <$$font> Bare. <font> and <$$font>
+Miss.  DAVYS-1716-1,50.919
+
+<font> Capt. solus <$$font> Thus far $all $'s {TEXT:all's} well.
+DAVYS-1716-1,50.920
+
+My next Work must be to secure her Money before the Thing takes Wind;
+DAVYS-1716-1,50.921
+
+for if the <font> Succubus <$$font>, her Mother, comes to hear on't,
+$she $'ll {TEXT:she'll} put a Stop to the Payment; DAVYS-1716-1,50.922
+
+and then I had better she had kept her Daughter.  DAVYS-1716-1,50.923
+
+<P_51>
+
+<font> For tho'we talk of Love, and Womens Charms, $'T $is {TEXT:'Tis}
+Money only draws us to their Arms.  <$$font> DAVYS-1716-1,51.925
+
+<bracket> Ex. <font> Cap. <$$font> DAVYS-1716-1,51.926
+
+Scene <font> changes to Lady <$$font> Greasy <font>'s.  <$$font>
+DAVYS-1716-1,51.927
+
+<font> Enter <$$font> Welby <font> and <$$font> Louisa.
+DAVYS-1716-1,51.928
+
+<font> Wel. <$$font> I hope, Madam, my Eyes have been such good
+Orators, as to save my Tongue the Labour of telling you any more how
+dear you are to me.  DAVYS-1716-1,51.929
+
+<font> Lou {TEXT:missing_period} <$$font> Mr. <font> Welby
+<$$font>, I $do $n't {TEXT:don't} understand the Language of the Eyes;
+DAVYS-1716-1,51.930
+
+nor can I think you a Man of so little Gallantry, as to have been in all
+the polite Parts of the World, and bring a Heart back with you at last.
+DAVYS-1716-1,51.931
+
+<font> Wel. <$$font> Those polite Parts you speak of has nothing in
+'em dress'd in your Charms.  DAVYS-1716-1,51.932
+
+I surely brought a Heart back with me, DAVYS-1716-1,51.933
+
+and might have kept it had I never seen you.  DAVYS-1716-1,51.934
+
+<font> Lou. <$$font> Few Women of Discretion take Notice of such
+early Addresses; DAVYS-1716-1,51.935
+
+but if it be true, that I may boast a Conquest, I am really sorry
+for it, because I am not in a Condition to make the least Return.
+DAVYS-1716-1,51.936
+
+<font> Wel. <$$font> Then I am miserable indeed.
+DAVYS-1716-1,51.937
+
+<font> Lou. <$$font> I $can $n't {TEXT:can't} help it;
+DAVYS-1716-1,51.938
+
+for'till my Father dies, or Brother marries, I am resolv'd to continue
+as I am; DAVYS-1716-1,51.939
+
+and I doubt not but the Freedom that is betwixt you and <font> Gamont
+<$$font>, has made you a Sharer in the Cause.  DAVYS-1716-1,51.940

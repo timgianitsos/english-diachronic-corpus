@@ -1,0 +1,2163 @@
+<P_25>
+
+<heading>
+
+SCENE $III, <font> A Dressing-Room.  <$$font> VANBR-E3-P2,25.3
+
+<$$heading>
+
+<font> Enter Lord <$$font> Foppington <font> in his Night-Gown.  <$$font>
+VANBR-E3-P2,25.5
+
+<font> Lord Fop. <$$font> Page - VANBR-E3-P2,25.6
+
+<paren> <font> Enter Page.  <$$font> VANBR-E3-P2,25.7
+
+<font> Page.  <$$font> Sir.  VANBR-E3-P2,25.8
+
+<font> Lord Fop. <$$font> Sir, Pray, Sir, do me the Favour to
+teach your Tongue the Title the King has thought fit to honour me with.
+VANBR-E3-P2,25.9
+
+<font> Page.  <$$font> I ask your Lordship's Pardon, my Lord.
+VANBR-E3-P2,25.10
+
+<font> Lord Fop. <$$font> O, you can pronounce the Word then,
+VANBR-E3-P2,25.11
+
+I thought it would have choak'd you - VANBR-E3-P2,25.12
+
+$D'$ye {TEXT:D'ye} hear?  VANBR-E3-P2,25.13
+
+<font> Page.  <$$font> My Lord.  VANBR-E3-P2,25.14
+
+<font> Lord Fop. <$$font> Call <font> La Verole <$$font>,
+VANBR-E3-P2,25.15
+
+I wou'd Dress - VANBR-E3-P2,25.16
+
+<paren> <font> Exit Page.  <$$font> VANBR-E3-P2,25.17
+
+<font> Solus.  <$$font> VANBR-E3-P2,25.18
+
+Well, $'t $is {TEXT:'tis} an unspeakable pleasure to be a Man of Quality -
+Strike me dumb - VANBR-E3-P2,25.19
+
+My Lord - VANBR-E3-P2,25.20
+
+Your Lordship - VANBR-E3-P2,25.21
+
+My Lord <font> Foppington <$$font> - VANBR-E3-P2,25.22
+
+<font> Ah!  c'est quelque Chose de beau, que le Diable m'emporte <$$font>
+- VANBR-E3-P2,25.23
+
+Why the Ladies were ready to pewke at me, whilst I had nothing but Sir
+<font> Navelty <$$font> to recommend me to'em - VANBR-E3-P2,25.24
+
+Sure whilst I was but a Knight, I was a very nauseous Fellow -
+VANBR-E3-P2,25.25
+
+Well, $'t $is {TEXT:'tis} Ten Thousand Pawnd well given - stap my Vitals
+- VANBR-E3-P2,25.26
+
+<font> Enter <$$font> La Verole.  VANBR-E3-P2,25.27
+
+Me Lord, de Shoomaker, de Taylor, de Hosier, de Semstress, de Barber ,
+be all ready, if your Lordship please to be dress.  VANBR-E3-P2,25.28
+
+<font> Lord Fop. <$$font> $'T $is {TEXT:'Tis} well,
+VANBR-E3-P2,25.29
+
+admit'em.  VANBR-E3-P2,25.30
+
+<font> La Ver. <$$font> Hey, Messieurs, Entrez.  VANBR-E3-P2,25.31
+
+<font> Enter Taylor, &c.  <$$font> VANBR-E3-P2,25.32
+
+<font> Lord Fop. <$$font> So, Gentlemen, I hope you have all taken
+pains to shew your selves Masters in your Professions.  VANBR-E3-P2,25.33
+
+<font> Tayl. <$$font> I think I may presume to say, Sir -
+VANBR-E3-P2,25.34
+
+<font> La Ver. <$$font> My Lord - You Clawn you.  VANBR-E3-P2,25.35
+
+<font> Tayl. <$$font> Why, is he made a Lord - VANBR-E3-P2,25.36
+
+My Lord, I ask your Lordship's Pardon my Lord; VANBR-E3-P2,25.37
+
+I hope, my Lord, your Lordship will please to own, <P_26> I have brought
+your Lordship as accomplisht a Suit of Cloaths, as ever Peer of <font>
+England <$$font> trode the Stage in, my Lord: VANBR-E3-P2,26.38
+
+Will your Lordship please to try'em now?  VANBR-E3-P2,26.39
+
+<font> Lord Fop. <$$font> Ay, but let my People dispose the
+Glasses so, that I may see my self before and behind; VANBR-E3-P2,26.40
+
+for I love to see my self all raund - VANBR-E3-P2,26.41
+
+<paren> <font> Whilst he puts on his Cloaths, enter <$$font> Young
+Fashion <font> and <$$font> Lory.  VANBR-E3-P2,26.42
+
+<font> Y. Fash. <$$font> Hey-day, what the Devil have
+we here?  VANBR-E3-P2,26.43
+
+Sure my $Gentleman $'s {TEXT:Gentleman's} grown a Favourite at Court,
+he has got so many People at his Levee.  VANBR-E3-P2,26.44
+
+<font> Lo. <$$font> Sir, these People come in order to make him
+a Favourite at Court, VANBR-E3-P2,26.45
+
+they are to establish him with the Ladies.  VANBR-E3-P2,26.46
+
+<font> Y. Fash. <$$font> Good God, to what an Ebb of
+Taste are Women fallen, that it shou'd be in the power of a Lac't Coat
+to recommend a Gallant to'em - VANBR-E3-P2,26.47
+
+<font> Lo. <$$font> Sir, Taylors and Periwigmakers are now become
+the Bawds of the Nation, VANBR-E3-P2,26.48
+
+$'t $is {TEXT:'tis} they debauch all the Women.  VANBR-E3-P2,26.49
+
+<font> Y. Fash. <$$font> Thou sayst true; VANBR-E3-P2,26.50
+
+for there's that Fop now, has not by Nature wherewithal to move a
+Cook-Maid, VANBR-E3-P2,26.51
+
+and by that time these Fellows have done with him, I'gad he shall melt
+down a Countess.  VANBR-E3-P2,26.52
+
+But now for my Reception, $I $'ll {TEXT:I'll} ingage it shall be as cold
+a one, as a $Courtier $'s {TEXT:Courtier's} to his Friend, who comes to
+put him in mind of his Promise.  VANBR-E3-P2,26.53
+
+<font> Lord Fop. to his Taylor <$$font> <$$paren> Death and Eternal
+Tartures, Sir, I say the $Packet $'s {TEXT:Packet's} too high by a Foot.
+VANBR-E3-P2,26.54
+
+<font> Tayl. <$$font> My Lord, if it had been an Inch lower
+, it would not have held your Lordship's Pocket-Handkerchief.
+VANBR-E3-P2,26.55
+
+<font> Lord Fop. <$$font> Rat my Pocket-Handkerchief!
+VANBR-E3-P2,26.56
+
+Have not I a Page to carry it?  VANBR-E3-P2,26.57
+
+you may make him a Packet up to his Chin a purpose for it:
+VANBR-E3-P2,26.58
+
+But I will not have mine come so near my Face.  VANBR-E3-P2,26.59
+
+<font> Tayl. <$$font> $'T $is {TEXT:'Tis} not for me to dispute
+your Lordship's Fancy.  VANBR-E3-P2,26.60
+
+<font> Y. Fash. to Lory <$$font> <$$paren> His Lordship;
+VANBR-E3-P2,26.61
+
+<font> Lory <$$font>, did you observe that?  VANBR-E3-P2,26.62
+
+<font> Lo. <$$font> Yes Sir, I always thought $'t $would
+{TEXT:'twould} end there.  VANBR-E3-P2,26.63
+
+Now I hope $you $'ll {TEXT:you'll} have a little more Respect for him.
+VANBR-E3-P2,26.64
+
+<font> Y. Fash. <$$font> Respect!  VANBR-E3-P2,26.65
+
+Damn him for a Coxcomb; VANBR-E3-P2,26.66
+
+now has he ruin'd his Estate to buy a Title, that he may be a Fool of
+the first Rate: VANBR-E3-P2,26.67
+
+But $let $'s {TEXT:let's} accost him - VANBR-E3-P2,26.68
+
+<font> To Lord Fop. <$$font> <$$paren> Brother, $I $'m {TEXT:I'm}
+your Humble Servant VANBR-E3-P2,26.69
+
+<font> Lord Fop. <$$font> O Lard <font> Tam <$$font>, I did not
+expect you in <font> England <$$font>; VANBR-E3-P2,26.70
+
+Brother, I am glad to see you - VANBR-E3-P2,26.71
+
+<font> Turning to his Taylor.  <$$font> <$$paren> VANBR-E3-P2,26.72
+
+Look you Sir, I shall never be reconcil'd to this nauseous Packet;
+VANBR-E3-P2,26.73
+
+therefore pray get me another Suit with all manner of Expedition,
+VANBR-E3-P2,26.74
+
+for this is my Eternal Aversion.  VANBR-E3-P2,26.75
+
+Mrs. <font> Callicoe <$$font>, are not you of my Mind?
+VANBR-E3-P2,26.76
+
+<font> Semp. <$$font> O, directly my Lord, VANBR-E3-P2,26.77
+
+it can never be too low - VANBR-E3-P2,26.78
+
+<P_27>
+
+<font> Lord Fop. <$$font> You are positively in the right on't,
+VANBR-E3-P2,27.80
+
+for the Packet becomes no part of the Body but the Knee.
+VANBR-E3-P2,27.81
+
+<font> Semp. <$$font> I hope your Lordship is pleas'd with your
+Steenkirk.  VANBR-E3-P2,27.82
+
+<font> Lord Fop. <$$font> In love with it, stap my Vitals;
+VANBR-E3-P2,27.83
+
+Bring your Bill, you shall be paid to Marrow - VANBR-E3-P2,27.84
+
+<font> Semp. <$$font> I humbly thank your Honour -
+VANBR-E3-P2,27.85
+
+<paren> <font> Exit Semp. <$$font> VANBR-E3-P2,27.86
+
+<font> Lord Fop. <$$font> Hark thee, Shooe-maker, these Shooes
+$a $nt {TEXT:an_t} ugly, VANBR-E3-P2,27.87
+
+but they $do $n't {TEXT:don't} fit me.  VANBR-E3-P2,27.88
+
+<font> Shooe. <$$font> My Lord, $me {TEXT:my} thinks they fit
+you very well.  VANBR-E3-P2,27.89
+
+<font> Lord Fop. <$$font> They hurt me just below the Instep.
+VANBR-E3-P2,27.90
+
+<paren> <font> Shooe. feeling his Foot.  <$$font> <$$paren>
+VANBR-E3-P2,27.91
+
+My Lord, they $do $n't {TEXT:don't} hurt you there.  VANBR-E3-P2,27.92
+
+<font> Lord Fop. <$$font> I tell thee they pinch me execrably.
+VANBR-E3-P2,27.93
+
+<font> Shooe. <$$font> My Lord, if they pinch you, $I $'ll
+{TEXT:I'll} be bound to be hang'd, VANBR-E3-P2,27.94
+
+$that $'s {TEXT:that's} all.  VANBR-E3-P2,27.95
+
+<font> Lord Fop. <$$font> Why wilt thou undertake to perswade me
+I $can $not {TEXT:cannot} feel?  VANBR-E3-P2,27.96
+
+<font> Shooe. <$$font> Your Lordship may please to feel what you
+think fit; VANBR-E3-P2,27.97
+
+but that Shooe does not hurt you; VANBR-E3-P2,27.98
+
+I think I understand my Trade - VANBR-E3-P2,27.99
+
+<font> Lord Fop. <$$font> Now by all $that $'s {TEXT:that's} Great
+and Powerful, thou art an incomprehensible Coxcomb; VANBR-E3-P2,27.100
+
+but thou makest good Shooes, VANBR-E3-P2,27.101
+
+and so $I $'ll {TEXT:I'll} bear with thee.  VANBR-E3-P2,27.102
+
+<font> Shooe. <$$font> My Lord, I have workt for half the People
+of Quality in Town, these Twenty Years; VANBR-E3-P2,27.103
+
+and $'t $were {TEXT:'twere} very hard I should not know when a Shooe
+hurts, and when it $do $n't {TEXT:don't}.  VANBR-E3-P2,27.104
+
+<font> Lord Fop. <$$font> Well, $pray $thee {TEXT:prithee} begone
+about thy Business.  VANBR-E3-P2,27.105
+
+<paren> <font> Exit Shooe. <$$font> VANBR-E3-P2,27.106
+
+<paren> <font> To the Hosier.  <$$font> <$$paren> VANBR-E3-P2,27.107
+
+Mr. <font> Mend-Legs <$$font>, a Word with you; VANBR-E3-P2,27.108
+
+the Calves of the Stockings are thicken'd a little too much.
+VANBR-E3-P2,27.109
+
+They make my Legs look like a Chairman's - VANBR-E3-P2,27.110
+
+<font> Mend. <$$font> My Lord, $me {TEXT:my} thinks they look
+mighty well.  VANBR-E3-P2,27.111
+
+<font> Lord Fop. <$$font> Ay, but you are not so good a Judge of
+those Things as I am, VANBR-E3-P2,27.112
+
+I have study'd'em all my Life; VANBR-E3-P2,27.113
+
+therefore pray let the next be the thickness Of a Crawn-piece less -
+VANBR-E3-P2,27.114
+
+<paren> <font> Aside <$$font> <$$paren> VANBR-E3-P2,27.115
+
+If the Town takes notice my Legs are fallen away, $'t $will {TEXT:'twill}
+be attributed to the Violence of some new Intrigue.  VANBR-E3-P2,27.116
+
+<paren> <font> Exit Mend-Legs.  <$$font> VANBR-E3-P2,27.117
+
+<font> To the Periwig-maker.  <$$font> <$$paren> VANBR-E3-P2,27.118
+
+Come, Mr. <font> Foretop <$$font>, let me see what you have done ,
+and then the Fatigue of the Marning will be over.  VANBR-E3-P2,27.119
+
+<font> Foretop. <$$font> My Lord, I have done what I defie
+any Prince in <font> Europe <$$font> $t'$out-do {TEXT:t'-out-do};
+VANBR-E3-P2,27.120
+
+I have made you a Periwig so long, and so full of Hair, it will serve
+you for a Hat and Cloak in all Weathers.  VANBR-E3-P2,27.121
+
+<font> Lord Fop. <$$font> Then thou hast made me thy Friend to
+Eternity; VANBR-E3-P2,27.122
+
+Come, comb it out.  VANBR-E3-P2,27.123
+
+<font> Y. Fash. <$$font> Well, <font> Lory, <$$font>
+What dost think on't?  VANBR-E3-P2,27.124
+
+A very friendly Reception from a Brother after 3 Years absence!
+VANBR-E3-P2,27.125
+
+<font> Lory.  <$$font> Why, Sir, $'t $is {TEXT:'tis} your own Fault,
+VANBR-E3-P2,27.126
+
+we seldom care for those that $do $n't {TEXT:don't} <P_28> love what we
+love; VANBR-E3-P2,28.127
+
+if you would creep into his Heart, you must enter into his Pleasures -
+VANBR-E3-P2,28.128
+
+Here have you stood ever since you came in, VANBR-E3-P2,28.129
+
+and have not commended any one Thing that belongs to him.
+VANBR-E3-P2,28.130
+
+<font> Y. Fash. <$$font> Nor never shall, whilst they
+belong to a Coxcomb.  VANBR-E3-P2,28.131
+
+<font> Lory.  <$$font> Then, Sir, you must be content to pick a hungry
+Bone.  VANBR-E3-P2,28.132
+
+<font> Y. Fash. <$$font> No, Sir, $I $'ll {TEXT:I'll}
+crack it, and get to the Marrow before I have done.  VANBR-E3-P2,28.133
+
+<font> Lord Fop. <$$font> Gad's Curse; Mr. <font> Foretop
+<$$font>, you $do $n't {TEXT:don't} intend to put this upon me for a
+full Periwig?  VANBR-E3-P2,28.134
+
+<font> Fore. <$$font> Not a full one, my Lord?  VANBR-E3-P2,28.135
+
+I $do $n't {TEXT:don't} know what your Lordship may please to call a
+full one, VANBR-E3-P2,28.136
+
+but I have cram'd 20 Ounces of Hair into it.  VANBR-E3-P2,28.137
+
+<font> Lord Fop. <$$font> What it may be by Weight, Sir, I shall
+not dispute; VANBR-E3-P2,28.138
+
+but by Tale, there are not 9 Hairs of a side.  VANBR-E3-P2,28.139
+
+<font> Fore. <$$font> O Lord!  VANBR-E3-P2,28.140
+
+O Lord!  O Lord!  why, as Gad shall judge me, your Honour's Side-Face
+is reduc'd to the tip of your Nose.  VANBR-E3-P2,28.141
+
+<font> Lord Fop. <$$font> My Side-Face may be in Eclipse for
+aught I know; VANBR-E3-P2,28.142
+
+but $I $'m {TEXT:I'm} sure, my Full-Face is like the Full-Moon.
+VANBR-E3-P2,28.143
+
+<font> Fore. <$$font> Heaven bless my Eye-sight -
+VANBR-E3-P2,28.144
+
+<paren> <font> Rubbing his Eyes.  <$$font> <$$paren> VANBR-E3-P2,28.145
+
+Sure I look through the wrong end of the Perspective, VANBR-E3-P2,28.146
+
+for by my Faith, $an $'t {TEXT:an't} please your Honour, the broadest
+place I see in your Face, does not seem to me to be two Inches diameter.
+VANBR-E3-P2,28.147
+
+<font> Lord Fop. <$$font> If it did, it would be just two Inches
+too broad; VANBR-E3-P2,28.148
+
+Far a Periwig to a Man, shou'd be like a Mask to a Woman,
+VANBR-E3-P2,28.149
+
+nothing shou'd be seen but his Eyes - VANBR-E3-P2,28.150
+
+<font> Fore. <$$font> My Lord, I have done; VANBR-E3-P2,28.151
+
+if you please to have more Hair in your Wig, $I $'ll {TEXT:I'll} put
+it in.  VANBR-E3-P2,28.152
+
+<font> Lord Fop. <$$font> Passitively, yes.  VANBR-E3-P2,28.153
+
+<font> Fore. <$$font> Shall I take it back now, my Lord?
+VANBR-E3-P2,28.154
+
+<font> Lord Fop. <$$font> Noh: $I $'ll {TEXT:I'll} wear it to-day ,
+tho` it shew such a manstrous pair of Cheeks: VANBR-E3-P2,28.155
+
+Stap my Vitals, I shall be taken for a Trumpeter.  VANBR-E3-P2,28.156
+
+<paren> <font> Exit <$$font> Fore. VANBR-E3-P2,28.157
+
+<font> Y. Fash. <$$font> Now your People of Business are
+gone, Brother, I hope I may obtain a quarter of an Hour's Audience of you.
+VANBR-E3-P2,28.158
+
+<font> Lord Fop. <$$font> Faith, <font> Tam <$$font>;
+VANBR-E3-P2,28.159
+
+I must beg $you $'ll {TEXT:you'll} excuse me at this time,
+VANBR-E3-P2,28.160
+
+for I must away to the House of Lards immediately; VANBR-E3-P2,28.161
+
+my Lady <font> Teaser's <$$font> Case is to come on to-day,
+VANBR-E3-P2,28.162
+
+and I would not be absent for the Salvation of Mankind.
+VANBR-E3-P2,28.163
+
+Hey, <font> Page <$$font>, is the Coach at the Door?  VANBR-E3-P2,28.164
+
+<font> Page.  <$$font> Yes, my Lord.  VANBR-E3-P2,28.165
+
+<font> Lord Fop. <$$font> $You $'ll {TEXT:You'll} excuse me,
+Brother.  VANBR-E3-P2,28.166
+
+<paren> <font> Going.  <$$font> VANBR-E3-P2,28.167
+
+<font> Y. Fash. <$$font> Shall you be back at Dinner?
+VANBR-E3-P2,28.168
+
+<font> Lord Fop. <$$font> As Gad shall jidge {COM:sic} me, I $can
+$n't {TEXT:can't} tell; VANBR-E3-P2,28.169
+
+for $'t $is {TEXT:'tis} passible I may dine with some of our House at
+<font> Lackets <$$font>.  VANBR-E3-P2,28.170
+
+<font> Y. Fash. <$$font> Shall I meet you there?
+VANBR-E3-P2,28.171
+
+For I must needs talk with you.  VANBR-E3-P2,28.172
+
+<font> Lord Fop. <$$font> That $I $'m {TEXT:I'm} afraid $may $n't
+{TEXT:mayn't} be so praper; VANBR-E3-P2,28.173
+
+far the Lards I commonly eat with, are a People of a nice Conversation ,
+VANBR-E3-P2,28.174
+
+and you know, <font> Tam <$$font>, <P_29> your Education has been a
+little at large; VANBR-E3-P2,29.175
+
+but if $you $'ll {TEXT:you'll} stay here, $you $'ll {TEXT:you'll} find
+a Family-Dinner.  VANBR-E3-P2,29.176
+
+Hey Fellow!  what is there for Dinner?  VANBR-E3-P2,29.177
+
+There's Beef; VANBR-E3-P2,29.178
+
+I suppose my Brother will eat Beef.  VANBR-E3-P2,29.179
+
+Dear <font> Tam <$$font>, $I $'m {TEXT:I'm} glad to see thee in <font>
+England <$$font>, stap my Vitals.  VANBR-E3-P2,29.180
+
+<paren> <font> Exit, with his Equipage.  <$$font> VANBR-E3-P2,29.181
+
+<font> Y. Fash. <$$font> Hell and Furies, is this to
+be borne?  VANBR-E3-P2,29.182
+
+<font> Lory.  <$$font> Faith, Sir, I cou'd almost have given him a knock
+o'th'Pate my self.  VANBR-E3-P2,29.183
+
+<font> Y. Fash. <$$font> $'T $is {TEXT:'Tis} enough;
+VANBR-E3-P2,29.184
+
+I will now shew thee the Excess of my Passion by being very calm:
+VANBR-E3-P2,29.185
+
+Come, <font> Lory <$$font>, lay your Loggerhead to mine,
+VANBR-E3-P2,29.186
+
+and in cool Blood let us contrive his Destruction.  VANBR-E3-P2,29.187
+
+<font> Lory.  <$$font> Here comes a Head, Sir, would contrive it better
+than us both, if he wou'd but joyn in the Confederacy.  VANBR-E3-P2,29.188
+
+<font> Enter <$$font> Coupler.  VANBR-E3-P2,29.189
+
+<font> Y. Fash. <$$font> By this Light, old <font> Coupler
+<$$font> alive still!  VANBR-E3-P2,29.190
+
+Why, how now, Matchmaker, art thou here still to plague the World with
+Matrimony?  VANBR-E3-P2,29.191
+
+You old Bawd, how have you the Impudence to be hobling out of your Grave
+20 Years after you are rotten!  VANBR-E3-P2,29.192
+
+<font> Coup. <$$font> When you begin to rot, Sirrah, $you $'ll
+{TEXT:you'll} go off like a Pippin, VANBR-E3-P2,29.193
+
+One Winter will send you to the Devil.  VANBR-E3-P2,29.194
+
+What Mischief brings you home again?  VANBR-E3-P2,29.195
+
+Ha!  You young Lascivious Rogue, you; VANBR-E3-P2,29.196
+
+Let me put my Hand into your Bosom, Sirrah.  VANBR-E3-P2,29.197
+
+<font> Y. Fash. <$$font> Stand off, old <font> Sodom
+<$$font>.  VANBR-E3-P2,29.198
+
+<font> Coup. <$$font> Nay, $pray $thee {TEXT:prithee} now $do
+$n't {TEXT:don't} be so coy.  VANBR-E3-P2,29.199
+
+<font> Y. Fash. <$$font> Keep your Hands to your
+self , you old Dog you, or $I $'ll {TEXT:I'll} wring your Nose off.
+VANBR-E3-P2,29.200
+
+<font> Coup. <$$font> Hast thou then been a Year in <font> Italy
+<$$font>, and brought home a Fool at last?  VANBR-E3-P2,29.201
+
+By my Conscience, the Young Fellows of this Age profit no more by their
+going abroad, than they do by their going to Church.  VANBR-E3-P2,29.202
+
+Sirrah, Sirrah, if you are not hang'd before you come to my Years,
+$you $'ll {TEXT:you'll} know a Cock from a Hen.  VANBR-E3-P2,29.203
+
+But come, $I $'m {TEXT:I'm} still a Friend to thy Person, tho` I have
+a Contempt of thy Understanding; VANBR-E3-P2,29.204
+
+and therefore I wou'd willingly know thy Condition, that I may see
+whether thou stand'st in need of my Assistance, VANBR-E3-P2,29.205
+
+for Widows swarm, my Boy, VANBR-E3-P2,29.206
+
+the $Town $'s {TEXT:Town's} infected with'em.  VANBR-E3-P2,29.207
+
+<font> Y. Fash. <$$font> I stand in need of any Body's
+Assistance, that will help me to cut my elder Brother's Throat, without
+the Risque of being hang'd for him.  VANBR-E3-P2,29.208
+
+<font> Coup. <$$font> Igad, Sirrah, I cou'd help thee to do
+him almost as good a turn, without the danger of being burnt in the
+Hand for't.  VANBR-E3-P2,29.209
+
+<font> Y. Fash. <$$font> Sayest thou so, old Satan?
+VANBR-E3-P2,29.210
+
+Shew me but that, and my Soul is thine.  VANBR-E3-P2,29.211
+
+<font> Coup. <$$font> Pox $on $thy {TEXT:o'thy} Soul,
+VANBR-E3-P2,29.212
+
+give me thy warm Body, Sirrah; VANBR-E3-P2,29.213
+
+I shall have a substantial Title to't when I tell thee my Project.
+VANBR-E3-P2,29.214
+
+<P_30>
+
+<font> Y. Fash. <$$font> Out with it then, dear Dad,
+VANBR-E3-P2,30.216
+
+and take Possession as soon as thou wilt.  VANBR-E3-P2,30.217
+
+<font> Coup. <$$font> Say'st thou so, my <font> Hephestion
+<$$font>?  VANBR-E3-P2,30.218
+
+Why then thus lies the Scene: VANBR-E3-P2,30.219
+
+But hold, VANBR-E3-P2,30.220
+
+$who $'s {TEXT:who's} that?  VANBR-E3-P2,30.221
+
+if we are heard we are undone.  VANBR-E3-P2,30.222
+
+<font> Y. Fash. <$$font> What have you forgot <font>
+Lory <$$font>?  VANBR-E3-P2,30.223
+
+<font> Coup. <$$font> Who, trusty <font> Lory <$$font>,
+VANBR-E3-P2,30.224
+
+is it thee?  VANBR-E3-P2,30.225
+
+<font> Lory.  <$$font> At your service, Sir.  VANBR-E3-P2,30.226
+
+<font> Coup. <$$font> Give me thy Hand, Old Boy; VANBR-E3-P2,30.227
+
+I'gad I did not know thee again, VANBR-E3-P2,30.228
+
+but I remember thy Honesty, tho` I did not thy Face; VANBR-E3-P2,30.229
+
+I think thou had'st like to have been hang'd once or twice for thy Master.
+VANBR-E3-P2,30.230
+
+<font> Lory.  <$$font> Sir, I was very near once having that Honour.
+VANBR-E3-P2,30.231
+
+<font> Coup. <$$font> Well, Live and Hope, VANBR-E3-P2,30.232
+
+$do $n't {TEXT:don't} be discourag'd; VANBR-E3-P2,30.233
+
+Eat with him, and Drink with him, and do what he bids thee, and it may
+be thy Reward at last, as well as anothers.  VANBR-E3-P2,30.234
+
+<font> To Y. Fash. <$$font> <$$paren> Well, Sir, you must
+know I have done you the kindness to make up a Match for your Brother.
+VANBR-E3-P2,30.235
+
+<font> Y. Fash. <$$font> Sir, I am very much beholding to
+you, truly.  VANBR-E3-P2,30.236
+
+<font> Coup. <$$font> You may be, Sirrah, before the Wedding-day
+yet, VANBR-E3-P2,30.237
+
+the Lady is a great Heiress; VANBR-E3-P2,30.238
+
+Fifteen hundred Pound a year, and a great Bag of Money; VANBR-E3-P2,30.239
+
+the Match is concluded, VANBR-E3-P2,30.240
+
+the Writings are drawn, VANBR-E3-P2,30.241
+
+and the $Pipkin $'s {TEXT:Pipkin's} to be crack'd in a Fortnight -
+VANBR-E3-P2,30.242
+
+Now you must know, Stripling <paren> with Respect to your Mother <$$paren>
+your $Brother $'s {TEXT:Brother's} the Son of a Whore.  VANBR-E3-P2,30.243
+
+<font> Y. Fash. <$$font> Good.  VANBR-E3-P2,30.244
+
+<font> Coup. <$$font> He has given me a Bond of a Thousand Pounds
+for helping him to this Fortune, VANBR-E3-P2,30.245
+
+and has promis'd me as much more in ready Money upon the Day of
+Marriage, which I understand by a Friend, he ne'er designs to pay me;
+VANBR-E3-P2,30.246
+
+if therefore you will be a generous young Dog, and secure me Five
+thousand Pounds, $I $'ll {TEXT:I'll} be a covetous old Rogue, and help
+you to the Lady.  VANBR-E3-P2,30.247
+
+<font> Y. Fash. <$$font> I'gad, if thou can'st bring
+this about, $I $'ll {TEXT:I'll} have thy Statue cast in Brass.
+VANBR-E3-P2,30.248
+
+But $do $n't {TEXT:don't} you doat, you old Pandor you, when you talk
+at this rate?  VANBR-E3-P2,30.249
+
+<font> Coup. <$$font> That your youthful Parts shall judge of:
+VANBR-E3-P2,30.250
+
+This plump Partridge, that I tell you of, lives in the Country, Fifty
+Miles off, with her Honoured Parents, in a lonely old House which nobody
+comes near; VANBR-E3-P2,30.251
+
+she never goes abroad, VANBR-E3-P2,30.252
+
+nor sees Company at home: VANBR-E3-P2,30.253
+
+To prevent all Misfortunes, she has her breeding within doors,
+VANBR-E3-P2,30.254
+
+the Parson of the Parish teaches her to play on the Base-Viol, the Clerk
+to sing, her Nurse to dress, and her Father to dance: VANBR-E3-P2,30.255
+
+In short, no body can give you admittance there but I, VANBR-E3-P2,30.256
+
+nor can I do it any other way, than by making you pass for your Brother.
+VANBR-E3-P2,30.257
+
+<font> Y. Fash. <$$font> And how the Devil wilt thou
+do that?  VANBR-E3-P2,30.258
+
+<font> Coup. <$$font> Without the Devil's Aid, I warrant thee.
+VANBR-E3-P2,30.259
+
+Thy Brother's Face, not one of the Family ever saw; VANBR-E3-P2,30.260
+
+the whole Business has been manag'd by me, VANBR-E3-P2,30.261
+
+and all the Letters go through my Hands: VANBR-E3-P2,30.262
+
+The <P_31> last that was writ to Sir <font> Tunbelly Clumsey <$$font>
+<paren> for $that $'s {TEXT:that's} the old Gentleman's Name <$$paren>
+was to tell him, his Lordship would be down in a Fortnight to Consummate.
+VANBR-E3-P2,31.263
+
+Now you shall go away immediately, pretend you writ that Letter only to
+have the Romantick Pleasure of surprizing your Mistriss; fall desperately
+in Love, as soon as you see her; make that your Plea for Marrying her
+immediately, VANBR-E3-P2,31.264
+
+and when the Fatigue of the $Wedding-Night $'s {TEXT:Wedding-Night's}
+over, you shall send me a swinging Purse of Gold, you Dog you.
+VANBR-E3-P2,31.265
+
+<font> Y. Fash. <$$font> I'gad, Old Dad, $I $'ll {TEXT:I'll}
+put my Hand in thy Bosom now - VANBR-E3-P2,31.266
+
+<font> Coup. <$$font> Ah, you young hot lusty Thief,
+VANBR-E3-P2,31.267
+
+let me Muzzle you - VANBR-E3-P2,31.268
+
+<paren> <font> Kissing.  <$$font> VANBR-E3-P2,31.269
+
+Sirrah, let me Muzzle you.  VANBR-E3-P2,31.270
+
+<font> Y. Fash. <$$font> P'sha, the Old Letcher - <paren>
+<font> Aside.  <$$font> VANBR-E3-P2,31.271
+
+<font> Coup. <$$font> Well, $I $'ll {TEXT:I'll} warrant thou hast
+not a Farthing of Money in thy Pocket now; VANBR-E3-P2,31.272
+
+no, one may see it in thy Face - VANBR-E3-P2,31.273
+
+<font> Y. Fash. <$$font> Not a Souse, by Jupiter.
+VANBR-E3-P2,31.274
+
+<font> Coup. <$$font> Must I advance then - VANBR-E3-P2,31.275
+
+Well Sirrah, be at my Lodgings in half an Hour, and $I $'ll {TEXT:I'll}
+see what may be done; VANBR-E3-P2,31.276
+
+$we $'ll {TEXT:we'll} Sign and Seal, and eat a Pullet, VANBR-E3-P2,31.277
+
+and when I have given thee some farther Instructions, thou sha't hoyst
+Sail and begone VANBR-E3-P2,31.278
+
+<paren> <font> Kissing <$$font> <$$paren> VANBR-E3-P2,31.279
+
+T'other Buss, and so adieu.  VANBR-E3-P2,31.280
+
+<font> Y. Fash. <$$font> U'm, P'sha.  VANBR-E3-P2,31.281
+
+<font> Coup. <$$font> Ah, you young warm Dog you; what a delicious
+Night will the Bride have on't.  VANBR-E3-P2,31.282
+
+<paren> <font> Exit Coupler.  <$$font> VANBR-E3-P2,31.283
+
+<font> Y. Fash. <$$font> So <font> Lory <$$font>.
+VANBR-E3-P2,31.284
+
+Providence thou se'est at last, takes care of Men of Merit;
+VANBR-E3-P2,31.285
+
+we are in a fair way to be great People.  VANBR-E3-P2,31.286
+
+<font> Lo. <$$font> Ay Sir, if the Devil $do $n't {TEXT:don't}
+step between the Cup and the Lip, as he uses to do.  VANBR-E3-P2,31.287
+
+<font> Y. Fash. <$$font> Why Faith, he has play'd me many
+a damn'd trick to spoil my Fortune, VANBR-E3-P2,31.288
+
+and I'gad $I $'m {TEXT:I'm} almost afraid $he $'s {TEXT:he's} at work
+about it again now; VANBR-E3-P2,31.289
+
+but if I shou'd tell thee how, $thou $'dst {TEXT:thou'dst} wonder at me.
+VANBR-E3-P2,31.290
+
+<font> Lo. <$$font> Indeed, Sir, I shou'd not.  VANBR-E3-P2,31.291
+
+<font> Y. Fash. <$$font> How dost know?  VANBR-E3-P2,31.292
+
+<font> Lo. <$$font> VANBR-E3-P2,31.293
+
+Because, Sir, I have wondred at you so often, I can wonder at you no more.
+VANBR-E3-P2,31.294
+
+<font> Y. Fash. <$$font> No; what wou'dst thou say, if a
+Qualm of Conscience should spoil my design?  VANBR-E3-P2,31.295
+
+<font> Lo. <$$font> I wou'd eat my words, and wonder more than
+ever {I_wondered}.  VANBR-E3-P2,31.296
+
+<font> Y. Fash. <$$font> Why faith <font> Lory <$$font> ,
+tho` I am a young Rake-hell, and have plaid many a Roguish trick; this
+is so full grown a Cheat, I find I must take pains to come up to't ,
+VANBR-E3-P2,31.297
+
+I have Scruples - VANBR-E3-P2,31.298
+
+<font> Lo. <$$font> They are strong symptoms of death;
+VANBR-E3-P2,31.299
+
+if you find they increase, pray Sir, make your Will.  VANBR-E3-P2,31.300
+
+<font> Y. Fash. <$$font> No, my Conscience $shall $n't
+{TEXT:shan't} starve me neither.  VANBR-E3-P2,31.301
+
+But thus far $I $'ll {TEXT:I'll} hearken to it; VANBR-E3-P2,31.302
+
+before I execute this Project.  <P_32> $I $'ll {TEXT:I'll} try my Brother
+to the bottom, VANBR-E3-P2,32.303
+
+$I $'ll {TEXT:I'll} speak to him with the temper of a Philosopher,
+VANBR-E3-P2,32.304
+
+my Reasons <paren> tho` they press him home <$$paren> shall yet be
+cloath'd with so much Modesty, not one of all the Truths they urge,
+shall be so naked to offend his Sight; VANBR-E3-P2,32.305
+
+if he has yet so much Humanity about him, as to assist me, <paren> tho`
+with a moderate aid <$$paren> $I $'ll {TEXT:I'll} drop my Project at his
+Feet, and shew him how I can - do for him, much more than what I ask,
+$he $'d {TEXT:he'd} do for me: VANBR-E3-P2,32.306
+
+This one Conclusive Tryal of him I resolve to make - VANBR-E3-P2,32.307
+
+{COM:verse_omitted}
+
+<paren> <font> Exeunt.  <$$font> VANBR-E3-P2,32.309
+
+<heading>
+
+<font> The End of the First Act.  <$$font> VANBR-E3-P2,32.311
+
+<$$heading>
+
+{COM:insert_helsinki_sample}
+
+<P_68>
+
+<font> Enter <$$font> Loveless <font> running to her.  <$$font>
+VANBR-E3-P2,68.315
+
+<font> Lov. <$$font> Peace, my Dear, $it $'s {TEXT:it's} no Ghost,
+VANBR-E3-P2,68.316
+
+take it in your Arms, $you $'ll {TEXT:you'll} find $'t $is {TEXT:'tis}
+worth a hundred of'em.  VANBR-E3-P2,68.317
+
+<font> Ber. <$$font> Run in again, VANBR-E3-P2,68.318
+
+$here $'s {TEXT:here's} some body coming.  VANBR-E3-P2,68.319
+
+<paren> <font> Loveless retires.  <$$font> VANBR-E3-P2,68.320
+
+<font> Enter her Maid.  <$$font> VANBR-E3-P2,68.321
+
+<font> Maid.  <$$font> Lord, Madam, $what $'s {TEXT:what's} the matter?
+VANBR-E3-P2,68.322
+
+<font> Ber. <$$font> O Heav'ns!  VANBR-E3-P2,68.323
+
+$I $'m {TEXT:I'm} almost frightened out of my Wits, VANBR-E3-P2,68.324
+
+I thought verily I had seen a Ghost, VANBR-E3-P2,68.325
+
+and $'t $was {TEXT:'twas} nothing but the white Curtain, with a black
+Hood pinn'd up against it; VANBR-E3-P2,68.326
+
+you may be gone again, VANBR-E3-P2,68.327
+
+I am the fearful'st Fool.  - VANBR-E3-P2,68.328
+
+<paren> <font> Exit Maid.  <$$font> VANBR-E3-P2,68.329
+
+<P_69>
+
+<font> Re-enter <$$font> Loveless.  VANBR-E3-P2,69.331
+
+<font> Lov. <$$font> Is the Coast clear?  VANBR-E3-P2,69.332
+
+<font> Ber. <$$font> The Coast clear!  VANBR-E3-P2,69.333
+
+I suppose you are clear, VANBR-E3-P2,69.334
+
+$you $'d {TEXT:you'd} never play such a trick as this else.
+VANBR-E3-P2,69.335
+
+<font> Lov. <$$font> I am very well pleas'd with my trick thus
+far, VANBR-E3-P2,69.336
+
+and shall be so'till I have play'd it out, if it $be $n't {TEXT:ben't}
+your fault; VANBR-E3-P2,69.337
+
+$where $'s {TEXT:where's} my Wife?  VANBR-E3-P2,69.338
+
+<font> Ber. <$$font> At cards.  VANBR-E3-P2,69.339
+
+<font> Lov. <$$font> With whom?  VANBR-E3-P2,69.340
+
+<font> Ber. <$$font> With <font> Worthy <$$font>.
+VANBR-E3-P2,69.341
+
+<font> Lov. <$$font> Then we are safe enough.  VANBR-E3-P2,69.342
+
+<font> Ber. <$$font> Are you so?  VANBR-E3-P2,69.343
+
+some Husbands wou'd be of another mind, if he were at Cards with their
+Wives.  VANBR-E3-P2,69.344
+
+<font> Lov. <$$font> And $they $'d {TEXT:they'd} be in the right
+on't too.  VANBR-E3-P2,69.345
+
+But I dare trust mine - VANBR-E3-P2,69.346
+
+Besides, I know $he $'s {TEXT:he's} in love in another place,
+VANBR-E3-P2,69.347
+
+and $he $'s {TEXT:he's} not one of those who Court half a dozen at a time.
+VANBR-E3-P2,69.348
+
+<font> Ber. <$$font> Nay, the truth on't is, $you $'d {TEXT:you'd}
+pity him if you saw how uneasie he is at being engag'd with us,
+VANBR-E3-P2,69.349
+
+but $'t $was {TEXT:'twas} my malice.  VANBR-E3-P2,69.350
+
+I fancy'd he was to meet his Mistress some where else, VANBR-E3-P2,69.351
+
+so did it to have the pleasure of seeing him fret.  VANBR-E3-P2,69.352
+
+<font> Lov. <$$font> What says <font> Amanda <$$font> to my
+staying abroad so late?  VANBR-E3-P2,69.353
+
+<font> Ber. <$$font> Why $she $'s {TEXT:she's} as much out of
+Humour as he, VANBR-E3-P2,69.354
+
+I believe they wish one another at the Devil.  VANBR-E3-P2,69.355
+
+<font> Lov. <$$font> Then $I $'m {TEXT:I'm} afraid $they
+$'ll {TEXT:they'll} quarrel at Play, and soon throw up the Cards;
+VANBR-E3-P2,69.356
+
+<paren> <font> Offering to pull her into her Closet <$$font> <$$paren>
+VANBR-E3-P2,69.357
+
+Therefore, my Dear Charming Angel, let us make good use of our time.
+VANBR-E3-P2,69.358
+
+<font> Ber. <$$font> Heavens, what do you mean?  VANBR-E3-P2,69.359
+
+<font> Lov. <$$font> Pray what do you think I mean?
+VANBR-E3-P2,69.360
+
+<font> Ber. <$$font> I $do $n't {TEXT:don't} know.
+VANBR-E3-P2,69.361
+
+<font> Lov. <$$font> $I $'ll {TEXT:I'll} shew you.
+VANBR-E3-P2,69.362
+
+<font> Ber. <$$font> You may as well tell me.  VANBR-E3-P2,69.363
+
+<font> Lov. <$$font> No, that wou'd make you blush worse than
+t'other.  VANBR-E3-P2,69.364
+
+<font> Ber. <$$font> Why, do you intend to make me blush?
+VANBR-E3-P2,69.365
+
+<font> Lov. <$$font> Faith I $can $n't {TEXT:can't} tell that,
+VANBR-E3-P2,69.366
+
+but if I do, it shall be in the dark.  VANBR-E3-P2,69.367
+
+<paren> <font> Pulling her.  <$$font> VANBR-E3-P2,69.368
+
+<font> Ber. <$$font> O Heavens!  VANBR-E3-P2,69.369
+
+I wou'd not be in the dark with you for all the World.  VANBR-E3-P2,69.370
+
+<font> Lov. <$$font> $I $'ll {TEXT:I'll} try that.
+VANBR-E3-P2,69.371
+
+<paren> <font> Puts out the Candles.  <$$font> VANBR-E3-P2,69.372
+
+<font> Ber. <$$font> O Lord!  are you mad?  VANBR-E3-P2,69.373
+
+What shall I do for Light?  VANBR-E3-P2,69.374
+
+<font> Lov. <$$font> $You $'ll {TEXT:You'll} do as well without it.
+VANBR-E3-P2,69.375
+
+<font> Ber. <$$font> Why, one $can $n't {TEXT:can't} find a Chair
+{in} to sit down?  VANBR-E3-P2,69.376
+
+<font> Lov. <$$font> Come into the Closet, Madam,
+VANBR-E3-P2,69.377
+
+there's moonshine upon the Couch.  VANBR-E3-P2,69.378
+
+<font> Ber. <$$font> Nay, never pull, VANBR-E3-P2,69.379
+
+for I will not go.  VANBR-E3-P2,69.380
+
+<font> Lov. <$$font> Then you must be carryed.  VANBR-E3-P2,69.381
+
+<paren> <font> Carrying her.  <$$font> VANBR-E3-P2,69.382
+
+<font> Ber. <$$font> Help, help, VANBR-E3-P2,69.383
+
+$I $'m {TEXT:I'm} Ravish'd, ruin'd, undone.  VANBR-E3-P2,69.384
+
+O Lord, I shall never be able to bear it.  VANBR-E3-P2,69.385
+
+<paren> <font> Very softly.  <$$font> VANBR-E3-P2,69.386
+
+<P_70>
+
+<heading>
+
+SCENE $IV, Sir <font> Tunbelly's <$$font> House.  VANBR-E3-P2,70.389
+
+<$$heading>
+
+<font> Enter Miss <$$font> Hoyden <font>, Nurse, <$$font> Young Fashion ,
+<font> and <$$font> Bull.  VANBR-E3-P2,70.391
+
+<font> Y. Fash. <$$font> This quick dispatch of yours,
+Mr. <font> Bull <$$font>, I take so kindly, it shall give you a
+claim to my Favour as long as I live, I do assure you.  VANBR-E3-P2,70.392
+
+<font> Miss.  <$$font> And to mine too, I promise you.  VANBR-E3-P2,70.393
+
+<font> Bull.  <$$font> I most humbly thank your Honours;
+VANBR-E3-P2,70.394
+
+and I hope, since it has been my Lot to join you in the Holy Bands
+of Wedlock, you will so well Cultivate the Soil which I have crav'd a
+Blessing on, that your Children may swarm about you like Bees about a
+Honey Comb.  VANBR-E3-P2,70.395
+
+<font> Miss.  <$$font> I Cod with all my Heart, VANBR-E3-P2,70.396
+
+the more the merrier, I say; VANBR-E3-P2,70.397
+
+ha, Nurse?  VANBR-E3-P2,70.398
+
+<font> Enter <$$font> Lory <font> taking his Master hastily aside.
+<$$font> VANBR-E3-P2,70.399
+
+<font> Lo. <$$font> One Word with you, for Heaven's sake.
+VANBR-E3-P2,70.400
+
+<font> Y. Fash. <$$font> What the $Devil $'s {TEXT:Devil's}
+the matter?  VANBR-E3-P2,70.401
+
+<font> Lo. <$$font> Sir, your $Fortune $'s {TEXT:Fortune's}
+ruin'd, VANBR-E3-P2,70.402
+
+and I $do $n't {TEXT:don't} think your $Life $'s {TEXT:Life's} worth a
+quarter of an Hour's Purchase: VANBR-E3-P2,70.403
+
+$Yonder $'s {TEXT:Yonder's} your Brother arriv'd with two Coaches and
+six Horses, twenty Footmen and Pages, a Coat worth Four-score Pound,
+and a Periwig down to his Knees; VANBR-E3-P2,70.404
+
+so judge what will become of your Lady's Heart.  VANBR-E3-P2,70.405
+
+<font> Y. Fash. <$$font> Death and Furies, $'t $is
+{TEXT:'tis} impossible!  VANBR-E3-P2,70.406
+
+<font> Lo. <$$font> Fiends and Spectres, Sir, $'t $is {TEXT:'tis}
+true.  VANBR-E3-P2,70.407
+
+<font> Y. Fash. <$$font> Is he in the House yet?
+VANBR-E3-P2,70.408
+
+<font> Lo. <$$font> No, they are Capitulating with him at the
+Gate; VANBR-E3-P2,70.409
+
+the Porter tells him, $he $'s {TEXT:he's} come to run away with Miss
+<font> Hoyden <$$font>, VANBR-E3-P2,70.410
+
+and has Cock'd the Blunderbuss at him; VANBR-E3-P2,70.411
+
+your Brother swears Gad Damme, VANBR-E3-P2,70.412
+
+they are a parcel of Clawns, VANBR-E3-P2,70.413
+
+and he had a good mind to break off the Match; VANBR-E3-P2,70.414
+
+but they have given the Word for Sir <font> Tunbelly <$$font>,
+VANBR-E3-P2,70.415
+
+so I doubt all will come out presently.  VANBR-E3-P2,70.416
+
+Pray Sir resolve what $you $'ll {TEXT:you'll} do this Moment,
+VANBR-E3-P2,70.417
+
+for I Gad $they $'ll {TEXT:they'll} maul you.  VANBR-E3-P2,70.418
+
+<font> Y. Fash. <$$font> Stay a little.  VANBR-E3-P2,70.419
+
+<paren> <font> To Miss.  <$$font> <$$paren> My Dear, $here
+$'s {TEXT:here's} a troublesome Business my Man tells me of;
+VANBR-E3-P2,70.420
+
+but $do $n't {TEXT:don't} be frighten'd, VANBR-E3-P2,70.421
+
+we shall be too hard for the Rogue.  VANBR-E3-P2,70.422
+
+$Here $'s {TEXT:Here's} an Impudent Fellow at the Gate <paren> not knowing
+I was come hither <font> incognito <$$font> <$$paren> has taken my Name
+upon him, in hopes to run away with you.  VANBR-E3-P2,70.423
+
+<font> Miss.  <$$font> O the Brazen-fac'd Varlet, $it $'s {TEXT:it's}
+well we are Married, VANBR-E3-P2,70.424
+
+or may be we might never a been so.  VANBR-E3-P2,70.425
+
+<font> Y. Fash. <$$font> <paren> <font> aside.  <$$font>
+<$$paren> I Gad, like enough: VANBR-E3-P2,70.426
+
+$Pray $thee {TEXT:Prithee}, dear Doctor, run to Sir <font> Tunbelly
+<$$font>, VANBR-E3-P2,70.427
+
+and stop him from going to the Gate, before I speak with him.
+VANBR-E3-P2,70.428
+
+<font> Bull.  <$$font> I fly, my good Lord - VANBR-E3-P2,70.429
+
+<paren> <font> Exit Bull.  <$$font> VANBR-E3-P2,70.430
+
+<P_71>
+
+<font> Nurse.  <$$font> $An $'t {TEXT:An't} please your Honour,
+my Lady and I had best lock ourselves up till the danger be over.
+VANBR-E3-P2,71.432
+
+<font> Y. Fash. <$$font> Ay, by all means.
+VANBR-E3-P2,71.433
+
+<font> Miss.  <$$font> Not so fast, VANBR-E3-P2,71.434
+
+I $wo $n't {TEXT:won't} be lock'd up any more.  VANBR-E3-P2,71.435
+
+$I $'m {TEXT:I'm} Marry'd.  VANBR-E3-P2,71.436
+
+<font> Y. Fash. <$$font> Yes, pray my Dear do,'till we
+have seiz'd this Rascal.  VANBR-E3-P2,71.437
+
+<font> Miss.  <$$font> Nay, if you pray me, $I $'ll {TEXT:I'll} do
+any thing.  VANBR-E3-P2,71.438
+
+<paren> <font> Exeunt Miss and Nurse.  <$$font> VANBR-E3-P2,71.439
+
+<font> Y. Fash. <$$font> O!  $here $'s {TEXT:here's}
+Sir <font> Tunbelly <$$font> coming.  VANBR-E3-P2,71.440
+
+<paren> <font> To Lo. <$$font> <$$paren> VANBR-E3-P2,71.441
+
+Hark you, Sirrah, things are better than you imagine; VANBR-E3-P2,71.442
+
+the $Wedding $'s {TEXT:Wedding's} over.  VANBR-E3-P2,71.443
+
+<font> Lo. <$$font> The Devil it is, Sir.  VANBR-E3-P2,71.444
+
+<font> Y. Fash. <$$font> Not a Word, VANBR-E3-P2,71.445
+
+$all $'s {TEXT:all's} safe: VANBR-E3-P2,71.446
+
+But Sir <font> Tunbelly <$$font> $do $n't {TEXT:don't} know it,
+VANBR-E3-P2,71.447
+
+nor must not yet; VANBR-E3-P2,71.448
+
+so I am resolv'd to brazen the Business out, and have the Pleasure
+of turning the Impostor upon his Lordship, which I believe may easily
+be done.  VANBR-E3-P2,71.449
+
+<font> Enter Sir Tunbelly, <$$font> Chap. <font> and <$$font>
+Servants <font> Arm'd.  <$$font> VANBR-E3-P2,71.450
+
+<font> Y. Fash. <$$font> Did you ever hear, Sir, of so
+impudent an Undertaking?  VANBR-E3-P2,71.451
+
+<font> Sir Tun. <$$font> Never, by the Mass, VANBR-E3-P2,71.452
+
+but $we $'ll {TEXT:we'll} tickle him $I $'ll {TEXT:I'll} warrant him.
+VANBR-E3-P2,71.453
+
+<font> Y. Fash. <$$font> They tell me, Sir, he has a great
+many People with him disguis'd like Servants.  VANBR-E3-P2,71.454
+
+<font> Sir Tun. <$$font> Ay, ay, Rogues, enough; VANBR-E3-P2,71.455
+
+but $I $'ll {TEXT:I'll} soon raise the <font> Posse <$$font> upon'em.
+VANBR-E3-P2,71.456
+
+<font> Y. Fash. <$$font> Sir, if $you $'ll {TEXT:you'll}
+take my advice, $we $'ll {TEXT:we'll} go a shorter way to work;
+VANBR-E3-P2,71.457
+
+I find whoever this Spark is, he knows nothing of my being privately
+here; VANBR-E3-P2,71.458
+
+so if you pretend to receive him civilly, $he $'ll {TEXT:he'll} enter
+without Suspicion; VANBR-E3-P2,71.459
+
+and as soon as he is within the Gate, $we $'ll {TEXT:we'll} whip up the
+Draw-bridge upon his Back, let fly the Blunderbuss to disperse his Crew,
+and so commit him to Gaol.  VANBR-E3-P2,71.460
+
+<font> Sir Tun. <$$font> I Gad, your Lordship is an ingenious
+Person, and a very great General; VANBR-E3-P2,71.461
+
+but shall we kill any of'em or not?  VANBR-E3-P2,71.462
+
+<font> Y. Fash. <$$font> No, no, fire over their Heads
+only to fright'em; VANBR-E3-P2,71.463
+
+$I $'ll {TEXT:I'll} warrant the Regiment scours when the $Colonel $'s
+{TEXT:Colonel's} a Prisoner.  VANBR-E3-P2,71.464
+
+<font> Sir Tun. <$$font> Then come along my Boys,
+VANBR-E3-P2,71.465
+
+and let your Courage be great - VANBR-E3-P2,71.466
+
+for your Danger is but small.  VANBR-E3-P2,71.467
+
+<paren> <font> Exeunt.  <$$font> VANBR-E3-P2,71.468
+
+<heading>
+
+SCENE $V, <font> The Gate.  <$$font> VANBR-E3-P2,71.470
+
+<$$heading>
+
+<font> Enter Lord <$$font> Foppington <font> and Followers.  <$$font>
+VANBR-E3-P2,71.472
+
+<font> Lord Fop. <$$font> A Pax of these Bumkinly People,
+VANBR-E3-P2,71.473
+
+will they open the Gate, VANBR-E3-P2,71.474
+
+or do they desire I should grow at their Moat-side like a Willow?
+VANBR-E3-P2,71.475
+
+<paren> <font> To the Porter.  <$$font> <$$paren> VANBR-E3-P2,71.476
+
+Hey, Fellow - $Pray $thee {TEXT:Prithee} do me the Favour, in as few
+words as thou canst find to express thy self, to tell me whether <P_72>
+thy Master will admit me or not, that I may turn about my Coach and
+be gone.  VANBR-E3-P2,72.477
+
+<font> Por. <$$font> $Here $'s {TEXT:Here's} my Master himself
+now at hand; VANBR-E3-P2,72.478
+
+$he $'s {TEXT:he's} of Age, VANBR-E3-P2,72.479
+
+$he $'ll {TEXT:he'll} give you his Answer.  VANBR-E3-P2,72.480
+
+<font> Enter Sir <$$font> Tunbelly <font>, and Servants.  <$$font>
+VANBR-E3-P2,72.481
+
+<font> Sir Tun. <$$font> My most noble Lord, I crave your pardon
+for making your Honour wait so long; VANBR-E3-P2,72.482
+
+but my Orders to my Servants have been to admit no body, without my
+knowledge, for fear of some attempt upon my Daughter, the Times being
+full of Plots and Roguery.  VANBR-E3-P2,72.483
+
+<font> Lord Fop. <$$font> Much Caution, I must confess, is a Sign
+of great Wisdom: VANBR-E3-P2,72.484
+
+But, stap my Vitals, I have got a Cold enough to destroy a Porter, -
+he, hem - VANBR-E3-P2,72.485
+
+<font> Sir Tun. <$$font> I am very sorry for't, indeed, my Lord ;
+VANBR-E3-P2,72.486
+
+but if your Lordship please to walk in, $we $'ll {TEXT:we'll} help you
+to some Brown Sugar-Candy.  VANBR-E3-P2,72.487
+
+My Lord, $I $'ll {TEXT:I'll} shew you the way.  VANBR-E3-P2,72.488
+
+<font> Lord Fop. <$$font> Sir, I follow you with Pleasure.
+VANBR-E3-P2,72.489
+
+<paren> <font> Exeunt.  <$$font> VANBR-E3-P2,72.490
+
+<paren> <font> As Lord <$$font> Foppington's <font> Servants go to follow
+him in, they clap the Door against <$$font> La Verole.  VANBR-E3-P2,72.491
+
+<font> Servants within.  <$$font> Nay, hold you me there, Sir.
+VANBR-E3-P2,72.492
+
+<font> La Ver. <$$font> VANBR-E3-P2,72.493
+
+Jernie-die, qu'est ce que veut dire c~a?  VANBR-E3-P2,72.494
+
+<font> Sir Tun. <$$font> <paren> <font> within.  <$$font> <$$paren>
+- Fire, Porter.  VANBR-E3-P2,72.495
+
+<font> Porter fires.  <$$font> VANBR-E3-P2,72.496
+
+Have among ye, my Masters.  VANBR-E3-P2,72.497
+
+<font> La Var. <$$font> VANBR-E3-P2,72.498
+
+Ah je suis mort - VANBR-E3-P2,72.499
+
+<paren> <font> The servants all run off.  <$$font> VANBR-E3-P2,72.500
+
+<font> Port. <$$font> Not one Soldier left, by the Mass.
+VANBR-E3-P2,72.501
+
+<heading>
+
+Scene VI.  VANBR-E3-P2,72.503
+
+SCENE <font> changes to the Hall.  VANBR-E3-P2,72.504
+
+<$$heading>
+
+Enter Sir <$$font> Tunbelly <font>, the <$$font> Chaplain <font> and
+Servants, with Lord <$$font> Foppington Disarm'd.  VANBR-E3-P2,72.506
+
+<font> Sir Tun. <$$font> Come, bring him along, VANBR-E3-P2,72.507
+
+bring him along.  VANBR-E3-P2,72.508
+
+<font> Lord Fop. <$$font> What the Pax do you mean, Gentlemen,
+VANBR-E3-P2,72.509
+
+is it Fair time, that you are all drunk before Dinner?  VANBR-E3-P2,72.510
+
+<font> Sir Tun. <$$font> Drunk, Sirrah?  VANBR-E3-P2,72.511
+
+$Here $'s {TEXT:Here's} an Impudent Rogue for you; VANBR-E3-P2,72.512
+
+Drunk or Sober, Bully, $I $'m {TEXT:I'm} a Justice of the Peace,
+VANBR-E3-P2,72.513
+
+and know how to deal with Strolers.  VANBR-E3-P2,72.514
+
+<font> Lord Fop. <$$font> Strolers!  VANBR-E3-P2,72.515
+
+<font> Sir Tun. <$$font> Ay, Strolers; VANBR-E3-P2,72.516
+
+come give an account of yourself, VANBR-E3-P2,72.517
+
+$what $'s {TEXT:what's} your Name, VANBR-E3-P2,72.518
+
+where do you live?  VANBR-E3-P2,72.519
+
+Do you pay Scott and Lott?  VANBR-E3-P2,72.520
+
+Are you a <font> Williamite <$$font>, or a <font> Jacobite <$$font>?
+VANBR-E3-P2,72.521
+
+Come.  VANBR-E3-P2,72.522
+
+<P_73>
+
+<font> Lord Fop. <$$font> And why dost thou ask me so many
+impertinent Questions?  VANBR-E3-P2,73.524
+
+<font> Sir Tun. <$$font> Because $I $'ll {TEXT:I'll} make you
+answer'em before I have done with you, you Rascal you.  VANBR-E3-P2,73.525
+
+<font> Lord Fop. <$$font> Before Gad, all the Answer I can make
+thee to'em, is, that thou art a very extraordinary old Fellow; stap my
+Vitals - VANBR-E3-P2,73.526
+
+<font> Sir Tun. <$$font> Nay, if you are for Joking with
+Deputy-Lieutenants, $we $'st {TEXT:we'st} know how to deal with you:
+VANBR-E3-P2,73.527
+
+Here, draw a Warrant for him immediately.  VANBR-E3-P2,73.528
+
+<font> Lord Fop. <$$font> A Warrant - VANBR-E3-P2,73.529
+
+what the Devil $is $'t {TEXT:is't} thou would'st be at, Old Gentleman?
+VANBR-E3-P2,73.530
+
+<font> Sir Tun. <$$font> I wou'd be at you, Sirrah, <paren> if my
+Hands were not ty'd as a Magistrate <$$paren> and with these two double
+Fists beat your Teeth down your Throat, you Dog you.  VANBR-E3-P2,73.531
+
+<font> Lord Fop. <$$font> And why would'st thou spoil my Face at
+that rate?  VANBR-E3-P2,73.532
+
+<font> Sir Tun. <$$font> For your Design to Rob me of my Daughter,
+Villain.  VANBR-E3-P2,73.533
+
+<font> Lord Fop. <$$font> Rab thee of thy Daughter -
+VANBR-E3-P2,73.534
+
+Now I do begin to believe I am a-Bed and a-sleep, and that all this is
+but a Dream - VANBR-E3-P2,73.535
+
+If it be, $'t $will {TEXT:'twill} be an agreeable surprize enough,
+to waken by and by; and instead of the impertinent Company of a Nasty
+Country Justice, find my self, perhaps, in the Arms of a Woman of Quality
+VANBR-E3-P2,73.536
+
+<paren> <font> To Sir <$$font> Tun. <$$paren> - VANBR-E3-P2,73.537
+
+$Pray $thee {TEXT:Prithee}, Old Father, wilt thou give me leave to ask
+thee one Question?  VANBR-E3-P2,73.538
+
+<font> Sir Tun. <$$font> I $can $n't {TEXT:can't} tell whether
+I will or not,'till I know what it is.  VANBR-E3-P2,73.539
+
+<font> Lord Fop. <$$font> Why, then it is, whether thou didst
+not write to my Lord <font> Foppington <$$font> to come down and Marry
+thy Daughter?  VANBR-E3-P2,73.540
+
+<font> Sir Tun. <$$font> Yes, marry did I; VANBR-E3-P2,73.541
+
+and my Lord <font> Foppington <$$font> is come down, VANBR-E3-P2,73.542
+
+and shall Marry my Daughter before $she $'s {TEXT:she's} a Day older.
+VANBR-E3-P2,73.543
+
+<font> Lord Fop. <$$font> Now give me thy Hand, dear Dad,
+VANBR-E3-P2,73.544
+
+I thought we should understand one another at last.  VANBR-E3-P2,73.545
+
+<font> Sir Tun. <$$font> This $Fellow $'s {TEXT:Fellow's} mad -
+VANBR-E3-P2,73.546
+
+here bind him Hand and Foot.  VANBR-E3-P2,73.547
+
+<paren> <font> They bind him down.  <$$font> VANBR-E3-P2,73.548
+
+<font> Lord Fop. <$$font> Nay, $pray $thee {TEXT:prithee}, Knight,
+leave fooling, VANBR-E3-P2,73.549
+
+thy Jeast begins to grow dull.  VANBR-E3-P2,73.550
+
+<font> Sir Tun. <$$font> Bind him, I say, VANBR-E3-P2,73.551
+
+$he $'s {TEXT:he's} mad - VANBR-E3-P2,73.552
+
+Bread and Water, a Dark Room, and a Whip, may bring him to his Senses
+again.  VANBR-E3-P2,73.553
+
+<font> Lord Fop. <$$font> <paren> <font> aside.  <$$font> <$$paren>
+I Gad, if I $do $n't {TEXT:don't} waken quickly, by all that I can see,
+this is like to prove one of the most impertinent Dreams that ever I
+dreamt in my Life.  VANBR-E3-P2,73.554
+
+<font> Enter <$$font> Miss <font> and <$$font> Nurse.  <paren> Miss <font>
+going up to him.  <$$font> <$$paren> VANBR-E3-P2,73.555
+
+<font> Miss.  <$$font> Is this he that wou'd have run away with me?
+VANBR-E3-P2,73.556
+
+Fough, how he stinks of sweets!  VANBR-E3-P2,73.557
+
+Pray, Father, let him be dragg'd through the Horse-Pond.
+VANBR-E3-P2,73.558
+
+<font> Lord Fop. <$$font> <paren> <font> aside.  <$$font>
+<$$paren> This must be my Wife by her Natural Inclination to her Husband.
+VANBR-E3-P2,73.559
+
+<P_74>
+
+<font> Miss.  <$$font> Pray, Father, what do you intend to do with him,
+VANBR-E3-P2,74.561
+
+hang him?  VANBR-E3-P2,74.562
+
+<font> Sir Tun. <$$font> That, at least, Child.  VANBR-E3-P2,74.563
+
+<font> Nurse.  <$$font> Ay, and $it $'s {TEXT:it's} e'en too good for
+him too.  VANBR-E3-P2,74.564
+
+<font> Lord Fop. <$$font> <paren> <font> aside.  <$$font> <$$paren>
+Madam la Gouvernante, I presume; VANBR-E3-P2,74.565
+
+hitherto this appears to me, to be one of the most extraordinary Families
+that ever Man of Quality match'd into.  VANBR-E3-P2,74.566
+
+<font> Sir Tun. <$$font> $What $'s {TEXT:What's} become of my
+Lord, Daughter?  VANBR-E3-P2,74.567
+
+<font> Miss.  <$$font> $He $'s {TEXT:He's} just coming, Sir.
+VANBR-E3-P2,74.568
+
+<font> Lord Fop. <$$font> <paren> <font> aside.  <$$font> <$$paren>
+My Lord - What does he mean by that now?  VANBR-E3-P2,74.569
+
+<font> Enter <$$font> Young Fashion <font> and <$$font> Lory.
+VANBR-E3-P2,74.570
+
+<font> Seeing him.  <$$font> <$$paren> VANBR-E3-P2,74.571
+
+Stap $my {TEXT:by} Vitals, <font> Tam <$$font>, now the $Dream $'s
+{TEXT:Dream's} out.  VANBR-E3-P2,74.572
+
+<font> Y. Fash. <$$font> Is this the Fellow, Sir, that
+design'd to trick me of your Daughter?  VANBR-E3-P2,74.573
+
+<font> Sir Tun. <$$font> This is he, my Lord, VANBR-E3-P2,74.574
+
+how do you like him?  VANBR-E3-P2,74.575
+
+Is not he a pretty Fellow to get a Fortune?  VANBR-E3-P2,74.576
+
+<font> Y. Fash. <$$font> I find by his Dress, he thought
+your Daughter might be taken with a Beau.  VANBR-E3-P2,74.577
+
+<font> Miss.  <$$font> O gimmeni!  VANBR-E3-P2,74.578
+
+Is this a Beau?  VANBR-E3-P2,74.579
+
+let me see him again - ha!  VANBR-E3-P2,74.580
+
+I find a $Beau $'s {TEXT:Beau's} no such an ugly thing neither.
+VANBR-E3-P2,74.581
+
+<font> Y. Fash. <$$font> I Gad, $she $'ll {TEXT:she'll}
+be in love with him presently; VANBR-E3-P2,74.582
+
+$I $'ll {TEXT:I'll} e'en have him sent away to Gaol.  VANBR-E3-P2,74.583
+
+<paren> <font> To Lord Fop. <$$font> <$$paren> Sir, tho' your
+Undertaking shews you are a Person of no extraordinary Modesty, I suppose
+you $ha $n't {TEXT:han't} Confidence enough to expect much Favour from me?
+VANBR-E3-P2,74.584
+
+<font> Lord Fop. <$$font> Strike me dumb, <font> Tam <$$font> ,
+thou art a very impudent Fellow.  VANBR-E3-P2,74.585
+
+<font> Nurse.  <$$font> Look if the Varlet has not the Frontery to call
+his Lordship plain <font> Thomas <$$font>.  VANBR-E3-P2,74.586
+
+<font> Bull.  <$$font> The business is, he wou'd feign himself Mad,
+to avoid going to Gaol.  VANBR-E3-P2,74.587
+
+<font> Lord Fop. <$$font> <paren> <font> aside.  <$$font>
+<$$paren> That must be the Chaplain, by his Unfolding of Mysteries.
+VANBR-E3-P2,74.588
+
+<font> Sir Tun. <$$font> Come, is the Warrant writ?
+VANBR-E3-P2,74.589
+
+<font> Cler. <$$font> Yes, Sir.  VANBR-E3-P2,74.590
+
+<font> Sir Tun. <$$font> Give me the Pen, $I $'ll {TEXT:I'll}
+sign it - VANBR-E3-P2,74.591
+
+So, now Constable away with him.  VANBR-E3-P2,74.592
+
+<font> Lord Fop. <$$font> Hold one Moment - VANBR-E3-P2,74.593
+
+Pray, Gentlemen; my Lord <font> Foppington <$$font>, shall I beg one
+Word with your Lordship?  VANBR-E3-P2,74.594
+
+<font> Nurse.  <$$font> O ho, $it $'s {TEXT:it's} my Lord with him now;
+VANBR-E3-P2,74.595
+
+see how Afflictions will humble Folks.  VANBR-E3-P2,74.596
+
+<font> Miss.  <$$font> Pray, my Lord, $do $n't {TEXT:don't} let him
+whisper too close, lest he bite your Ear off.  VANBR-E3-P2,74.597
+
+<P_75>
+
+<font> Lord Fop. <$$font> I am not altogether so Hungry, as your
+Ladyship is pleased to imagine.  VANBR-E3-P2,75.599
+
+<paren> <font> To <$$font> Young Fash. <$$paren> Look you, <font>
+Tam <$$font>, I am sensible I have not been so kind to you as I ought,
+VANBR-E3-P2,75.600
+
+but I hope $you $'ll {TEXT:you'll} forget $what $'s {TEXT:what's} past,
+and accept of the Five Thousand Pounds I offer; VANBR-E3-P2,75.601
+
+thou may'st live in extream Splendour with it; stap my Vitals.
+VANBR-E3-P2,75.602
+
+<font> Y. Fash. <$$font> $It $'s {TEXT:It's} a much easier
+matter to prevent a Disease than to cure it; VANBR-E3-P2,75.603
+
+a quarter of that Sum would have secur'd your Mistress; VANBR-E3-P2,75.604
+
+twice as much $wo $n't {TEXT:won't} redeem her.  VANBR-E3-P2,75.605
+
+<paren> <font> Leaving him.  <$$font> VANBR-E3-P2,75.606
+
+<font> Sir Tun. <$$font> Well, what says he?  VANBR-E3-P2,75.607
+
+<font> Y. Fash. <$$font> Only the Rascal offer'd me a
+Bribe to let him go.  VANBR-E3-P2,75.608
+
+<font> Sir Tun. <$$font> Ay, he shall go with a Pox to him:
+VANBR-E3-P2,75.609
+
+Lead on, Constable.  VANBR-E3-P2,75.610
+
+<font> Lord Fop. <$$font> One word more, VANBR-E3-P2,75.611
+
+and I have done.  VANBR-E3-P2,75.612
+
+<font> Sir Tun. <$$font> Before Gad, thou art an impudent
+Fellow, to trouble the Court at this rate, after thou art Condemn'd;
+VANBR-E3-P2,75.613
+
+but speak once for all.  VANBR-E3-P2,75.614
+
+<font> Lord Fop. <$$font> Why then once for all; VANBR-E3-P2,75.615
+
+I have at last luckily call'd to mind, that there is a Gentleman of
+this Country, who I believe $can $not {TEXT:cannot} live far from this
+place, <paren> if he were here <$$paren> would satisfy you, I am <font>
+Navelty <$$font>, Baron of <font> Foppington <$$font>, with five thousand
+Pounds a Year, and that Fellow there, a Rascal not worth a Groat.
+VANBR-E3-P2,75.616
+
+<font> Sir Tun. <$$font> Very well; VANBR-E3-P2,75.617
+
+now who is this honest Gentleman you are so well acquainted with.
+VANBR-E3-P2,75.618
+
+<font> To Y. Fash. <$$font> <$$paren> Come, Sir, we shall
+hamper him.  VANBR-E3-P2,75.619
+
+<font> Lord Fop. <$$font> $'T $is {TEXT:'Tis} Sir <font> John
+Friendly.  <$$font> VANBR-E3-P2,75.620
+
+<font> Sir Tun. <$$font> So; VANBR-E3-P2,75.621
+
+he lives within half a Mile, VANBR-E3-P2,75.622
+
+and came down into the Country but last Night; VANBR-E3-P2,75.623
+
+this bold-fac'd Fellow thought he had been at <font> London <$$font>
+still, VANBR-E3-P2,75.624
+
+and so quoted him; VANBR-E3-P2,75.625
+
+now we shall display him in his Colours: VANBR-E3-P2,75.626
+
+$I $'ll {TEXT:I'll} send for Sir <font> John <$$font> immediately:
+VANBR-E3-P2,75.627
+
+Here, Fellow, away presently, VANBR-E3-P2,75.628
+
+and desire my Neighbour $he $'ll {TEXT:he'll} do me the favour to step
+over, upon an extraordinary occasion; VANBR-E3-P2,75.629
+
+and in the mean while you had best secure this Sharper in the <font>
+Gate-House <$$font>.  VANBR-E3-P2,75.630
+
+<font> Const. <$$font> $An $'t {TEXT:An't} please your Worship,
+he may chance to give us the Slip thence: VANBR-E3-P2,75.631
+
+If I were worthy to advise, I think the $Dog-kennel $'s
+{TEXT:Dog-kennel's} a surer place.  VANBR-E3-P2,75.632
+
+<font> Sir Tun. <$$font> With all my heart, any where.
+VANBR-E3-P2,75.633
+
+<font> Lord Fop. <$$font> Nay, for Heaven's sake, Sir, do me
+the favour to put me in a clean Room, that I $may $n't {TEXT:mayn't}
+daub my Cloaths.  VANBR-E3-P2,75.634
+
+<font> Sir Tun. <$$font> O when you have Married my Daughter,
+her Estate will afford you new ones: VANBR-E3-P2,75.635
+
+Away with him.  VANBR-E3-P2,75.636
+
+<font> Lord Fop. <$$font> A Dirty Country Justice is a barbarous
+Magistrate; stap my Vitals - VANBR-E3-P2,75.637
+
+<paren> <font> Exit Constable with Lord <$$font> Foppington.
+VANBR-E3-P2,75.638
+
+<font> Y. Fash. <$$font> <paren> <font> aside.  <$$font>
+<$$paren> I gad I must prevent this Knight's coming, VANBR-E3-P2,75.639
+
+or the House will grow soon too hot to hold me.  VANBR-E3-P2,75.640
+
+to <font> Sir Tun. <$$font> <$$paren> Sir, I fancy $'t $is
+{TEXT:'tis} not worth while to trouble Sir <font> John <$$font> upon
+this impertinent Fellow's desire: VANBR-E3-P2,75.641
+
+$I $'ll {TEXT:I'll} send and call the Messenger back - VANBR-E3-P2,75.642
+
+<P_76>
+
+<font> Sir Tun. <$$font> Nay, with all my heart; VANBR-E3-P2,76.644
+
+for to be sure he thought he was far nough off, VANBR-E3-P2,76.645
+
+or the Rogue wou'd never have nam'd him.  VANBR-E3-P2,76.646
+
+<font> Enter <$$font> Servant.  VANBR-E3-P2,76.647
+
+<font> Serv. <$$font> Sir, I met Sir <font> John <$$font> just
+lighting at the Gate, VANBR-E3-P2,76.648
+
+$he $'s {TEXT:he's} come to wait upon you.  VANBR-E3-P2,76.649
+
+<font> Sir Tun. <$$font> Nay, then it happens as one cou'd wish.
+VANBR-E3-P2,76.650
+
+<font> Y. Fash. <$$font> <paren> <font> aside.  <$$font>
+<$$paren> The Devil it does: VANBR-E3-P2,76.651
+
+<font> Lory <$$font>, you see how things are, VANBR-E3-P2,76.652
+
+here will be a discovery presently, VANBR-E3-P2,76.653
+
+and we shall have our Brains beat out; VANBR-E3-P2,76.654
+
+for my Brother will be sure to Swear he $do $n't {TEXT:don't} know me;
+VANBR-E3-P2,76.655
+
+therefore run into the Stable, take the two first Horses you can light
+on, $I $'ll {TEXT:I'll} slip out at the Back Door, VANBR-E3-P2,76.656
+
+and $we $'ll {TEXT:we'll} away immediately.  VANBR-E3-P2,76.657
+
+<font> Lo. <$$font> What, and leave your Lady, Sir?
+VANBR-E3-P2,76.658
+
+<font> Y. Fash. <$$font> There's no Danger in that, as
+long as I have taken possession, VANBR-E3-P2,76.659
+
+I shall know how to treat with'em well enough, if once I am out of their
+Reach: VANBR-E3-P2,76.660
+
+Away, $I $'ll {TEXT:I'll} steal after thee.  VANBR-E3-P2,76.661
+
+<paren> <font> Exit <$$font> Lory, VANBR-E3-P2,76.662
+
+<font> his Master follows him out at one Door, as Sir <$$font> John <font>
+enters at t'other.  VANBR-E3-P2,76.663
+
+Enter Sir <$$font> John.  VANBR-E3-P2,76.664
+
+<font> Sir Tun. <$$font> Sir <font> John <$$font>, you are the
+welcom'st Man alive; VANBR-E3-P2,76.665
+
+I had just sent a Messenger to desire $you $'d {TEXT:you'd} step over,
+upon a very extraordinary occasion - VANBR-E3-P2,76.666
+
+we are all in Arms here.  VANBR-E3-P2,76.667
+
+<font> Sir John.  <$$font> How so?  VANBR-E3-P2,76.668
+
+<font> Sir Tun. <$$font> Why you must know - VANBR-E3-P2,76.669
+
+a finical sort of a tawdry Fellow here <paren> I $do $n't {TEXT:don't}
+know who the Devil he is, not I <$$paren> hearing I suppose, that the
+Match was concluded between my Lord <font> Foppington <$$font>, and my
+Girl <font> Hoyden <$$font>, comes impudently to the Gate, with a whole
+pack of Rogues in Liveries, VANBR-E3-P2,76.670
+
+and wou'd have pass'd upon me for his Lordship; VANBR-E3-P2,76.671
+
+but what does I?  VANBR-E3-P2,76.672
+
+I comes up to him boldly at the head of his Guards, VANBR-E3-P2,76.673
+
+takes him by the Throat, VANBR-E3-P2,76.674
+
+strikes up his heels, VANBR-E3-P2,76.675
+
+binds him hand and foot, VANBR-E3-P2,76.676
+
+dispatches a Warrant, VANBR-E3-P2,76.677
+
+and Commits him Prisoner to the Dog-kennel.  VANBR-E3-P2,76.678
+
+<font> Sir John.  <$$font> So, but how do you know but this was my Lord?
+VANBR-E3-P2,76.679
+
+for I was told he set out from <font> London <$$font> the Day before
+me, with a very fine Retinue, and intended to come directly hither.
+VANBR-E3-P2,76.680
+
+<font> Sir Tun. <$$font> Why now to shew you how many Lies People
+raise in that damn'd Town, he came two Nights ago Post, with only one
+Servant, VANBR-E3-P2,76.681
+
+and is now in the House with me; VANBR-E3-P2,76.682
+
+but you $do $n't {TEXT:don't} know the Cream of the Jest yet;
+VANBR-E3-P2,76.683
+
+this same Rogue <paren> that lies yonder Neck and Heels among the
+Hounds <$$paren> thinking you were out of the Country, quotes you for
+his Acquaintance, VANBR-E3-P2,76.684
+
+and said if you were here, $you $'d {TEXT:you'd} justify him to be Lord
+<font> Foppington <$$font>, and I know not what.  VANBR-E3-P2,76.685
+
+<font> Sir John.  <$$font> Pray will you let me see him?
+VANBR-E3-P2,76.686
+
+<P_77>
+
+<font> Sir Tun. <$$font> Ay, that you shall presently -
+VANBR-E3-P2,77.688
+
+here, fetch the Prisoner.  VANBR-E3-P2,77.689
+
+<paren> <font> Exit Servant.  <$$font> VANBR-E3-P2,77.690
+
+<font> Sir John.  <$$font> I wish there $be $n't {TEXT:ben't} some
+mistake in this business, VANBR-E3-P2,77.691
+
+$where $'s {TEXT:where's} my Lord?  VANBR-E3-P2,77.692
+
+I know him very well.  VANBR-E3-P2,77.693
+
+<font> Sir Tun. <$$font> He was here just now; VANBR-E3-P2,77.694
+
+see for him, Doctor, VANBR-E3-P2,77.695
+
+tell him Sir <font> John <$$font> is here to wait upon him.
+VANBR-E3-P2,77.696
+
+<paren> <font> Ex. Chaplain.  <$$font> VANBR-E3-P2,77.697
+
+<font> Sir John.  <$$font> I hope, Sir <font> Tunbelly <$$font>, the
+young Lady is not Married yet.  VANBR-E3-P2,77.698
+
+<font> Sir Tun. <$$font> No, things $wo $n't {TEXT:won't} be
+ready this week; VANBR-E3-P2,77.699
+
+but why do you say you hope she is not Married?  VANBR-E3-P2,77.700
+
+<font> Sir John.  <$$font> Some foolish fancies only, VANBR-E3-P2,77.701
+
+perhaps $I $'m {TEXT:I'm} mistaken.  VANBR-E3-P2,77.702
+
+<font> Re-enter Chaplain.  <$$font> VANBR-E3-P2,77.703
+
+<font> Bull.  <$$font> Sir, his Lordship is just rid out to take the Air.
+VANBR-E3-P2,77.704
+
+<font> Sir Tun. <$$font> To take the Air!  VANBR-E3-P2,77.705
+
+Is that his <font> London <$$font> Breeding to go to take the Air,
+when Gentlemen come to visit him?  VANBR-E3-P2,77.706
+
+<font> Sir John.  <$$font> $'T $is {TEXT:'Tis} possible he might want
+it, VANBR-E3-P2,77.707
+
+he might not be well, VANBR-E3-P2,77.708
+
+some sudden Qualm perhaps.  VANBR-E3-P2,77.709
+
+<font> Enter Constable, <$$font> &c. <font> with Lord <$$font>
+Foppington.  VANBR-E3-P2,77.710
+
+<font> Lord Fop. <$$font> Stap my Vitals, $I $'ll {TEXT:I'll}
+have Satisfaction.  VANBR-E3-P2,77.711
+
+<font> Sir John.  <$$font> <paren> <font> running to him.  <$$font>
+<$$paren> My dear Lord <font> Foppington <$$font>!  VANBR-E3-P2,77.712
+
+<font> Lord Fop. <$$font> Dear <font> Friendly <$$font>, thou
+art come in the Critical Minute, strike me dumb.  VANBR-E3-P2,77.713
+
+<font> Sir John.  <$$font> Why, I little thought I shou'd have found
+you in Fetters.  VANBR-E3-P2,77.714
+
+<font> Lord Fop. <$$font> Why truly the World must do me the
+justice to confess I do use to appear a little more <font> de`gage`
+<$$font>: VANBR-E3-P2,77.715
+
+But this Old Gentleman, not liking the freedom of my Air, has been
+pleased to Skewer down my Arms like a Rabbit.  VANBR-E3-P2,77.716
+
+<font> Sir Tun. <$$font> Is it then possible that this shou'd be
+the true Lord <font> Foppington <$$font> at last?  VANBR-E3-P2,77.717
+
+<font> Lord Fop. <$$font> Why what do you see in his Face to make
+you doubt of it?  VANBR-E3-P2,77.718
+
+Sir, without presuming to have any extraordinary Opinion of my Figure,
+give me leave to tell you, if you had seen as many Lords as I have done,
+you would not think it impossible a Person of a worse <font> Taille
+<$$font> than mine, might be a modern Man of Quality.  VANBR-E3-P2,77.719
+
+<font> Sir Tun. <$$font> Unbind him, Slaves: VANBR-E3-P2,77.720
+
+my Lord, $I $'m {TEXT:I'm} struck dumb, VANBR-E3-P2,77.721
+
+I can only beg pardon by Signs; VANBR-E3-P2,77.722
+
+but if a Sacrifice will appease you, you shall have it.
+VANBR-E3-P2,77.723
+
+Here, pursue this Tartar, VANBR-E3-P2,77.724
+
+bring him back - VANBR-E3-P2,77.725
+
+Away, I say, a Dog oons - VANBR-E3-P2,77.726
+
+$I $'ll {TEXT:I'll} cut off his Ears and his Tail, VANBR-E3-P2,77.727
+
+$I $'ll {TEXT:I'll} draw out all his Teeth, pull his Skin over his Head
+- VANBR-E3-P2,77.728
+
+and - what shall I do more?  VANBR-E3-P2,77.729
+
+<font> Sir John.  <$$font> He does indeed deserve to be made an Example
+of.  VANBR-E3-P2,77.730
+
+<font> Lord Fop. <$$font> He does deserve to be <font> chartre`
+<$$font>, stap my Vitals.  VANBR-E3-P2,77.731
+
+<P_78>
+
+<font> Sir Tun. <$$font> May I then hope I have your Honour's
+Pardon?  VANBR-E3-P2,78.733
+
+<font> Lord Fop. <$$font> Sir, we Courtiers do nothing without
+a Bribe, VANBR-E3-P2,78.734
+
+that fair young Lady might do Miracles.  VANBR-E3-P2,78.735
+
+<font> Sir Tun. Hoyden <$$font>, come hither, <font> Hoyden
+<$$font>.  VANBR-E3-P2,78.736
+
+<font> Lord Fop. Hoyden <$$font> is her Name, Sir?
+VANBR-E3-P2,78.737
+
+<font> Sir Tun. <$$font> Yes, my Lord.  VANBR-E3-P2,78.738
+
+<font> Lord Fop. <$$font> The prettiest Name for a Song I ever
+heard.  VANBR-E3-P2,78.739
+
+<font> Sir Tun. <$$font> My Lord - $here $'s {TEXT:here's} my
+Girl, VANBR-E3-P2,78.740
+
+$she $'s {TEXT:she's} yours, VANBR-E3-P2,78.741
+
+she has a wholesom Body, and a Vertuous Mind; VANBR-E3-P2,78.742
+
+$she $'s {TEXT:she's} a Woman compleat, both in Flesh and in Spirit;
+VANBR-E3-P2,78.743
+
+she has a Bag of Mill'd Crowns, as scarce as they are, and fifteen
+hundred a year stitch'd fast to her Tail, VANBR-E3-P2,78.744
+
+so go thy ways, <font> Hoyden <$$font>.  VANBR-E3-P2,78.745
+
+<font> Lord Fop. <$$font> Sir, I do receive her like a Gentleman.
+VANBR-E3-P2,78.746
+
+<font> Sir Tun. <$$font> Then $I $'m {TEXT:I'm} a happy Man,
+VANBR-E3-P2,78.747
+
+I bless Heaven, VANBR-E3-P2,78.748
+
+and if your Lordship will give me leave, I will like a good Christian
+at <font> Christmas <$$font>, be very drunk by way of thanksgiving;
+VANBR-E3-P2,78.749
+
+come, my Noble Peer, I believe $Dinner $'s {TEXT:Dinner's} ready
+VANBR-E3-P2,78.750
+
+if your Honour pleases to follow me, $I $'ll {TEXT:I'll} lead you on to
+the Attack of Venison Pasty.  VANBR-E3-P2,78.751
+
+<paren> <font> Exit Sir <$$font> Tun. VANBR-E3-P2,78.752
+
+<font> Lord Fop. <$$font> Sir, I wait upon you: VANBR-E3-P2,78.753
+
+Will your Ladyship do me the favour of your Little Finger, Madam?
+VANBR-E3-P2,78.754
+
+<font> Miss.  <$$font> My Lord, $I $'ll {TEXT:I'll} follow you presently
+, VANBR-E3-P2,78.755
+
+I have a little business with my Nurse.  VANBR-E3-P2,78.756
+
+<font> Lord Fop. <$$font> Your Ladyship's most humble Servant;
+VANBR-E3-P2,78.757
+
+come, Sir <font> John <$$font>, the Ladies have <font> des affaires
+<$$font>.  VANBR-E3-P2,78.758
+
+<paren> <font> Exeunt <$$font> Lord Fop. <font> and Sir <$$font>
+John.  VANBR-E3-P2,78.759
+
+<font> Miss.  <$$font> So, Nurse, we are finely brought to bed,
+VANBR-E3-P2,78.760
+
+what shall we do now?  VANBR-E3-P2,78.761
+
+<font> Nurse.  <$$font> Ah dear Miss, we are all undone;
+VANBR-E3-P2,78.762
+
+Mr. <font> Bull <$$font>, you were us'd to help a Woman to
+a Remedy.  VANBR-E3-P2,78.763
+
+<paren> <font> Crying.  <$$font> VANBR-E3-P2,78.764
+
+<font> Bull.  <$$font> A lack a day, but $it $'s {TEXT:it's} past my
+Skill now, VANBR-E3-P2,78.765
+
+I can do nothing.  VANBR-E3-P2,78.766
+
+<font> Nurse.  <$$font> Who wou'd have thought that ever your Invention
+shou'd have been drain'd so dry?  VANBR-E3-P2,78.767
+
+<font> Miss.  <$$font> Well, I have often thought old folks Fools,
+VANBR-E3-P2,78.768
+
+and now $I $'m {TEXT:I'm} sure they are so; VANBR-E3-P2,78.769
+
+I have found a way my self to secure us all.  VANBR-E3-P2,78.770
+
+<font> Nurse.  <$$font> Dear Lady $what $'s {TEXT:what's} that?
+VANBR-E3-P2,78.771
+
+<font> Miss.  <$$font> Why, if you two will be sure to hold your tongues ,
+and not say a word of $what $'s {TEXT:what's} past, $I $'ll {TEXT:I'll}
+e'en marry this Lord too.  VANBR-E3-P2,78.772
+
+<font> Nurse.  <$$font> What!  two Husbands, my Dear?  VANBR-E3-P2,78.773
+
+<font> Miss.  <$$font> Why you had three, good Nurse, VANBR-E3-P2,78.774
+
+you may hold your tongue.  VANBR-E3-P2,78.775
+
+<font> Nurse.  <$$font> Ay, but not all together, sweet Child.
+VANBR-E3-P2,78.776
+
+<font> Miss.  <$$font> Psha, if you had, $you $'d {TEXT:you'd} ne'er a
+thought much on't.  VANBR-E3-P2,78.777
+
+<font> Nurse.  <$$font> O but $'t $is {TEXT:'tis} a Sin - Sweeting.
+VANBR-E3-P2,78.778
+
+<font> Bull.  <$$font> Nay, $that $'s {TEXT:that's} my business to speak
+to, Nurse; VANBR-E3-P2,78.779
+
+I do confess, to take two Husbands for the satisfaction of the Flesh,
+is to commit the Sin of Exorbitancy; VANBR-E3-P2,78.780
+
+but to do it for the Peace of the Spirit, is no more than {it_is} be
+drunk by way of Physick; VANBR-E3-P2,78.781
+
+besides, to prevent a Parent's Wrath, is to <P_79> avoid the Sin of
+Disobedience; VANBR-E3-P2,79.782
+
+for when the $Parent $'s {TEXT:Parent's} angry, the Child is froward.
+So that upon the whole Matter, I do think, tho'Miss shou'd Marry again,
+she may be sav'd.  VANBR-E3-P2,79.783
+
+<font> Miss.  <$$font> I Cod, and I will marry again then,
+VANBR-E3-P2,79.784
+
+and so there is an end of the Story.  VANBR-E3-P2,79.785
+
+<paren> <font> Exeunt.  <$$font> VANBR-E3-P2,79.786
+
+<heading>
+
+<font> End of the Fourth <$$font> Act.  VANBR-E3-P2,79.788
+
+<$$heading>
+
+<heading>
+
+ACT V. SCENE $I <font> London <$$font>.  VANBR-E3-P2,79.791
+
+<$$heading>
+
+<font> Enter <$$font> Coupler, Young Fashion <font>, and <$$font> Lory.
+VANBR-E3-P2,79.793
+
+<font> Coup. <$$font> Well, and so Sir <font> John <$$font>
+coming in - VANBR-E3-P2,79.794
+
+<font> Y. Fash. <$$font> And so Sir <font> John <$$font>
+coming in, I thought it might be manners in me to go out, which I did ,
+VANBR-E3-P2,79.795
+
+and getting on Horseback as fast as I cou'd, rid away as if the Devil
+had been at the Reer of me; VANBR-E3-P2,79.796
+
+what has happen'd since, Heav'n knows.  VANBR-E3-P2,79.797
+
+<font> Coup. <$$font> I gad, Sirrah, I know as well as Heaven.
+VANBR-E3-P2,79.798
+
+<font> Y. Fash. <$$font> What do you know?
+VANBR-E3-P2,79.799
+
+<font> Coup. <$$font> VANBR-E3-P2,79.800
+
+That you are a Cuckold.  VANBR-E3-P2,79.801
+
+<font> Y. Fash. <$$font> The Devil I am?  VANBR-E3-P2,79.802
+
+By who?  VANBR-E3-P2,79.803
+
+<font> Coup. <$$font> By your Brother.  VANBR-E3-P2,79.804
+
+<font> Y. Fash. <$$font> My Brother!  VANBR-E3-P2,79.805
+
+which way?  VANBR-E3-P2,79.806
+
+<font> Coup. <$$font> VANBR-E3-P2,79.807
+
+The old way, VANBR-E3-P2,79.808
+
+he has lain with your Wife.  VANBR-E3-P2,79.809
+
+<font> Y. Fash. <$$font> Hell and Furies, what dost
+thou mean?  VANBR-E3-P2,79.810
+
+<font> Coup. <$$font> I mean plainly, VANBR-E3-P2,79.811
+
+I speak no Parable.  VANBR-E3-P2,79.812
+
+<font> Y. Fash. <$$font> Plainly!  VANBR-E3-P2,79.813
+
+Thou dost not speak common sense, VANBR-E3-P2,79.814
+
+I $can $not {TEXT:cannot} understand one Word thou say'st.
+VANBR-E3-P2,79.815
+
+<font> Coup. <$$font> You will do soon, Youngster.
+VANBR-E3-P2,79.816
+
+In short, you left your Wife a Widow, VANBR-E3-P2,79.817
+
+and she Married again.  VANBR-E3-P2,79.818
+
+<font> Y. Fash. <$$font> $It $'s {TEXT:It's} a Lye.
+VANBR-E3-P2,79.819
+
+<font> Coup. <$$font> - I cod, if I were a young Fellow, $I $'d
+{TEXT:I'd} break your Head, Sirrah.  VANBR-E3-P2,79.820
+
+<font> Y. Fash. <$$font> Dear Dad, $do $n't {TEXT:don't}
+be angry, VANBR-E3-P2,79.821
+
+for $I $'m {TEXT:I'm} as mad as <font> Tom <$$font> of <font> Bedlam
+<$$font>.  VANBR-E3-P2,79.822
+
+<font> Coup. <$$font> When I had fitted you with a Wife, you
+shou'd have kept her.  VANBR-E3-P2,79.823
+
+<font> Y. Fash. <$$font> But is it possible the young
+Strumpet cou'd play me such a Trick?  VANBR-E3-P2,79.824
+
+<font> Coup. <$$font> A young Strumpet, Sir - can play twenty
+tricks.  VANBR-E3-P2,79.825
+
+<font> Y. Fash. <$$font> But $pray $thee {TEXT:prithee}
+instruct me a little farther; VANBR-E3-P2,79.826
+
+whence comes thy Intelligence!  VANBR-E3-P2,79.827
